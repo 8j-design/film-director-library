@@ -1,0 +1,11 @@
+* text=auto
+*.md text eol=lf
+*.py text eol=lf
+*.json text eol=lf
+*.jsonl text eol=lf
+*.png -text
+*.jpg -text
+*.mp4 -text
+*.m4a -text
+*.pdf -text
+*.zip -text

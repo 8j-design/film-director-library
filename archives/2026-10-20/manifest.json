@@ -1,0 +1,3146 @@
+{
+  "date": "2026-10-20",
+  "repository": "https://github.com/8j-design/film-director-library",
+  "scope": "已取得的导演项目原文件与三段可见聊天；不是账号级完整云端导出",
+  "source_repository": "https://github.com/8j-design/my-ai-library",
+  "source_commit": "004ebe8c3afbed561f86d0a90c63301d4f86f2a3",
+  "files": [
+    {
+      "path": "导演/AGENTS.md",
+      "bytes": 385,
+      "sha256": "1ea6c9368daca9e27a02bf6e377146b4adf2cebf62da7c0cbbb531224a576e4b"
+    },
+    {
+      "path": "导演/director/GitHub归库评估.md",
+      "bytes": 5277,
+      "sha256": "94f64a6f36d92dffdb497a288cc2ff21773b8241e12adf97d1e96b4367d75374"
+    },
+    {
+      "path": "导演/director/优秀作品对照与训练.md",
+      "bytes": 7748,
+      "sha256": "1f30353af3f5a974da61b7ca9a205f92641b7c9ae6f8797a3c1040a78f4924f5"
+    },
+    {
+      "path": "导演/director/全流程能力审查-20261018.md",
+      "bytes": 11922,
+      "sha256": "0e098ba4fde1995365375bbce82f500f5d60800649e7b307a42d2df0f4b15425"
+    },
+    {
+      "path": "导演/director/分类与归档规则.md",
+      "bytes": 4790,
+      "sha256": "7017b481a94f9fdb3bd557a8a6ab4204d9430f8a4957262141d3b140627944ca"
+    },
+    {
+      "path": "导演/director/创作推进方法.md",
+      "bytes": 4050,
+      "sha256": "575684341565128c1d79e3d6a9211bac6a0fed905ff9e87aab748d5ed717e4ec"
+    },
+    {
+      "path": "导演/director/学习地图与首轮研读-20261018.md",
+      "bytes": 16108,
+      "sha256": "67369e345084522573681c69d3c8677d82d76fec38973e681a142653d300bff1"
+    },
+    {
+      "path": "导演/director/待归库/film-creation-update/GitHub写入核验.png",
+      "bytes": 83106,
+      "sha256": "184549847235c796f8e468dedceaa6bf7257cad98082ae9f932b821bbf1e5523"
+    },
+    {
+      "path": "导演/director/待归库/film-creation-update/skills/film-creation/SKILL.md",
+      "bytes": 12238,
+      "sha256": "6e27c90be2408d0cbe8050ee9cf61e659395063db9f9cadf32eee42e8024538a"
+    },
+    {
+      "path": "导演/director/待归库/film-creation-update/写入回执.json",
+      "bytes": 1653,
+      "sha256": "d982223b91b0bb0d5bc859e2b7323c18d950143cca0a2ffa4c8ac76fdcd4386d"
+    },
+    {
+      "path": "导演/director/待归库/film-creation-update/远端差异核验.txt",
+      "bytes": 17514,
+      "sha256": "7620fa6e3d29f1dac2e433f64a7ad900d9e904d85cf805c0432dae5c2e0fed3f"
+    },
+    {
+      "path": "导演/director/待归库/film-study-2026-10-18.md",
+      "bytes": 5646,
+      "sha256": "6a9b8879101bcd6d71f70a4e4d36958cc5182488df8017696db80d3e5970cb57"
+    },
+    {
+      "path": "导演/director/待归库/film-study-20261018-GitHub核验.png",
+      "bytes": 118204,
+      "sha256": "2fb898abbdca1f0d3c2e293285a70a56c9ede64ed96c70a4785b0080d086413f"
+    },
+    {
+      "path": "导演/director/待归库/film-study-20261018-写入回执.json",
+      "bytes": 1201,
+      "sha256": "4657b5d6b102d326e00c81a3b2c16bae98ae7da007b637fb2c783410536520d6"
+    },
+    {
+      "path": "导演/director/待归库/film-study-20261018-远端核验.txt",
+      "bytes": 4878,
+      "sha256": "8f8f14ba677024793384fd02e852382dd498a9164889f8353ae4b991c3d14413"
+    },
+    {
+      "path": "导演/director/待归库/影视资料分类方法.md",
+      "bytes": 1548,
+      "sha256": "397545871d985f510f31d745612f398b5c30c4a6ddc85a753d368f1cee60f86e"
+    },
+    {
+      "path": "导演/director/社会观察/六系列接续研读-20261019.md",
+      "bytes": 13991,
+      "sha256": "e8111eeb81b7b3846b8116d05e38707ba5717f5d79a321e68fdb149511046276"
+    },
+    {
+      "path": "导演/director/社会观察/冷暖人生-凤凰历史文章入口.csv",
+      "bytes": 90745,
+      "sha256": "5dc0607738607460461b7d6fe38962ac90410e4712549443d71051f3e7cf46c4"
+    },
+    {
+      "path": "导演/director/社会观察/十三邀-正文与整期研究-20261019.md",
+      "bytes": 7411,
+      "sha256": "28d43ae0c1221489a23b33d35144fbefb50d4241abdd86085f17f9fb8bb74982"
+    },
+    {
+      "path": "导演/director/社会观察/学习入口.md",
+      "bytes": 9923,
+      "sha256": "1fa29c4d491c14ee50639a09fe97766c7751c0a3d5d312635e2fe2620d810671"
+    },
+    {
+      "path": "导演/director/社会观察/第一批研读-20261018.md",
+      "bytes": 7993,
+      "sha256": "21ce4aa0de5eb333d39dddceba147d43967666e1f5da1108cd98e07d8deb385f"
+    },
+    {
+      "path": "导演/director/社会观察/资料进度.csv",
+      "bytes": 22923,
+      "sha256": "1129f91df8705d9a1ce797c3b2ed9aedef2dbb525d1c8343f935a8da8f02d61b"
+    },
+    {
+      "path": "导演/director/编剧/编剧雷神-资料进度.csv",
+      "bytes": 62481,
+      "sha256": "fbb1d17be164b99b0dbe641d0e0b8641573e5ac8709cf612874e8c16103c3fe5"
+    },
+    {
+      "path": "导演/director/编剧/编剧雷神-首批研读与整合-20261019.md",
+      "bytes": 14736,
+      "sha256": "11b9a660b6f7e5f74e60bfbc6877dd0cbdec1c51beb1f78b4fdd9203970f1012"
+    },
+    {
+      "path": "导演/director/编剧/老白-从点子到故事-20261019.md",
+      "bytes": 12392,
+      "sha256": "057794709e460402f2846aa62ec2ad44ee7bd22a43dd3701e3b9ac543cec6d37"
+    },
+    {
+      "path": "导演/director/能力台账.md",
+      "bytes": 6983,
+      "sha256": "eca37d478643195159f80acd5304320fd8cb3f8b1cd4e5b259f5569bec254721"
+    },
+    {
+      "path": "导演/director/观察与编剧并行推进方案-20261019.md",
+      "bytes": 9673,
+      "sha256": "5266f350ca104d90713fc108be5b8b1df332ec5d0c38dfabe7a61cd121ecd31e"
+    },
+    {
+      "path": "导演/director/资料总目录.md",
+      "bytes": 9512,
+      "sha256": "b3aee0a526fbc336f03c2c46994d57b6ef19d0e2fffb5538617d8d836318d430"
+    },
+    {
+      "path": "导演/director/项目状态.md",
+      "bytes": 7001,
+      "sha256": "b92ee7c1fba1ca6277b91bf7a1c6084404dac9a2b2a33ca17397baed7095047f"
+    },
+    {
+      "path": "导演/output/视听语言分析_前夜.md",
+      "bytes": 12464,
+      "sha256": "4b9351ec7b83c2a48e600f91c15d84daa049b05aea4bb8b369ec6325d641e699"
+    },
+    {
+      "path": "导演/output/视听语言分析_前夜.pdf",
+      "bytes": 354135,
+      "sha256": "71e5cab2c7c8611f2fcf815f8cb577734fb5ed5498a0c57cfadfaee430d513c6"
+    },
+    {
+      "path": "导演/outputs/research-20261016/douyin-1.html",
+      "bytes": 32526,
+      "sha256": "85f1fe73a4daa7fcad1ec678da8289e307e2116dedfa0361eacf45b88d71dfff"
+    },
+    {
+      "path": "导演/outputs/research-20261016/douyin-2.html",
+      "bytes": 32526,
+      "sha256": "aa71c6c9bb01594fc87d37cd61c69f25087d3176b57e96ac6d57c95a1778ed1b"
+    },
+    {
+      "path": "导演/outputs/research-20261016/douyin-3.html",
+      "bytes": 32456,
+      "sha256": "e0ec6c3700a968566424ef70eb73850e03f5771b70b4fa5e2c247cc023787bbc"
+    },
+    {
+      "path": "导演/outputs/research-20261016/导演项目与三条视频初步复盘.md",
+      "bytes": 5973,
+      "sha256": "4e3db0ed7a5e4162ddb56cab065125bba89f28941de329d2a5e9c3f3b1466ba4"
+    },
+    {
+      "path": "导演/outputs/research-20261016/读取排查与更正.md",
+      "bytes": 3762,
+      "sha256": "f5c5bd5438b08f20bd7bdcd3fde17a23c8705e6e9e355bb87456daab02ce18a3"
+    },
+    {
+      "path": "导演/outputs/下一位-备选故事方案-v1.md",
+      "bytes": 3898,
+      "sha256": "8624c313cc078bfb7c41ccea0cb692832d28e50bbd43e08e8685b4a2e1533300"
+    },
+    {
+      "path": "导演/outputs/不像-完整脚本与文字分镜-v1.md",
+      "bytes": 8781,
+      "sha256": "49cd7bb052f5db0666ed88f5b7250bac7b6f8c755cb8baf226299d16415cf26a"
+    },
+    {
+      "path": "导演/outputs/兴光创意重启-当代发散-v2.md",
+      "bytes": 12891,
+      "sha256": "e42ff046e2958a54fdebee87d07770aa959904196562acdc1f36275a18a60c38"
+    },
+    {
+      "path": "导演/outputs/兴光参赛全新创作方案-v1-20261018.md",
+      "bytes": 13304,
+      "sha256": "5f903acbc11a46cdf8a88f1a89f5e475f314b5e07ca06b11e1e8e18dcab47a3c"
+    },
+    {
+      "path": "导演/outputs/兴光比赛定位与参赛建议-20261018.md",
+      "bytes": 9013,
+      "sha256": "ac6df55b78114d1152833bc8a968f2994f20536ff8f81c3704c292dc40ab5968"
+    },
+    {
+      "path": "导演/outputs/叙事重写-再走两步-工作稿.md",
+      "bytes": 9153,
+      "sha256": "cf4117f950e5a1f1166f8f1965c1c1dc1b2c87bc5003624afe7d9f08889cd72a"
+    },
+    {
+      "path": "导演/outputs/同舟山海-素材整理.md",
+      "bytes": 2213,
+      "sha256": "8c23d76e89a4a067894eab18dd4230de2b53bb69a5627bc9b760283ad936b281"
+    },
+    {
+      "path": "导演/outputs/学习应用-场景到声画-20261018.md",
+      "bytes": 6150,
+      "sha256": "c10e521423b51e762ec5d64323dbf2ff1f30d38d0730452c51e7a6e83fa36573"
+    },
+    {
+      "path": "导演/outputs/山水成卷-参考板02.png",
+      "bytes": 2746384,
+      "sha256": "e1e2cdb744773e2c32251d54e51e3e082491c9776f8a79f8821f68f65891042c"
+    },
+    {
+      "path": "导演/outputs/山水长卷-修订与样图.md",
+      "bytes": 1918,
+      "sha256": "209daaf2581c5f1789bce5d94fa2899cda4c9ed9216e9b55bbe28b107c9af10e"
+    },
+    {
+      "path": "导演/outputs/山河入卷-参考板01.png",
+      "bytes": 2906492,
+      "sha256": "b0a935df7d710cdd8c36e2a4d7a457eb9350e0fa92c32e583387598e025f5f1e"
+    },
+    {
+      "path": "导演/outputs/流程验证-20261018/A-声音同步进入.mp4",
+      "bytes": 129823,
+      "sha256": "de14324982fdbf7c4f53e7ab1cfc400eae8065f8bad6697e551e855a12b6b734"
+    },
+    {
+      "path": "导演/outputs/流程验证-20261018/A-声音同步进入.wav",
+      "bytes": 2304044,
+      "sha256": "1873aaf4e54f698665df1a2de215e4c9ad688ae9264ab5d0525f94b6d26fbcfa"
+    },
+    {
+      "path": "导演/outputs/流程验证-20261018/B-声音提前进入.mp4",
+      "bytes": 130120,
+      "sha256": "a934b6a370315d9351c8ff3252edb54182e3bfbbd6bfb34ae127a29f7d5e75fe"
+    },
+    {
+      "path": "导演/outputs/流程验证-20261018/B-声音提前进入.wav",
+      "bytes": 2304044,
+      "sha256": "d6fbbe71545ac461e9b8812c4b01c84acddd5dcd86880af54b114b7c35cc6d5d"
+    },
+    {
+      "path": "导演/outputs/流程验证-20261018/检查结果.json",
+      "bytes": 1423,
+      "sha256": "ff7a2134c07eb807f10040102c6da6bb17679ee338cc6da71b6612b5b30dd4e9"
+    },
+    {
+      "path": "导演/outputs/流程验证-20261018/预演时间线.png",
+      "bytes": 76171,
+      "sha256": "a235093634bec18956c346d097385738fe9fa826ce16bf4e05157b0f73b00174"
+    },
+    {
+      "path": "导演/outputs/流程验证-20261018/验证说明.md",
+      "bytes": 1676,
+      "sha256": "d882371db627b874e46c5e3d0cef00bdfcc63ed59737d47457cf1296b6eb504e"
+    },
+    {
+      "path": "导演/outputs/短视频与艺术影像分类-20261017.md",
+      "bytes": 6506,
+      "sha256": "f3a56056767b726c5f4bc6daf17a43f2b34fe603a02d89ee06d0ac4673f64a4f"
+    },
+    {
+      "path": "导演/README.md",
+      "bytes": 3898,
+      "sha256": "6f06b7f8e29e984287ca9bf53351487001bba9f175ed7e7020cf9a4e7d406f65"
+    },
+    {
+      "path": "导演/work/candidate-backup.mp4",
+      "bytes": 323,
+      "sha256": "1931fe830c12ca72b1f86a49b591d2730a13b1fb79eef32b29e9100c3b0fdedb"
+    },
+    {
+      "path": "导演/work/candidate.mp4",
+      "bytes": 150,
+      "sha256": "32cbc376cd769a26d108ae31678f975b863b7066e110c59d9a212c7281bd8c81"
+    },
+    {
+      "path": "导演/work/cuts.json",
+      "bytes": 194,
+      "sha256": "77e6bcd850ea1b96c16a4e258645bee3197f260bd505417555daecc5ea53a4a9"
+    },
+    {
+      "path": "导演/work/cuts.py",
+      "bytes": 1584,
+      "sha256": "878de6739696c6df8731f62446f12403de01704ee28acdc02614d45c548ed633"
+    },
+    {
+      "path": "导演/work/cuts0.jpg",
+      "bytes": 184446,
+      "sha256": "903c141c128c9819228d2ad251105b4e6cb4948e4abf7732b73578910370357a"
+    },
+    {
+      "path": "导演/work/cuts1.jpg",
+      "bytes": 72534,
+      "sha256": "86988d6909300680e59a4c473d3587ada10ac4e33858008c4e13bf3ffe2896a1"
+    },
+    {
+      "path": "导演/work/film_workflow_probe.py",
+      "bytes": 5815,
+      "sha256": "a421c7e88fa33b4602de9958f7c9c5f7a3a3008098df59df3910f7a78c6254ed"
+    },
+    {
+      "path": "导演/work/finalize.py",
+      "bytes": 11429,
+      "sha256": "96d11442b32484fba7628b8df7d47cbfdf407ab325274e29f98b60003b1bdcb5"
+    },
+    {
+      "path": "导演/work/finalize_audit_docs.py",
+      "bytes": 3676,
+      "sha256": "d611d53252bdb5ca96c1acf2fa8bd3651e1c36deeed0b990a020de1229a7e178"
+    },
+    {
+      "path": "导演/work/finish_library_receipt.py",
+      "bytes": 6316,
+      "sha256": "e46fdb717bf192f10c659bb09daece9cd065c52bbfd3b59d14a7eb024d2a5e5c"
+    },
+    {
+      "path": "导演/work/inspect_video.py",
+      "bytes": 997,
+      "sha256": "7b9f2a4ec4588bbbe8e77e3a40a7ef1ee463163e1b9a7d6da458f283cc52538d"
+    },
+    {
+      "path": "导演/work/laobai-20261019/acquire_curl.py",
+      "bytes": 2806,
+      "sha256": "a24ceaef2809fa689e39999efd6af9960d23baac10f8a0cc9261f08308e321aa"
+    },
+    {
+      "path": "导演/work/laobai-20261019/api-meta-retry.json",
+      "bytes": 2346,
+      "sha256": "0fbb5e172f49da044e6be03d5ab5ddcfb736295bab39027c41e2539c745b4849"
+    },
+    {
+      "path": "导演/work/laobai-20261019/api-metadata.json",
+      "bytes": 1053,
+      "sha256": "67da8a4f5108c7f5484bffad0c1e69728b8ebe066de9f0e1a02d63c59545c015"
+    },
+    {
+      "path": "导演/work/laobai-20261019/asr-receipt.json",
+      "bytes": 267,
+      "sha256": "804f4c8ab8792d2d0001121bdded1f66a86794a5f4cfd80ee483f31577670a01"
+    },
+    {
+      "path": "导演/work/laobai-20261019/asr.jsonl",
+      "bytes": 122910,
+      "sha256": "84fd06b8b8fbcee471737507332ac3eef71d57dd0614ab86a00abdc39be73f7e"
+    },
+    {
+      "path": "导演/work/laobai-20261019/asr.txt",
+      "bytes": 47657,
+      "sha256": "dc99790b1d8ebc61e6289128be58c708bb99284897cfc5df3218bbaa51fb574d"
+    },
+    {
+      "path": "导演/work/laobai-20261019/check_notes.py",
+      "bytes": 989,
+      "sha256": "4c431ee033f17ab214ae2ed97391ec0d00266a53c80eb466b58cea4fa216f957"
+    },
+    {
+      "path": "导演/work/laobai-20261019/curl-input-receipt.json",
+      "bytes": 752,
+      "sha256": "3366c3052fcf251ceb55b880a16ec67ea989d1862a783167937c445934ab5138"
+    },
+    {
+      "path": "导演/work/laobai-20261019/followup-receipt.json",
+      "bytes": 1295,
+      "sha256": "124189a444f9948c466d218ca83d0d7a28c87adf9f0ba259e92bd827a2897083"
+    },
+    {
+      "path": "导演/work/laobai-20261019/media-validation.json",
+      "bytes": 491,
+      "sha256": "85098a5fea44f137b8a0cff33b305f4a078d0cce5a840ba297cbc971a756c5ea"
+    },
+    {
+      "path": "导演/work/laobai-20261019/media.30016.mp4",
+      "bytes": 28174223,
+      "sha256": "6d29bac6bea0e1956a50ce88c975cf5779457880d8ddbcfa65b5db32519208a5"
+    },
+    {
+      "path": "导演/work/laobai-20261019/media.30216.m4a",
+      "bytes": 9311408,
+      "sha256": "d736859c2efa2709ce44f0973b6ea43056daa964e18411d0a0e3b5f0c1805269"
+    },
+    {
+      "path": "导演/work/laobai-20261019/public-playback-response.json",
+      "bytes": 46946,
+      "sha256": "82afce3caacb41a69eb23496314826fb857ef8492de19a6b7edca8f97ec3be6b"
+    },
+    {
+      "path": "导演/work/laobai-20261019/public_api.py",
+      "bytes": 2771,
+      "sha256": "aca7e973a4be1f383e1b1ddac12105928f00e9942e197c1569306ff61e7643c1"
+    },
+    {
+      "path": "导演/work/laobai-20261019/read_asr.py",
+      "bytes": 660,
+      "sha256": "1a59f78f0d8766031ef4f4fb724179cf01ecaee1473aee84c63c07e019bfd082"
+    },
+    {
+      "path": "导演/work/laobai-20261019/research-receipt.json",
+      "bytes": 1426,
+      "sha256": "6af1db656d2b8bd9856996d7de403601d875130b21a41f90b2b37e0b13acb615"
+    },
+    {
+      "path": "导演/work/laobai-20261019/search-cache.txt",
+      "bytes": 29209,
+      "sha256": "be57d9120bd1dfe09ad44dba172ad54f4fc5307d7875182f91f8a0df792821fc"
+    },
+    {
+      "path": "导演/work/laobai-20261019/study.py",
+      "bytes": 5520,
+      "sha256": "bbf731b88f061e76086319ed860d88c2f4882888bcb4e02592664f3eb8f0e0fb"
+    },
+    {
+      "path": "导演/work/laobai-20261019/validate_media.py",
+      "bytes": 941,
+      "sha256": "656bb7469216095445f451252f0872a98aa2d370100841a69a7b8c0af9c0fbba"
+    },
+    {
+      "path": "导演/work/laobai-20261019/visual-receipt.json",
+      "bytes": 2753,
+      "sha256": "59152d9c7d32e4ee3bdd4bad4274419c1ff8cc4af2d5a44afa63a8fc3f047458"
+    },
+    {
+      "path": "导演/work/laobai-20261019/visuals/frame-0000.jpg",
+      "bytes": 31702,
+      "sha256": "e75b0be235bc59f6b60887a82c5ad3fc62b0dccef96999565df01fbb76f4ef82"
+    },
+    {
+      "path": "导演/work/laobai-20261019/visuals/frame-0005.jpg",
+      "bytes": 34930,
+      "sha256": "f21c976723719f56950d09b11c221b8888d5f5ceacb5a4daccf7c2b42b2ece1c"
+    },
+    {
+      "path": "导演/work/laobai-20261019/visuals/frame-0030.jpg",
+      "bytes": 28650,
+      "sha256": "bcf57aa47c5ddeed2e6ef9bed63095967435498b291e84ddc2edbf882d791f6f"
+    },
+    {
+      "path": "导演/work/laobai-20261019/visuals/frame-0120.jpg",
+      "bytes": 44952,
+      "sha256": "bcf92fa1531433f8bd3ba27bc97f5a5badbf10004b41de319f906efb97ddc4ad"
+    },
+    {
+      "path": "导演/work/laobai-20261019/visuals/frame-0148.jpg",
+      "bytes": 48503,
+      "sha256": "bd881d57e3692faee5cbfd6c08b82956b63fc0912978f6e2ba6bc610cfaa53c3"
+    },
+    {
+      "path": "导演/work/laobai-20261019/visuals/frame-0210.jpg",
+      "bytes": 47246,
+      "sha256": "10d576399cc6530afd2fd38257e6799e8078e67e8ff4a0d7c93608461ba91b10"
+    },
+    {
+      "path": "导演/work/laobai-20261019/visuals/frame-0300.jpg",
+      "bytes": 46074,
+      "sha256": "170009d6db9967b165231b90081d120f4325425b5adf815eb8363ac1604cffc6"
+    },
+    {
+      "path": "导演/work/laobai-20261019/visuals/frame-0390.jpg",
+      "bytes": 52240,
+      "sha256": "ce9e4bf6cb241bcf0e420e634a0f7dc38c8329af54cf2f6457fc2aebae3b4b2a"
+    },
+    {
+      "path": "导演/work/laobai-20261019/visuals/frame-0473.jpg",
+      "bytes": 49627,
+      "sha256": "01e92682675856131d0d82e1031ee0fdb9b8af1618b7a44c5f71e7ffaf1dd17b"
+    },
+    {
+      "path": "导演/work/laobai-20261019/visuals/frame-0480.jpg",
+      "bytes": 42209,
+      "sha256": "9d35fc2326fe04994d2d3f7f5b66de154e674957ba38e0819f52a42ec23adaf0"
+    },
+    {
+      "path": "导演/work/laobai-20261019/visuals/frame-0570.jpg",
+      "bytes": 60992,
+      "sha256": "9186c0a747d16cf375a2f0fc54dd1b26dcd405b768f23c7e0c5b3bfea5e9277e"
+    },
+    {
+      "path": "导演/work/laobai-20261019/visuals/frame-0660.jpg",
+      "bytes": 86471,
+      "sha256": "b040f04cf9ea558da78df69d435af6f60c5084dd4f7d416ed70a4d9851f6a61c"
+    },
+    {
+      "path": "导演/work/laobai-20261019/visuals/frame-0750.jpg",
+      "bytes": 27806,
+      "sha256": "dea7820bfbe9d32a5c005f249927cd2b1617e6f96c4cb338ceaa5a55065de3b4"
+    },
+    {
+      "path": "导演/work/laobai-20261019/visuals/frame-0840.jpg",
+      "bytes": 27393,
+      "sha256": "6b7a17c0ae5d81d1ac9dda238a6dbdb50e513ee3428d99d7286974738a587957"
+    },
+    {
+      "path": "导演/work/laobai-20261019/visuals/frame-0930.jpg",
+      "bytes": 32621,
+      "sha256": "951aa1383d5d405f73ba0b4aa1d968f451e0390ac4b6103750ee64208ff26da0"
+    },
+    {
+      "path": "导演/work/laobai-20261019/visuals/frame-1020.jpg",
+      "bytes": 77305,
+      "sha256": "669864bc15b26aa6b6a2e7610734ed96e36ffbd5eb4cbe0cdaa29f94757729bf"
+    },
+    {
+      "path": "导演/work/laobai-20261019/visuals/frame-1066.jpg",
+      "bytes": 78348,
+      "sha256": "fbc33fca4f743a5cc47d2b37b0bb1f4a4e2e83ba07f83308b85fa308a02d461b"
+    },
+    {
+      "path": "导演/work/laobai-20261019/visuals/frame-1110.jpg",
+      "bytes": 45678,
+      "sha256": "b94bdabc1556dd9df96b1724dee67eb91077f68871b0797b5e09bc05423b162e"
+    },
+    {
+      "path": "导演/work/laobai-20261019/visuals/frame-1200.jpg",
+      "bytes": 75553,
+      "sha256": "dcdcb26f847344efa3927cf53df03a4e75a9aaf8610f4ad63b016d9a1c78ca77"
+    },
+    {
+      "path": "导演/work/laobai-20261019/visuals/frame-1290.jpg",
+      "bytes": 74454,
+      "sha256": "36637944faa6ba46709933978f0c9cc687c432e6e198fcd783e7005a24d999d4"
+    },
+    {
+      "path": "导演/work/laobai-20261019/visuals/frame-1380.jpg",
+      "bytes": 81428,
+      "sha256": "2a6598c44f39253e2906b2f736b2573e137ffb040e25908e0ab6102e1f2361b9"
+    },
+    {
+      "path": "导演/work/laobai-20261019/visuals/frame-1462.jpg",
+      "bytes": 81205,
+      "sha256": "101b87c6c030e910f6399e9a36c5120c0dc2b18a6b405af16d0ea2a8734fc822"
+    },
+    {
+      "path": "导演/work/laobai-20261019/visuals/frame-1470.jpg",
+      "bytes": 77007,
+      "sha256": "d405cecad8e1ee5dcb826679b9a8a2ce15a09bb5a199ccb24d4aa685491617c6"
+    },
+    {
+      "path": "导演/work/laobai-20261019/visuals/frame-1560.jpg",
+      "bytes": 41931,
+      "sha256": "4563fa641597c122aaddbbefaf9d97312e9858f910d5164c9cb90ed4bdf899a7"
+    },
+    {
+      "path": "导演/work/laobai-20261019/visuals/frame-1650.jpg",
+      "bytes": 42297,
+      "sha256": "e773df6ccecaef6cd81fd7ed4e7157d127906d20e82d9f5848522cd247675230"
+    },
+    {
+      "path": "导演/work/laobai-20261019/visuals/frame-1740.jpg",
+      "bytes": 65074,
+      "sha256": "dbebb494beaea1c4a32dad7940f3c2b39094a88575df4b7612dbb713958116e1"
+    },
+    {
+      "path": "导演/work/laobai-20261019/visuals/frame-1830.jpg",
+      "bytes": 64571,
+      "sha256": "619517fc7881e9cdf0ef93e923cb02ad40be8c641273654386fb5ce3e932eabd"
+    },
+    {
+      "path": "导演/work/laobai-20261019/visuals/frame-1875.jpg",
+      "bytes": 65049,
+      "sha256": "b0947631fa885cefd72f105b0613eaf6bacf7bd30267ad145e711672f2342626"
+    },
+    {
+      "path": "导演/work/laobai-20261019/visuals/sheet-01.jpg",
+      "bytes": 532825,
+      "sha256": "ce41ca16f77628fb2d97a10be2ff0a33cbf82cd8928ea67c12c44ca79600b48a"
+    },
+    {
+      "path": "导演/work/laobai-20261019/visuals/sheet-02.jpg",
+      "bytes": 692435,
+      "sha256": "065c49885cefe92f5c58bd5404a87777bfd5c7a125f7c3c10a996e855231f14a"
+    },
+    {
+      "path": "导演/work/laobai-20261019/visuals/sheet-03.jpg",
+      "bytes": 601307,
+      "sha256": "0136364a546dd4648f456457fbd33b06a86b7941b85a587a7b99f5da5a8b5fb7"
+    },
+    {
+      "path": "导演/work/leishen-20261019/batch.py",
+      "bytes": 6015,
+      "sha256": "b1dea8f569aab404dda8bd104beeceff878fd795200a042f76682a7684d14ae2"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV13g4y1V7up/asr-receipt.json",
+      "bytes": 326,
+      "sha256": "cecb79d654872e02fc25b280c20d812680527a64b94f8d9ec07eba7bf1673e8e"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV13g4y1V7up/asr.jsonl",
+      "bytes": 6469,
+      "sha256": "7ea8df875de081ae68ef74191db7791d487d46e4ba2fe5720baef36d77c7601c"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV13g4y1V7up/asr.txt",
+      "bytes": 3379,
+      "sha256": "3df266c09988f926ccf9c5f7750d3601a717e194a9ad1a28e7eca3e7a83f665b"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV13g4y1V7up/audio.m4a",
+      "bytes": 782644,
+      "sha256": "a4517f9b6e8e9cae8a76508d7f0d83b7be3613c79487ac053ed6a4c827581cda"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV13g4y1V7up/input-receipt.json",
+      "bytes": 568,
+      "sha256": "2faa27dc493135bf004f5878c188f56b14b95e75868f64abd0a58e0626661d28"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV13g4y1V7up/metadata.json",
+      "bytes": 794,
+      "sha256": "076d32dceaba23b6072a07df88eab4528cefc44ec2c6da113baed323a05b4488"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV13g4y1V7up/public-meta.json",
+      "bytes": 1859,
+      "sha256": "0daadf699130c7a22f282d1e7e8f5e24bc764bce2eea3d695dfa098ba6dbcc42"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV13g4y1V7up/public-playback.json",
+      "bytes": 46574,
+      "sha256": "3b04b6be12161a53d731b2a0f546975a9ee273035d64f6c98f59c4398a7b6d3f"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV13g4y1V7up/video.mp4",
+      "bytes": 1557802,
+      "sha256": "b8292d23ccf900c949cf04be05551cb9ef1c1011eee21cbff27656b0fdf57817"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV13g4y1V7up/visual-receipt.json",
+      "bytes": 640,
+      "sha256": "64b198a2b0aad3b7f02d60918682c617f67ad75cf90616d69e5561f5b2d8213a"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV13g4y1V7up/visuals/frame-0000.jpg",
+      "bytes": 36140,
+      "sha256": "f2a9a40cdaf3d759679d7bca944fd96e0d5bf425c58f2597a3816864425c4e67"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV13g4y1V7up/visuals/frame-0005.jpg",
+      "bytes": 39854,
+      "sha256": "dc3d47ba1c760ddef5963f367f0021aef128a2ca4dcead4077ac58ad65b90c72"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV13g4y1V7up/visuals/frame-0015.jpg",
+      "bytes": 42342,
+      "sha256": "a3db44babf34e70f1fa975d3fc8f9fc0d241aaea7572796d0dc83fdb80ce8fe8"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV13g4y1V7up/visuals/frame-0045.jpg",
+      "bytes": 41596,
+      "sha256": "56d1d436d21de2b5048e0572601c18dbca80157e64bbddaf4c9a69d7719ad7b8"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV13g4y1V7up/visuals/frame-0075.jpg",
+      "bytes": 45226,
+      "sha256": "4033c0611167b98360bc62a4c47e17c8a9b868226be28f45d92ffff64f0701ab"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV13g4y1V7up/visuals/frame-0105.jpg",
+      "bytes": 39779,
+      "sha256": "9c0a3ccf15df38210a0397ef8cd1619c3412bb25a0e2c6d5c5cb9316987fe90e"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV13g4y1V7up/visuals/frame-0135.jpg",
+      "bytes": 47621,
+      "sha256": "0a5477ad89dab49c0f06125ba880961747181c42917a8b5930e7f45916edc0f2"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV13g4y1V7up/visuals/frame-0152.jpg",
+      "bytes": 37351,
+      "sha256": "eeb5b95719891a41987d00c7e1cf73de2ee55aa2d04496a57d1cd3b6d1dccc60"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV13g4y1V7up/visuals/sheet-01.jpg",
+      "bytes": 383913,
+      "sha256": "b94ae6f5a57faf41ed4ada9abf661e76c89cc7805714f5f1ca8baa1853be2f57"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV14P411B7nW/asr-receipt.json",
+      "bytes": 328,
+      "sha256": "7c3cdf1b432934e353280138842b2268195d934c26fe40bc5e7981511bb27157"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV14P411B7nW/asr.jsonl",
+      "bytes": 7519,
+      "sha256": "ee43dfa4f05939860d659b3231b76b5fc0c620f6ff203fcf9a40ca2ef13fe9fc"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV14P411B7nW/asr.txt",
+      "bytes": 3962,
+      "sha256": "11ac5d8be3b340f4679396b61d6f46575d39c071b6dc65db1b8fc64ca7b2bed6"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV14P411B7nW/audio.m4a",
+      "bytes": 824105,
+      "sha256": "fbc3779a6443c965f3ffd34282377741d6f9e976a45d1e267536bd05196258c5"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV14P411B7nW/input-receipt.json",
+      "bytes": 587,
+      "sha256": "ae639f3a2f8f2bf1172734292a196b9a9d375fdb183e41b5b1e78085ac468293"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV14P411B7nW/metadata.json",
+      "bytes": 832,
+      "sha256": "e6dc7e1a19b985b105d2244967b42733320090fc269c8bc51a9a0b698cde63a6"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV14P411B7nW/public-meta.json",
+      "bytes": 1913,
+      "sha256": "1d103e9022a5061b690c935d85a757c3a1f79582300e4a14c9b323a376e7b858"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV14P411B7nW/public-playback.json",
+      "bytes": 46549,
+      "sha256": "01556d834e515353cc223973156b48834c98f1ebd669ee97c964724db9b15473"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV14P411B7nW/video.mp4",
+      "bytes": 3694932,
+      "sha256": "3d7c24fa01b3d1e37dc5d8de340b28df04e8b5118bd3046e08fe343c636cf6cb"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV14P411B7nW/visual-receipt.json",
+      "bytes": 700,
+      "sha256": "b27f1e64265f93344ff03350deadc6a43a531e09dc60c838deb9316ed2306c18"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV14P411B7nW/visuals/frame-0000.jpg",
+      "bytes": 39139,
+      "sha256": "6b39db5de8d63195dc43cf795dce4081e6c4a6753af4f0303c1d897e69f9f707"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV14P411B7nW/visuals/frame-0005.jpg",
+      "bytes": 48666,
+      "sha256": "5676eb5344151ce881bd1923faaa50f5d447543498fd01c34acc615c8cb01f4b"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV14P411B7nW/visuals/frame-0015.jpg",
+      "bytes": 44606,
+      "sha256": "d37918a741bca38cf594ea52d930c7017e56a00c055bd2d86fe6939233db34bb"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV14P411B7nW/visuals/frame-0045.jpg",
+      "bytes": 42145,
+      "sha256": "d5b3203e350f25f826561c46e8f8254e62748634e7e2ca8e3dc7521e481d6caf"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV14P411B7nW/visuals/frame-0075.jpg",
+      "bytes": 37371,
+      "sha256": "42083fabe13378dcfc71cf4fc1ab34ee6c9c70040d07d2c3591d6be002518bc9"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV14P411B7nW/visuals/frame-0105.jpg",
+      "bytes": 46946,
+      "sha256": "7d1715919b9a44f72553455c3cd543aad8a14c59cd8a467bc280532f45b3b560"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV14P411B7nW/visuals/frame-0135.jpg",
+      "bytes": 43018,
+      "sha256": "cee08d898816db13dd4bd47c4f20469cb340813966d27ef3ec5ce8ba445f7f7e"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV14P411B7nW/visuals/frame-0165.jpg",
+      "bytes": 46931,
+      "sha256": "a4cc1b4ac378fac8550ac3b5f57262f64dae02551d9802b23682e711131994f2"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV14P411B7nW/visuals/frame-0182.jpg",
+      "bytes": 44743,
+      "sha256": "cd20c2546f4ba2e6813236bf99d5bc2c943e54b3e26f0dc1714dd9d26e2a5740"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV14P411B7nW/visuals/sheet-01.jpg",
+      "bytes": 464255,
+      "sha256": "f1ffd771b9e0869d7120dd331754737f674867f4fcdaf58464f8ef87422a2a08"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1ef4y147yy/asr-receipt.json",
+      "bytes": 329,
+      "sha256": "4fb53185b1db57500dad4e44b2ea7fbcd4d6c8043fc4d6ec350cff199c4b78be"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1ef4y147yy/asr.jsonl",
+      "bytes": 7445,
+      "sha256": "a469ab780aff4b91af95f6e8cb6bbdcdc023317cc55355f89edc271cc29f72c3"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1ef4y147yy/asr.txt",
+      "bytes": 3905,
+      "sha256": "a56b9d7dfcb64e64903a81005adcf13d9559b054145408a581f0bb7fe84f169b"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1ef4y147yy/audio.m4a",
+      "bytes": 1452476,
+      "sha256": "672024d5a8d0a2a2d3310aecbea22cc24d5c0ca70be4c62c28b6e53f7d199ed5"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1ef4y147yy/input-receipt.json",
+      "bytes": 596,
+      "sha256": "90b037109fdd83abc79763aef12a273361fab21b6491f4bb691b9c80db979d2a"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1ef4y147yy/metadata.json",
+      "bytes": 710,
+      "sha256": "afb24115117e2e9d38630cfffacfe844b414d01c4efb673c112016fa0da8dcca"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1ef4y147yy/public-meta.json",
+      "bytes": 1801,
+      "sha256": "86faecfb991dd49d91e21d4cb90b96079531f14cbaf440a344294980c24bfbe9"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1ef4y147yy/public-playback.json",
+      "bytes": 36303,
+      "sha256": "10258a164434fbfad824f2ec9b16380cc2ae9b963d93382187b66fe096918ead"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1ef4y147yy/video.mp4",
+      "bytes": 3631469,
+      "sha256": "00b0d3773159c09d787eb04199f80cbcd58ea06ac0b6e9639125d6b8aa08dd89"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1ef4y147yy/visual-receipt.json",
+      "bytes": 699,
+      "sha256": "dd74696a0701b27432ba7ec74eb16d5cb5a09d3798f61540af53e6500a831ec7"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1ef4y147yy/visuals/frame-0000.jpg",
+      "bytes": 58483,
+      "sha256": "96e97af75e2741d5160fcc16e2226f3cf4fbfb3baf0248b64b963de6710ab79b"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1ef4y147yy/visuals/frame-0005.jpg",
+      "bytes": 39905,
+      "sha256": "3b0585694994f72ab29c6d30cd09e1deacbc2a5efd52673d73ae4ff80d901f18"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1ef4y147yy/visuals/frame-0015.jpg",
+      "bytes": 41280,
+      "sha256": "953134c18400ed5688ab506198a00a12290ceb7d294e1936a373303d3fefd7bb"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1ef4y147yy/visuals/frame-0045.jpg",
+      "bytes": 41105,
+      "sha256": "2b73cdde24fbd22eda72fbe771c7c451b4727addbe0ba0c9a5f616bbab9ccaca"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1ef4y147yy/visuals/frame-0075.jpg",
+      "bytes": 41410,
+      "sha256": "e05e19ee871f092d8a1f57fd968e601c3a25ae81a386dd8eed9f25d96fe1e500"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1ef4y147yy/visuals/frame-0105.jpg",
+      "bytes": 40971,
+      "sha256": "9f6677777c2e5c2408923553d8ac5bf86679e60d21813177bb9bd721d17367ba"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1ef4y147yy/visuals/frame-0135.jpg",
+      "bytes": 43533,
+      "sha256": "68797c1307e77f89cf4fe2b8957682aff27908f3b5b46638dcb4976cc123777f"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1ef4y147yy/visuals/frame-0165.jpg",
+      "bytes": 29182,
+      "sha256": "41d030b2d6c5800e6eec2a61058f85b2808ed111e1bf3aac939a99eb52e3036b"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1ef4y147yy/visuals/frame-0167.jpg",
+      "bytes": 23161,
+      "sha256": "6c691ac09fceb6b25bec53708414b910ba9951d77638c48d06825e72e9e7b841"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1ef4y147yy/visuals/sheet-01.jpg",
+      "bytes": 263413,
+      "sha256": "8130c7247912ad66ee73dc28a0c74c0f53a7074bd6370430682668ba21bf0a41"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1h44y1q7g6/asr-receipt.json",
+      "bytes": 349,
+      "sha256": "6fda7656f66b7ee271acdc602201c4d06f342dc85d10c11716ba2ef6e4c237b1"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1h44y1q7g6/asr.jsonl",
+      "bytes": 11325,
+      "sha256": "91581a2c382c1af3a8c9a12122ae4623d973aef75c1906fcc51e158212e8be95"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1h44y1q7g6/asr.txt",
+      "bytes": 6184,
+      "sha256": "df2988fad5b2694d02417debd7da4a07819cb7eef3936be75a5b7f69ba0ef7bf"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1h44y1q7g6/audio.m4a",
+      "bytes": 2448445,
+      "sha256": "b680ba254024767fa160b9ec6cb117d05b3b48eeca772d4789195767215086d2"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1h44y1q7g6/input-receipt.json",
+      "bytes": 587,
+      "sha256": "4bfc7b8efb5579988a7b394d68214c63dd2d0f4f4e8f4279c2377521ec6774f9"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1h44y1q7g6/metadata.json",
+      "bytes": 683,
+      "sha256": "d5bbe808d87464e75cf9c65323a9ed52464a60e2abd67a2a020d92f389534a3b"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1h44y1q7g6/public-meta.json",
+      "bytes": 1776,
+      "sha256": "76606c84de149dd65049bdef850e5e02631751dc78967e487f741e40863028e7"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1h44y1q7g6/public-playback.json",
+      "bytes": 46435,
+      "sha256": "38b491d7242e1a8bd4c109cd9702b52d6a821811dba445499462b778adb5b6eb"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1h44y1q7g6/video.mp4",
+      "bytes": 7507055,
+      "sha256": "b2fbf555eab3a2d3602177954eada3024fe5c4ef62227ab4665b73cf6e571392"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1h44y1q7g6/visual-receipt.json",
+      "bytes": 881,
+      "sha256": "a15431b019a10528b77ae3beb756c802a4459d8e13fb81c980294705384bc316"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1h44y1q7g6/visuals/frame-0000.jpg",
+      "bytes": 46073,
+      "sha256": "6575a71a8d0b1151ba41394656e0112fed2798d9ce235cf7336e52fcc98466ce"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1h44y1q7g6/visuals/frame-0005.jpg",
+      "bytes": 48662,
+      "sha256": "1e1901941e798eee45a2454fe18a6b499019e9d2faa8002ba892da9a84d9e58f"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1h44y1q7g6/visuals/frame-0015.jpg",
+      "bytes": 47481,
+      "sha256": "aa730617ee34c8413d7986cbd07806cdef4545d1588d3e3626f3cb2a1efad05a"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1h44y1q7g6/visuals/frame-0045.jpg",
+      "bytes": 44581,
+      "sha256": "64a9dbba6c84aa315148dabee1ce2fa35de37c02ad5a952da574630fc7209789"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1h44y1q7g6/visuals/frame-0075.jpg",
+      "bytes": 35541,
+      "sha256": "c89d4307dafc450cac92309468fa88ea33e3326e1dadd45e55f94270f19f4a7b"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1h44y1q7g6/visuals/frame-0105.jpg",
+      "bytes": 45284,
+      "sha256": "bad936997fcda78527b8dabcb4aa83f334a0e8c013f3b437c85266faef012010"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1h44y1q7g6/visuals/frame-0135.jpg",
+      "bytes": 45505,
+      "sha256": "38da1eaa1d63754fbc6c57e7c14c629ff501f7995d0ac5df36ee2b80dbe60b3b"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1h44y1q7g6/visuals/frame-0165.jpg",
+      "bytes": 46056,
+      "sha256": "86b951b6f1a9d173788279eef10d6a460c51a81ff7ebd18b02a10fef55e80085"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1h44y1q7g6/visuals/frame-0195.jpg",
+      "bytes": 44808,
+      "sha256": "ed6f8232b5b6b14e9a97df12738d9df6094eaf31b6b81e236bd3bf764e33975b"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1h44y1q7g6/visuals/frame-0225.jpg",
+      "bytes": 27612,
+      "sha256": "78abdb1e0f0ec9203b0ce52b81ca2e889d4ca64dfc87e8f866c5d19dfb10a291"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1h44y1q7g6/visuals/frame-0255.jpg",
+      "bytes": 45358,
+      "sha256": "dca31ffff92ba152fcad2cf1544dc569ff064cf5be97a75cd329d012f17dd4b6"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1h44y1q7g6/visuals/frame-0285.jpg",
+      "bytes": 47527,
+      "sha256": "87d2a2e20c7be356ed76edb3d3b568d8a313eeefdef4b6a46d3d91faa06591e1"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1h44y1q7g6/visuals/sheet-01.jpg",
+      "bytes": 303974,
+      "sha256": "e56deade5457ec19cfd7bcffb74b7334f5158bb441a6c41ab92a3ae4c84e475d"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1h44y1q7g6/visuals/sheet-02.jpg",
+      "bytes": 64993,
+      "sha256": "d59e8d4dae8335dc23c6e4ace91096de605825387a637435e4150d84ff6c76a9"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1Jm411S7kQ/asr-en-receipt.json",
+      "bytes": 349,
+      "sha256": "ac05e865e782d4fa59a67e7fa2234637999a30da751b9c575d5c1b389d1d13cf"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1Jm411S7kQ/asr-en.jsonl",
+      "bytes": 10909,
+      "sha256": "2d4f5def43fabcb53db96fb38161a7999696e520038cc55b7e47f22f155afd52"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1Jm411S7kQ/asr-en.txt",
+      "bytes": 6490,
+      "sha256": "ac2dd2ddbf9a849c560f92abb1c926d165474023d214883719389df4ce30afcd"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1Jm411S7kQ/asr-receipt.json",
+      "bytes": 349,
+      "sha256": "350b94458cbfbea7ea24011b84e81561a254408a39deda76fd22370cf06aace2"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1Jm411S7kQ/asr.jsonl",
+      "bytes": 9977,
+      "sha256": "110218b924d1940830be472dc954cd22fd530206f2b35cdf824f0a2358db76bf"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1Jm411S7kQ/asr.txt",
+      "bytes": 5597,
+      "sha256": "c1cc6c7fc052d9f149a89ce0e72b0c4e0309099653ea05eb4f1b1c5e18fa5713"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1Jm411S7kQ/audio.m4a",
+      "bytes": 1551757,
+      "sha256": "fe38730e08beea65205d1748ce27a99eae78643b25ea1909c94a79fb4ab37ee4"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1Jm411S7kQ/input-receipt.json",
+      "bytes": 608,
+      "sha256": "01066dd06b2b4623bbfedd55418561aca6c2124f3f3186437b662ae5f99e3ba7"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1Jm411S7kQ/metadata.json",
+      "bytes": 873,
+      "sha256": "4c5a5800dbd512adff27e52a8b08ba8e371fc877807d00bc85835d3314a3e2df"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1Jm411S7kQ/public-meta.json",
+      "bytes": 1960,
+      "sha256": "c1ec5456f44959e75d8d325898d40ba9751b38f058c6c37534be17cd11f532df"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1Jm411S7kQ/public-playback.json",
+      "bytes": 46501,
+      "sha256": "5383a16260a46b7077c14404101a853b71c555fa3ff3b2ee14b8ceca6c37a2b9"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1Jm411S7kQ/video.mp4",
+      "bytes": 5202374,
+      "sha256": "50cca8aeb9d3daa37d55972c2258bbeb0c1f5918413de44de33780ed229d15ec"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1Jm411S7kQ/visual-receipt.json",
+      "bytes": 1001,
+      "sha256": "7792cb8fc6d5ec7a29592b0661ed62dd9c3c6967d35720aad68214efdf2af13c"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1Jm411S7kQ/visuals/frame-0000.jpg",
+      "bytes": 43664,
+      "sha256": "bad22870fb2a3e2baaabc80e9d80b9fa8dc67dcaa415b047c90a45c2ce327f64"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1Jm411S7kQ/visuals/frame-0005.jpg",
+      "bytes": 43591,
+      "sha256": "92b70abb802e8dcf4e8c8b8a96c87a61035caa17055e51ff63f6772d033f5c78"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1Jm411S7kQ/visuals/frame-0015.jpg",
+      "bytes": 43762,
+      "sha256": "f1c669e6e7108c90d118a253bf204d34e5e736103777a86cda2151f2e8147fb1"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1Jm411S7kQ/visuals/frame-0045.jpg",
+      "bytes": 44402,
+      "sha256": "185661821838ba0d714b6a19ccb07aa972655ac479ad7147d34d66122d33de75"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1Jm411S7kQ/visuals/frame-0075.jpg",
+      "bytes": 43999,
+      "sha256": "e089b9d603d8a100efe7650e2d2918964d3c11f9edf4b82378156a4bdc2ab025"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1Jm411S7kQ/visuals/frame-0105.jpg",
+      "bytes": 43494,
+      "sha256": "294ec35b453f489226dab7e6a44dd1f27922a807082b57c2a07382b9accacc3b"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1Jm411S7kQ/visuals/frame-0135.jpg",
+      "bytes": 34717,
+      "sha256": "b714526c09148ce23bdd469b78bc43fc16a742365ca5f7ebfd0e91915324ca29"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1Jm411S7kQ/visuals/frame-0165.jpg",
+      "bytes": 56735,
+      "sha256": "f0f9675796cc83923b094a03d1ee5099f1ea04ab3d6233c58e1a6197ca9e1f67"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1Jm411S7kQ/visuals/frame-0195.jpg",
+      "bytes": 49030,
+      "sha256": "aa3b7cd84a7bb9916535844411d691a1ab507605c09bae2ba520f7b1b88c8618"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1Jm411S7kQ/visuals/frame-0225.jpg",
+      "bytes": 25741,
+      "sha256": "62bde5174f08858f34a0a7f19d81270200fc07a2b5bbb922e04a92564f0db45f"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1Jm411S7kQ/visuals/frame-0255.jpg",
+      "bytes": 46445,
+      "sha256": "addd6d64cb66cad5900ec254a6c87314efaf23da309defaef3cb76ceee5231d0"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1Jm411S7kQ/visuals/frame-0285.jpg",
+      "bytes": 49379,
+      "sha256": "14c9783623a2dfc0d8dabf908c06f837cecc4486d6dcf945b0e116ff577eb8d8"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1Jm411S7kQ/visuals/frame-0315.jpg",
+      "bytes": 44453,
+      "sha256": "0cc6f1c80327dd69af721959c31edfca1bd2724b03039ad2e6731fc3aaf5365a"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1Jm411S7kQ/visuals/frame-0330.jpg",
+      "bytes": 43132,
+      "sha256": "297984d8229119e4e4170334882ac69790b711ed3b5be3db2d434ee06aa0f5f2"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1Jm411S7kQ/visuals/sheet-01.jpg",
+      "bytes": 500589,
+      "sha256": "72759db31194b32a7ced59d0d76c5f99dd9126b03db0ef102ccf6b625cd9f429"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1Jm411S7kQ/visuals/sheet-02.jpg",
+      "bytes": 211658,
+      "sha256": "817367b8dca708e7c13c9046eee6af711d5e7dc6b4672a65e34626e672272b91"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1QAkcBtEKG/asr-receipt.json",
+      "bytes": 347,
+      "sha256": "13e579688e82fe42b7f96be5e0b680783506321d918c5e87e44e11582de81e1d"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1QAkcBtEKG/asr.jsonl",
+      "bytes": 4416,
+      "sha256": "b59906c5d21105ee8a96ed8b3c858c9d44625475ac3fd49d822c32c71dba49c6"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1QAkcBtEKG/asr.txt",
+      "bytes": 2669,
+      "sha256": "8f8bb48816e558c33c5f21223374a141727a982d7f5c7500f078e4b8e249c033"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1QAkcBtEKG/audio.m4a",
+      "bytes": 1312157,
+      "sha256": "a5c90e181dfc8ed733439eb2964446fb384bb2a62ae45f144efa05370ad6bf01"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1QAkcBtEKG/input-receipt.json",
+      "bytes": 597,
+      "sha256": "bc7e57824e5d8f6cb6d6d420f2e3f8fbfc4612ba2b2e65fc039859762a5a8fc8"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1QAkcBtEKG/metadata.json",
+      "bytes": 858,
+      "sha256": "6d9b32509899e3c7c01d2977bb3fad2d19241723369c6533c72c101a88682e05"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1QAkcBtEKG/public-meta.json",
+      "bytes": 1948,
+      "sha256": "8514add68ddbb84d02b4abd6ef151b9105b714c959b51ee73748734bfc4ce5b8"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1QAkcBtEKG/public-playback.json",
+      "bytes": 46597,
+      "sha256": "2dfe58a9706d9b2b07859f007e920415b5ba331acd2029d8e5712075fba1578e"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1QAkcBtEKG/video.mp4",
+      "bytes": 3561351,
+      "sha256": "cb625aadfcf418fb34e78d50fe990aa4ff8bae7d8d3ba93a20ef2ede2b3582e2"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1QAkcBtEKG/visual-receipt.json",
+      "bytes": 639,
+      "sha256": "c10fafb946611107f3e2c0c62e059d1a53452d89e6a1c6fdca67731c644b55b8"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1QAkcBtEKG/visuals/frame-0000.jpg",
+      "bytes": 65023,
+      "sha256": "f21f4d065322b081abf1620ecd85a97127b5b4645ea137a0db91ad489b97ca95"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1QAkcBtEKG/visuals/frame-0005.jpg",
+      "bytes": 65045,
+      "sha256": "6a7e13a55576bdcdce8125f44774d23831df98a8fe26e5ee92eb836635fa21d9"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1QAkcBtEKG/visuals/frame-0015.jpg",
+      "bytes": 63572,
+      "sha256": "d9c5799834ab0db082d0bd521bee40700164d2e39dde28c8325b6ec4749ffa9d"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1QAkcBtEKG/visuals/frame-0045.jpg",
+      "bytes": 32514,
+      "sha256": "33f7f06b555b94e231070504221fa1e4ce9fae0404e247c5cbea7f06cedc98e4"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1QAkcBtEKG/visuals/frame-0075.jpg",
+      "bytes": 17983,
+      "sha256": "a921cd4611cee4cd5e44dc61d30854a238c690ba0284d2a79082fb1a32a5b3b6"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1QAkcBtEKG/visuals/frame-0105.jpg",
+      "bytes": 19087,
+      "sha256": "253c31917314ea2b981cf1c4e555bd314c8c791660768284d08ecc244d6c473a"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1QAkcBtEKG/visuals/frame-0135.jpg",
+      "bytes": 30404,
+      "sha256": "288fbccdd60194c30ef111b4180a824b18fdcd834ee1d8ce7e889f5366badf97"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1QAkcBtEKG/visuals/frame-0154.jpg",
+      "bytes": 63114,
+      "sha256": "834ec559c347f24f761b3d4eded464478272a15368b4344e43eb18070f40b456"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1QAkcBtEKG/visuals/sheet-01.jpg",
+      "bytes": 237504,
+      "sha256": "00d077d8b14df210cbd44f7d4e798ab407ba50ba428e71731c4d418a2cbcd9ec"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1r2He6sEVF/asr-en-receipt.json",
+      "bytes": 351,
+      "sha256": "8863176b58d13a82258026ab804b5c88a2494f730c440b23a8ae559e89461814"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1r2He6sEVF/asr-en.jsonl",
+      "bytes": 20274,
+      "sha256": "2d17b9b615f258ff0364c80be5b3a912c98ea60e64f476ac8178ddcc4fe746e8"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1r2He6sEVF/asr-en.txt",
+      "bytes": 13799,
+      "sha256": "dbc27356845cafdc4855f082b200f6d5d29641361249258d13c15d7cf46cdcd2"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1r2He6sEVF/asr-receipt.json",
+      "bytes": 351,
+      "sha256": "7538a32b6240415e0a21dc6492968c0275362ba6144441b707789f99efe3cc22"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1r2He6sEVF/asr.jsonl",
+      "bytes": 24365,
+      "sha256": "f4ada2e389793c86abc180dd0875f1e984de3b73a6391e2ad2f8d37ac55dddef"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1r2He6sEVF/asr.txt",
+      "bytes": 13107,
+      "sha256": "afa82f009b236acc46a2237bf8f22d9aee517ead60318f597cd27525643ca151"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1r2He6sEVF/audio.m4a",
+      "bytes": 6347489,
+      "sha256": "afc94a2d96f60212d6ea246d92d14f07832550b5043add23933487be71639390"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1r2He6sEVF/input-receipt.json",
+      "bytes": 585,
+      "sha256": "62c9360532ad8a37aa95e2c46a58d7b3146c180b4c0fb26296c269d43f637af1"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1r2He6sEVF/metadata.json",
+      "bytes": 832,
+      "sha256": "19e83bcadb085beb857bdbcbef773c073753b4d4a540a7e82d3773dd61d072f1"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1r2He6sEVF/public-meta.json",
+      "bytes": 1923,
+      "sha256": "1a5783c92bbb042f8b19b7d8b654c5b25d90709adb4edb1a90023e6d1983602a"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1r2He6sEVF/public-playback.json",
+      "bytes": 46759,
+      "sha256": "5b369c6cf1356f2a69f1d4f51f4ac9c61b912adf4fbc89f820a441eb459b84a2"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1r2He6sEVF/video.mp4",
+      "bytes": 17507477,
+      "sha256": "04ef4d81e9abb59be6b01d84dd49127697b0582cce33148d9e1cc347daa9b0e8"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1r2He6sEVF/visual-receipt.json",
+      "bytes": 1121,
+      "sha256": "57ec0500346193aa234d8fc2dafdcb7e4fdd61f9e10cface6daa21875d9dd6d7"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1r2He6sEVF/visuals/frame-0000.jpg",
+      "bytes": 30818,
+      "sha256": "c52ea381f5224fec2c4e40b573ad3491746c1428efc3eafd404b4101d31f50fc"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1r2He6sEVF/visuals/frame-0005.jpg",
+      "bytes": 39268,
+      "sha256": "3eb67f4966562b0713edecb9f0271aefc989fd3008096027cee095895046c59b"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1r2He6sEVF/visuals/frame-0015.jpg",
+      "bytes": 21086,
+      "sha256": "5b42583936852a87272824a5677dc1a21f8aaaaa628d1bfd85d7189d1aa7f651"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1r2He6sEVF/visuals/frame-0075.jpg",
+      "bytes": 40227,
+      "sha256": "01d2228373be26c788d895f60a448f46b1d0ba5c3a46517a1b4c81cec0f9ded0"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1r2He6sEVF/visuals/frame-0135.jpg",
+      "bytes": 33621,
+      "sha256": "c7166146044aeb549dd33deb817004aef45382b2344a91b2791a06b91b745759"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1r2He6sEVF/visuals/frame-0195.jpg",
+      "bytes": 38271,
+      "sha256": "883880f671eca58d1e6b8dfb6c96d56c96fa63b8a5ad826169b5ccfd24c5b8a7"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1r2He6sEVF/visuals/frame-0255.jpg",
+      "bytes": 56138,
+      "sha256": "8ea408dc681037f63b1dffaa7958b40dfa87716fe75e119a3a8f19cde1d171ce"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1r2He6sEVF/visuals/frame-0315.jpg",
+      "bytes": 32390,
+      "sha256": "7800d5111bb3ea667568a3f62be0bfcc4fd3a2ca6e3652ad92372fc337d5f62e"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1r2He6sEVF/visuals/frame-0375.jpg",
+      "bytes": 40449,
+      "sha256": "28c8f135e56c782439f8709639b4a63db1df8ff45b168d2dd0ef781303c26dd0"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1r2He6sEVF/visuals/frame-0435.jpg",
+      "bytes": 38170,
+      "sha256": "539e94eb119a68bb37c45b72dd8f5acc78109f47e4bd74c00e931928b5a0b7aa"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1r2He6sEVF/visuals/frame-0495.jpg",
+      "bytes": 42476,
+      "sha256": "5cbf11eed96275852b97ee739303e1b0fba382e1fbe141d6ed2fc96283b64013"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1r2He6sEVF/visuals/frame-0555.jpg",
+      "bytes": 43096,
+      "sha256": "dcf52b1e029f1ad256e598ed7d3c198e73a1adcbc53fdb3a3f65aa4e401f039c"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1r2He6sEVF/visuals/frame-0615.jpg",
+      "bytes": 32535,
+      "sha256": "5a87e7782c25c3286f9d54ac53196c909106d20c981c5ee1c0d1c6a68c7c70d2"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1r2He6sEVF/visuals/frame-0675.jpg",
+      "bytes": 31389,
+      "sha256": "7f3967ad38aab97b737cb49f21f14e57b23b8d6e95e895ea6639179b44e8cacf"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1r2He6sEVF/visuals/frame-0735.jpg",
+      "bytes": 39864,
+      "sha256": "870693ef2c38b3f151dc97595773c95abdf994a53fed748e1aa5a06b0d0067a3"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1r2He6sEVF/visuals/frame-0769.jpg",
+      "bytes": 54880,
+      "sha256": "d5476205aa2fdde1c8c3cee3943e298c65ab2bf0e45baa4b9c2d181d8fa18317"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1r2He6sEVF/visuals/sheet-01.jpg",
+      "bytes": 439048,
+      "sha256": "1e1063c8019cc5c3b696c01c1c89262dc4145aee5fb5c9956f9784194c7dc7cc"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1r2He6sEVF/visuals/sheet-02.jpg",
+      "bytes": 286853,
+      "sha256": "a844602eba0ae7d70494e26a799880158fa1544a3a3721b0e82709359ac668f7"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1y54y187yr/asr-receipt.json",
+      "bytes": 349,
+      "sha256": "f2ecc29375708e737b28facd61f699529a400fdedc23f89ace0d062246698d38"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1y54y187yr/asr.jsonl",
+      "bytes": 7178,
+      "sha256": "47249fa0f419daaf27cb4dc25771797949343b239645109191366b640a6b6bd0"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1y54y187yr/asr.txt",
+      "bytes": 3996,
+      "sha256": "f10341f551d5a2967d379a23c6cadaf5f098c5524edefe7271f67b8d55d607b7"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1y54y187yr/audio.m4a",
+      "bytes": 1618081,
+      "sha256": "ee5bf653f343c9385f31334e3c0526beeb84f8279cd06b3d2b632cbb172f67f6"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1y54y187yr/input-receipt.json",
+      "bytes": 633,
+      "sha256": "48c4e8440ecec270da758771cc996bcc81dbc207211a88c56e6209d9e1a20f43"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1y54y187yr/metadata.json",
+      "bytes": 741,
+      "sha256": "8b5f97971dfcf69e40fadc103fbddbb5b84f0ffd5b752a7a5cee09983fb84728"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1y54y187yr/public-meta.json",
+      "bytes": 1830,
+      "sha256": "555e973c6038ef9d9a4dcd1cc2df628222e87900f817c0a7e9b8d30c391ab008"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1y54y187yr/public-playback.json",
+      "bytes": 36345,
+      "sha256": "5caeb0983ba2e4e61b75dcc159a62b9a04c5340e9c5a51291eb2f0195e99e6e5"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1y54y187yr/video.mp4",
+      "bytes": 3728257,
+      "sha256": "014b07c79d6bd8cfe4a65fd3fc9df5b8d159b457793255b2854f7745502a4af9"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1y54y187yr/visual-receipt.json",
+      "bytes": 698,
+      "sha256": "82b56911220f5bd5545b44372050e3591b3126bc5d153bd1c016fe14513785f9"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1y54y187yr/visuals/frame-0000.jpg",
+      "bytes": 52909,
+      "sha256": "d65f5511635b78b900c49a5aac1d38e3948c815592062005d195a5554406d2e0"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1y54y187yr/visuals/frame-0005.jpg",
+      "bytes": 41598,
+      "sha256": "1ae9a315b85bfc8a44ade7a5564987e469b853da92a4e08083299a7ad2b38f35"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1y54y187yr/visuals/frame-0015.jpg",
+      "bytes": 43763,
+      "sha256": "3fb8750263afd34f687d8401bed54e75192969ad5326059db3b7a161a065324b"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1y54y187yr/visuals/frame-0045.jpg",
+      "bytes": 41891,
+      "sha256": "8f468c0af51467db95147680639ea908cf055065c89370a2691437b9c0c2b2b3"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1y54y187yr/visuals/frame-0075.jpg",
+      "bytes": 40575,
+      "sha256": "d026d4caf6f0bbcf9e6a4884b980bedfa34bf6d00774f0fda3f5f2096c442f08"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1y54y187yr/visuals/frame-0105.jpg",
+      "bytes": 41098,
+      "sha256": "ee52fea972e83a4d0e8887005f0a8c1581866c05597618ae0ee091c41d6df21e"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1y54y187yr/visuals/frame-0135.jpg",
+      "bytes": 38097,
+      "sha256": "55ea1f3645bfc3fadcc0c7047b8ddec160ad242817040e827ef61ce090d50508"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1y54y187yr/visuals/frame-0165.jpg",
+      "bytes": 40147,
+      "sha256": "0d0db5f98793ce1f03de3e7d1cf43778ea4117ee9df3d7a41afea3af74539410"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1y54y187yr/visuals/frame-0187.jpg",
+      "bytes": 41469,
+      "sha256": "e736935f70964140e072954666ad30df23230e7ae6a6ed7481c982b47ab844d6"
+    },
+    {
+      "path": "导演/work/leishen-20261019/BV1y54y187yr/visuals/sheet-01.jpg",
+      "bytes": 275715,
+      "sha256": "5773137d23869e082f34c3120cfea0c532a4a91fdfd48bc971128abf3f7723f9"
+    },
+    {
+      "path": "导演/work/leishen-20261019/catalogue-progress.json",
+      "bytes": 40678,
+      "sha256": "3551e28c55e9d4b12df234481c06291930a5dd66762c6e71b9cfe310a828fe80"
+    },
+    {
+      "path": "导演/work/leishen-20261019/catalogue.csv",
+      "bytes": 25242,
+      "sha256": "029b9b06a0a9d7bcc4d77066d76644377e6d4b3967746c44b03b860d6d997929"
+    },
+    {
+      "path": "导演/work/leishen-20261019/catalogue.json",
+      "bytes": 60818,
+      "sha256": "d75df89d67323efa30c5c914acad6912e8ea2ecab5147e626e71d29b4b4ccb65"
+    },
+    {
+      "path": "导演/work/leishen-20261019/catalogue.py",
+      "bytes": 3966,
+      "sha256": "b891efc1cdbb54989b11e137d39665a4af6ae5492a06b5c0ed07b6f005a4cc0c"
+    },
+    {
+      "path": "导演/work/leishen-20261019/douyin-observed.json",
+      "bytes": 5255,
+      "sha256": "358fbae75d48afbc86e92ccef44ca2a4556f7b95ae9e7beb0666eacac6c3a406"
+    },
+    {
+      "path": "导演/work/leishen-20261019/public-list-extracted.json",
+      "bytes": 5217,
+      "sha256": "3edb6f2a33ebdad5e11dd428f1a69573e452aabfa087c74b450984af04c97231"
+    },
+    {
+      "path": "导演/work/leishen-20261019/public-list-state.json",
+      "bytes": 15752,
+      "sha256": "47f56e0d6ec4f6c1cd40c3ceb66044cd98094cebd7badaf9f2f0e5a2ef982bed"
+    },
+    {
+      "path": "导演/work/leishen-20261019/read_public_list.py",
+      "bytes": 1780,
+      "sha256": "e42b4f629861167e7559e67d79db1123b155603dd0a6c443feb5810120b2dbf0"
+    },
+    {
+      "path": "导演/work/leishen-20261019/record_progress.py",
+      "bytes": 7748,
+      "sha256": "aa2bd9e5ebf9bfa6f00fb738caa167906cbbcb8c72fa62805b470d38665666d4"
+    },
+    {
+      "path": "导演/work/leishen-20261019/research-receipt.json",
+      "bytes": 1527,
+      "sha256": "eb0563923b405a0cebe4517072e6b819392d2050a7559d380d950a8e19cd31c7"
+    },
+    {
+      "path": "导演/work/leishen-20261019/search-core-0-own.json",
+      "bytes": 1063,
+      "sha256": "3052884e6d15bfe6b8813def276380f6aa8132c75e360f6c217ef7ab4bb6c0a6"
+    },
+    {
+      "path": "导演/work/leishen-20261019/search-core-0.json",
+      "bytes": 29257,
+      "sha256": "930378c81f4e67921d051e1174558594f3ec42cfdc119baab644d47b8d9f9f82"
+    },
+    {
+      "path": "导演/work/leishen-20261019/search-job.json",
+      "bytes": 31753,
+      "sha256": "099915a74d392590c68fa76beac17514716783e5c1a0c52cf468a24f717cedc2"
+    },
+    {
+      "path": "导演/work/leishen-20261019/search_core.py",
+      "bytes": 1580,
+      "sha256": "4f44570056931d9432b2e0b7cf4cf19ce2df908eabc425900e39713173ff085a"
+    },
+    {
+      "path": "导演/work/leishen-public-search.json",
+      "bytes": 30763,
+      "sha256": "a52259c8ee6f1c4f4fd7682f5bd6dd1647fb9c8a823988c4712e93c33811c3f8"
+    },
+    {
+      "path": "导演/work/leishen-space-search.json",
+      "bytes": 70,
+      "sha256": "6eecc1f191e4915f5684401cc46baa217bafea756e77fb0a4dd81060327b565b"
+    },
+    {
+      "path": "导演/work/meta.json",
+      "bytes": 13362,
+      "sha256": "bd0c1a20c09de06797ee86b2235a3c1ca2a44bf0c8e09f97303753d04aec830a"
+    },
+    {
+      "path": "导演/work/motion0.jpg",
+      "bytes": 247218,
+      "sha256": "1f6b6548b73ab5c9a9070ffc6e22b2be28c59857515ae4be1f6a8b568f92d602"
+    },
+    {
+      "path": "导演/work/motion1.jpg",
+      "bytes": 205833,
+      "sha256": "aa739593129c77f1f458bef43d80395cab2e0dccbe5b21e8eccfaebedd09e2cd"
+    },
+    {
+      "path": "导演/work/motion2.jpg",
+      "bytes": 276926,
+      "sha256": "611802f4af91a92862e2a2a0e71d3960958b614b320bc82a4b055aced57ea78c"
+    },
+    {
+      "path": "导演/work/motion3.jpg",
+      "bytes": 256742,
+      "sha256": "7ab1851586604290f65e33072a753ea221526446301d5ffe00b10cd2de1e95c1"
+    },
+    {
+      "path": "导演/work/motion4.jpg",
+      "bytes": 170556,
+      "sha256": "2a06a9d9c0d9f50295eaad79d49eeb172bab6d6fccbb9f2681501bfd8dd422a5"
+    },
+    {
+      "path": "导演/work/observation-20261018/build_progress.py",
+      "bytes": 7911,
+      "sha256": "747fce4a47e5748a848856d7de2e7c866ef5e3345dd3eccd26d0762852b985f1"
+    },
+    {
+      "path": "导演/work/observation-20261018/collect_public_catalog.py",
+      "bytes": 3440,
+      "sha256": "c31afbdb7b2238a9affadac59d3cfa7c52301372bdccc7d2688d329a08839d5d"
+    },
+    {
+      "path": "导演/work/observation-20261018/historical-catalog-receipt.json",
+      "bytes": 1930,
+      "sha256": "4b3021ce86c7155a629b96844caf204c1f11f6e3624858c813a678135100d47d"
+    },
+    {
+      "path": "导演/work/observation-20261018/ifeng-archive-entries.json",
+      "bytes": 9248,
+      "sha256": "cb94945ba5c11c3e4ab31e462abbaafd0f140405807038add17ed403c5d2a8ea"
+    },
+    {
+      "path": "导演/work/observation-20261018/local-verification.json",
+      "bytes": 507,
+      "sha256": "d66a9025428fcb4664b75e8a6632fd07a94bb82d424985c928016cc24d5884f2"
+    },
+    {
+      "path": "导演/work/observation-20261018/mdm-huanghui.txt",
+      "bytes": 9156,
+      "sha256": "8c5e723b2009fdab2181fe48aab557d0639290729925cf78c8330bc0250ae1df"
+    },
+    {
+      "path": "导演/work/observation-20261018/public-fetch-receipt.json",
+      "bytes": 888,
+      "sha256": "478ab9c0c4017dc26108d31ccd3c78ba64932ad36dbe2e59a8c1975762d0fac1"
+    },
+    {
+      "path": "导演/work/observation-20261019/asr-receipt.json",
+      "bytes": 474,
+      "sha256": "3367364d1ad344960015e429340f3289a8abec0a2a5118344f47851b7fa259e9"
+    },
+    {
+      "path": "导演/work/observation-20261019/check_five_series.py",
+      "bytes": 2637,
+      "sha256": "6eb234a6d7a36c1da17f5abdc2ce9d2a29565cf5cd9245adc4e477b9d29d3630"
+    },
+    {
+      "path": "导演/work/observation-20261019/check_public_episode.py",
+      "bytes": 1438,
+      "sha256": "c8a91117a69ad8ae6bf09af13f7125c1abb84f5de9ba856d1a25875b451cbf11"
+    },
+    {
+      "path": "导演/work/observation-20261019/collect_vice_links.py",
+      "bytes": 1044,
+      "sha256": "65ddb54e606ed2b002d3797588d4a4c18e58af805b0aa296b4ad6f442a8c6820"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/access-summary.json",
+      "bytes": 5427,
+      "sha256": "9c8e28680cef55bf6ea48ef111b3bd8278c4173fba8cb8438f177d533ed09c69"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/cbs/input-receipt.json",
+      "bytes": 399,
+      "sha256": "b64d1c34979972bc63bd0ca939933ccc700120050bf4b81a303521c9947ca1bd"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/cbs/media.396.mp4",
+      "bytes": 18735467,
+      "sha256": "d778b5039eb3bd27e15dbb9803221507efc446af19082b0ac693a0387a8a80a8"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/cbs/visual-receipt.json",
+      "bytes": 2012,
+      "sha256": "111f7edd23ed9858c710abdbf18a9dd5db4c007e841bffc6c466da8265bc8e55"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/cbs/visuals/frame-0000.jpg",
+      "bytes": 4753,
+      "sha256": "15dc00671759404cf263e36403e6fff0f06a0d3dfda5bfd1d33e63a21f45252c"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/cbs/visuals/frame-0005.jpg",
+      "bytes": 27052,
+      "sha256": "14fe18f35fdadb0d6bbeb509ec6efd50a981953f391d00aba16f7ed62fd6243c"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/cbs/visuals/frame-0030.jpg",
+      "bytes": 42233,
+      "sha256": "b201884978a36c86bb6f3c526ce570fe41b422131bf01bf8207a1f6c83c51b0b"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/cbs/visuals/frame-0090.jpg",
+      "bytes": 38238,
+      "sha256": "369566ec16c2fb6dd3748e3f5b64c0d8fb1fc3d1955d9488923bc468915b0528"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/cbs/visuals/frame-0150.jpg",
+      "bytes": 28527,
+      "sha256": "67695107489a9f4af3ef62fb9cba33d33077da1fdcc36891e53b9150963d7930"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/cbs/visuals/frame-0210.jpg",
+      "bytes": 27962,
+      "sha256": "15f8f03005d9c34c7bc7c38555681d5a552d76cdd29938f42896360f987ed397"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/cbs/visuals/frame-0270.jpg",
+      "bytes": 53646,
+      "sha256": "68ed65435d471fc74cc2020b432c1450e801c4db91f61e55a322fa316647ad71"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/cbs/visuals/frame-0330.jpg",
+      "bytes": 33921,
+      "sha256": "21b74cbfc447b4489c8efa50539ac0ea71ec3f9df1df569ef7950307d1dc257e"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/cbs/visuals/frame-0390.jpg",
+      "bytes": 50719,
+      "sha256": "39f08456a84a4284df248f4c0883e035b055fdeeb143a0826a585035629ba557"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/cbs/visuals/frame-0450.jpg",
+      "bytes": 30907,
+      "sha256": "deb88087f2d08fd8a5591220d24df7f30a884b3cf952a210dc85d708663c0477"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/cbs/visuals/frame-0510.jpg",
+      "bytes": 60242,
+      "sha256": "53cf215a49bb8d38b213874b6ed8a9b23c2f605f9a36c73f57fc6db6506dee7d"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/cbs/visuals/frame-0570.jpg",
+      "bytes": 44570,
+      "sha256": "8490bc89e2b36028457fa0552e768fd4b240502422920f2460e49a596784edac"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/cbs/visuals/frame-0630.jpg",
+      "bytes": 44100,
+      "sha256": "253b8ac2b657fc2b576fdcde16968f4c452abd31c71792b505b5326ffd5ada1a"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/cbs/visuals/frame-0690.jpg",
+      "bytes": 56824,
+      "sha256": "41ef258d65e7f5d1e95147aad1cd8c2ecf98d02d6478d47599ecc3f592bdd24a"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/cbs/visuals/frame-0750.jpg",
+      "bytes": 43901,
+      "sha256": "49bb9d03155e55ac7e1bf506e61d1d1a2ed103889692535a01b7c4ac95fae9d8"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/cbs/visuals/frame-0768.jpg",
+      "bytes": 53838,
+      "sha256": "14dc01a9237a99ea3995b0bd1d17f74cec12116155212069a4ed55a97da70918"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/cbs/visuals/sheet-01.jpg",
+      "bytes": 407125,
+      "sha256": "cd97cad1961e139426784b914c194261f759eafebe19d88743feb1a7fd3861c3"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/cbs/visuals/sheet-02.jpg",
+      "bytes": 355006,
+      "sha256": "86d7aa85d184598a58e3d33628b5f82b92ebbd1a1ddcc3f5d99e28c947d192f1"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/cbs-access.json",
+      "bytes": 287,
+      "sha256": "7751eba2974855436e0df315bbd66bef05727cdc8eb836ed37c0e8608aabf6ec"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/cbs-youtube-access.json",
+      "bytes": 7343,
+      "sha256": "cd623fcbdd4a2ad8487e6c3108d14d231f58d691b45d1fd2fdbef81904f3efc5"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/cold/asr-receipt.json",
+      "bytes": 358,
+      "sha256": "40d31165f0c28ec0ed4f76d9b2efb35e6cca18f131af53c54355d6099180822e"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/cold/asr.jsonl",
+      "bytes": 74198,
+      "sha256": "40720713a35c22d47d57137f7331a9fbdc4f439d6874cbe1bf63808cce53db83"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/cold/asr.txt",
+      "bytes": 29663,
+      "sha256": "559dc72bded8b6f56a365cac35b7d13f14e283cc75a5e62268770ec2ae6b7557"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/cold/input-receipt.json",
+      "bytes": 242,
+      "sha256": "00f9b7696e5846c3b35187da4dc1dfa218133332930d95eb1cb21679912c11fb"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/cold/media.30280.m4a",
+      "bytes": 7277001,
+      "sha256": "e96fe2e20d8d479a7605ba5897200bcbc7ae60db2ffa4acbf6c8ca0fd968f9a8"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/cold/partial-visual-receipt.json",
+      "bytes": 665,
+      "sha256": "8a9ff6dc4d49a242ee154ca4d49889c4c782f97edce46a941d494009721aed09"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/cold/partial-visuals/frame-0000.jpg",
+      "bytes": 26509,
+      "sha256": "33afa657f294c79c4198944170ecb503ed212e07493f2f2c38a24fc144eee9e5"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/cold/partial-visuals/frame-0005.jpg",
+      "bytes": 23705,
+      "sha256": "ab47b60ee94bdbf0a1b1d5c7f2130c7f14b80b9a51c83f1d0bf7759a02c38678"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/cold/partial-visuals/frame-0030.jpg",
+      "bytes": 45984,
+      "sha256": "0eb023b971b0f668a1756b1882cc46a1b411e35d357665d44acb54a3ad75b691"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/cold/partial-visuals/frame-0120.jpg",
+      "bytes": 38450,
+      "sha256": "1e29ed93fc9414c61007952cad46265361a33fbe369004b5c983dcb4439f9128"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/cold/partial-visuals/sheet-01.jpg",
+      "bytes": 165696,
+      "sha256": "f8862a37f1ff116c1275002ce4da994d888c738d5acfcd0d0f0bdf6056d98ffa"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/cold-access.json",
+      "bytes": 2946,
+      "sha256": "5cd3860732c5077ec8062515efda1f360ef7951b40e84163c4e03448167105b6"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/face/asr-receipt.json",
+      "bytes": 384,
+      "sha256": "ff8f88e759c95a8cd8774abc272c7d2658010602e4885371f83129eb9a77fe55"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/face/asr.jsonl",
+      "bytes": 109787,
+      "sha256": "e0ef37eb89a8eb136ed514bcafab8d59c60ca1fcfb37622326f9c3b9c2322c45"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/face/asr.txt",
+      "bytes": 45396,
+      "sha256": "17ba5808be46cf344c6a82811115e0eb30396d2185b4f7d7748c5f69492f46f1"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/face/input-receipt.json",
+      "bytes": 431,
+      "sha256": "dfed10ac69c7a46a37505fbb63424b74d12f67f4a787b89bf7d7b509e9920fc3"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/face/media.hls-460.mp4",
+      "bytes": 149801784,
+      "sha256": "7f8313fda1527e97bb72a74515032a60e4165d0cd6024f75ff5cd3c5fccec4d6"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/face/visual-receipt.json",
+      "bytes": 3743,
+      "sha256": "89c5048bd1b12861c97e71c9ec549633f932775a1dda61d994c6d5c035b4238e"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/face/visuals/frame-0000.jpg",
+      "bytes": 16118,
+      "sha256": "c878cc0423c7ef0d5c32a398b1144cc02bfc889dc2783edc15ae7ac0fde7c988"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/face/visuals/frame-0005.jpg",
+      "bytes": 19625,
+      "sha256": "db844b37b203f6f746665bbbd0d4d4edb8242db657b4386ae3a821c68889b95f"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/face/visuals/frame-0030.jpg",
+      "bytes": 42463,
+      "sha256": "7a9ed0d3f03e0281ba31bebb1df39a8bd8c32b63bf444cbb3e7357d393c98801"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/face/visuals/frame-0120.jpg",
+      "bytes": 16619,
+      "sha256": "8fcdeaf571126ea1b3f30466a5a80940b2b9ade91ed3098ecb7fbc4516b78c3f"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/face/visuals/frame-0210.jpg",
+      "bytes": 24477,
+      "sha256": "e3eaa9839769ad4ba292824cb4030bc3404d52af0449d0e7c3b867d1f2bca071"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/face/visuals/frame-0300.jpg",
+      "bytes": 25174,
+      "sha256": "543dadb9efa0e7bb37471a0cb40530ee26d7596f56b582639cd3b96942ffed01"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/face/visuals/frame-0390.jpg",
+      "bytes": 29876,
+      "sha256": "c18c29c48566d89ba69b0961cf87fd4bd6a06d95d27000fb1a3d2651d9bc272f"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/face/visuals/frame-0480.jpg",
+      "bytes": 25884,
+      "sha256": "c170c799a6c567c08605cdc0a1b5b340f8395e96ade97e4d42b54aa86461e53e"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/face/visuals/frame-0570.jpg",
+      "bytes": 25289,
+      "sha256": "1cce2d1f1935760165e2b3343e7629b0e290feba1676454821fc659c9fc26da8"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/face/visuals/frame-0660.jpg",
+      "bytes": 25959,
+      "sha256": "2877d9986c834f58615ee52999bfa8f512bec25f285520764beb54a633050a63"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/face/visuals/frame-0750.jpg",
+      "bytes": 27797,
+      "sha256": "7f3ea98ce9e03adbb422ffde9f3b92afea422e82fcee10efe1fdef1e6e7788f2"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/face/visuals/frame-0840.jpg",
+      "bytes": 43380,
+      "sha256": "1305aff086df058ccd37f131f24ba3e14d1787b9e7d3051df33e86313b10d5fb"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/face/visuals/frame-0930.jpg",
+      "bytes": 23741,
+      "sha256": "81140e284611281ae24308fc82f79fbe1b96bf691a7a4a0fa0412b708da131dc"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/face/visuals/frame-1020.jpg",
+      "bytes": 24741,
+      "sha256": "9bd5cc12cf8510e6a610cbeba6a0e881facfac856f6eca95d87ec1844e7f4087"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/face/visuals/frame-1110.jpg",
+      "bytes": 41490,
+      "sha256": "f3df55e3754b4b63ceda57b3925319041a572efe4edc27d30d925fa80c593c3a"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/face/visuals/frame-1200.jpg",
+      "bytes": 45595,
+      "sha256": "34331acc1803e1f1ff4ae02a34dcc5fbfc085209e729a7130b3fd20ef5053fb9"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/face/visuals/frame-1290.jpg",
+      "bytes": 40065,
+      "sha256": "47978a0d2a05a3069e25e29182c4263da50420c3f39875b54120727253429f4e"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/face/visuals/frame-1380.jpg",
+      "bytes": 34935,
+      "sha256": "ebfd227dabd0098c13451d15b14a89dc9366a04d47c8db9e53691b3ef4f21c62"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/face/visuals/frame-1470.jpg",
+      "bytes": 44479,
+      "sha256": "7211004b90f66a61a469d6496e7fdf5940b4aff31c7f2969a7c36f7f6a9b6785"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/face/visuals/frame-1560.jpg",
+      "bytes": 35128,
+      "sha256": "fa30b047a19432c45f09012f7c2bff6c9d73088ae69f364b9e1c5f3f633a4b1e"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/face/visuals/frame-1650.jpg",
+      "bytes": 24476,
+      "sha256": "30d22b0d8714e465bf3d3f211bbc36befa43ee6b26cb85c8cb5be8f775861734"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/face/visuals/frame-1740.jpg",
+      "bytes": 24448,
+      "sha256": "96e0698e08f25cd35dc10beee89ff7e8224b7ac4406a99a846e9793441f6d602"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/face/visuals/frame-1830.jpg",
+      "bytes": 33249,
+      "sha256": "93f436639927dfa0953292f1b393e1bcc129846496c5ecdb26ea97a7757b783f"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/face/visuals/frame-1920.jpg",
+      "bytes": 31930,
+      "sha256": "aa2a07004d7edd9fe6d0e478f72eb881528f27cc6dfda844b8960860015cdb4b"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/face/visuals/frame-2010.jpg",
+      "bytes": 39747,
+      "sha256": "50162ccaadb6e5a2f2e6bc00ebe1a25f1e0f64f9d1eea685d02941dfe8031348"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/face/visuals/frame-2100.jpg",
+      "bytes": 25286,
+      "sha256": "69f747e5c35ce7baa3f2023a552b34a0c5b96b276e26a12a00e2f5d382809b56"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/face/visuals/frame-2190.jpg",
+      "bytes": 25924,
+      "sha256": "9ef286222e7ace7c1fd06a7393b982fe2c53d8ccfd39f536a475925a13803b71"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/face/visuals/frame-2280.jpg",
+      "bytes": 44674,
+      "sha256": "bc52fed8ae3614ba67c0b2c8fe8e8eba29af8be38692a629581fa46d68a22be3"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/face/visuals/frame-2370.jpg",
+      "bytes": 28585,
+      "sha256": "4fd89867e204057087ee14bd00b9d6028f5c113bc16894499226fb5fbff96341"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/face/visuals/frame-2459.jpg",
+      "bytes": 24635,
+      "sha256": "a53df0dd49d89ff7deea1d53aaae05ced9ccd6e6d9394b461bcbc67592d6da36"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/face/visuals/frame-2460.jpg",
+      "bytes": 24635,
+      "sha256": "a53df0dd49d89ff7deea1d53aaae05ced9ccd6e6d9394b461bcbc67592d6da36"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/face/visuals/sheet-01.jpg",
+      "bytes": 342578,
+      "sha256": "c1db535bbf28096f88e499cfb847eb6feb2ed46ac5c229d85aedea9d52a9f9f9"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/face/visuals/sheet-02.jpg",
+      "bytes": 461787,
+      "sha256": "0071f7d44f42ae8876de48ee50b954fa9128e28d9b699ab40dc83dc55a729c6e"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/face/visuals/sheet-03.jpg",
+      "bytes": 397464,
+      "sha256": "9345c296026e2a651b2680f244f551ebc6c3ee6697242834787dad75d08cf722"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/face/visuals/sheet-04.jpg",
+      "bytes": 40077,
+      "sha256": "8a6547dfcc4107e5b64b22e72cd0491af28cc368fac93ccd46c17b53814d820e"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/face-access.json",
+      "bytes": 794,
+      "sha256": "86c5aecfbf0795366df8185b9a414670aedd36f0a3463d6689fd82c1b7a5ca71"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/research-read-receipt.json",
+      "bytes": 6315,
+      "sha256": "b9defbb5d63994fcad0d114fcbf8bcadfe4838654efb7c7b699d3c5cafcf6ee5"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/up7/asr-receipt.json",
+      "bytes": 360,
+      "sha256": "054064c87cb12eaf5f15da113afa2a2b540632b738f962b87da7d4fbafc23d43"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/up7/asr.jsonl",
+      "bytes": 53526,
+      "sha256": "7e738a697a2c7ac984fe648f663ccbdfab57621d3926bdaec6ae87d50bec4d81"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/up7/asr.txt",
+      "bytes": 26624,
+      "sha256": "253f7cd6d944d3747f65d4891890f74f65738841b7c8d58a6820e23e7be08444"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/up7/input-receipt.json",
+      "bytes": 243,
+      "sha256": "515f7ef982e9ccd1b7914c5b2e35568086f57e4648f23545e9b8828bc4c1b057"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/up7/media.30216.m4a",
+      "bytes": 20058829,
+      "sha256": "7680c8498be44267ab52601158898de43cbe83a2369700476a391ccddd40cdca"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/up7/partial-visual-receipt.json",
+      "bytes": 1661,
+      "sha256": "0e9a18b84cbcce34b72a145659164521b9d03fd6b71a34b900b984fbdfadf521"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/up7/partial-visuals/frame-0000.jpg",
+      "bytes": 4014,
+      "sha256": "cf9122bcd5b9aad226f2f1eaf06a92b1bdd6d11957a852d6058a8b6086c51ceb"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/up7/partial-visuals/frame-0005.jpg",
+      "bytes": 19986,
+      "sha256": "9e92021e9ab30a585e7eff79b0060154ce45c97572076a16ca852d151220d38f"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/up7/partial-visuals/frame-0030.jpg",
+      "bytes": 24093,
+      "sha256": "d8bb21a939b813f64f581f704638d3e4b45c78a841c6c48bd61d988b1c122902"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/up7/partial-visuals/frame-0120.jpg",
+      "bytes": 15763,
+      "sha256": "f88d89da7a7b8adcc63c87b5c2be6384ed0f745a505520f98cb2078495701dbc"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/up7/partial-visuals/frame-0210.jpg",
+      "bytes": 21716,
+      "sha256": "f901ac34e12f599c6c77e1b49c5da9eef11767a52a2607ed6669d609c5db115c"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/up7/partial-visuals/frame-0300.jpg",
+      "bytes": 19581,
+      "sha256": "7e4dd9d4979c6eb7e14bf93426d6a9810a2e3c59da41a480e17758540d4cb97f"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/up7/partial-visuals/frame-0390.jpg",
+      "bytes": 30294,
+      "sha256": "17ebff7da034632fdc9f6765609639bf8aed58e434c5862ef8fda3c5bddde787"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/up7/partial-visuals/frame-0480.jpg",
+      "bytes": 19274,
+      "sha256": "9b600cb86feb6ebe7fc7b6625bdd22087105800a940ff07aad7013b0f9a4fc7d"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/up7/partial-visuals/frame-0570.jpg",
+      "bytes": 29423,
+      "sha256": "eaa6c5964d0b0618b3c2da8bb1e4114168266aa6a751b21445359eb3bb2c6ad4"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/up7/partial-visuals/frame-0660.jpg",
+      "bytes": 35752,
+      "sha256": "05e7692fde2d617cb2ec52a570f748d59b99b9cf2326be9efaef167698b8fa9c"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/up7/partial-visuals/frame-0750.jpg",
+      "bytes": 24417,
+      "sha256": "69708443503d105331b7513c57700968795b4e3ad06674e6b0b76981711e1aee"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/up7/partial-visuals/frame-0840.jpg",
+      "bytes": 28640,
+      "sha256": "ea0625d9f92fc6b5923de572a19cdc140efbe5b0c5236e9f217b54678ca71ab0"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/up7/partial-visuals/frame-0930.jpg",
+      "bytes": 20868,
+      "sha256": "a4226deb4c76839e7df65b68cf96e9092ce10087dde0de06429560dbcc37d467"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/up7/partial-visuals/frame-1020.jpg",
+      "bytes": 31580,
+      "sha256": "02d4e0db8d5e5736adcb7515ba842dc99a2af57856a9e01ea9ba44d1ffd9abc7"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/up7/partial-visuals/frame-1110.jpg",
+      "bytes": 24713,
+      "sha256": "e4236057c3bd2a6906b84dbaaa5d96a162d1590dc5f1538472779334d9885d91"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/up7/partial-visuals/sheet-01.jpg",
+      "bytes": 286606,
+      "sha256": "282047e2e228cd3f76edf7852a9913d779e0a6f4167abdaa20a596eb92547fb7"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/up7/partial-visuals/sheet-02.jpg",
+      "bytes": 168383,
+      "sha256": "69efcc234071de932991f72e7d5a74a6b2c4b443354cf08e3bc4b8532388a057"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/up7-access.json",
+      "bytes": 1319,
+      "sha256": "30dc649a76d1f319f65abc1605239313829562fb2ba880c6e26cbf0f98af7c2d"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/vice/asr-receipt.json",
+      "bytes": 360,
+      "sha256": "d7580f0d98c9f2665ba560eb4802af536b87ba6985a0fd3bfdef1c5a5f7bce6f"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/vice/asr.jsonl",
+      "bytes": 61360,
+      "sha256": "c4517b359af7e918f20ab33007aaeb8eb1e673bed0b94bd4c7f35b0fd3a2ef97"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/vice/asr.txt",
+      "bytes": 30126,
+      "sha256": "ec75700d1c4d0463fa554340313995fa3b03692fc4a039d7afdb2f1120570298"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/vice/input-receipt.json",
+      "bytes": 559,
+      "sha256": "253bc304000b77404bb09d78275b304929f0c13b9935ee3cec24baefeb3b96b6"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/vice/media.134.mp4",
+      "bytes": 79257136,
+      "sha256": "0642cd25b074b5bc427d46968f46c69c7813a0d443b377ee9a5acec976c3de6a"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/vice/media.140.m4a",
+      "bytes": 29651696,
+      "sha256": "9418c63a63da9935fc2e836c7bc405b9da4057363c12a90f4d4c6c7a3d96b523"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/vice/visual-receipt.json",
+      "bytes": 2927,
+      "sha256": "86d8493610064f90b8c9dcd2449876b7d5e6097a6c96f7468ad321788b8a4461"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/vice/visuals/frame-0000.jpg",
+      "bytes": 5450,
+      "sha256": "3b2838a2590bd9f2b464ea8480819b6eeef79be7184a4be526adba479b6bcceb"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/vice/visuals/frame-0005.jpg",
+      "bytes": 8188,
+      "sha256": "71ce4af7ae008bf6a8f3f406289c746c5165c2219f783f9b92d4ae499cd5c6da"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/vice/visuals/frame-0030.jpg",
+      "bytes": 23792,
+      "sha256": "8d5743236c5e3b5ba74cd10c8adb7c3463d352e0844418a8bda7c7fe6ecc8acf"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/vice/visuals/frame-0120.jpg",
+      "bytes": 26941,
+      "sha256": "0e6772d222b2a1074b30d98963c1087c0ee8153dc8b11240612c406cb3ffcb97"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/vice/visuals/frame-0210.jpg",
+      "bytes": 59499,
+      "sha256": "d661c54d844425e1153316fa6260f38add77f6ebf20b5969f87df90a59cfef5b"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/vice/visuals/frame-0300.jpg",
+      "bytes": 41950,
+      "sha256": "ad4527e0b70b695e4b06dfbccc983eb9f2399d023529890d53a548fe0c18b0c6"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/vice/visuals/frame-0390.jpg",
+      "bytes": 29531,
+      "sha256": "034aa69ec3bdc39a2af463b800630a77d5a939fbd8de7e8f716a78e52af14bb0"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/vice/visuals/frame-0480.jpg",
+      "bytes": 29370,
+      "sha256": "8651053e65b8f5fcaa67e6d327a701b48518af454c833a10a2e7acc3aff6f1bf"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/vice/visuals/frame-0570.jpg",
+      "bytes": 49120,
+      "sha256": "38559f2b87adf835d8fe0578e8ef2d5df2c1510d5d3cbb744b0c738c066a7511"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/vice/visuals/frame-0660.jpg",
+      "bytes": 28430,
+      "sha256": "758b6ce7ad5eed2d645649843e02bccf5555cb0a8590e1891802c9fcb367c8a4"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/vice/visuals/frame-0750.jpg",
+      "bytes": 29771,
+      "sha256": "41bf7f82f7447c9511c9f9ac611c51d1444fd5d6b0f01865965068bb20b14f3e"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/vice/visuals/frame-0840.jpg",
+      "bytes": 36282,
+      "sha256": "566ce684a2b536f0f7206a7f75db7e48682e17d6611ec15d6f99dace36b78cfa"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/vice/visuals/frame-0930.jpg",
+      "bytes": 24203,
+      "sha256": "93a4259838900d34d5d74fe4733682eef80ff1ce5958f7230c690f3aa193a2ab"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/vice/visuals/frame-1020.jpg",
+      "bytes": 24187,
+      "sha256": "c203418fd755105802b765757a0a5e7c50c0f592cf14fd8a70d4aa54fdf52de4"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/vice/visuals/frame-1110.jpg",
+      "bytes": 33939,
+      "sha256": "7bbbd92673f9af2d4e6ea7e27e315da0fa334bc8cd053160e2c3f786151f3ffe"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/vice/visuals/frame-1200.jpg",
+      "bytes": 35826,
+      "sha256": "0de43a88d4a2da1d34ab57c61a2c7ee2e2e37789a4cc8edea5c247c2a3e2c453"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/vice/visuals/frame-1290.jpg",
+      "bytes": 28338,
+      "sha256": "75e1690849816e0172cd956ee13b1844fc25d5b56c16ddff9ee9ba83c2b97718"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/vice/visuals/frame-1380.jpg",
+      "bytes": 37870,
+      "sha256": "a871cc7a2b4d671223fd95f9559815bde9096158858dc6f7dbe76040ec5eeb87"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/vice/visuals/frame-1470.jpg",
+      "bytes": 28969,
+      "sha256": "e3ec05b324cf480e9ccf032d6b2e750cd5dbda2f4705e916f8a1837a4cb1e9a3"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/vice/visuals/frame-1560.jpg",
+      "bytes": 30751,
+      "sha256": "b321312e629a5a84297dbfeb3cae3ea3a795e84cd6c5ce462c7fa8f27b25266f"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/vice/visuals/frame-1650.jpg",
+      "bytes": 35102,
+      "sha256": "9f07c1510c9745f447fa7c0585b44560d0066dc329980a2b7c63b48e7b604be5"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/vice/visuals/frame-1740.jpg",
+      "bytes": 10242,
+      "sha256": "eda7c23d780c233d59b49705015d4e28a7b7f6768ba807c0cf8f1272679ce071"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/vice/visuals/frame-1822.jpg",
+      "bytes": 5466,
+      "sha256": "e1466184fa1ae1197df2820fa9c9caf146bc0e32c6801b7d23d97a46e5d07c7a"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/vice/visuals/frame-1830.jpg",
+      "bytes": 5467,
+      "sha256": "061b02299878e10f1d067da8cf181858e2017656b21f435d7dcac6d4262f8cb8"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/vice/visuals/sheet-01.jpg",
+      "bytes": 370900,
+      "sha256": "9817922abdf1bb5e0463b21a1e92f6b7dad6abb543a40fb251867f1471f02477"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/vice/visuals/sheet-02.jpg",
+      "bytes": 383526,
+      "sha256": "e6a7c593467c5dd52cee2e8a2028e94c04231961f247708e018b54a0ce160f44"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/vice/visuals/sheet-03.jpg",
+      "bytes": 77990,
+      "sha256": "bd90fc65019fc071024ea6587e203ff173a153ec7e22716aadcfc50e34ae2936"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/vice-access.json",
+      "bytes": 218,
+      "sha256": "3837317d0085c674c31498af0f7182a67981007c23d3e8e2a3b92213fdc34045"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/vice-debrief-links.json",
+      "bytes": 180,
+      "sha256": "df21500dd4a42364489421d8706afc879893cbae165e86fcd8f1f85407bda6c6"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/vice-presenter-links.json",
+      "bytes": 217,
+      "sha256": "f5d9799ad86b49ce5d261e03ba7d30898a536afb89c05df0bc1f403a451127af"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/vice-space-access.json",
+      "bytes": 1889,
+      "sha256": "9a896e1394212a73ac067181659153f78958818662d4a48574ad3f6867552aa7"
+    },
+    {
+      "path": "导演/work/observation-20261019/huangdeng-asr.jsonl",
+      "bytes": 218547,
+      "sha256": "020266d02701f02e689ac4afb487496ff752f428b15dba8cfed4dded17367b3a"
+    },
+    {
+      "path": "导演/work/observation-20261019/huangdeng-asr.txt",
+      "bytes": 65915,
+      "sha256": "d358d852b4be1327671211c54b25c07a0ab34b38d14d9be7386cedfbd2e58805"
+    },
+    {
+      "path": "导演/work/observation-20261019/huangdeng-southcn.txt",
+      "bytes": 21065,
+      "sha256": "cc958d35057ed478f02bbaf13feedc6a18be0248341f78d962507bc6ccbe611c"
+    },
+    {
+      "path": "导演/work/observation-20261019/huangdeng.140.m4a",
+      "bytes": 57405351,
+      "sha256": "3d62a79f08b66a88858806331fd9fb32c126977bb304a07f56e489c624896e8c"
+    },
+    {
+      "path": "导演/work/observation-20261019/huangdeng.396.mp4",
+      "bytes": 69649111,
+      "sha256": "527be293e15261e9f53a250f8453a95d068da7ee5468f0b1124f4f1ad6a92909"
+    },
+    {
+      "path": "导演/work/observation-20261019/luoxiang-third-party.txt",
+      "bytes": 35541,
+      "sha256": "e47662a8ee073389cfb910811818eccfc11b7ec524f308cf073fc04200e438a4"
+    },
+    {
+      "path": "导演/work/observation-20261019/media-input-receipt.json",
+      "bytes": 593,
+      "sha256": "59480feb4c9d703bebd40c19184f84d20067803677523f7664c67d1b2fb215b8"
+    },
+    {
+      "path": "导演/work/observation-20261019/public-episode-access.json",
+      "bytes": 11847,
+      "sha256": "dab23d27208fd39ed918e9dffc5d39f730828c17d2ae296d71c04c3877952923"
+    },
+    {
+      "path": "导演/work/observation-20261019/research-evidence.json",
+      "bytes": 2288,
+      "sha256": "8387031cbc27dc5c9ab4d461393bc1e13947a39da70a374832d5a74fd73ee87b"
+    },
+    {
+      "path": "导演/work/observation-20261019/research_batch.py",
+      "bytes": 7102,
+      "sha256": "73a19a3ba3c25becabec1c31aa405acd3816c642e60833e19220fa58f7755fc6"
+    },
+    {
+      "path": "导演/work/observation-20261019/sample_partial_visuals.py",
+      "bytes": 2163,
+      "sha256": "7e424355e8e848fa9248ec38f0f0a03ecf6956514673b81d2109462c6248757c"
+    },
+    {
+      "path": "导演/work/observation-20261019/sample_visuals.py",
+      "bytes": 2067,
+      "sha256": "d7b6223da3abc8e80ac6143141f3e6d203e5813dce965412da58d6667418df44"
+    },
+    {
+      "path": "导演/work/observation-20261019/study_episode.py",
+      "bytes": 4364,
+      "sha256": "ddcac2d5d088c3166fff5592f288a8c53b4c876df4b675a8a1b8e963a1de5e2b"
+    },
+    {
+      "path": "导演/work/observation-20261019/update_research_records.py",
+      "bytes": 5438,
+      "sha256": "ea0bcd69efb4f104278b033eb94d301bf886804cf2ca352cdb0f6caccffa9a0f"
+    },
+    {
+      "path": "导演/work/observation-20261019/update_six_series.py",
+      "bytes": 8727,
+      "sha256": "5176e5461b7e1550d63613a5453398176e8682f71d7aa75fbadaaffe6f0cde2f"
+    },
+    {
+      "path": "导演/work/observation-20261019/visual-sample-receipt.json",
+      "bytes": 7617,
+      "sha256": "e3840f9c342e6e30c943622e6054f9655028d5df5c987e4ae10df068e8f8f6ab"
+    },
+    {
+      "path": "导演/work/observation-20261019/visual-samples/check-1794.jpg",
+      "bytes": 29737,
+      "sha256": "00d094a21d7e9688330d2c678f1b76a958efbde5bc699c38e6ed73b702215d41"
+    },
+    {
+      "path": "导演/work/observation-20261019/visual-samples/check-3120.jpg",
+      "bytes": 26515,
+      "sha256": "95fbc4468703c5e8da046701cf1a8a6f6731ea431d1d84cd85e83570883a248e"
+    },
+    {
+      "path": "导演/work/observation-20261019/visual-samples/check-3396.jpg",
+      "bytes": 37081,
+      "sha256": "c045867ee0a86b73e02c597ec8bfaf01e6b03bc6bb2e0f1508bbfe53af59764b"
+    },
+    {
+      "path": "导演/work/observation-20261019/visual-samples/check-3525.jpg",
+      "bytes": 40690,
+      "sha256": "cb3a3e3addcf15523264f476d45c9cc562931780718ec9c5373aa2d2a8a98f30"
+    },
+    {
+      "path": "导演/work/observation-20261019/visual-samples/check-3542.jpg",
+      "bytes": 38375,
+      "sha256": "c08189b48842c8091bca524d6e092330fca57b540f39b52ade6d96801a2d6982"
+    },
+    {
+      "path": "导演/work/observation-20261019/visual-samples/frame-0030.jpg",
+      "bytes": 18659,
+      "sha256": "6201de3129bcfca7219990074ee3da232b27d3177a981db75ac0153cdb4d23a6"
+    },
+    {
+      "path": "导演/work/observation-20261019/visual-samples/frame-0090.jpg",
+      "bytes": 33808,
+      "sha256": "887608d1e9c396376073c893d3e7bef6b129385c1eced3c3bafc7fc3332a7542"
+    },
+    {
+      "path": "导演/work/observation-20261019/visual-samples/frame-0150.jpg",
+      "bytes": 35578,
+      "sha256": "319bcceb19ada4c04aaad389709fc5c487d68b3d8dd5333353cd384374b8a63f"
+    },
+    {
+      "path": "导演/work/observation-20261019/visual-samples/frame-0210.jpg",
+      "bytes": 48399,
+      "sha256": "9031c3ca35028cf947ed67f671c04dda9cd8a413ac60c4d85e0e4df725b59419"
+    },
+    {
+      "path": "导演/work/observation-20261019/visual-samples/frame-0270.jpg",
+      "bytes": 25551,
+      "sha256": "89012d0009e33b57f6e95aa0ce2a0988fe39f1676d1479efec78a6ee690b616b"
+    },
+    {
+      "path": "导演/work/observation-20261019/visual-samples/frame-0330.jpg",
+      "bytes": 23712,
+      "sha256": "b45b07328909eea86a3bd3b32708bb6c8e11a3d23618a18874b25e26d6b5587c"
+    },
+    {
+      "path": "导演/work/observation-20261019/visual-samples/frame-0390.jpg",
+      "bytes": 12845,
+      "sha256": "6eb8734957f196d1f4000febe4be29cfd22b02f56bd130598a0a703b41db3a55"
+    },
+    {
+      "path": "导演/work/observation-20261019/visual-samples/frame-0450.jpg",
+      "bytes": 15723,
+      "sha256": "e005fac2be18c6bd47ea7618e2089208e1296c739af1e86650b35db1f8841533"
+    },
+    {
+      "path": "导演/work/observation-20261019/visual-samples/frame-0510.jpg",
+      "bytes": 40218,
+      "sha256": "df4b2053dafbcdd16df588ddbf724589dec14ef839355f244e57cdc9b49fbe04"
+    },
+    {
+      "path": "导演/work/observation-20261019/visual-samples/frame-0570.jpg",
+      "bytes": 29917,
+      "sha256": "3d441542c745a4b7379381e5d5d713e6f2d4e81ee9c866ba3fd341b2c27b9d56"
+    },
+    {
+      "path": "导演/work/observation-20261019/visual-samples/frame-0630.jpg",
+      "bytes": 32778,
+      "sha256": "bbe2fbb285fc1e78d68d1ceee69464254070dcc86397ec87878319ed60e4192f"
+    },
+    {
+      "path": "导演/work/observation-20261019/visual-samples/frame-0690.jpg",
+      "bytes": 46934,
+      "sha256": "8214b06a021a6d515bfbe092a36580039ae4495597cf55b67aeb10e6f5b0ff7c"
+    },
+    {
+      "path": "导演/work/observation-20261019/visual-samples/frame-0750.jpg",
+      "bytes": 28982,
+      "sha256": "cd27f726dde421deb8736300358d605ef04ea2c9d4bd6ad5c21c3fe98a7c2cfc"
+    },
+    {
+      "path": "导演/work/observation-20261019/visual-samples/frame-0810.jpg",
+      "bytes": 44507,
+      "sha256": "aec354f8e499dc0a1baf59ec0189a105b1e0d8adcb92799057f053c37be7bcf8"
+    },
+    {
+      "path": "导演/work/observation-20261019/visual-samples/frame-0870.jpg",
+      "bytes": 39117,
+      "sha256": "369706d78f052992c37e84d83078484dd17ac2ce342ccd70168c1dc40ee1e569"
+    },
+    {
+      "path": "导演/work/observation-20261019/visual-samples/frame-0930.jpg",
+      "bytes": 46761,
+      "sha256": "642703b7b4d08a4912458cc8658b456e4af7ea00b516d200fbc4c01d68479501"
+    },
+    {
+      "path": "导演/work/observation-20261019/visual-samples/frame-0990.jpg",
+      "bytes": 32519,
+      "sha256": "f7534b6ac499b7ff2eb241da14277c2644a5b486edd0859986b5b08817c8aa37"
+    },
+    {
+      "path": "导演/work/observation-20261019/visual-samples/frame-1050.jpg",
+      "bytes": 23736,
+      "sha256": "8099c4721c98b05313e54dd69bcd044f9fb8a2c0b4f0fa33623de87ea1eca41e"
+    },
+    {
+      "path": "导演/work/observation-20261019/visual-samples/frame-1110.jpg",
+      "bytes": 26834,
+      "sha256": "f9bcb61c2ea0d8735a0af25f09be8ae6043ada66abffe7bcbbd5155e30509a99"
+    },
+    {
+      "path": "导演/work/observation-20261019/visual-samples/frame-1170.jpg",
+      "bytes": 40568,
+      "sha256": "9ea032c5f7842a319779a8297e62af9fbf2f35afc86839e0d4708ea1ac67dcd1"
+    },
+    {
+      "path": "导演/work/observation-20261019/visual-samples/frame-1230.jpg",
+      "bytes": 29542,
+      "sha256": "90459bdd1674f3ddc20705fd585cd48870bf18e1197fe93627e3819b90e89b9a"
+    },
+    {
+      "path": "导演/work/observation-20261019/visual-samples/frame-1290.jpg",
+      "bytes": 36343,
+      "sha256": "b2fc2087bb947e5f7dadd6ba873dddc9576f24f7573206f3656e48ac409c5aaa"
+    },
+    {
+      "path": "导演/work/observation-20261019/visual-samples/frame-1350.jpg",
+      "bytes": 33757,
+      "sha256": "0aad119789bcaa318e43ee96c117867c75907e028fb3b87fab6e74d65b9c0d76"
+    },
+    {
+      "path": "导演/work/observation-20261019/visual-samples/frame-1410.jpg",
+      "bytes": 46201,
+      "sha256": "adedbf91aa65f7b572b92e29df189f177cd31971d44dd0f126aa0b1cd5c80663"
+    },
+    {
+      "path": "导演/work/observation-20261019/visual-samples/frame-1470.jpg",
+      "bytes": 53231,
+      "sha256": "e049e258f3e75eafa3091c4640b1afc54a2e00be389dfdc17c0cefaa356f05ce"
+    },
+    {
+      "path": "导演/work/observation-20261019/visual-samples/frame-1530.jpg",
+      "bytes": 28954,
+      "sha256": "5d1dc11513a266545b6ebdcf31878bc5a4089b3bc4678494feb109061f935b01"
+    },
+    {
+      "path": "导演/work/observation-20261019/visual-samples/frame-1590.jpg",
+      "bytes": 56410,
+      "sha256": "d3352043598144df712593331e1d102dbf28e438e6f490e48fe59281d2f4199c"
+    },
+    {
+      "path": "导演/work/observation-20261019/visual-samples/frame-1650.jpg",
+      "bytes": 47133,
+      "sha256": "51a18bf9abddfaf4d5488daef249f51341dd688ba475a7b9d9e986cc92a6d1d8"
+    },
+    {
+      "path": "导演/work/observation-20261019/visual-samples/frame-1710.jpg",
+      "bytes": 46808,
+      "sha256": "02008b8dd33eacbe056f175c9cb4c3881284be767e1397ec05899786de3b02b4"
+    },
+    {
+      "path": "导演/work/observation-20261019/visual-samples/frame-1770.jpg",
+      "bytes": 29135,
+      "sha256": "a4257bb350f4282be1bef1ecff5c1a2c662b664abc32cf8c5071c9039153bbdf"
+    },
+    {
+      "path": "导演/work/observation-20261019/visual-samples/frame-1830.jpg",
+      "bytes": 36825,
+      "sha256": "ee9a2dd3a8edc5a6a5626a53c495f8da37224a80d73d5542575afd72eaaf1b7f"
+    },
+    {
+      "path": "导演/work/observation-20261019/visual-samples/frame-1890.jpg",
+      "bytes": 60823,
+      "sha256": "40650bff43fbdcefa04120749937418c8b3960dee6f79e458b1c2655c67c2c1a"
+    },
+    {
+      "path": "导演/work/observation-20261019/visual-samples/frame-1950.jpg",
+      "bytes": 25696,
+      "sha256": "259ac55d0f240523bee4ebb5f33b6c7c353016c90730aee3917ccac3e514f51b"
+    },
+    {
+      "path": "导演/work/observation-20261019/visual-samples/frame-2010.jpg",
+      "bytes": 24000,
+      "sha256": "346aba90e9a5f829f413dca783be22eaa7aa65974f12b3673f9bc1c004bdb018"
+    },
+    {
+      "path": "导演/work/observation-20261019/visual-samples/frame-2070.jpg",
+      "bytes": 48778,
+      "sha256": "d126126427da9229c40937ff01daad86e0fa6fa152585a28e8f94e1727836e81"
+    },
+    {
+      "path": "导演/work/observation-20261019/visual-samples/frame-2130.jpg",
+      "bytes": 28442,
+      "sha256": "44cbf4f5fe7ce31f7e2d58b0a68c2385e7652995950f545f99fab8ce1d384032"
+    },
+    {
+      "path": "导演/work/observation-20261019/visual-samples/frame-2190.jpg",
+      "bytes": 25677,
+      "sha256": "d3393d1a980e41aa795a522089fe53668c6b8310ef816e0dd9f0d3e6ee0abfb7"
+    },
+    {
+      "path": "导演/work/observation-20261019/visual-samples/frame-2250.jpg",
+      "bytes": 27449,
+      "sha256": "59a394ce871275a9a59dbf35321af6c079fcce13ffc4749cd99d091b4e52199b"
+    },
+    {
+      "path": "导演/work/observation-20261019/visual-samples/frame-2310.jpg",
+      "bytes": 24320,
+      "sha256": "7b3617341b0594b96890a57727a4fe96f6122faa2ec21da4e85137cd69a65918"
+    },
+    {
+      "path": "导演/work/observation-20261019/visual-samples/frame-2370.jpg",
+      "bytes": 53859,
+      "sha256": "dd195e2774a9b905ba2b1dda79f95795d4622c015401c1127fc1a89f234ace09"
+    },
+    {
+      "path": "导演/work/observation-20261019/visual-samples/frame-2430.jpg",
+      "bytes": 37276,
+      "sha256": "22c88cfc07d486e9ee0f10b63423f3f892502df8648c960de3f1ea615d9c53c2"
+    },
+    {
+      "path": "导演/work/observation-20261019/visual-samples/frame-2490.jpg",
+      "bytes": 25121,
+      "sha256": "63591c4ff03622490b9cf4a351318222062ee76e0faf76937e1564018369d67b"
+    },
+    {
+      "path": "导演/work/observation-20261019/visual-samples/frame-2550.jpg",
+      "bytes": 26894,
+      "sha256": "ca43514d8083fe7d47c79ac8928d54ce38ae2ceeaa2c606362d54a8619e323e4"
+    },
+    {
+      "path": "导演/work/observation-20261019/visual-samples/frame-2610.jpg",
+      "bytes": 36896,
+      "sha256": "e5d991a1e6c9b07b947f1e8030a23120368e27425af93e3fadfe0564aa91dc0a"
+    },
+    {
+      "path": "导演/work/observation-20261019/visual-samples/frame-2670.jpg",
+      "bytes": 46215,
+      "sha256": "a3bf91a8b637dd99e2f96b052176b5081544099d3154d7b8965f424bf2d8ae1f"
+    },
+    {
+      "path": "导演/work/observation-20261019/visual-samples/frame-2730.jpg",
+      "bytes": 51989,
+      "sha256": "8bec761901e79c2e5c32be6252817587c5967f8421546887b4331425a8df958b"
+    },
+    {
+      "path": "导演/work/observation-20261019/visual-samples/frame-2790.jpg",
+      "bytes": 50492,
+      "sha256": "8be21aa7e2d8a914805aa5867083b7fc1fd086142b72ceade07f686690d6eb3a"
+    },
+    {
+      "path": "导演/work/observation-20261019/visual-samples/frame-2850.jpg",
+      "bytes": 33549,
+      "sha256": "24a8b18a4ff7e13906230d94ab8662543db50259c8e631e65d34888e8e70d9c9"
+    },
+    {
+      "path": "导演/work/observation-20261019/visual-samples/frame-2910.jpg",
+      "bytes": 38359,
+      "sha256": "46878271bf77df51c2f1ab9bdeb71444fc0f763aacc64e8d3940d51739539995"
+    },
+    {
+      "path": "导演/work/observation-20261019/visual-samples/frame-2970.jpg",
+      "bytes": 36054,
+      "sha256": "6f8c985674b33cb48e3482fe3f00297f6876439f37a1c3523ac2de1b156f2b6e"
+    },
+    {
+      "path": "导演/work/observation-20261019/visual-samples/frame-3030.jpg",
+      "bytes": 26565,
+      "sha256": "9476739609c796b05ea0fd15ec0533a9d134f6f9acd036b95b810de20a886d6f"
+    },
+    {
+      "path": "导演/work/observation-20261019/visual-samples/frame-3090.jpg",
+      "bytes": 43904,
+      "sha256": "c6437ce07d617ac5e0049ae389f1b4f041b1bb89bc94084017d5dfa30d09f1f5"
+    },
+    {
+      "path": "导演/work/observation-20261019/visual-samples/frame-3150.jpg",
+      "bytes": 32437,
+      "sha256": "bd8ee87da41a3a8ed0d8f3365e35aafb72b46f08753ab81f174328b7714611ca"
+    },
+    {
+      "path": "导演/work/observation-20261019/visual-samples/frame-3210.jpg",
+      "bytes": 40213,
+      "sha256": "c49ec35182fd3ac2b7808bc1ab08ae2bd61d651346e5351099d62ad82fd6851b"
+    },
+    {
+      "path": "导演/work/observation-20261019/visual-samples/frame-3270.jpg",
+      "bytes": 25653,
+      "sha256": "d4ccb62074f92c95414884748b7e50dc1ca9dbadb9875bae6212ef2a4f9399ed"
+    },
+    {
+      "path": "导演/work/observation-20261019/visual-samples/frame-3330.jpg",
+      "bytes": 30584,
+      "sha256": "eb4c3054550f6f9d08472ac11907235f072803af19db4ba61a14bd7e7fad3da0"
+    },
+    {
+      "path": "导演/work/observation-20261019/visual-samples/frame-3390.jpg",
+      "bytes": 29003,
+      "sha256": "040cb8577ecd898bb78c07e8362bb5c0bdecb7c61ca029c901e178ed8bcc9e0b"
+    },
+    {
+      "path": "导演/work/observation-20261019/visual-samples/frame-3450.jpg",
+      "bytes": 51761,
+      "sha256": "5ff89aa2acd7ead244e0bccf6eb96a0c482b6b259bb7bb43703e3c09e7271405"
+    },
+    {
+      "path": "导演/work/observation-20261019/visual-samples/frame-3510.jpg",
+      "bytes": 37547,
+      "sha256": "3cff47e0e7c45a68252f43a06aad914f0c1fa0d296899d7dfe4b44d3ba9319d5"
+    },
+    {
+      "path": "导演/work/observation-20261019/visual-samples/sheet-01.jpg",
+      "bytes": 351556,
+      "sha256": "34c550630ef487ac3dce1125ffeede83c7ea0aebc2b7d2e5a4612208055ecd09"
+    },
+    {
+      "path": "导演/work/observation-20261019/visual-samples/sheet-02.jpg",
+      "bytes": 440747,
+      "sha256": "a2cf9340cf9f044a772d19005086b3eb165820b1f15ec484ffd0da6e2d7b5152"
+    },
+    {
+      "path": "导演/work/observation-20261019/visual-samples/sheet-03.jpg",
+      "bytes": 488584,
+      "sha256": "6024b4aafe50a37ee9b92a72744b3edf86e94ce0c32219b60850b949aab631f3"
+    },
+    {
+      "path": "导演/work/observation-20261019/visual-samples/sheet-04.jpg",
+      "bytes": 433838,
+      "sha256": "ca581633a477fa23d9100b3d0460a44fbca6548f5a370a72e503c473dfb2a661"
+    },
+    {
+      "path": "导演/work/observation-20261019/visual-samples/sheet-05.jpg",
+      "bytes": 463094,
+      "sha256": "925c2467af538941e61532ba5efcc80db68f5217dc5493ed11085f547bee8820"
+    },
+    {
+      "path": "导演/work/observation-20261019/visual-samples/sheet-06.jpg",
+      "bytes": 389430,
+      "sha256": "b5d719862a1d0a251be6fd7f1b59171fabf7f2c6be736233d6f820a383c11790"
+    },
+    {
+      "path": "导演/work/observation-20261019/visual-samples/targeted-checks.jpg",
+      "bytes": 199790,
+      "sha256": "f87a45d0072885cea3600697886e49b4474b0cfaad22f2638c48caa1b0f045b9"
+    },
+    {
+      "path": "导演/work/overview0.jpg",
+      "bytes": 153597,
+      "sha256": "f1ae55b3fd57151c4784f6b890057e0998c9257aa56955694fe467ab6a9862c8"
+    },
+    {
+      "path": "导演/work/overview1.jpg",
+      "bytes": 143807,
+      "sha256": "cbf339083ce042b30f22177f61f1cb681a3707dc545ae8378b587598de6a6aad"
+    },
+    {
+      "path": "导演/work/overview2.jpg",
+      "bytes": 73727,
+      "sha256": "4b6005c2bf44c650f0204446cb81c0b809cc883e01f37581869a4f2a37812966"
+    },
+    {
+      "path": "导演/work/pdf_qa/page-1.png",
+      "bytes": 203058,
+      "sha256": "d3d1793b8e96d289e5ee9414d192537d45abaa40e7865eae5f10e29004aa44c2"
+    },
+    {
+      "path": "导演/work/pdf_qa/page-2.png",
+      "bytes": 214384,
+      "sha256": "be5008f7a33a5e4aa45bb386d9e06d2d03a5b94064ad69aaecd86086c3350ff2"
+    },
+    {
+      "path": "导演/work/pdf_qa/page-3.png",
+      "bytes": 196323,
+      "sha256": "444ea92bf3eaeabb5e546da587fafc068a7a00615dbf6b6caabe06bfaa135d94"
+    },
+    {
+      "path": "导演/work/pdf_qa/page-4.png",
+      "bytes": 246524,
+      "sha256": "9e7287a95ad4d5684e1840bc094ff44599c4720aee9ec4cef84531f51797fe04"
+    },
+    {
+      "path": "导演/work/pdf_qa/page-5.png",
+      "bytes": 220947,
+      "sha256": "2b9c848b749c644b43d83df8327ce81fec48f3ea8a71f026f99773a039247e8b"
+    },
+    {
+      "path": "导演/work/pdf_qa/page-6.png",
+      "bytes": 486861,
+      "sha256": "bfddfcbc1694b49ebfe74c57a1f18599d43dc11c6ad8635649ab078e4306bea9"
+    },
+    {
+      "path": "导演/work/play.json",
+      "bytes": 3352,
+      "sha256": "238e4f3548352065e569a6a353586dddc56cdfdc842762390bc523a3be476a6d"
+    },
+    {
+      "path": "导演/work/study-20261018/editor-pdf-208.png",
+      "bytes": 164841,
+      "sha256": "d648bc74e119b51142d4acbf37af10f5c42f51e75c12db6d1d6761d993a94c88"
+    },
+    {
+      "path": "导演/work/study-20261018/editor-pdf-210.png",
+      "bytes": 198135,
+      "sha256": "69f85be1e167f0bc300c425fa16aac2bc4355c29bbd508d65d1c8329c7d7bd13"
+    },
+    {
+      "path": "导演/work/study-20261018/editor-pdf-213.png",
+      "bytes": 176829,
+      "sha256": "c1dd6528b003d8924a530a28460f8f52aef0cc6c86489237d6c1ba30cfd4cda8"
+    },
+    {
+      "path": "导演/work/study-20261018/editor-pdf-633.png",
+      "bytes": 129759,
+      "sha256": "5bda9e7bc12f18052103561ad7c7581b6804b9a2eb789621b9dc9e36e03015c6"
+    },
+    {
+      "path": "导演/work/study-20261018/editors-guide-20.pdf",
+      "bytes": 51610086,
+      "sha256": "c5b79e4e6f530ef947b1c5240b4c3f88d9dada4108b2212381a634e610f72a42"
+    },
+    {
+      "path": "导演/work/study-20261018/source-receipt.json",
+      "bytes": 789,
+      "sha256": "2fe2006076fdb07914f4b3390a6d22563d13b3102678eeafbeeccdfba3911287"
+    },
+    {
+      "path": "导演/work/url.txt",
+      "bytes": 677,
+      "sha256": "82519494484b16ffee35ba163cd8f11aebeff46aad5225710ab59160a91ea697"
+    },
+    {
+      "path": "导演/视听语言分析_前夜_工作稿.md",
+      "bytes": 12168,
+      "sha256": "6efaf43d6561ec76ffe9385beea3223295b1258ae097d44405dc0f327030bd77"
+    },
+    {
+      "path": "聊天记录/导演/01a1438f-bd5e-7152-b6a4-3fb140b3d2ec.json",
+      "bytes": 29934,
+      "sha256": "2f3572ba8027c536c17f05307f3ca909fe3b67755c9b7cdb4893e2bf7b7a3255"
+    },
+    {
+      "path": "聊天记录/导演/01a1438f-bd5e-7152-b6a4-3fb140b3d2ec.md",
+      "bytes": 22862,
+      "sha256": "6b55d56af96586567cf7a649f90029a5b33bf5ff3f76c16a913783ebd7aa6b95"
+    },
+    {
+      "path": "聊天记录/导演/01a14885-3a76-77b0-998c-e73ca3812d36.json",
+      "bytes": 18468,
+      "sha256": "6ed970b3bb40969973a0eda016161d9363f3562f359bae0362d995548be39fd7"
+    },
+    {
+      "path": "聊天记录/导演/01a14885-3a76-77b0-998c-e73ca3812d36.md",
+      "bytes": 12697,
+      "sha256": "49b7bee74c2e12e32b395a160e05980f5ae4a830e5b5b68bc73c4e06ca7769d2"
+    },
+    {
+      "path": "聊天记录/导演/01a14d15-2bcb-7c31-9eab-c459cdc7d47a.json",
+      "bytes": 142653,
+      "sha256": "5e470e58fa1a4cdf31633a6a9a4d0981ca3d133091ceb59d600e1363004257d0"
+    },
+    {
+      "path": "聊天记录/导演/01a14d15-2bcb-7c31-9eab-c459cdc7d47a.md",
+      "bytes": 109359,
+      "sha256": "3e0d3f6853c1309d5cf9d03d9c7549b0a6f5792805721974b050109af3033bd1"
+    },
+    {
+      "path": "既有资料库/notes/COLLABORATION.md",
+      "bytes": 7230,
+      "sha256": "34ef77af76d5185af331c0894ff6f898fdb8f58d057dcffce43b5c8571c81832"
+    },
+    {
+      "path": "既有资料库/notes/director-execution-v2.md",
+      "bytes": 5797,
+      "sha256": "3b9e590a0e295b2f7211d1c9370c2aa484f530f3d351269b5a07f75c2a413b4b"
+    },
+    {
+      "path": "既有资料库/notes/director-project-continuity.md",
+      "bytes": 9857,
+      "sha256": "cdb88a6b9d6b4e201652185cd046ab15d46962ba579472ed48b258f81e5b3e9f"
+    },
+    {
+      "path": "既有资料库/notes/director-review-2026-10-15.md",
+      "bytes": 9792,
+      "sha256": "5aa1c8de104a9ce7ddb5dea524256089c4887125a2ca0980c03158e3444fdb20"
+    },
+    {
+      "path": "既有资料库/notes/film-study-2026-10-18.md",
+      "bytes": 5646,
+      "sha256": "6a9b8879101bcd6d71f70a4e4d36958cc5182488df8017696db80d3e5970cb57"
+    },
+    {
+      "path": "既有资料库/skills/film-creation/SKILL.md",
+      "bytes": 12238,
+      "sha256": "6e27c90be2408d0cbe8050ee9cf61e659395063db9f9cadf32eee42e8024538a"
+    }
+  ],
+  "excluded": [
+    {
+      "path": "导演/work/laobai-20261019/bili-page-retry.html",
+      "bytes": 47777,
+      "reason": "网页缓存；保留研究正文与来源，本地原件保留"
+    },
+    {
+      "path": "导演/work/laobai-20261019/douyin-public-retry.html",
+      "bytes": 72914,
+      "reason": "网页缓存；保留研究正文与来源，本地原件保留"
+    },
+    {
+      "path": "导演/work/leishen-20261019/bili-list-readable.html",
+      "bytes": 143722,
+      "reason": "网页缓存；保留研究正文与来源，本地原件保留"
+    },
+    {
+      "path": "导演/work/leishen-20261019/catalogue-pages/page-001.html",
+      "bytes": 134691,
+      "reason": "网页缓存；保留研究正文与来源，本地原件保留"
+    },
+    {
+      "path": "导演/work/leishen-20261019/catalogue-pages/page-002.html",
+      "bytes": 150218,
+      "reason": "网页缓存；保留研究正文与来源，本地原件保留"
+    },
+    {
+      "path": "导演/work/leishen-20261019/catalogue-pages/page-003.html",
+      "bytes": 149044,
+      "reason": "网页缓存；保留研究正文与来源，本地原件保留"
+    },
+    {
+      "path": "导演/work/leishen-20261019/catalogue-pages/page-004.html",
+      "bytes": 148803,
+      "reason": "网页缓存；保留研究正文与来源，本地原件保留"
+    },
+    {
+      "path": "导演/work/leishen-20261019/catalogue-pages/page-005.html",
+      "bytes": 148614,
+      "reason": "网页缓存；保留研究正文与来源，本地原件保留"
+    },
+    {
+      "path": "导演/work/leishen-20261019/catalogue-pages/page-006.html",
+      "bytes": 11430,
+      "reason": "网页缓存；保留研究正文与来源，本地原件保留"
+    },
+    {
+      "path": "导演/work/leishen-20261019/list-latest.html",
+      "bytes": 143551,
+      "reason": "网页缓存；保留研究正文与来源，本地原件保留"
+    },
+    {
+      "path": "导演/work/leishen-20261019/search-lesson.html",
+      "bytes": 1374,
+      "reason": "网页缓存；保留研究正文与来源，本地原件保留"
+    },
+    {
+      "path": "导演/work/leishen-bili-list.html",
+      "bytes": 41047,
+      "reason": "网页缓存；保留研究正文与来源，本地原件保留"
+    },
+    {
+      "path": "导演/work/leishen-link-retry.html",
+      "bytes": 72914,
+      "reason": "网页缓存；保留研究正文与来源，本地原件保留"
+    },
+    {
+      "path": "导演/work/observation-20261018/archive-follow-1.html",
+      "bytes": 29309,
+      "reason": "网页缓存；保留研究正文与来源，本地原件保留"
+    },
+    {
+      "path": "导演/work/observation-20261018/archive-follow-2.html",
+      "bytes": 30658,
+      "reason": "网页缓存；保留研究正文与来源，本地原件保留"
+    },
+    {
+      "path": "导演/work/observation-20261018/archive-follow-3.html",
+      "bytes": 31069,
+      "reason": "网页缓存；保留研究正文与来源，本地原件保留"
+    },
+    {
+      "path": "导演/work/observation-20261018/archive-follow-4.html",
+      "bytes": 31586,
+      "reason": "网页缓存；保留研究正文与来源，本地原件保留"
+    },
+    {
+      "path": "导演/work/observation-20261018/archive-follow-5.html",
+      "bytes": 30906,
+      "reason": "网页缓存；保留研究正文与来源，本地原件保留"
+    },
+    {
+      "path": "导演/work/observation-20261018/archive.html",
+      "bytes": 46162,
+      "reason": "网页缓存；保留研究正文与来源，本地原件保留"
+    },
+    {
+      "path": "导演/work/observation-20261018/cctv-mdm.html",
+      "bytes": 93400,
+      "reason": "网页缓存；保留研究正文与来源，本地原件保留"
+    },
+    {
+      "path": "导演/work/observation-20261018/dialysis-2.html",
+      "bytes": 16269,
+      "reason": "网页缓存；保留研究正文与来源，本地原件保留"
+    },
+    {
+      "path": "导演/work/observation-20261018/dialysis-3.html",
+      "bytes": 16616,
+      "reason": "网页缓存；保留研究正文与来源，本地原件保留"
+    },
+    {
+      "path": "导演/work/observation-20261018/dialysis-6.html",
+      "bytes": 15368,
+      "reason": "网页缓存；保留研究正文与来源，本地原件保留"
+    },
+    {
+      "path": "导演/work/observation-20261018/mdm-huanghui.html",
+      "bytes": 26140,
+      "reason": "网页缓存；保留研究正文与来源，本地原件保留"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/cold/media.30011.mp4.part",
+      "bytes": 1570816,
+      "reason": "未完成下载/可再生临时状态；本地原件保留"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/cold/media.30016.mp4.part",
+      "bytes": 10418858,
+      "reason": "未完成下载/可再生临时状态；本地原件保留"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/up7/media.30011.mp4.part",
+      "bytes": 34146026,
+      "reason": "未完成下载/可再生临时状态；本地原件保留"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/up7/media.30016.mp4.part",
+      "bytes": 52752599,
+      "reason": "未完成下载/可再生临时状态；本地原件保留"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/vice-debrief.html",
+      "bytes": 369063,
+      "reason": "网页缓存；保留研究正文与来源，本地原件保留"
+    },
+    {
+      "path": "导演/work/observation-20261019/five-series/vice-presenter.html",
+      "bytes": 74685,
+      "reason": "网页缓存；保留研究正文与来源，本地原件保留"
+    },
+    {
+      "path": "导演/work/observation-20261019/huangdeng-southcn.html",
+      "bytes": 58874,
+      "reason": "网页缓存；保留研究正文与来源，本地原件保留"
+    },
+    {
+      "path": "导演/work/observation-20261019/luoxiang-third-party.html",
+      "bytes": 74080,
+      "reason": "网页缓存；保留研究正文与来源，本地原件保留"
+    }
+  ],
+  "cloud_complete": false,
+  "summary": {
+    "files": 592,
+    "bytes": 623463482,
+    "excluded_files": 32,
+    "excluded_bytes": 101098583,
+    "visible_director_messages": 205
+  },
+  "archive": {
+    "name": "director-project-2026-10-20.zip",
+    "bytes": 591928584,
+    "sha256": "15a2a11f465e6f8bc6a7c271c065547afb41fd3b1cfa381899aa15bee31597ea",
+    "verification": "ZIP CRC and all archived source SHA-256 verified",
+    "remote_uploaded": false
+  }
+}
