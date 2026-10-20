@@ -241,6 +241,7 @@ def main():
         raise RuntimeError('GitHub server SHA-256 did not match; draft preserved for review.')
     if release['draft']:
         release = client.request(PREFIX + f"/releases/{release['id']}", 'PATCH', {'draft': False})
+        asset = client.request(PREFIX + f"/releases/assets/{asset['id']}")
     result = dict(target, **verified, release_url=release['html_url'],
                   asset_id=asset['id'], asset_url=asset['browser_download_url'],
                   asset_bytes=asset['size'], asset_sha256=digest,

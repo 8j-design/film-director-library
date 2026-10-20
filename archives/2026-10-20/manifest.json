@@ -3134,13 +3134,42 @@
     "bytes": 623463482,
     "excluded_files": 32,
     "excluded_bytes": 101098583,
-    "visible_director_messages": 205
+    "visible_director_messages": 205,
+    "total_source_files_with_supplements": 593,
+    "supplemental_source_files": 1
   },
   "archive": {
     "name": "director-project-2026-10-20.zip",
     "bytes": 591928584,
     "sha256": "15a2a11f465e6f8bc6a7c271c065547afb41fd3b1cfa381899aa15bee31597ea",
     "verification": "ZIP CRC and all archived source SHA-256 verified",
-    "remote_uploaded": false
-  }
+    "remote_uploaded": true,
+    "asset_id": 659527066,
+    "url": "https://github.com/8j-design/film-director-library/releases/download/archive-2026-10-20/director-project-2026-10-20.zip",
+    "server_sha256_verified": true,
+    "release_url": "https://github.com/8j-design/film-director-library/releases/tag/archive-2026-10-20"
+  },
+  "supplemental_archives": [
+    {
+      "name": "director-attachments-2026-10-20.zip",
+      "asset_id": 659539280,
+      "bytes": 13972,
+      "sha256": "3d3bc88f13cb692f729bd4bcbc092963d034a66e666401d70caebbde3db122d0",
+      "url": "https://github.com/8j-design/film-director-library/releases/download/archive-2026-10-20/director-attachments-2026-10-20.zip",
+      "server_sha256_verified": true,
+      "remote_uploaded": true,
+      "files": [
+        {
+          "path": "聊天记录/附件/9975a27e4d6b20329de746c3316557639061795b58b0a9131ef7de5e9553a6f8.docx",
+          "original_name": "视听语言分析作业要求(2).docx",
+          "bytes": 14498,
+          "sha256": "9975a27e4d6b20329de746c3316557639061795b58b0a9131ef7de5e9553a6f8",
+          "chats": [
+            "01a14885-3a76-77b0-998c-e73ca3812d36"
+          ]
+        }
+      ],
+      "verification": "ZIP CRC, source SHA-256 and GitHub server SHA-256 verified"
+    }
+  ]
 }

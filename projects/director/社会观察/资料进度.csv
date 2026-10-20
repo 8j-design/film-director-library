@@ -1,0 +1,74 @@
+﻿编号,系列,单位,对象,链接,链接层级,日期及含义,本次实际范围,状态,完整原片视听完成,缺口或备注,核对日期
+OBS-001,冷暖人生,栏目历史目录,凤凰历史文稿目录,https://phtv.ifeng.com/program/lnrs/doclist.shtml,出品方目录,,沿6页实际分页整理256个去重文章链接,已建立部分历史索引,否,非256期；不覆盖全栏目；未逐篇读正文,2026-10-18
+OBS-002,十三邀,季度目录,第六季,https://wetv.vip/zh-cn/play/pksintgjw1ab0vs/e0046b0ttxa-第3期：许知远对话何多苓_天生是个审美的人,官方平台季度页,,本次辨识11个项目，含番外,部分目录已核对,否,WeTV标13集；官方YouTube本期说明标11集；口径不一致，尚未统一分季分母,2026-10-19
+OBS-003,十三邀,季度目录,第九季,https://wetv.vip/zh-cn/play/7za06kan0mbbnjc-%E5%8D%81%E4%B8%89%E9%82%80_%E7%AC%AC%E4%B9%9D%E5%AD%A3,官方平台季度页,,本次可见13项；登记人物姓名,当前页面目录已核对,否,未研读单集；没有声称全系列目录齐,2026-10-18
+OBS-004,面对面,栏目目录,央视栏目,https://tv.cctv.com/lm/mdm/,出品方栏目页,,栏目身份与目录入口,已核对入口,否,页面动态目录尚未提取完整,2026-10-18
+OBS-005,人生七年,片库目录,英国Up主系列,https://www.itv.com/watch/the-7-up-collection/3a0317/3a0158a0039,官方片库页,,目录及7 Up元数据,已核对入口,否,未取得全系列可看内容；不能混入解说合集,2026-10-18
+OBS-006,VICE,节目页,HBO周播VICE,https://www.hbomaxlapress.com/programming/series/216,官方历史节目页,,节目身份与部分历史说明,已核对入口,否,页面季数和集数不是完整分母；Showtime另核对,2026-10-18
+OBS-007,CBS 60 Minutes,分季目录,CBS美国版,https://www.cbs.com/shows/60_minutes/episodes/,官方分季页,,菜单S44—59及当前S59四项,部分目录已核对,否,不是仅有16季；一整期含多个报道,2026-10-18
+OBS-008,冷暖人生,单期分页文稿,生死透析,https://phtv.ifeng.com/program/lnrs/200904/0422_1598_1120581.shtml,出品方文稿,2009-04-21节目；2009-04-22文章发布,第1、2、3、4、6页正文,部分文稿已研读,否,缺第5页；未看原片,2026-10-18
+OBS-009,冷暖人生,缺页,生死透析第5页,https://phtv.ifeng.com/program/lnrs/200904/0422_1598_1120581_4.shtml,出品方分页链接,,请求返回404，网页读取亦未取得,未取得,否,其他页与后续材料可继续研究；不猜缺页内容,2026-10-18
+OBS-010,冷暖人生,分页文稿,返乡民工矽肺报道,https://phtv.ifeng.com/program/lnrs/200904/0407_1598_1095797.shtml,出品方文稿,2009-04-07文章发布,只读第1页,部分文稿已研读,否,余页及后续追查未研读,2026-10-18
+OBS-011,冷暖人生,B站合集分集,盲行万里,https://www.bilibili.com/video/BV1Kf4y1D7xC/,第三方上传，合集层级,2018-06-05，B站分集标注未独立核验,读页面三分集标签；仅第一项试过基础播放,页面可访问,否,未取得文本字幕；未作连续视听研究；不按播放时间计进度,2026-10-18
+OBS-012,冷暖人生,B站合集分集,生s链,https://www.bilibili.com/video/BV1Kf4y1D7xC/,第三方上传，合集层级,2018-06-12，按上传者原标注,读页面三分集标签；仅第一项试过基础播放,页面可访问,否,未取得文本字幕；未作连续视听研究；不按播放时间计进度,2026-10-18
+OBS-013,冷暖人生,B站合集分集,前女友的复仇,https://www.bilibili.com/video/BV1Kf4y1D7xC/,第三方上传，合集层级,2018-06-26，B站分集标注未独立核验,读页面三分集标签；仅第一项试过基础播放,页面可访问,否,未取得文本字幕；未作连续视听研究；不按播放时间计进度,2026-10-18
+OBS-014,面对面,整期,20220612,https://tv.cctv.com/2022/06/14/VIDEuMuTjw0M2lwoAVnFshF0220614.shtml,央视整期页,2022-06-12节目；页面路径2022-06-14,仅整期说明；含高健与黄晖两组访谈,元数据已核对,否,未看整期；未研读高健部分,2026-10-18
+OBS-015,面对面,配套报道,黄晖,https://news.cnr.cn/native/gd/20220613/t20220613_525863209.shtml,央广网转载央视新闻,2022-06-13文章发布,报道正文全篇,报道正文已研读,否,不是整期逐字稿；文中科学数值未另作核验,2026-10-18
+OBS-016,人生七年,发行资料选读,56 Up,https://www.firstrunfeatures.com/presskits/56up/56uppk.pdf,发行方PDF,2012年影片,物理第2、4—7页（页索引1、3—6）：简介、导演声明、人物简历,选读已研读,否,未读全49页；未看片；材料是2012年影片发行期信息,2026-10-18
+OBS-017,人生七年,官方范围核对,70 Up,https://www.itv.com/presscentre/presscentre/presscentre/presscentre/presscentre/presscentre/media-releases/itv-studios-unveils-captivating-new-unscripted-mipcom-slate,ITV发布资料,2026-10-05发布,已核对存在70 Up条目,范围已核对,否,未核实完整上线、地区播放权限或看片,2026-10-18
+OBS-018,VICE,官方公告,2019年Showtime接续公告,https://www.vicemediagroup.com/wp-content/uploads/2019/09/SHOWTIME_VICE-RELEASE-FINAL-9_24_19-1.pdf,制作／播出方PDF,2019-09-24公告,三页公告正文,公告已读,否,核对系列身份；不作为社会个案学习,2026-10-18
+OBS-019,VICE,制作访谈,Rising Oceans,https://www.vice.com/en/article/inside-the-making-of-rising-oceans-third-season-premiere-of-vice-on-hbo/,VICE官方文章,2016-01-11文章发布,文章正文,正文已读，分析待补,否,未看原片；不把制作方回忆代替当事人完整陈述,2026-10-18
+OBS-020,CBS 60 Minutes,Overtime配套人物报道,RAM相关人物报道,https://www.cbsnews.com/news/ram-health-clinic-patients-60-minutes/,CBS News官方文章,2026-04-05文章发布,文章正文,正文已读，分析待补,否,不是原片逐字稿；未看原片,2026-10-18
+OBS-021,十三邀,季度目录项目,S6 EP1 黄灯,https://wetv.vip/zh-cn/play/pksintgjw1ab0vs/e0046b0ttxa-第3期：许知远对话何多苓_天生是个审美的人,季度目录，非单集深链,,已进入官方59:07上传版整期转写研读及画面取样，见本批新增条目,正文研究已推进,否,未完整连续视听；自动转写未逐句校对,2026-10-19
+OBS-022,十三邀,季度目录项目,S6 EP2 鲁白,https://wetv.vip/zh-cn/play/pksintgjw1ab0vs/e0046b0ttxa-第3期：许知远对话何多苓_天生是个审美的人,季度目录，非单集深链,,仅节目人物与序号,目录已核对,否,未读单集正文；未看原片,2026-10-18
+OBS-023,十三邀,季度目录项目,S6 EP3 何多苓,https://wetv.vip/zh-cn/play/pksintgjw1ab0vs/e0046b0ttxa-第3期：许知远对话何多苓_天生是个审美的人,季度目录，非单集深链,,仅节目人物与序号,目录已核对,否,未读单集正文；未看原片,2026-10-18
+OBS-024,十三邀,季度目录项目,S6 EP4 高圆圆,https://wetv.vip/zh-cn/play/pksintgjw1ab0vs/e0046b0ttxa-第3期：许知远对话何多苓_天生是个审美的人,季度目录，非单集深链,,仅节目人物与序号,目录已核对,否,未读单集正文；未看原片,2026-10-18
+OBS-025,十三邀,季度目录项目,S6 EP5 杨扬,https://wetv.vip/zh-cn/play/pksintgjw1ab0vs/e0046b0ttxa-第3期：许知远对话何多苓_天生是个审美的人,季度目录，非单集深链,,仅节目人物与序号,目录已核对,否,未读单集正文；未看原片,2026-10-18
+OBS-026,十三邀,季度目录项目,S6 EP6 宁浩,https://wetv.vip/zh-cn/play/pksintgjw1ab0vs/e0046b0ttxa-第3期：许知远对话何多苓_天生是个审美的人,季度目录，非单集深链,,仅节目人物与序号,目录已核对,否,未读单集正文；未看原片,2026-10-18
+OBS-027,十三邀,季度目录项目,S6 EP7 葛兆光,https://wetv.vip/zh-cn/play/pksintgjw1ab0vs/e0046b0ttxa-第3期：许知远对话何多苓_天生是个审美的人,季度目录，非单集深链,,仅节目人物与序号,目录已核对,否,未读单集正文；未看原片,2026-10-18
+OBS-028,十三邀,季度目录项目,S6 EP8 吕燕,https://wetv.vip/zh-cn/play/pksintgjw1ab0vs/e0046b0ttxa-第3期：许知远对话何多苓_天生是个审美的人,季度目录，非单集深链,,仅节目人物与序号,目录已核对,否,未读单集正文；未看原片,2026-10-18
+OBS-029,十三邀,季度目录项目,S6 EP9 锺叔河,https://wetv.vip/zh-cn/play/pksintgjw1ab0vs/e0046b0ttxa-第3期：许知远对话何多苓_天生是个审美的人,季度目录，非单集深链,,仅节目人物与序号,目录已核对,否,未读单集正文；未看原片,2026-10-18
+OBS-030,十三邀,季度目录项目,S6 EP10 papi酱,https://wetv.vip/zh-cn/play/pksintgjw1ab0vs/e0046b0ttxa-第3期：许知远对话何多苓_天生是个审美的人,季度目录，非单集深链,,仅节目人物与序号,目录已核对,否,未读单集正文；未看原片,2026-10-18
+OBS-031,十三邀,季度目录项目,S6 番外 刘擎,https://wetv.vip/zh-cn/play/pksintgjw1ab0vs/e0046b0ttxa-第3期：许知远对话何多苓_天生是个审美的人,季度目录，非单集深链,,仅人物及番外标注,目录已核对,否,不自行编造番外的正片期号,2026-10-18
+OBS-032,十三邀,季度目录项目,S9 EP1 姚明,https://wetv.vip/zh-cn/play/7za06kan0mbbnjc-%E5%8D%81%E4%B8%89%E9%82%80_%E7%AC%AC%E4%B9%9D%E5%AD%A3,季度目录，非单集深链,,仅节目人物与序号,目录已核对,否,未读单集正文；未看原片,2026-10-18
+OBS-033,十三邀,季度目录项目,S9 EP2 金国威,https://wetv.vip/zh-cn/play/7za06kan0mbbnjc-%E5%8D%81%E4%B8%89%E9%82%80_%E7%AC%AC%E4%B9%9D%E5%AD%A3,季度目录，非单集深链,,仅节目人物与序号,目录已核对,否,未读单集正文；未看原片,2026-10-18
+OBS-034,十三邀,季度目录项目,S9 EP3 徐小虎,https://wetv.vip/zh-cn/play/7za06kan0mbbnjc-%E5%8D%81%E4%B8%89%E9%82%80_%E7%AC%AC%E4%B9%9D%E5%AD%A3,季度目录，非单集深链,,仅节目人物与序号,目录已核对,否,未读单集正文；未看原片,2026-10-18
+OBS-035,十三邀,季度目录项目,S9 EP4 托纳多雷,https://wetv.vip/zh-cn/play/7za06kan0mbbnjc-%E5%8D%81%E4%B8%89%E9%82%80_%E7%AC%AC%E4%B9%9D%E5%AD%A3,季度目录，非单集深链,,仅节目人物与序号,目录已核对,否,未读单集正文；未看原片,2026-10-18
+OBS-036,十三邀,季度目录项目,S9 EP5 金耀基,https://wetv.vip/zh-cn/play/7za06kan0mbbnjc-%E5%8D%81%E4%B8%89%E9%82%80_%E7%AC%AC%E4%B9%9D%E5%AD%A3,季度目录，非单集深链,,仅节目人物与序号,目录已核对,否,未读单集正文；未看原片,2026-10-18
+OBS-037,十三邀,季度目录项目,S9 EP6 王羽佳,https://wetv.vip/zh-cn/play/7za06kan0mbbnjc-%E5%8D%81%E4%B8%89%E9%82%80_%E7%AC%AC%E4%B9%9D%E5%AD%A3,季度目录，非单集深链,,仅节目人物与序号,目录已核对,否,未读单集正文；未看原片,2026-10-18
+OBS-038,十三邀,季度目录项目,S9 EP7 查尔斯·泰勒,https://wetv.vip/zh-cn/play/7za06kan0mbbnjc-%E5%8D%81%E4%B8%89%E9%82%80_%E7%AC%AC%E4%B9%9D%E5%AD%A3,季度目录，非单集深链,,仅节目人物与序号,目录已核对,否,未读单集正文；未看原片,2026-10-18
+OBS-039,十三邀,季度目录项目,S9 EP8 陈平原,https://wetv.vip/zh-cn/play/7za06kan0mbbnjc-%E5%8D%81%E4%B8%89%E9%82%80_%E7%AC%AC%E4%B9%9D%E5%AD%A3,季度目录，非单集深链,,仅节目人物与序号,目录已核对,否,未读单集正文；未看原片,2026-10-18
+OBS-040,十三邀,季度目录项目,S9 EP9 张嘉益,https://wetv.vip/zh-cn/play/7za06kan0mbbnjc-%E5%8D%81%E4%B8%89%E9%82%80_%E7%AC%AC%E4%B9%9D%E5%AD%A3,季度目录，非单集深链,,仅节目人物与序号,目录已核对,否,未读单集正文；未看原片,2026-10-18
+OBS-041,十三邀,季度目录项目,S9 EP10 梁鸿,https://wetv.vip/zh-cn/play/7za06kan0mbbnjc-%E5%8D%81%E4%B8%89%E9%82%80_%E7%AC%AC%E4%B9%9D%E5%AD%A3,季度目录，非单集深链,,仅节目人物与序号,目录已核对,否,未读单集正文；未看原片,2026-10-18
+OBS-042,十三邀,季度目录项目,S9 EP11 陶身体,https://wetv.vip/zh-cn/play/7za06kan0mbbnjc-%E5%8D%81%E4%B8%89%E9%82%80_%E7%AC%AC%E4%B9%9D%E5%AD%A3,季度目录，非单集深链,,仅节目人物与序号,目录已核对,否,未读单集正文；未看原片,2026-10-18
+OBS-043,十三邀,季度目录项目,S9 EP12 张永和,https://wetv.vip/zh-cn/play/7za06kan0mbbnjc-%E5%8D%81%E4%B8%89%E9%82%80_%E7%AC%AC%E4%B9%9D%E5%AD%A3,季度目录，非单集深链,,仅节目人物与序号,目录已核对,否,未读单集正文；未看原片,2026-10-18
+OBS-044,十三邀,季度目录项目,S9 EP13 吴越,https://wetv.vip/zh-cn/play/7za06kan0mbbnjc-%E5%8D%81%E4%B8%89%E9%82%80_%E7%AC%AC%E4%B9%9D%E5%AD%A3,季度目录，非单集深链,,仅节目人物与序号,目录已核对,否,未读单集正文；未看原片,2026-10-18
+OBS-045,CBS 60 Minutes,整期目录项目,S59 E1：Shot Down Over Iran / The Pardon Economy / Battering Ram,https://www.cbs.com/shows/60_minutes/episodes/,分季目录，非单期播放深链,2026-09-13官方标注播出日期,官方页标题、季集号与日期,元数据已核对,否,未读其中报道；未看原片；需拆报道层级,2026-10-18
+OBS-046,CBS 60 Minutes,整期目录项目,"S59 E2：Patrick Clancy / AI Data Centers / Shergar, Where are you?",https://www.cbs.com/shows/60_minutes/episodes/,分季目录，非单期播放深链,2026-09-20官方标注播出日期,官方页标题、季集号与日期,元数据已核对,否,未读其中报道；未看原片；需拆报道层级,2026-10-18
+OBS-047,CBS 60 Minutes,整期目录项目,S59 E3：Who Needs Humans? / The Thom Tillis Tightrope / Saint Francis in the Cloud,https://www.cbs.com/shows/60_minutes/episodes/,分季目录，非单期播放深链,2026-10-04官方标注播出日期,官方页标题、季集号与日期,元数据已核对,否,未读其中报道；未看原片；需拆报道层级,2026-10-18
+OBS-048,CBS 60 Minutes,整期目录项目,S59 E4：In the Line of Fire / Lost Sheep / Jon Batiste,https://www.cbs.com/shows/60_minutes/episodes/,分季目录，非单期播放深链,2026-10-11官方标注播出日期,官方页标题、季集号与日期,元数据已核对,否,未读其中报道；未看原片；需拆报道层级,2026-10-18
+OBS-049,人生七年,二次解说合集,B站1—9解说,https://www.bilibili.com/video/BV1UUsJzmEjF/,第三方解说,,识别为解说内容,排除出原片覆盖统计,否,不等于九部原片；不是全集学习证据,2026-10-18
+OBS-050,VICE,特别片候选,Panic,https://www.bilibili.com/video/av689063330,B站第三方上传,,仅检索元数据,待核对,否,特别片不纳入周播分集分母；未看内容,2026-10-18
+OBS-051,十三邀,官方整期上传版,黄灯59:07官方上传版,https://www.youtube.com/watch?v=Nej-_bO4GKY,官方频道单期,2023-03-02上传日期，不是首播日期,核对频道、标题、3547秒时长及公开可访问状态；取得本地研究输入,原片研究输入已取得,否,原片取到不等于看过；包含片头、广告、片尾,2026-10-19
+OBS-052,十三邀,整期自动转写研读,黄灯整期语音研究,https://www.youtube.com/watch?v=Nej-_bO4GKY,原片音轨派生；非官方逐字稿,,3547.010625秒输入全部处理；1464段机器稿已全读；最后段结束3546.05秒,整期机器稿研读完成,否,语音检测可能漏识；有专名与年份错误；未逐句校对、未完成实听,2026-10-19
+OBS-053,十三邀,画面取样核看,黄灯64个取样画面,https://www.youtube.com/watch?v=Nej-_bO4GKY,官方原片派生取样,,59个每分钟取样＋5个定点；全部已核看；12:30误字与29:54年份有具体核对,局部画面研究完成,否,不代表连续动作、逐镜剪辑或完整视听,2026-10-19
+OBS-054,十三邀,配套人物报道,黄灯：作家与学者之间的抉择,https://m.thepaper.cn/newsDetail_forward_16242552,人民文学出版社转载南方周末报道,2022-01-12发布,正文全读,正文已研读,否,独立人物报道，不是节目逐字稿,2026-10-19
+OBS-055,十三邀,后续独立访谈,黄灯：在深圳搞钱的年轻人，还关心文学吗,https://culture.southcn.com/node_58839fcc27/529b660878.shtml,南方网原始访谈,2023-04-07发布,正文全读,正文已研读,否,2023年访谈，不移作更早节目原话,2026-10-19
+OBS-056,十三邀,第三方部分对谈整理,罗翔：部分文字稿整理,https://fickotel.github.io/13YaoS5E1/main.html,Ficko二次整理,,网页全文已读；提取文本共12064字符，包含前言及整理者批注,部分对谈整理稿已读,否,部分稿不是整期；语序经调整；批注不是受访者言论；未逐句原片校对,2026-10-19
+OBS-057,十三邀,B站配套演讲候选,黄灯35:41科技向善演讲,https://www.bilibili.com/video/BV1hb4y1J7jz/,腾讯研究院B站视频,2022-01-13发布,页面、合集及活动身份核对,排除出十三邀整期统计,否,属于2022科技向善创新周演讲；未完整研读内容,2026-10-19
+OBS-058,冷暖人生,完整音轨与前段画面,盲行万里：曹晟康；合集p1,https://www.bilibili.com/video/BV1Kf4y1D7xC/?p=1,B站第三方节目上传,合集标20180605；上传20200911,1696.4035秒音轨完整送转写；687段全读；核看4帧，最晚2:00,转写已研读；画面仅前段,否,画面传输失败，可解码至184.1秒；后段与完整连续视听未完成；首播日待官方复核,2026-10-19
+OBS-059,冷暖人生,独立人物报道,新华社：盲人环球旅行者曹晟康,https://www.xinhuanet.com/politics/2018-05/20/c_1122859656.htm,新华社原始采访,2018-05-20发布,正文全读；核对姓名，补劳动技能、互助和旅行乐趣,正文已研读,否,非节目逐字稿；2018报道不作当前现状,2026-10-19
+OBS-060,面对面,整期音轨与抽样画面,20220612：高健、黄晖,https://tv.cctv.com/2022/06/14/VIDEuMuTjw0M2lwoAVnFshF0220614.shtml,央视官方整期,节目20220612；网页20220614,2468.9493秒音轨完整送转写；984段全读；31个取样点核看30个不同画面,整期转写已研读；画面抽样已核看,否,完整连续视听及全部术语校核未完成；音画时间可能约2秒偏差,2026-10-19
+OBS-061,人生七年,首部音轨与前段画面,Seven Up!（1964）；合集p1,https://www.bilibili.com/video/BV1Fs411L7rm/?p=1,B站第三方原片版本,标1964；上传20180623,2387.4773秒音轨完整送转写；412段全读；前18:30内15帧核看,首部转写已研读；画面仅前段,否,可解码至1116.315秒；ASR从00:42到38:53，漏检部分未核；未研读其他年龄原片,2026-10-19
+OBS-062,人生七年,官方配套讨论指南选读,PBS／POV 56 Up discussion guide,https://archive.pov.org/film-files/pov-56-up-discussion-guide-print_action_discussion_file_sm_0.pdf,PBS／POV教育资料,2013年配套播出语境,研读物理第2—13页相关正文：人物、工作、教育、照护、媒介经验,配套指南选读,否,15页文件非全册逐页核查；未观看56 Up；背景年表不等于英国首播年表,2026-10-19
+OBS-063,人生七年,制作人口述,Claire Lewis explains the origins of Seven Up,https://www.granadaland.org/clare-lewis-explains-the-origins-of-seven-up/,制作人口述存档,2018-10-02网页发布,正文全读；区分初片导演与两位研究者，保留口述评价的来源,正文已研读,否,回忆与首次等评价不自动作纪录片史定论,2026-10-19
+OBS-064,人生七年,出版方书目说明,Seven Up: BFI TV Classics,https://shop.bfi.org.uk/seven-up-bfi-tv-classics-paperback/,BFI出版方书目,书目列2007出版,仅书目说明，核对原始20人与后续14人口径,书目已核对,否,没有读该书全文，不计为著作已学习,2026-10-19
+OBS-065,VICE,整期音轨与抽样画面,S4E18 The New Space Race & Closing Gitmo,https://www.youtube.com/watch?v=1G--2Ooutr0,VICE官方频道公开整期,上传20170929；非已核实首播日,1832.1241秒音轨完整送转写；481段全读；24帧核看,整期转写已研读；画面抽样已核看,否,非英语采访ASR不可靠；最后约1分50秒无识别段，未连续核看；政策与未来计划属于报道当时,2026-10-19
+OBS-066,VICE,原片访问失败,S2E2 Greenland Is Melting & Bonded Labor,https://www.youtube.com/watch?v=7Yq-sfWSWLg,VICE官方频道旧上传,20150109上传,尝试读取失败；浏览器确认视频无法播放,原片未取得,否,未显示必须登录；未把制作简介或ILO配套资料记成看过本片,2026-10-19
+OBS-067,VICE,原片访问失败,Our Rising Oceans,https://www.youtube.com/watch?v=Kp6_sDiup6U,VICE官方频道旧上传,20160111上传,公开入口读取返回Video unavailable,原片未取得,否,不记为节目已学习；转向同周播系列其他可访问整期,2026-10-19
+OBS-068,VICE,记者制作说明,Fazeelat Aslam：Bonded Labor制作说明与角色,https://www.fazeelataslam.com/vice/,该段主持／制作人个人网站,,网页正文全读；辨别HBO报道与另列VICE News项目,制作说明已研读,否,节目梗概非全文访谈；HBO段落与后面的其他项目分开,2026-10-19
+OBS-069,VICE,独立配套社会资料,ILO：砖窑工人身份与社会保障,https://www.ilo.org/resource/article/fingerprints-solve-social-security-problem-pakistans-brick-kiln-workers,ILO原始发布／项目报道,2014-04-24发布,正文全读；研究劳动、指纹、证件与服务的联系,配套正文已研读,否,不是VICE片中观察；机构项目陈述不是所有工人的现状,2026-10-19
+OBS-070,VICE,配套研究摘要,ILO：砖窑供应链劳动权利研究,https://www.ilo.org/publications/study-deficits-fundamental-principles-and-rights-work-brick-kiln-supply,ILO研究发布页,2022-09-14发布,只读发布页与摘要，定位工作层级和执行能力问题,摘要已研读,否,PDF正文未读；不能把2022资料移成2014节目原话,2026-10-19
+OBS-071,CBS 60 Minutes,正式报道文稿,RAM免费诊疗：20260405报道,https://www.cbsnews.com/news/ram-provides-free-medical-care-to-uninsured-or-underinsured-americans-60-minutes-transcript/,CBS正式文稿,2026-04-05发布,报道正文全读；不是此前Overtime文稿,正文已研读,否,完整报道不等于当晚全广播；无连续视听,2026-10-19
+OBS-072,CBS 60 Minutes,官方报道抽样画面,Return to RAM：12:58官方公开版本,https://www.youtube.com/watch?v=d_Qkv_5D6-4,60 Minutes官方频道,2026-04-06上传,全时间范围16帧核看；与正式文稿作研究对照,画面抽样已核看,否,未连续听看；原CBS视频入口提取失败后由RAM官网链接取得同一官方报道入口,2026-10-19
+OBS-073,CBS 60 Minutes,报道后机构回应,Chris Hall：60 Minutes Showed You What We See Every Weekend,https://www.ramusa.org/07/60-minutes-showed-you-what-we-see-every-weekend/,RAM负责人第一方文章,2026-07-01发布,正文全读；补服务可及性、志愿工作与机构立场,正文已研读,否,含筹款招募目的；不是独立成效评估或长期结局证据,2026-10-19
