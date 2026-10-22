@@ -1,0 +1,70 @@
+{
+  "date": "2026-10-22",
+  "media": [
+    {
+      "name": "blocking-X.gif",
+      "bytes": 233366,
+      "sha256": "ce50b626c684653f2f7bf3912d3de05cb64750a8164a732888b58bde2573cd9c",
+      "size": [
+        720,
+        416
+      ],
+      "encoded_frames": 25,
+      "cycle_duration_ms": 10000,
+      "source_samples": 80
+    },
+    {
+      "name": "blocking-Y.gif",
+      "bytes": 287057,
+      "sha256": "b58d7eb626b007be1ca31cc74bf9316cf3de3d302722aa77d114dfda66bf6fde",
+      "size": [
+        720,
+        416
+      ],
+      "encoded_frames": 33,
+      "cycle_duration_ms": 10000,
+      "source_samples": 80
+    },
+    {
+      "name": "blocking-Z.gif",
+      "bytes": 287962,
+      "sha256": "e86aab7de54a5a85859476ddbd49d652b6115dcd2b00bb71040f5e6945bb8a98",
+      "size": [
+        720,
+        416
+      ],
+      "encoded_frames": 33,
+      "cycle_duration_ms": 10000,
+      "source_samples": 80
+    },
+    {
+      "name": "pose-comparison.png",
+      "bytes": 151691,
+      "sha256": "c3ccbf7010e503f406b39c2f63ebff9dcd9b25ac63a346c774c62b011952a886",
+      "size": [
+        1800,
+        885
+      ]
+    },
+    {
+      "name": "pose-view.png",
+      "bytes": 104075,
+      "sha256": "38991429fb207fb56f707984363489c3203e9e081b2ff9deaf1c70f38b70f364",
+      "size": [
+        1800,
+        885
+      ]
+    }
+  ],
+  "archive": {
+    "name": "digital-character-blocking-2026-10-22.zip",
+    "bytes": 1165093,
+    "sha256": "adeeb83931644fda12fc5c11d27651792f165b769037787f0653ec062c07b7ca",
+    "members": 12
+  },
+  "state_samples": 243,
+  "fixed_paper_and_negative_control_checked": true,
+  "local_links_checked": 9,
+  "release_url": "https://github.com/8j-design/film-director-library/releases/tag/training-2026-10-22-digital-acting",
+  "limitations": "GIF解码、时长和状态已核；未连续观看全部动态，真实浏览器交互未完成，未做观众验证。"
+}

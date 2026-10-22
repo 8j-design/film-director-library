@@ -1,0 +1,41 @@
+{
+  "duration": 10,
+  "fps": 8,
+  "canvas": [
+    900,
+    520
+  ],
+  "variants": {
+    "X": {
+      "withdraw": 3.0,
+      "door_gaze": false,
+      "label": "X · 同步起动"
+    },
+    "Y": {
+      "withdraw": 4.7,
+      "door_gaze": false,
+      "label": "Y · 错开起动"
+    },
+    "Z": {
+      "withdraw": 4.7,
+      "door_gaze": true,
+      "label": "Y′ · 同时序，注视门口"
+    }
+  },
+  "paper": [
+    443,
+    273,
+    97,
+    25
+  ],
+  "chen_block": [
+    3.0,
+    4.0
+  ],
+  "reach": [
+    0.5,
+    2.0
+  ],
+  "withdraw_duration": 1.3,
+  "purpose": "比较同一清桌动作中的反应相位与注视目标；不预设优胜版本"
+}
