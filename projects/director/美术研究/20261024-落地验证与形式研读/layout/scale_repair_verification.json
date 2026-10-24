@@ -1,0 +1,25 @@
+{
+  "source": "space_plan.svg",
+  "revision": "space_plan_scale_revision.svg",
+  "basis": "proposed human170cm=100u; print110x40cm from V2 prompt",
+  "original_unchanged": true,
+  "print_face": [
+    64.70588235294117,
+    23.529411764705884
+  ],
+  "package_face": [
+    68.70588235294117,
+    27.529411764705884
+  ],
+  "paper_to_person_long_ratio": 0.6470588235294118,
+  "package_can_contain_paper_in_defined_2D_dimensions": true,
+  "not_verified": [
+    "board proportions",
+    "material thickness/folds",
+    "handling/contact",
+    "visual rendering",
+    "animation",
+    "DCC import"
+  ],
+  "sha256": "1c0e7079e1faf6b5eb7ec0bd862b944a1b90afd8facd1053bdbdb151e8f2a018"
+}

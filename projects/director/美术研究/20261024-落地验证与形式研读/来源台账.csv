@@ -1,0 +1,21 @@
+﻿编号,题名,责任者与来源,链接,证据类型,实际阅读范围,限制与状态,核对日期
+L01,Storyboard Docker,Krita官方,https://docs.krita.org/en/reference_manual/dockers/storyboard_docker.html,网页主体全文,agent实际正文8–185；主控复核,图板场景/时间线/导出；未运行,2026-10-24
+L02,Model export considerations,Godot官方,https://docs.godotengine.org/en/stable/tutorials/assets_pipeline/importing_3d_scenes/model_export_considerations.html,网页主体全文,agent正文6–33,轴向/变换/导出；未运行,2026-10-24
+L03,Advanced Import Settings,Godot官方,https://docs.godotengine.org/en/stable/tutorials/assets_pipeline/importing_3d_scenes/advanced_import_settings.html,网页主体全文,agent正文5–108；主控复核,外部材质引用与重导入；未运行,2026-10-24
+L04,Color Managed Workflow,Krita官方,https://docs.krita.org/en/general_concepts/colors/color_managed_workflow.html,正文选读,agent8–132,色彩空间/源文件；未核显示与跨软件,2026-10-24
+S01,Negative Space,Tiny Inventions导演官网,https://www.tinyinventions.com/main/negative-space/,主体选读及实际看图,agent简介职员/资助14–60、STILLS511–521；主控实际看3张图,非原片视听；剧照序号不当影片镜头顺序,2026-10-24
+S02,Interview with Ru Kuwahata and Max Porter,Laura-Beth Cowley / Skwigly,https://www.skwigly.co.uk/ru-kuwahata-max-porter-negative-space/,正文全文,agent44–108；主控复核直接问答,2017-07-26；未播嵌片/制作视频,2026-10-24
+S03,A Conversation with Michael Dudok de Wit,Jonathan Hourigan,https://www.robert-bresson.com/Words/Dudok_de_Wit.html,正文选读,agent73–102、116–134；主控复核,版权2005；未看原片/网页插图,2026-10-24
+S04,The Red Turtle Director Michaël Dudok de Wit on Silent Metaphors,Carlos Aguilar / Filmmaker,https://filmmakermagazine.com/100613-the-red-turtle-director-michael-dudok-de-wit-on-silent-metaphors-charming-flaws-and-takahatas-influence/,正文选读,agent103–116,2016-11-18；短长片密度比较；非全篇/影片,2026-10-24
+S05,Father and daughter,ACMI馆藏,https://www.acmi.net.au/works/108427--father-and-daughter/,短机构正文与元数据,agent44–128,页面无图视频；不绕过馆藏访问,2026-10-24
+P01,4.9 Storage Solutions for Oversized Paper Artifacts,NEDCC,https://www.nedcc.org/free-resources/preservation-leaflets/4.-storage-and-handling/4.9-storage-solutions-for-oversized-paper-artifacts,检索返回主体文字,主控实际读存储/夹护/卷/折等主体,未核底部参考与图；馆藏要求不等同日常人物规范,2026-10-24
+P02,How to pack paper and unframed artworks,National Museums Scotland,https://www.nms.ac.uk/our-impact/national-work/training-and-guidance-for-museums/collections-care/object-packing/how-to-pack-paper-and-unframed-artworks,短机构主体全文,主控58–68,未取DOCX/未看图；包装依表面状态,2026-10-24
+P03,4.5 Packing and Shipping Paper Artifacts,NEDCC,https://www.nedcc.org/free-resources/preservation-leaflets/4.-storage-and-handling/4.5-packing-and-shipping-paper-artifacts,仅短索引；正文403,主控只见短索引,不计正文已读，不据此新增实施结论,2026-10-24
+N01,吴山明卓鹤君，成就水墨动画大手笔,郑琳；中国美术学院保存,https://www.caa.edu.cn/info/3811/12395.htm,主体全文,主控135–191,2015-05-14；受访回忆与记者宣传判断分开；未看片/看图,2026-10-24
+N02,山魂丨卓鹤君作品展开幕,中国美术学院美术馆,https://caam.caa.edu.cn/info/1044/1352.htm,主体选读,主控79–139,2025-01-18；不是1988电影原档案；未看网页图,2026-10-24
+N03,艺术人生｜卓鹤君：笔绘山河，墨铸山魂,杭州日报艺术典藏；中国美术学院美术馆保存,https://caam.caa.edu.cn/info/1044/1343.htm,主体选读,主控79–156,2025-01-19；未看图，不将后来绘画认作电影稿,2026-10-24
+N04,Blinkity Blank,NFB官方,https://www.nfb.ca/film/blinkity-blank/,短机构主体/职员表,主控54–114,未播影片/未实听；视觉暂留措辞不当科学定律,2026-10-24
+N05,Blinkity Blank technical notes / music notes,Norman McLaren / Maurice Blackburn；NFB保存,https://www3.nfb.ca/archives_mclaren/notech/NT04EN.pdf,检索返回原文选段；直接PDF403,主控Soundtrack及Blackburn开头选段,1955文字；非完整PDF阅读/未看图；不能复建逐帧表,2026-10-24
+N06,Beyond the Visible: Blinkity Blank and the Anti-Persistence Statement,Matias Poggini / Animation Studies 2.0,https://blog.animationstudies.org/beyond-the-visible-blinkity-blank-and-the-anti-persistence-statement/,主体全文及讨论选读,主控39–65、74–115,2018-03-12；批评模型/科学/软件概括分开；未核1912原研究,2026-10-24
+N07,Working in Xsheet/Timeline,OpenToonz官方GitHub文档,https://raw.githubusercontent.com/opentoonz/opentoonz_docs/master/source/working_in_xsheet.rst,正文选读,主控0–41、113–145,新文档不重复新建已有OpenToonz卡；未安装/运行,2026-10-24
+N08,卓鹤君——折叠时空的山水宇宙,中国美术学院美术馆旧链接,https://caam.caa.edu.cn/news/202503/83957.html,仅索引；正文404,主控只见检索索引,不计正文全文，另有可读馆方资料,2026-10-24

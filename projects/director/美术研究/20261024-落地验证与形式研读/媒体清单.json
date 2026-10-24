@@ -1,0 +1,133 @@
+{
+  "date": "2026-10-24",
+  "release_url": "https://github.com/8j-design/film-director-library/releases/tag/research-2026-10-24-art-validation",
+  "archive": {
+    "name": "art-validation-2026-10-24.zip",
+    "bytes": 5108847,
+    "sha256": "43414bd3faeae63e38d6d5069a0345880af472ff79a366ef62b18ef5f85b28c8"
+  },
+  "files": [
+    {
+      "path": "44题导航与本轮增补.md",
+      "bytes": 5255,
+      "sha256": "f1e666402ec94f1b6a1b89a856f49aa5c648aa3efb4aed6f9f00770840b49d86"
+    },
+    {
+      "path": "agents/blind_v1.md",
+      "bytes": 5694,
+      "sha256": "5dc2621d13e67634d8c57e33b49321021292288122861fa4270c5fdf04df37ff"
+    },
+    {
+      "path": "agents/comparables.md",
+      "bytes": 10718,
+      "sha256": "d7e5ba0debefbbac73af63b81995734cc30afd7b941ceb1b751a9881f825fb50"
+    },
+    {
+      "path": "agents/implementation_gap.md",
+      "bytes": 15397,
+      "sha256": "5e1429dfd24fd5f2483a4c89394bc8acc432db45c7252a489841a8b406b55817"
+    },
+    {
+      "path": "agents/phase_review.md",
+      "bytes": 12537,
+      "sha256": "4d435fb0a4d8d71f61402dc15aee46a28e3a1fd2454738ec723315d452d88e2d"
+    },
+    {
+      "path": "assets/board-v1.png",
+      "bytes": 2635639,
+      "sha256": "d99a098226d489a6499c1133c1c7fd497f12fee8600cf72bbd5ffb55df17a1dc"
+    },
+    {
+      "path": "assets/board-v2.png",
+      "bytes": 2474425,
+      "sha256": "f61863698f46716bc4355c5817ba3c5e73fc96abc21c706c81a6becacda1d0aa"
+    },
+    {
+      "path": "layout/README.md",
+      "bytes": 3787,
+      "sha256": "8764c92f0e865335fe4275bb7787c259e954e40d8d3b70f79682766fe396804b"
+    },
+    {
+      "path": "layout/build_layout.py",
+      "bytes": 11988,
+      "sha256": "14c27ea0770358bdab30dd249568be4f67d4a560617b820aad0945d09f0e532d"
+    },
+    {
+      "path": "layout/layout_edit_verification.json",
+      "bytes": 1280,
+      "sha256": "36f0eaa65f8c2d11a3e350faa0e2e0ddbb529d85a21b59ea5289c685a591737e"
+    },
+    {
+      "path": "layout/repair_scale.py",
+      "bytes": 3799,
+      "sha256": "f345c3e2d8ceec57eb300dbac2de9bdcd73e4c81dc3d6d0368d489c62b8bedb6"
+    },
+    {
+      "path": "layout/scale_repair_verification.json",
+      "bytes": 702,
+      "sha256": "faad621108a28a03417ef62700236f06539d93879ba016547217daf7f4c7453a"
+    },
+    {
+      "path": "layout/space_plan.svg",
+      "bytes": 8596,
+      "sha256": "22141da67cc1aeee71200e7f26d5ffbac4a3af5bbef00ffbe39820ba049f0eb4"
+    },
+    {
+      "path": "layout/space_plan_pack_edit.svg",
+      "bytes": 8596,
+      "sha256": "dabff8fe0a658903d338154887a410b7b5ce70fa701c93a1c34ebbdaf88059aa"
+    },
+    {
+      "path": "layout/space_plan_scale_revision.svg",
+      "bytes": 9579,
+      "sha256": "1c0e7079e1faf6b5eb7ec0bd862b944a1b90afd8facd1053bdbdb151e8f2a018"
+    },
+    {
+      "path": "prompts-v1.txt",
+      "bytes": 2667,
+      "sha256": "ae5244d99193626db9c7918ad612356fcfbe6bebbdd3e956b6bdc6d6fb22aa0a"
+    },
+    {
+      "path": "prompts-v2.txt",
+      "bytes": 2990,
+      "sha256": "456edd8b4ac2b0ad3fb89dd1b68c264cb34d58dc242c9c7488ae3b1513597b36"
+    },
+    {
+      "path": "v1对照旧学习与修订决定.md",
+      "bytes": 3827,
+      "sha256": "a56c7be023cd63163b77421726ec857923450c15a3e6f118a21e3c24fa4e7dd3"
+    },
+    {
+      "path": "v2主控复看与同类对照.md",
+      "bytes": 7468,
+      "sha256": "e9141b53241ddccd8b3bc04ea4bf1596031c959572efa8c2d5ae87435dfb98ec"
+    },
+    {
+      "path": "专题02-线形空间与时间-首批研读.md",
+      "bytes": 7490,
+      "sha256": "ff30ed20c5abbccbf2e87672a73fbf49fa94dfe3b5022fc955c8887334ddaedf"
+    },
+    {
+      "path": "来源台账.csv",
+      "bytes": 5308,
+      "sha256": "5c38668a41912e802cfad2ff12f290abce330e5fcefc28133fccdbac596d41de"
+    },
+    {
+      "path": "测试前提与判据-v1.md",
+      "bytes": 2540,
+      "sha256": "7b412671c9edd0d3dcf7cc6418e2c2bceff9166e8d0f188e8eb6d1ef129d7ec0"
+    },
+    {
+      "path": "生活材料补证.md",
+      "bytes": 2330,
+      "sha256": "9320f2293f5184915cb9dcb5d53bf13bcb17102e7b74d3b507875f897f3d5a7a"
+    },
+    {
+      "path": "研究与落地验证报告-20261024.md",
+      "bytes": 14009,
+      "sha256": "c37636294c653c0e9625229097ce0ecb56750db3886887cf66a63265cd514cb6"
+    }
+  ],
+  "excluded": "third-party reference_images; credentials; unrelated project/history",
+  "not_an_artistic_validation_receipt": true
+}

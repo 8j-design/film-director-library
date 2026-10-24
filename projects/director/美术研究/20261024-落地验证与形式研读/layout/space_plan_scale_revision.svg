@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" width="1560" height="830" viewBox="0 0 1560 830" role="img" aria-labelledby="title description" font-family="Microsoft YaHei, sans-serif">
+  <ns0:title id="title">最后一张：尺度契约修订；尚未配准图板</ns0:title>
+  <ns0:desc id="description">辅助布局，不是人物美术、动画或图板验收。尺寸均为提案单位，未测量图板或现实房间。第三视图是第五至第六节拍后的门旁包件状态。</ns0:desc>
+  <ns0:metadata id="layout_metadata">{"basis": "测试前提与判据-v1.md；助手自拟练习《最后一张》", "measurement_status": "assumed relative design units; no physical measurement; not matched to generated board", "scale": "same plan scale in all 3 panels: 0.75 screen units per layout unit", "room": [600, 420], "door_width": 80, "table": [190, 84], "print_face": [64.70588235294117, 23.529411764705884], "package_face": [68.70588235294117, 27.529411764705884], "package_thickness_assumed": 8, "person_relative_height_reference": {"C_A": 100, "C_B": 96}, "person_note": "heights are comparison baselines, not portrait designs or physical dimensions", "private_box": [32, 24], "package_state_note": "Proposed prompt-relative scale only; package upright footprint width x thickness, height=long edge; NOT measured from board", "source_read": ["Krita Storyboard Docker", "Godot Model export considerations", "Godot Advanced Import Settings"], "revision_basis": "V2 prompt: print110x40cm; proposed adult170cm=100u; not original frozen story measurements"}</ns0:metadata>
+  <ns0:rect id="page" x="0" y="0" width="1560" height="830" fill="#f7f5ee" />
+  <ns0:text x="30" y="35" font-size="22">《最后一张》布局辅助：固定房间 + 对象状态；不代替主美术</ns0:text>
+  <ns0:text x="30" y="62" font-size="15">全为假设布局单位 u，未量取图板／现实尺寸；三视图同尺。十字只是位置锚点，不是人物模型。</ns0:text>
+  <ns0:defs>
+    <ns0:marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto" markerUnits="strokeWidth">
+      <ns0:path d="M0 0 L8 4 L0 8 Z" fill="#737f83" />
+    </ns0:marker>
+    <ns0:g id="ROOM_FIXED">
+      <ns0:rect id="ROOM_BOUNDARY" x="0" y="0" width="600" height="420" fill="#ede9de" stroke="#505b60" stroke-width="4" />
+      <ns0:path id="DOOR_01" d="M460 420 H540 M540 420 V340 M460 420 A80 80 0 0 1 540 340" fill="none" stroke="#8d877c" stroke-width="2" />
+      <ns0:line x1="460" y1="420" x2="540" y2="420" stroke="#f7f5ee" stroke-width="6" />
+      <ns0:text x="460" y="449" font-size="14">门80u</ns0:text>
+      <ns0:path id="WINDOW_01" d="M80 0 H230 M80 5 H230" stroke="#718e9b" stroke-width="5" />
+      <ns0:text x="105" y="25" font-size="14">固定窗</ns0:text>
+      <ns0:rect id="TABLE_01" x="190" y="155" width="190" height="84" fill="#d3c4ac" stroke="#8b7c68" stroke-width="2" />
+      <ns0:text x="221" y="259" font-size="14">工作台190×84u</ns0:text>
+      <ns0:path id="PLAN_SCALE" d="M20 400 H120 M20 395 V405 M120 395 V405" stroke="#505b60" stroke-width="2" />
+      <ns0:text x="30" y="388" font-size="13">100u标尺</ns0:text>
+    </ns0:g>
+    <ns0:g id="PRINT_FACE" data-width="64.70588235294117" data-height="23.529411764705884">
+      <ns0:rect id="PRINT_SIZE" x="0" y="0" width="64.70588235294117" height="23.529411764705884" fill="#f9f7ed" stroke="#797463" stroke-width="1.5" />
+      <ns0:path d="M5 7 H59.705882352941174 M5 13 H55.705882352941174 M8 19 H60.705882352941174" stroke="#646b68" stroke-width="2" />
+    </ns0:g>
+    <ns0:g id="PACKAGE_FACE" data-width="68.70588235294117" data-height="27.529411764705884">
+      <ns0:rect id="PACKAGE_FACE_SIZE" x="0" y="0" width="68.70588235294117" height="27.529411764705884" fill="#b8a588" stroke="#776d5c" stroke-width="1.5" />
+      <ns0:rect id="PACKAGE_FACE_BAND" x="42.597647058823526" y="0" width="7" height="27.529411764705884" fill="currentColor" />
+    </ns0:g>
+    <ns0:g id="PACKAGE_UPRIGHT_FOOTPRINT" data-width="27.529411764705884" data-depth="8" data-height="68.70588235294117">
+      <ns0:rect id="PACKAGE_FOOTPRINT_SIZE" x="0" y="0" width="27.529411764705884" height="8" fill="#b8a588" stroke="#776d5c" stroke-width="1.5" />
+      <ns0:rect id="PACKAGE_FOOTPRINT_BAND" x="17.06823529411765" y="0" width="3" height="8" fill="currentColor" />
+    </ns0:g>
+    <ns0:g id="PRIVATE_BOX" data-width="32" data-depth="24">
+      <ns0:rect id="PRIVATE_BOX_SIZE" x="0" y="0" width="32" height="24" fill="#c8beaa" stroke="#776d5c" stroke-width="1.5" />
+      <ns0:path d="M16 0 V24 M0 12 H32" stroke="#877c68" stroke-width="1" />
+    </ns0:g>
+  </ns0:defs>
+  <ns0:text x="30" y="101" font-size="17">A｜节拍1—3：原纸与私人箱</ns0:text>
+  <ns0:g id="STATE_A" transform="translate(30 125) scale(0.75)">
+    <ns0:use id="ROOM_A" href="#ROOM_FIXED" x="0" y="0" />
+    <ns0:use id="PRINT_01" href="#PRINT_FACE" x="208" y="172" />
+    <ns0:g id="C_A_0" transform="translate(160 190)">
+      <ns0:path d="M -9 0 H 9 M 0 -9 V 9" stroke="#485a66" stroke-width="2" />
+      <ns0:text x="-24" y="-15" font-size="11">C_A</ns0:text>
+    </ns0:g>
+    <ns0:g id="C_B_0" transform="translate(414 220)">
+      <ns0:path d="M -9 0 H 9 M 0 -9 V 9" stroke="#485a66" stroke-width="2" />
+      <ns0:text x="-24" y="-15" font-size="11">C_B</ns0:text>
+    </ns0:g>
+    <ns0:use id="BOX_A_0" href="#PRIVATE_BOX" x="110" y="260" />
+    <ns0:use id="BOX_B_0" href="#PRIVATE_BOX" x="425" y="274" />
+    <ns0:text x="100" y="307" font-size="12">BOX_A</ns0:text>
+    <ns0:text x="417" y="319" font-size="12">BOX_B</ns0:text>
+  </ns0:g>
+  <ns0:text x="540" y="101" font-size="17">B｜节拍4：同一纸张完成包装</ns0:text>
+  <ns0:g id="STATE_B" transform="translate(540 125) scale(0.75)">
+    <ns0:use id="ROOM_B" href="#ROOM_FIXED" x="0" y="0" />
+    <ns0:g id="C_A_1" transform="translate(160 190)">
+      <ns0:path d="M -9 0 H 9 M 0 -9 V 9" stroke="#485a66" stroke-width="2" />
+      <ns0:text x="-24" y="-15" font-size="11">C_A</ns0:text>
+    </ns0:g>
+    <ns0:g id="C_B_1" transform="translate(414 220)">
+      <ns0:path d="M -9 0 H 9 M 0 -9 V 9" stroke="#485a66" stroke-width="2" />
+      <ns0:text x="-24" y="-15" font-size="11">C_B</ns0:text>
+    </ns0:g>
+    <ns0:use id="BOX_A_1" href="#PRIVATE_BOX" x="110" y="260" />
+    <ns0:use id="BOX_B_1" href="#PRIVATE_BOX" x="425" y="274" />
+    <ns0:text x="100" y="307" font-size="12">BOX_A</ns0:text>
+    <ns0:text x="417" y="319" font-size="12">BOX_B</ns0:text>
+    <ns0:use id="PACK_01_TABLE" href="#PACKAGE_FACE" x="206" y="170" color="#1e3a5f" data-object="PACK_01" />
+    <ns0:path id="PACK_TRANSFER_PATH" d="M288 205 L412 275 L412 370 L401 401" fill="none" stroke="#737f83" stroke-width="2" stroke-dasharray="7 5" marker-end="url(#arrow)" />
+    <ns0:text x="371" y="348" font-size="13">拟搬运路径</ns0:text>
+  </ns0:g>
+  <ns0:text x="1050" y="101" font-size="17">C｜节拍5—6：人箱离开、包件留下</ns0:text>
+  <ns0:g id="STATE_C" transform="translate(1050 125) scale(0.75)">
+    <ns0:use id="ROOM_C" href="#ROOM_FIXED" x="0" y="0" />
+    <ns0:g id="PACK_01" transform="translate(375 400)" color="#1e3a5f" data-object="PACK_01" data-state="upright-leaning-at-door" data-measurement="assumed">
+      <ns0:use id="PACK_01_FOOTPRINT" href="#PACKAGE_UPRIGHT_FOOTPRINT" x="0" y="0" />
+    </ns0:g>
+    <ns0:text x="288" y="375" font-size="14">PACK_01立靠门左侧</ns0:text>
+    <ns0:text x="260" y="395" font-size="13">占地27.53×8u；高68.71u</ns0:text>
+  </ns0:g>
+  <ns0:text x="30" y="505" font-size="16">尺度修订（假设成人170cm=100u）：原纸64.71×23.53u；包装面68.71×27.53u。</ns0:text>
+  <ns0:use id="PRINT_REFERENCE" href="#PRINT_FACE" x="35" y="535" />
+  <ns0:use id="PACK_REFERENCE" href="#PACKAGE_FACE" x="235" y="533" color="#1e3a5f" />
+  <ns0:text x="35" y="607" font-size="14">原纸：保留同一长宽识别</ns0:text>
+  <ns0:text x="235" y="607" font-size="14">纸板包件：四周2u余量（提案）</ns0:text>
+  <ns0:path id="HEIGHT_REFERENCE_A" d="M500 535 V635 M494 535 H506 M494 635 H506" stroke="#617c83" stroke-width="2" />
+  <ns0:path id="HEIGHT_REFERENCE_B" d="M585 539 V635 M579 539 H591 M579 635 H591" stroke="#877864" stroke-width="2" />
+  <ns0:text x="465" y="656" font-size="13">C_A高100u</ns0:text>
+  <ns0:text x="558" y="656" font-size="13">C_B高96u</ns0:text>
+  <ns0:text x="690" y="556" font-size="15">位置十字不表示肩宽、脚印或接触；身高线仅供尺寸比较。</ns0:text>
+  <ns0:text x="690" y="583" font-size="15">C为立靠俯视；高为包件长边，宽为短边。需另核倾角/支撑。</ns0:text>
+  <ns0:text x="690" y="610" font-size="15">A→B→C只是状态与路径提案，未验证抬起、转向、重量或碰撞。</ns0:text>
+  <ns0:text x="30" y="707" font-size="15">固定门/窗/桌由一个共享ROOM_FIXED定义复用；并非与生成图板量测配准。</ns0:text>
+  <ns0:text x="30" y="737" font-size="15">不证明可直接导入Blender/Godot，不包含骨骼、真实材质、动作接触、时间或声轨。</ns0:text>
+  <ns0:text x="30" y="767" font-size="15">本SVG只作平面位置、尺寸与对象状态辅助；主美术由另行生成并审查的叙事板承担。</ns0:text>
+  <ns0:text x="30" y="797" font-size="14">本版只统一提示词与布局的尺度提案；没有修复生成图中的比例，也未作视觉验收。</ns0:text>
+</ns0:svg>

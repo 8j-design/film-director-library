@@ -1,0 +1,43 @@
+{
+  "status": "pass_structural_edit_check_only",
+  "original": "space_plan.svg",
+  "edited": "space_plan_pack_edit.svg",
+  "sha256_original": "22141da67cc1aeee71200e7f26d5ffbac4a3af5bbef00ffbe39820ba049f0eb4",
+  "sha256_edited": "dabff8fe0a658903d338154887a410b7b5ce70fa701c93a1c34ebbdaf88059aa",
+  "operation": "reread_original_from_disk_then_change_only_PACK_01_color",
+  "element_count": 86,
+  "unique_ids": 44,
+  "actual_changes": [
+    {
+      "element_index": 66,
+      "id": "PACK_01",
+      "attribute": "color",
+      "before": "#1e3a5f",
+      "after": "#274f7d"
+    }
+  ],
+  "fixed_and_dimension_elements_unchanged": {
+    "ROOM_FIXED": true,
+    "DOOR_01": true,
+    "WINDOW_01": true,
+    "TABLE_01": true,
+    "PLAN_SCALE": true,
+    "PRINT_SIZE": true,
+    "PACKAGE_FACE_SIZE": true,
+    "PACKAGE_FOOTPRINT_SIZE": true,
+    "PRIVATE_BOX_SIZE": true,
+    "HEIGHT_REFERENCE_A": true,
+    "HEIGHT_REFERENCE_B": true
+  },
+  "metadata_dimensions_unchanged": true,
+  "hrefs": "internal references only; all target IDs exist; no external files or scripts",
+  "not_verified": [
+    "visual rendering",
+    "generated-board alignment",
+    "animation",
+    "contact",
+    "collision",
+    "DCC import",
+    "viewer feedback"
+  ]
+}
