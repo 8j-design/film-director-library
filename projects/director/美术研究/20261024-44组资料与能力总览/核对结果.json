@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-24",
+  "group_count": 44,
+  "original_title_order_preserved": true,
+  "original_outline_sha256": "85f34a92c28e7d3e77d127a3cc117dd49dbf8e2ea37145ce43cfbe2e2f0d8480",
+  "raw_csv_records": 145,
+  "image_url_supplements": 3,
+  "distinct_source_urls": 139,
+  "source_evidence_categories": {
+    "有文字研读记录；具体全文/选读/短文见范围": 107,
+    "书目/目录/入口；不计已研读正文": 12,
+    "仅检索返回原文选段；不计完整正文": 2,
+    "实际静态看图；不等于连续影片": 6,
+    "仅线索/未取得；不计已学": 12
+  },
+  "group_work_status": {
+    "已有转用或有限实作": 12,
+    "已有文字起点，未成完整专题": 27,
+    "资料明显偏薄": 5
+  },
+  "all_groups_mastered": false,
+  "counts_are_not_artistic_mastery": true
+}
