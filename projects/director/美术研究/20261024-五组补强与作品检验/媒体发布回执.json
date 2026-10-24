@@ -1,0 +1,71 @@
+{
+  "account": "8j-design",
+  "repository": "https://github.com/8j-design/film-director-library",
+  "private": true,
+  "can_push": true,
+  "commit": "471782ef3399b1eafd81dd83bf2464e56d48747f",
+  "source_commit": "226e02144920eedc4419cd9ce0489ae4e71342bc",
+  "files": 196,
+  "all_git_blobs_match": true,
+  "release_url": "https://github.com/8j-design/film-director-library/releases/tag/research-2026-10-24-five-art-groups",
+  "release_published": true,
+  "assets": [
+    {
+      "name": "five-art-groups-original-work-2026-10-24.zip",
+      "asset_id": 672302673,
+      "url": "https://github.com/8j-design/film-director-library/releases/download/untagged-203921b899eb8e1170da/five-art-groups-original-work-2026-10-24.zip",
+      "bytes": 44245190,
+      "sha256": "0c4ecc61732fe98bbd51c5a9b408d14a3abaf08a066115430346e242268517ba",
+      "server_sha256_verified": true
+    },
+    {
+      "name": "folds-of-air.mp4",
+      "asset_id": 672302987,
+      "url": "https://github.com/8j-design/film-director-library/releases/download/untagged-203921b899eb8e1170da/folds-of-air.mp4",
+      "bytes": 677715,
+      "sha256": "0e61da6dedb62f0e6e75bba0f979da9468fd2b69605c66d1e12f7eadf5a91b5e",
+      "server_sha256_verified": true
+    },
+    {
+      "name": "folds-animation.blend",
+      "asset_id": 672303167,
+      "url": "https://github.com/8j-design/film-director-library/releases/download/untagged-203921b899eb8e1170da/folds-animation.blend",
+      "bytes": 548341,
+      "sha256": "9531776a698676ea8ea2527b2d348884d7645f4ed48d6f477f7d7996b3565327",
+      "server_sha256_verified": true
+    },
+    {
+      "name": "versions-contact.png",
+      "asset_id": 672303306,
+      "url": "https://github.com/8j-design/film-director-library/releases/download/untagged-203921b899eb8e1170da/versions-contact.png",
+      "bytes": 716582,
+      "sha256": "536f745fca661324fd67a0fd507f18736be109ceab0334d7f2088870410f5d46",
+      "server_sha256_verified": true
+    },
+    {
+      "name": "motion-contact.png",
+      "asset_id": 672303464,
+      "url": "https://github.com/8j-design/film-director-library/releases/download/untagged-203921b899eb8e1170da/motion-contact.png",
+      "bytes": 702075,
+      "sha256": "44b85d103ffbe9918b922ede6f6b4569d2ebe9645e9db1667397298d11da79ab",
+      "server_sha256_verified": true
+    },
+    {
+      "name": "controls-contact.png",
+      "asset_id": 672303661,
+      "url": "https://github.com/8j-design/film-director-library/releases/download/untagged-203921b899eb8e1170da/controls-contact.png",
+      "bytes": 517118,
+      "sha256": "b6a1e82b9d23f42e27a165ea3a031a92b634dadb81206b68dbdb890ce810fa7b",
+      "server_sha256_verified": true
+    },
+    {
+      "name": "folds-v3-preview.png",
+      "asset_id": 672303815,
+      "url": "https://github.com/8j-design/film-director-library/releases/download/untagged-203921b899eb8e1170da/folds-v3-preview.png",
+      "bytes": 820219,
+      "sha256": "dbdfcf886905a98bc34a7183372a51fcaed7272b7857af2a6937af7ea55d65e0",
+      "server_sha256_verified": true
+    }
+  ],
+  "all_server_sha256_verified": true
+}
