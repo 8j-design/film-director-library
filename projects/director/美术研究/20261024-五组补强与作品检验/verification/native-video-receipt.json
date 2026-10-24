@@ -1,0 +1,153 @@
+{
+  "native_reopen": {
+    "blender": "5.2.3 LTS",
+    "object_count": 47,
+    "mesh_count": 43,
+    "shape_key_objects": 39,
+    "external_images": [],
+    "samples": [
+      {
+        "frame": 1,
+        "shell_x_range": [
+          -0.6280364394187927,
+          0.6280364394187927
+        ],
+        "Open": 0.0,
+        "Afterimage": 0.0,
+        "vertex_count": 12506
+      },
+      {
+        "frame": 72,
+        "shell_x_range": [
+          -0.6365149021148682,
+          0.6365149021148682
+        ],
+        "Open": 0.029999999329447746,
+        "Afterimage": 0.0,
+        "vertex_count": 12506
+      },
+      {
+        "frame": 96,
+        "shell_x_range": [
+          -0.6676027178764343,
+          0.6676027178764343
+        ],
+        "Open": 0.14000000059604645,
+        "Afterimage": 0.0,
+        "vertex_count": 12506
+      },
+      {
+        "frame": 144,
+        "shell_x_range": [
+          -0.8151752948760986,
+          0.8151752948760986
+        ],
+        "Open": 0.6621655225753784,
+        "Afterimage": 0.0,
+        "vertex_count": 12506
+      },
+      {
+        "frame": 192,
+        "shell_x_range": [
+          -0.9106528162956238,
+          0.9106528162956238
+        ],
+        "Open": 1.0,
+        "Afterimage": 0.0,
+        "vertex_count": 12506
+      },
+      {
+        "frame": 216,
+        "shell_x_range": [
+          -0.9106528162956238,
+          0.9106528162956238
+        ],
+        "Open": 1.0,
+        "Afterimage": 0.0,
+        "vertex_count": 12506
+      },
+      {
+        "frame": 240,
+        "shell_x_range": [
+          -0.9106528162956238,
+          0.9106528162956238
+        ],
+        "Open": 1.0,
+        "Afterimage": 0.0,
+        "vertex_count": 12506
+      },
+      {
+        "frame": 250,
+        "shell_x_range": [
+          -0.8983400464057922,
+          0.9098507761955261
+        ],
+        "Open": 0.9767976403236389,
+        "Afterimage": 0.030291520059108734,
+        "vertex_count": 12506
+      },
+      {
+        "frame": 288,
+        "shell_x_range": [
+          -0.7026062607765198,
+          0.892606258392334
+        ],
+        "Open": 0.6000000238418579,
+        "Afterimage": 0.5,
+        "vertex_count": 12506
+      },
+      {
+        "frame": 336,
+        "shell_x_range": [
+          -0.4606457054615021,
+          0.8406457304954529
+        ],
+        "Open": 0.07999999821186066,
+        "Afterimage": 1.0,
+        "vertex_count": 12506
+      },
+      {
+        "frame": 384,
+        "shell_x_range": [
+          -0.43803641200065613,
+          0.8180364370346069
+        ],
+        "Open": 0.0,
+        "Afterimage": 1.0,
+        "vertex_count": 12506
+      }
+    ]
+  },
+  "video": {
+    "path": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\美术五组补强与作品检验-20261024\\artwork\\v3\\folds-of-air.mp4",
+    "bytes": 677715,
+    "sha256": "0e61da6dedb62f0e6e75bba0f979da9468fd2b69605c66d1e12f7eadf5a91b5e",
+    "frame_duration": 384,
+    "fps": 24,
+    "duration_seconds": 16.0,
+    "full_decode_frames": 384,
+    "full_decode_size": [
+      192,
+      144
+    ],
+    "selected_full_size_frames": [
+      1,
+      72,
+      96,
+      144,
+      192,
+      216,
+      240,
+      250,
+      288,
+      336,
+      384
+    ],
+    "selected_size": [
+      768,
+      576
+    ],
+    "audio": "silent by design; no audio comprehension or MV completion claimed",
+    "scope": "Technical full-frame decode; selected images can be inspected, not continuous audiovisual viewing"
+  }
+}

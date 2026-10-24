@@ -9,6 +9,7 @@
 | [NatronGitHub/Natron：影视与数字艺术研究参考](cards/16f6302e5bbee6f8.md) | 节点合成源码与文档入口 | 美术 数字艺术 独立制作 Natron | 仅参考 |
 | [hydra-synth/hydra：影视与数字艺术研究参考](cards/258bc6a5bd8a0dae.md) | 实时反馈与可编程视觉 | 美术 数字艺术 独立制作 hydra | 仅参考 |
 | [nannou-org/nannou：影视与数字艺术研究参考](cards/2c255fc91ecbdcde.md) | Rust创意编程，含生成设计、Nature of Code移植及音频/ISF/OSC等入口 | 美术 数字艺术 独立制作 nannou | 仅参考 |
+| [3b1b/manim：ManimGL程序动画参考](cards/330ec54bca59ecf0.md) | 精确程序动画与版本区分，未安装或验证本机兼容性 | 美术 动态图形 R36 Python ManimGL | 仅参考 |
 | [KDE/krita：影视与数字艺术研究参考](cards/3e137fef8892c272.md) | 数字绘画、概念/接景/纹理的源码入口 | 美术 数字艺术 独立制作 krita | 仅参考 |
 | [bnpr/Malt：影视与数字艺术研究参考](cards/4117cec8187c73f4.md) | NPR可定制渲染框架，含Blender宿主、GLSL节点及Python渲染管线 | 美术 数字艺术 独立制作 Malt | 仅参考 |
 | [ossia/score：影视与数字艺术研究参考](cards/4c29943a94e280a1.md) | 多软件/设备的互动声画“谱”，OSC/MIDI/DMX/视频等 | 美术 数字艺术 独立制作 score | 仅参考 |
@@ -26,6 +27,7 @@
 | [opentoonz/opentoonz_docs：影视与数字艺术研究参考](cards/ab974ab0809d81ac.md) | 二维动画生产流程文档 | 美术 数字艺术 独立制作 opentoonz_docs | 仅参考 |
 | [vuo/vuo：影视与数字艺术研究参考](cards/ad427a2b5345fd07.md) | 节点编程系统源码/构建指南 | 美术 数字艺术 独立制作 vuo | 仅参考 |
 | [opentoonz/opentoonz：影视与数字艺术研究参考](cards/dba69fcffa55880a.md) | 2D绘制、场景组织的应用源码 | 美术 数字艺术 独立制作 opentoonz | 仅参考 |
+| [colour-science/colour：数字色彩转换与观看条件参考](cards/e5b1e1c5df2c40e0.md) | 色空间与外观模型计算的研究入口，辅助明确假设而非自动评艺术 | 美术 色彩管理 R09 R10 Python | 仅参考 |
 | [afterwriting：Fountain后处理参考](cards/eb5812f73a4cfa94.md) | 以后需要Fountain导出或统计时评估；不据统计评价剧作 | 编剧 Fountain PDF 后处理 | 仅参考 |
 | [AcademySoftwareFoundation/OpenColorIO：影视与数字艺术研究参考](cards/ee4b2fbd26e2b09c.md) | 跨应用色彩管理、显示变换与配置的基础 | 美术 数字艺术 独立制作 OpenColorIO | 仅参考 |
 | [马克：Git 练习用待办项目](cards/f839fbb86eec52c3.md) | 作为 Git 操作练习素材，观察文件改动与提交历史 | Git GitHub 存档 提交 分支 回滚 待办 初学者 | 仅参考 |

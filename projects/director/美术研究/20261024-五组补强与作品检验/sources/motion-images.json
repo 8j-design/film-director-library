@@ -1,0 +1,65 @@
+[
+  {
+    "file": "ue-transfiguration.jpg",
+    "url": "https://static.universaleverything.com/wp-content/uploads/2022/11/11104412/Lifeforms-by-Universal-Everything-Transfiguration-3-scaled.jpg",
+    "page": "https://www.universaleverything.com/art/transfiguration-2020",
+    "rights": "第三方原图；仅本地私人研究，不随原创作品归库或发布",
+    "viewed": true,
+    "dimensions": [
+      2560,
+      1440
+    ],
+    "status": "downloaded",
+    "sha256": "37d3ffb3e2ac62b5522cb36d28a5323ab219f9d67767d13b4676d4fb10374885",
+    "bytes": 2773855,
+    "view_method": "tools.view_image, original local download, 2026-10-24"
+  },
+  {
+    "file": "rainbow-dance.jpg",
+    "url": "https://www.lenlyefoundation.com/uploads/images/Rainbow%20Dance%2C%201936.jpg",
+    "page": "https://www.lenlyefoundation.com/films/rainbow-dance/24/",
+    "rights": "第三方原图；仅本地私人研究，不随原创作品归库或发布",
+    "viewed": true,
+    "dimensions": [
+      400,
+      266
+    ],
+    "status": "downloaded",
+    "sha256": "56125278738971c45fb229c2035baa678b0750cf4ff590e2a9761fa3a8249b5a",
+    "bytes": 44964,
+    "view_method": "tools.view_image, original local download, 2026-10-24"
+  },
+  {
+    "file": "weave-costume.jpg",
+    "url": "https://directorsnotes.com/wp-content/uploads/2017/04/weave_01.jpg",
+    "page": "https://directorsnotes.com/2017/04/04/iqbal-ahmed-weave/",
+    "rights": "第三方原图；仅本地私人研究，不随原创作品归库或发布",
+    "viewed": true,
+    "dimensions": [
+      2000,
+      1125
+    ],
+    "status": "downloaded",
+    "sha256": "323bcec4f134c96040de44d82ceaeef621dc39623a530c45e72c0c10788f6c83",
+    "bytes": 197938,
+    "view_method": "tools.view_image, original local download, 2026-10-24"
+  },
+  {
+    "file": "collapse-01.webp",
+    "url": "https://cdn.prod.website-files.com/63ecbcbcf16f0d4c676b0ede/6a1decc1d7fc366a391fc02e_Screenshot%202026-04-27%20at%204.41.34%E2%80%AFPM.webp",
+    "page": "https://www.hellohornet.com/projects/nowness---collapse-body-form",
+    "rights": "第三方原图；仅本地私人研究，不随原创作品归库或发布",
+    "viewed": false,
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "file": "collapse-02.webp",
+    "url": "https://cdn.prod.website-files.com/63ecbcbcf16f0d4c676b0ede/6a1ded94463804fd5d5d7d25_Screenshot%202026-04-27%20at%204.43.28%E2%80%AFPM.webp",
+    "page": "https://www.hellohornet.com/projects/nowness---collapse-body-form",
+    "rights": "第三方原图；仅本地私人研究，不随原创作品归库或发布",
+    "viewed": false,
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden"
+  }
+]

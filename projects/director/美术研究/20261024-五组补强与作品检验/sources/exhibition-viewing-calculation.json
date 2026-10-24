@@ -1,0 +1,61 @@
+{
+  "status": "Calculation only. No screen measurement, installation, viewer test, or perceptual threshold validation.",
+  "formula": "theta_deg = degrees(2*atan(width_m/(2*distance_m)))",
+  "assumptions": "Centered, flat, frontoparallel object; width and normal viewing distance in metres; off-axis, curved screens, vision and luminance excluded.",
+  "reference": "https://psychopy.org/api/tools/viewtools.html#psychopy.tools.viewtools.visualAngle",
+  "conditions": [
+    {
+      "label": "Assumed laptop near",
+      "width_m": 0.3,
+      "distance_m": 0.6,
+      "angle_deg": 28.072487
+    },
+    {
+      "label": "Same image physical width, double distance",
+      "width_m": 0.3,
+      "distance_m": 1.2,
+      "angle_deg": 14.250033
+    },
+    {
+      "label": "Assumed portrait phone image width",
+      "width_m": 0.065,
+      "distance_m": 0.35,
+      "angle_deg": 10.610219
+    },
+    {
+      "label": "Assumed 2 m projection, equal visual angle to laptop near",
+      "width_m": 2.0,
+      "distance_m": 4.0,
+      "angle_deg": 28.072487
+    },
+    {
+      "label": "Assumed 2 m projection, closer viewing",
+      "width_m": 2.0,
+      "distance_m": 2.0,
+      "angle_deg": 53.130102
+    },
+    {
+      "label": "Assumed detail on laptop, near",
+      "width_m": 0.005,
+      "distance_m": 0.6,
+      "angle_deg": 0.477462
+    },
+    {
+      "label": "Same physical detail, double distance",
+      "width_m": 0.005,
+      "distance_m": 1.2,
+      "angle_deg": 0.238732
+    }
+  ],
+  "reference_example_check": {
+    "size_m": 0.2,
+    "distance_m": 1,
+    "calculated": 11.421186274999286,
+    "official_example_rounded": 11.42118627
+  },
+  "length_conversions": {
+    "25_feet_m": 7.62,
+    "200_feet_m": 60.96,
+    "12_feet_m": 3.6576000000000004
+  }
+}

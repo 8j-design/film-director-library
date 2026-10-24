@@ -1,0 +1,46 @@
+[
+  {
+    "distance_m": 0.9000000217929482,
+    "lens_mm": 28,
+    "render_horizontal_fov_deg": 65.47045565108839,
+    "render_vertical_fov_deg": 51.48142281987483,
+    "needed_horizontal_deg": 89.99999861261784,
+    "needed_vertical_deg": 73.73979395980118,
+    "whole_display_in_fixed_field": false,
+    "rna_angle_y_deg": 46.397181333762305,
+    "note": "Rendered field computed from projection matrix; RNA sensor angle_y alone omits output aspect/fit"
+  },
+  {
+    "distance_m": 1.8000000575557351,
+    "lens_mm": 28,
+    "render_horizontal_fov_deg": 65.47045565108839,
+    "render_vertical_fov_deg": 51.48142281987483,
+    "needed_horizontal_deg": 53.13010088851126,
+    "needed_vertical_deg": 41.11208923452744,
+    "whole_display_in_fixed_field": true,
+    "rna_angle_y_deg": 46.397181333762305,
+    "note": "Rendered field computed from projection matrix; RNA sensor angle_y alone omits output aspect/fit"
+  },
+  {
+    "distance_m": 3.6000000098720193,
+    "lens_mm": 28,
+    "render_horizontal_fov_deg": 65.47045565108839,
+    "render_vertical_fov_deg": 51.48142281987483,
+    "needed_horizontal_deg": 28.072486861915046,
+    "needed_vertical_deg": 21.23931049539203,
+    "whole_display_in_fixed_field": true,
+    "rna_angle_y_deg": 46.397181333762305,
+    "note": "Rendered field computed from projection matrix; RNA sensor angle_y alone omits output aspect/fit"
+  },
+  {
+    "distance_m": 0.9000000217929482,
+    "lens_mm": 16.5,
+    "render_horizontal_fov_deg": 94.97910831833104,
+    "render_vertical_fov_deg": 78.57881433363144,
+    "needed_horizontal_deg": 89.99999861261784,
+    "needed_vertical_deg": 73.73979395980118,
+    "whole_display_in_fixed_field": true,
+    "rna_angle_y_deg": 72.05474596978019,
+    "note": "Rendered field computed from projection matrix; RNA sensor angle_y alone omits output aspect/fit"
+  }
+]

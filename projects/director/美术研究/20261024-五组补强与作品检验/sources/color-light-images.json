@@ -1,0 +1,221 @@
+[
+  {
+    "filename": "nagai-slide1.jpg",
+    "url": "https://www.bunkamura.co.jp/data/files/gallery/2024/20240810/slide1.jpg",
+    "size": [
+      762,
+      644
+    ],
+    "mode": "RGB",
+    "icc_present": true,
+    "format": "JPEG",
+    "sha256": "4ec845d954ede86e723a1a7d4329ee30c88668118820ffe830d0e21a63ff93e6",
+    "bytes": 451098,
+    "ok": true,
+    "viewed": true,
+    "view_method": "tools.view_image, 2026-10-24",
+    "rights": "第三方著作权；仅本地研究；无再分发授权；不得随报告上传Git"
+  },
+  {
+    "filename": "nagai-main.jpg",
+    "url": "https://www.bunkamura.co.jp/data/files/gallery/2024/20240810/mainvisual.jpg",
+    "size": [
+      700,
+      819
+    ],
+    "mode": "RGB",
+    "icc_present": false,
+    "format": "JPEG",
+    "sha256": "99451c34fa7866de2518b58cdf3925983fb672026ffe74fdbe6091161d99170f",
+    "bytes": 97397,
+    "ok": true,
+    "viewed": true,
+    "view_method": "tools.view_image, 2026-10-24",
+    "rights": "第三方著作权；仅本地研究；无再分发授权；不得随报告上传Git"
+  },
+  {
+    "filename": "tanji-sample01.jpg",
+    "url": "https://pie.co.jp/wp/wp-content/uploads/2021/09/9784756251602.IN01-1-1000x709.jpg",
+    "ok": true,
+    "previous_error": "<urlopen error _ssl.c:993: The handshake operation timed out>",
+    "size": [
+      1000,
+      709
+    ],
+    "mode": "RGB",
+    "icc_present": false,
+    "format": "JPEG",
+    "sha256": "69e2f3901f7565c52fe17a0b55c63103d83a0580db7865140a3b44cba1c9e588",
+    "bytes": 177555,
+    "viewed": true,
+    "view_method": "tools.view_image, 2026-10-24",
+    "rights": "第三方著作权；仅本地研究；无再分发授权；不得随报告上传Git"
+  },
+  {
+    "filename": "tanji-sample03.jpg",
+    "url": "https://pie.co.jp/wp/wp-content/uploads/2021/09/9784756251602.IN03-1-1000x709.jpg",
+    "ok": true,
+    "previous_error": "<urlopen error _ssl.c:993: The handshake operation timed out>",
+    "size": [
+      1000,
+      709
+    ],
+    "mode": "RGB",
+    "icc_present": false,
+    "format": "JPEG",
+    "sha256": "69beb428ce11d87c1ba0b95e53d880af600d72ef0e89bc4d8c5a895191914310",
+    "bytes": 119100,
+    "viewed": true,
+    "view_method": "tools.view_image, 2026-10-24",
+    "rights": "第三方著作权；仅本地研究；无再分发授权；不得随报告上传Git"
+  },
+  {
+    "filename": "hasui-matsue-oboro.jpg",
+    "url": "https://www.dl.ndl.go.jp/api/iiif/2592077/R0000004/1752,1404,3744,5736/,400/0/default.jpg",
+    "ok": false,
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "filename": "hasui-matsue-overcast.jpg",
+    "url": "https://www.dl.ndl.go.jp/api/iiif/2592077/R0000006/1720,1356,3808,5760/,400/0/default.jpg",
+    "ok": false,
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "filename": "hasui-matsue-crescent.jpg",
+    "url": "https://www.dl.ndl.go.jp/api/iiif/2592077/R0000008/1744,1388,3712,5680/,400/0/default.jpg",
+    "ok": false,
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "filename": "ruan-miaow-night.webp",
+    "url": "https://84d70f39dda4f8d63311-09dac41207c435675bfd529a14211b5c.ssl.cf1.rackcdn.com/assets/attachments_p/000/107/975/original_ruanjia7.webp",
+    "ok": false,
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "filename": "victo-moonlight-pack.jpg",
+    "url": "https://morgangaynin.com/wp-content/uploads/2026/09/Victo-Ngai-Maxims-294659_V3_RGB-copy.jpg",
+    "ok": false,
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "filename": "yuumei-overpass.jpg",
+    "url": "https://images.squarespace-cdn.com/content/v1/55c8073fe4b02a74ffe18e48/1486448840214-GOAC8W57YEND79DA7YUI/under_the_overpass_by_yuumei-daqv1tc.jpg?format=original",
+    "size": [
+      1600,
+      909
+    ],
+    "mode": "RGB",
+    "icc_present": false,
+    "format": "JPEG",
+    "sha256": "567746cbd34ff514be9cdf2f3f4f60be67734d060b1edbe3b0b86d72b52b7ad8",
+    "bytes": 663915,
+    "ok": true,
+    "viewed": true,
+    "view_method": "tools.view_image, 2026-10-24",
+    "rights": "第三方著作权；仅本地研究；无再分发授权；不得随报告上传Git"
+  },
+  {
+    "filename": "yuumei-crossroads.jpg",
+    "url": "https://images.squarespace-cdn.com/content/v1/55c8073fe4b02a74ffe18e48/1486450597489-K6OWTJZ01A8X206LOF27/at_the_crossroads_by_yuumei-daijox7.jpg?format=original",
+    "size": [
+      2000,
+      1273
+    ],
+    "mode": "RGB",
+    "icc_present": false,
+    "format": "JPEG",
+    "sha256": "084a771ca6565567e7d123c001bdee5f90f3cf4d8966bc2ee0e882aef09ada00",
+    "bytes": 3306911,
+    "ok": true,
+    "viewed": true,
+    "view_method": "tools.view_image, 2026-10-24",
+    "rights": "第三方著作权；仅本地研究；无再分发授权；不得随报告上传Git"
+  },
+  {
+    "filename": "victo-bleu.jpg",
+    "url": "https://eviltender.com/wp-content/uploads/2016/10/victo_ngai_bleu.jpg",
+    "size": [
+      720,
+      1080
+    ],
+    "mode": "RGB",
+    "icc_present": false,
+    "format": "JPEG",
+    "ok": true,
+    "sha256": "e6957632df8172de59cb7f344eac59b412fafdcaa54153a84f0d2355ff89348e",
+    "bytes": 102831,
+    "viewed": true,
+    "view_method": "tools.view_image, 2026-10-24",
+    "rights": "第三方著作权；仅本地研究；无再分发授权；不得随报告上传Git"
+  },
+  {
+    "filename": "victo-bleu-sketch.jpg",
+    "url": "https://eviltender.com/wp-content/uploads/2016/10/Blue_sketch1B.jpg",
+    "size": [
+      726,
+      1058
+    ],
+    "mode": "RGB",
+    "icc_present": true,
+    "format": "JPEG",
+    "ok": true,
+    "sha256": "a42aeba86d87538cd2413a9b91b8930369222578a3feb5651df988c2d13c78f4",
+    "bytes": 43419,
+    "viewed": true,
+    "view_method": "tools.view_image, 2026-10-24",
+    "rights": "第三方著作权；仅本地研究；无再分发授权；不得随报告上传Git"
+  },
+  {
+    "filename": "hasui-yumebi-25.jpg",
+    "url": "https://www.yumebi.com/static/page/650/842/4NNff3EB98.jpg",
+    "size": [
+      100,
+      100
+    ],
+    "mode": "RGB",
+    "icc_present": false,
+    "format": "JPEG",
+    "ok": true,
+    "sha256": "4d62c40f2da2e72a056e225b32941848af9681540efef9a1bebd9e923759c526",
+    "bytes": 4702,
+    "viewed": true,
+    "view_method": "tools.view_image, 2026-10-24",
+    "rights": "第三方著作权；仅本地研究；无再分发授权；不得随报告上传Git"
+  },
+  {
+    "filename": "hasui-yumebi-26.jpg",
+    "url": "https://www.yumebi.com/static/page/650/842/1DflUl0ibq.jpg",
+    "size": [
+      100,
+      100
+    ],
+    "mode": "RGB",
+    "icc_present": false,
+    "format": "JPEG",
+    "ok": true,
+    "sha256": "684bb2e3d9d6fcc8e25af5cc0c7271740d2517d1758f866380dc25deab17358e",
+    "bytes": 6910,
+    "viewed": true,
+    "view_method": "tools.view_image, 2026-10-24",
+    "rights": "第三方著作权；仅本地研究；无再分发授权；不得随报告上传Git"
+  },
+  {
+    "filename": "hasui-nishiizu-kisho.jpg",
+    "url": "https://www.yumebi.com/static/page/650/837/kpO0oohGWx.jpg",
+    "size": [
+      550,
+      738
+    ],
+    "mode": "RGB",
+    "icc_present": false,
+    "format": "JPEG",
+    "ok": true,
+    "sha256": "ea6d8eb1df4c87a3918b382c4314bf662be2a5c152dc133978640142f4852e1c",
+    "bytes": 249322,
+    "viewed": true,
+    "view_method": "tools.view_image, 2026-10-24",
+    "rights": "第三方著作权；仅本地研究；无再分发授权；不得随报告上传Git"
+  }
+]

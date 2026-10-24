@@ -1,0 +1,20 @@
+{
+  "blender": "5.2.3 LTS",
+  "version": "v2",
+  "mode": "movie",
+  "variant": "base",
+  "frames": null,
+  "fps": 24,
+  "frame_range": [
+    1,
+    384
+  ],
+  "resolution": [
+    768,
+    576
+  ],
+  "view_transform": "AgX",
+  "look": "AgX - Medium High Contrast",
+  "exposure": 0.0,
+  "objects": 48
+}

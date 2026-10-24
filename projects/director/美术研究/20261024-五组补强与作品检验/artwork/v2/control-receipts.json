@@ -1,0 +1,72 @@
+[
+  {
+    "variant": "white",
+    "frame": 192,
+    "base": "folds-base.blend",
+    "geometry_camera_frame_locked": true,
+    "changed_factor": "All three light chromaticities, powers unchanged",
+    "view_transform": "AgX",
+    "look": "AgX - Medium High Contrast",
+    "exposure": 0.0,
+    "resolution": [
+      960,
+      720
+    ]
+  },
+  {
+    "variant": "flood",
+    "frame": 192,
+    "base": "folds-base.blend",
+    "geometry_camera_frame_locked": true,
+    "changed_factor": "All three light chromaticities, powers unchanged",
+    "view_transform": "AgX",
+    "look": "AgX - Medium High Contrast",
+    "exposure": 0.0,
+    "resolution": [
+      960,
+      720
+    ]
+  },
+  {
+    "variant": "no-rim",
+    "frame": 192,
+    "base": "folds-base.blend",
+    "geometry_camera_frame_locked": true,
+    "changed_factor": "Only rim power 480 to 0W",
+    "view_transform": "AgX",
+    "look": "AgX - Medium High Contrast",
+    "exposure": 0.0,
+    "resolution": [
+      960,
+      720
+    ]
+  },
+  {
+    "variant": "all-saturated",
+    "frame": 192,
+    "base": "folds-base.blend",
+    "geometry_camera_frame_locked": true,
+    "changed_factor": "Three surface base colours together; not individual hue causation",
+    "view_transform": "AgX",
+    "look": "AgX - Medium High Contrast",
+    "exposure": 0.0,
+    "resolution": [
+      960,
+      720
+    ]
+  },
+  {
+    "variant": "no-fringe",
+    "frame": 192,
+    "base": "folds-base.blend",
+    "geometry_camera_frame_locked": true,
+    "changed_factor": "Only visibility of authored hem strips",
+    "view_transform": "AgX",
+    "look": "AgX - Medium High Contrast",
+    "exposure": 0.0,
+    "resolution": [
+      960,
+      720
+    ]
+  }
+]

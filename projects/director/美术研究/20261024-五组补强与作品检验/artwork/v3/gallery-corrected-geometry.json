@@ -1,0 +1,81 @@
+[
+  {
+    "requested_eye_to_screen_m": 0.9,
+    "actual_eye_to_screen_m": 0.9000000217929482,
+    "screen_center": [
+      0.0,
+      -0.014999999664723873,
+      1.5499999523162842
+    ],
+    "camera_center": [
+      0.0,
+      -0.9150000214576721,
+      1.5499999523162842
+    ],
+    "sensor_width_mm": 36.0,
+    "sensor_fit": "HORIZONTAL",
+    "lens_mm": 28.0,
+    "horizontal_fov_deg": 65.47045044007706,
+    "note": "Fixed camera field; not simulation of human head/eye movement",
+    "rna_angle_y_deg": 46.397181333762305,
+    "render_horizontal_fov_deg": 65.47045565108839,
+    "render_vertical_fov_deg": 51.48142281987483,
+    "whole_display_in_fixed_field": false
+  },
+  {
+    "requested_eye_to_screen_m": 1.8,
+    "actual_eye_to_screen_m": 1.8000000575557351,
+    "screen_center": [
+      0.0,
+      -0.014999999664723873,
+      1.5499999523162842
+    ],
+    "camera_center": [
+      0.0,
+      -1.815000057220459,
+      1.5499999523162842
+    ],
+    "sensor_width_mm": 36.0,
+    "sensor_fit": "HORIZONTAL",
+    "lens_mm": 28.0,
+    "horizontal_fov_deg": 65.47045044007706,
+    "note": "Fixed camera field; not simulation of human head/eye movement",
+    "rna_angle_y_deg": 46.397181333762305,
+    "render_horizontal_fov_deg": 65.47045565108839,
+    "render_vertical_fov_deg": 51.48142281987483,
+    "whole_display_in_fixed_field": true
+  },
+  {
+    "requested_eye_to_screen_m": 3.6,
+    "actual_eye_to_screen_m": 3.6000000098720193,
+    "screen_center": [
+      0.0,
+      -0.014999999664723873,
+      1.5499999523162842
+    ],
+    "camera_center": [
+      0.0,
+      -3.615000009536743,
+      1.5499999523162842
+    ],
+    "sensor_width_mm": 36.0,
+    "sensor_fit": "HORIZONTAL",
+    "lens_mm": 28.0,
+    "horizontal_fov_deg": 65.47045044007706,
+    "note": "Fixed camera field; not simulation of human head/eye movement",
+    "rna_angle_y_deg": 46.397181333762305,
+    "render_horizontal_fov_deg": 65.47045565108839,
+    "render_vertical_fov_deg": 51.48142281987483,
+    "whole_display_in_fixed_field": true
+  },
+  {
+    "requested_eye_to_screen_m": 0.9,
+    "actual_eye_to_screen_m": 0.9000000217929482,
+    "lens_mm": 16.5,
+    "horizontal_fov_deg": 94.97910795657991,
+    "note": "Different lens, full-screen explanatory view; NOT same-field distance comparison or human perception claim",
+    "render_horizontal_fov_deg": 94.97910831833104,
+    "render_vertical_fov_deg": 78.57881433363144,
+    "whole_display_in_fixed_field": true
+  }
+]

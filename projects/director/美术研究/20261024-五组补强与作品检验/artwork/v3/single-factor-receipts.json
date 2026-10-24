@@ -1,0 +1,53 @@
+[
+  {
+    "variant": "key-size-0.4m",
+    "base": "v3/folds-base.blend",
+    "frame": 192,
+    "change": {
+      "object": "Key neutral",
+      "property": "size",
+      "base_m": 3,
+      "new_m": 0.4000000059604645,
+      "energy_W": 800,
+      "caution": "Power held; local irradiance and highlights can change, not constant observed brightness"
+    },
+    "locked": "Geometry, pose, camera, all other shader/light settings, exposure, view transform"
+  },
+  {
+    "variant": "key-size-5m",
+    "base": "v3/folds-base.blend",
+    "frame": 192,
+    "change": {
+      "object": "Key neutral",
+      "property": "size",
+      "base_m": 3,
+      "new_m": 5.0,
+      "energy_W": 800,
+      "caution": "Power held; local irradiance and highlights can change, not constant observed brightness"
+    },
+    "locked": "Geometry, pose, camera, all other shader/light settings, exposure, view transform"
+  },
+  {
+    "variant": "red-to-linen",
+    "base": "v3/folds-base.blend",
+    "frame": 192,
+    "change": {
+      "material": "03 Vermilion inner seam",
+      "property": "Base Color",
+      "before_linear_RGBA": [
+        0.44520118832588196,
+        0.05780543014407158,
+        0.024157632142305374,
+        1.0
+      ],
+      "after_linear_RGBA": [
+        0.3967552185058594,
+        0.32314321398735046,
+        0.20507873594760895,
+        1.0
+      ],
+      "caution": "One input changed, multiple colour dimensions may differ; not pure saturation test"
+    },
+    "locked": "Geometry, pose, camera, all other shader/light settings, exposure, view transform"
+  }
+]

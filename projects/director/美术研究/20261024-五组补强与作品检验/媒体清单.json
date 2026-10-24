@@ -1,0 +1,55 @@
+{
+  "archive": {
+    "name": "five-art-groups-original-work-2026-10-24.zip",
+    "bytes": 44245190,
+    "sha256": "0c4ecc61732fe98bbd51c5a9b408d14a3abaf08a066115430346e242268517ba",
+    "files_without_internal_manifest": 487
+  },
+  "release_assets": [
+    {
+      "local_path": "five-art-groups-original-work-2026-10-24.zip",
+      "name": "five-art-groups-original-work-2026-10-24.zip",
+      "bytes": 44245190,
+      "sha256": "0c4ecc61732fe98bbd51c5a9b408d14a3abaf08a066115430346e242268517ba"
+    },
+    {
+      "local_path": "artwork/v3/folds-of-air.mp4",
+      "name": "folds-of-air.mp4",
+      "bytes": 677715,
+      "sha256": "0e61da6dedb62f0e6e75bba0f979da9468fd2b69605c66d1e12f7eadf5a91b5e"
+    },
+    {
+      "local_path": "artwork/v3/folds-animation.blend",
+      "name": "folds-animation.blend",
+      "bytes": 548341,
+      "sha256": "9531776a698676ea8ea2527b2d348884d7645f4ed48d6f477f7d7996b3565327"
+    },
+    {
+      "local_path": "verification/versions-contact.png",
+      "name": "versions-contact.png",
+      "bytes": 716582,
+      "sha256": "536f745fca661324fd67a0fd507f18736be109ceab0334d7f2088870410f5d46"
+    },
+    {
+      "local_path": "verification/motion-contact.png",
+      "name": "motion-contact.png",
+      "bytes": 702075,
+      "sha256": "44b85d103ffbe9918b922ede6f6b4569d2ebe9645e9db1667397298d11da79ab"
+    },
+    {
+      "local_path": "verification/controls-contact.png",
+      "name": "controls-contact.png",
+      "bytes": 517118,
+      "sha256": "b6a1e82b9d23f42e27a165ea3a031a92b634dadb81206b68dbdb890ce810fa7b"
+    },
+    {
+      "local_path": "deliverable-assets/folds-v3-preview.png",
+      "name": "folds-v3-preview.png",
+      "bytes": 820219,
+      "sha256": "dbdfcf886905a98bc34a7183372a51fcaed7272b7857af2a6937af7ea55d65e0"
+    }
+  ],
+  "rights": "Original work/scripts/reports only; no third-party raw art, film, audio or site cache",
+  "release_url": "https://github.com/8j-design/film-director-library/releases/tag/research-2026-10-24-five-art-groups",
+  "evidence_scope": "Native source/reopen and actual render/video decode; no complete viewing/audience/physical venue acceptance"
+}
