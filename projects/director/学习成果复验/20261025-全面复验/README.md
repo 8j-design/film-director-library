@@ -8,6 +8,8 @@
 - 专业对照：[19项目矩阵](agents/award_benchmarks.md)、[华语八项目过程](agents/chinese_process_followup.md)、[Pas图像互证](agents/pas_visual_analysis.md)、[Sprite图像与制作正文](Sprite实看与制作正文互证.md)。深度逐项记录，没有声称完整看片或全部著作通读。
 - [独立归档前审查](agents/final_batch_review.md)及[意见处理](审查意见处理与保存范围.md)。第三方媒体与抽帧仅本地，不随原创包上传。
 
-私有媒体发布目标：https://github.com/8j-design/film-director-library/releases/tag/research-2026-10-25-learning-revalidation。应以真实回执确认发布状态。ZIP保留film/v6与v7相对目录；V7/edit.blend引用V6未改段及V7/carry.mp4、ending.mp4，解压整个包再打开。单独V7/studio.blend无外部图像依赖，可重开全1—1440帧场景。
+私有媒体发布目标：https://github.com/8j-design/film-director-library/releases/tag/research-2026-10-25-learning-revalidation。已实际发布，五项媒体服务器大小与SHA-256一致；详见[保存与验证结果](保存与验证结果.md)。ZIP保留film/v6与v7相对目录；V7/edit.blend引用V6未改段及V7/carry.mp4、ending.mp4，解压整个包再打开。单独V7/studio.blend无外部图像依赖，可重开全1—1440帧场景。
 
 接续优先：回到全段修持纸/打带时的动作归属与接触；同时将《借桌》E连续粗排，验证门外箱、门内凳、退桌、离场与交袋。每项修补仍与整体表达联系，研究与制作交错。
+
+最新接续：[下一批具体失败与工作](接续.md)。

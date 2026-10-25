@@ -1,0 +1,9 @@
+{
+  "commit": "e2d4351b54ad476fcc77e1fed80e79e817af20b9",
+  "source_commit": "048f8605cacc92b01fad1ecf38676f1ab356efca",
+  "files": 275,
+  "all_git_blobs_match": true,
+  "remote_commit": "e2d4351b54ad476fcc77e1fed80e79e817af20b9",
+  "repository": "https://github.com/8j-design/film-director-library",
+  "method": "GitHub REST Git database; fast-forward only; all blob hashes compared"
+}

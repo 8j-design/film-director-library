@@ -1,0 +1,55 @@
+{
+  "account": "8j-design",
+  "repository": "https://github.com/8j-design/film-director-library",
+  "private": true,
+  "can_push": true,
+  "commit": "e2d4351b54ad476fcc77e1fed80e79e817af20b9",
+  "source_commit": "048f8605cacc92b01fad1ecf38676f1ab356efca",
+  "files": 275,
+  "all_git_blobs_match": true,
+  "release_url": "https://github.com/8j-design/film-director-library/releases/tag/research-2026-10-25-learning-revalidation",
+  "release_published": true,
+  "assets": [
+    {
+      "name": "last-print-v6.mp4",
+      "asset_id": 674200083,
+      "url": "https://github.com/8j-design/film-director-library/releases/download/untagged-206de094b769e85d17ef/last-print-v6.mp4",
+      "bytes": 2923390,
+      "sha256": "763c458df253fd5ad7340f5c4364f2d32e858226b2db4844f2a78a58166a9ec8",
+      "server_sha256_verified": true
+    },
+    {
+      "name": "last-print-v7-contact.png",
+      "asset_id": 674200410,
+      "url": "https://github.com/8j-design/film-director-library/releases/download/untagged-206de094b769e85d17ef/last-print-v7-contact.png",
+      "bytes": 1104028,
+      "sha256": "960a6337989c4827e23ef6899ce9a712045252290b9420c457285cb8737f1e12",
+      "server_sha256_verified": true
+    },
+    {
+      "name": "last-print-v7.blend",
+      "asset_id": 674200467,
+      "url": "https://github.com/8j-design/film-director-library/releases/download/untagged-206de094b769e85d17ef/last-print-v7.blend",
+      "bytes": 1137171,
+      "sha256": "e58b2e26f7e43e0dabdc96b3818e2dea51788eab167a15b678c0857db9984ea1",
+      "server_sha256_verified": true
+    },
+    {
+      "name": "last-print-v7.mp4",
+      "asset_id": 674200543,
+      "url": "https://github.com/8j-design/film-director-library/releases/download/untagged-206de094b769e85d17ef/last-print-v7.mp4",
+      "bytes": 2986519,
+      "sha256": "3db950d15e9eed3abf4a9e995e5a199613cb0c734e24d887d19391bf8f7fd41e",
+      "server_sha256_verified": true
+    },
+    {
+      "name": "learning-revalidation-20261025-originals.zip",
+      "asset_id": 674200703,
+      "url": "https://github.com/8j-design/film-director-library/releases/download/untagged-206de094b769e85d17ef/learning-revalidation-20261025-originals.zip",
+      "bytes": 317298478,
+      "sha256": "71da0bc8fd8daead39051748ee9f14c25912d074e907c527906dbe42d32a6e98",
+      "server_sha256_verified": true
+    }
+  ],
+  "all_server_sha256_verified": true
+}
