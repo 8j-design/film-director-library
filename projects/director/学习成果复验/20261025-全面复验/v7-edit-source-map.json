@@ -1,0 +1,42 @@
+[
+  {
+    "strip": "V6 source frames 1-624",
+    "timeline_inclusive": [
+      1,
+      624
+    ],
+    "file": "//..\\v6\\studio.mp4",
+    "offset_start": 0.0,
+    "offset_end": 816.0
+  },
+  {
+    "strip": "V7 new carry frames 625-965",
+    "timeline_inclusive": [
+      625,
+      965
+    ],
+    "file": "//carry.mp4",
+    "offset_start": 0.0,
+    "offset_end": 0.0
+  },
+  {
+    "strip": "V6 source frames 966-1296",
+    "timeline_inclusive": [
+      966,
+      1296
+    ],
+    "file": "//..\\v6\\studio.mp4",
+    "offset_start": 965.0,
+    "offset_end": 144.0
+  },
+  {
+    "strip": "V7 new ending frames 1297-1440",
+    "timeline_inclusive": [
+      1297,
+      1440
+    ],
+    "file": "//ending.mp4",
+    "offset_start": 0.0,
+    "offset_end": 0.0
+  }
+]

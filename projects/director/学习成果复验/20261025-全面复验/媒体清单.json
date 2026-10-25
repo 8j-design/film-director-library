@@ -1,0 +1,39 @@
+{
+  "release_url": "https://github.com/8j-design/film-director-library/releases/tag/research-2026-10-25-learning-revalidation",
+  "tag": "research-2026-10-25-learning-revalidation",
+  "archive_snapshot": "2026-10-25; final server receipts stored outside ZIP",
+  "zip_members_verified": true,
+  "excluded": [
+    "reference_media/**",
+    "*.blend1",
+    "__pycache__/**"
+  ],
+  "original_files": 3552,
+  "release_assets": [
+    {
+      "local_path": "archive/last-print-v6.mp4",
+      "bytes": 2923390,
+      "sha256": "763c458df253fd5ad7340f5c4364f2d32e858226b2db4844f2a78a58166a9ec8"
+    },
+    {
+      "local_path": "archive/last-print-v7-contact.png",
+      "bytes": 1104028,
+      "sha256": "960a6337989c4827e23ef6899ce9a712045252290b9420c457285cb8737f1e12"
+    },
+    {
+      "local_path": "archive/last-print-v7.blend",
+      "bytes": 1137171,
+      "sha256": "e58b2e26f7e43e0dabdc96b3818e2dea51788eab167a15b678c0857db9984ea1"
+    },
+    {
+      "local_path": "archive/last-print-v7.mp4",
+      "bytes": 2986519,
+      "sha256": "3db950d15e9eed3abf4a9e995e5a199613cb0c734e24d887d19391bf8f7fd41e"
+    },
+    {
+      "local_path": "archive/learning-revalidation-20261025-originals.zip",
+      "bytes": 317298478,
+      "sha256": "71da0bc8fd8daead39051748ee9f14c25912d074e907c527906dbe42d32a6e98"
+    }
+  ]
+}
