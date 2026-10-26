@@ -1,0 +1,67 @@
+{
+  "scope": "离散采样的桌面平面占地；含墙厚；不含人、抬高、倾斜、接触或消防/建筑规范检验",
+  "table_m": [
+    2,
+    0.85
+  ],
+  "v1": {
+    "door_width_m": 0.75,
+    "sample_count": 246,
+    "collision_count": 44,
+    "first_hits": [
+      {
+        "sample": 137,
+        "obstacle": "墙0",
+        "pose": [
+          3.85,
+          1.0813,
+          1.5708
+        ]
+      },
+      {
+        "sample": 137,
+        "obstacle": "墙1",
+        "pose": [
+          3.85,
+          1.0813,
+          1.5708
+        ]
+      },
+      {
+        "sample": 138,
+        "obstacle": "墙0",
+        "pose": [
+          3.85,
+          0.9781,
+          1.5708
+        ]
+      },
+      {
+        "sample": 138,
+        "obstacle": "墙1",
+        "pose": [
+          3.85,
+          0.9781,
+          1.5708
+        ]
+      },
+      {
+        "sample": 139,
+        "obstacle": "墙0",
+        "pose": [
+          3.85,
+          0.875,
+          1.5708
+        ]
+      }
+    ]
+  },
+  "v2": {
+    "door_width_m": 1.1,
+    "sample_count": 246,
+    "collision_count": 0,
+    "first_hits": []
+  },
+  "hypothetical": true,
+  "state_limits": "架收回备选位保守预留为障碍；凳与袋仅记录初始/交接位置，桌下状态涉及高度未验；一袋上限是台词约定"
+}
