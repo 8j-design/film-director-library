@@ -1,0 +1,29 @@
+{
+  "date": "2026-10-26",
+  "source": "https://www.douyin.com/video/7695023191969778979",
+  "modality": "暂停画面及内嵌字幕；无实际听音",
+  "new_regular_samples_approx_seconds": [
+    73,
+    83,
+    93,
+    103,
+    113,
+    123,
+    133,
+    143,
+    153,
+    163,
+    173,
+    183,
+    193,
+    203,
+    213,
+    223,
+    158,
+    168,
+    178
+  ],
+  "new_sample_count": 19,
+  "cumulative_bounded_sample_count": 70,
+  "note": "秒数按播放器四舍五入；不是连续观看；恢复阶段的零散画面不计入19处"
+}

@@ -1,0 +1,33 @@
+{
+  "account": "8j-design",
+  "repository": "https://github.com/8j-design/film-director-library",
+  "private": true,
+  "can_push": true,
+  "commit": "3744b0220e1f544d75c5152eeb84396e1e27bf1d",
+  "source_commit": "84960bc7778a4caaece3a77b74a0abb778726298",
+  "files": 306,
+  "all_git_blobs_match": true,
+  "release_url": "https://github.com/8j-design/film-director-library/releases/tag/research-2026-10-26-close-reading",
+  "release_published": true,
+  "assets": [
+    {
+      "local_path": "空间验证/借桌-空间提案V2.png",
+      "name": "借桌-空间提案V2.png",
+      "asset_id": 677427129,
+      "url": "https://github.com/8j-design/film-director-library/releases/download/untagged-694855aa1117d56ad221/-.V2.png",
+      "bytes": 131875,
+      "sha256": "42bb761ff490f7ac772bb7988e1e2b4b02b2adced15c808fb21e5d9630104c64",
+      "server_sha256_verified": true
+    },
+    {
+      "local_path": "空间验证V3/借桌-空间提案V3.png",
+      "name": "借桌-空间提案V3.png",
+      "asset_id": 677427267,
+      "url": "https://github.com/8j-design/film-director-library/releases/download/untagged-694855aa1117d56ad221/-.V3.png",
+      "bytes": 139130,
+      "sha256": "aac65122aa95c18265925ee566fa0dd5c909a893c153d4dfd89602ee3c911be4",
+      "server_sha256_verified": true
+    }
+  ],
+  "all_server_sha256_verified": true
+}
