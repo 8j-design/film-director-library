@@ -1,0 +1,31 @@
+{
+  "account": "8j-design",
+  "repository": "https://github.com/8j-design/film-director-library",
+  "private": true,
+  "can_push": true,
+  "commit": "96ee2ecace11d987b1e7aacf10969f85db23bde9",
+  "source_commit": "062aae29cc82deb78924aad57a79371bb397dce9",
+  "files": 369,
+  "all_git_blobs_match": true,
+  "release_url": "https://github.com/8j-design/film-director-library/releases/tag/research-2026-10-27-a02-rain-study",
+  "release_published": true,
+  "assets": [
+    {
+      "name": "A02-rain-study-20261027.zip",
+      "asset_id": 681845285,
+      "url": "https://github.com/8j-design/film-director-library/releases/download/research-2026-10-27-a02-rain-study/A02-rain-study-20261027.zip",
+      "bytes": 127841,
+      "sha256": "b1604be084a0b40724db05aa655968d5062507070f44136f9f04439a23826984",
+      "server_sha256_verified": true
+    },
+    {
+      "name": "F.png",
+      "asset_id": 681845396,
+      "url": "https://github.com/8j-design/film-director-library/releases/download/research-2026-10-27-a02-rain-study/F.png",
+      "bytes": 11865,
+      "sha256": "ba314e5388ab14e92d1f52650d2f199dcbbccb61a80af62b1e0111d2fd6790df",
+      "server_sha256_verified": true
+    }
+  ],
+  "all_server_sha256_verified": true
+}
