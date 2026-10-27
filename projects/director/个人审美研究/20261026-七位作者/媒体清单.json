@@ -1,0 +1,62 @@
+{
+  "scope": "原创四版单帧测试与提示词/检验；无第三方原媒体",
+  "files": [
+    {
+      "local_path": "原创测试-渡口还灯/v2-prompt.txt",
+      "bytes": 752,
+      "sha256": "ef37b12bc3dd321e567015537a5c5d02f39f2b74d4d137bb244be42ddc6e59c1"
+    },
+    {
+      "local_path": "原创测试-渡口还灯/v3-prompt.txt",
+      "bytes": 868,
+      "sha256": "b21d5ef8246d1e6f29d589f4da50769aaec10ce79e012c9c24f83f69d43d8bae"
+    },
+    {
+      "local_path": "原创测试-渡口还灯/v4-prompt.txt",
+      "bytes": 887,
+      "sha256": "f8aec7489068a6d72087e3b022641074eb5d0ba8037fc9dd65586f84cc2b4797"
+    },
+    {
+      "local_path": "原创测试-渡口还灯/四版检验与源作回查.md",
+      "bytes": 3991,
+      "sha256": "87d3f2fe4c870d466d639a8ffe19c66722f91f3a18c96e1a719357acca1d0073"
+    },
+    {
+      "local_path": "原创测试-渡口还灯/提示词与执行.md",
+      "bytes": 2417,
+      "sha256": "3b0e1cd9399a87e015724f08518e95c1368451cd3f3f68edb5b6cbccf0b60dc2"
+    },
+    {
+      "local_path": "原创测试-渡口还灯/渡口还灯-v1.png",
+      "bytes": 2574046,
+      "sha256": "241a7a18f91d577f19ecfa3020f0eed3071f4ec8fd5804f08c973addbc1dc05d"
+    },
+    {
+      "local_path": "原创测试-渡口还灯/渡口还灯-v2.png",
+      "bytes": 2314247,
+      "sha256": "e5952156f9bee4cf5ff066855c6530573c0225d622c0bedec10b2ff754d5d4d4"
+    },
+    {
+      "local_path": "原创测试-渡口还灯/渡口还灯-v3.png",
+      "bytes": 2186832,
+      "sha256": "1092e9ea8e8dd1540b86a0a4c2642f23373dd74fc048561cfa05c4d8cbd336d1"
+    },
+    {
+      "local_path": "原创测试-渡口还灯/渡口还灯-v4.png",
+      "bytes": 2301678,
+      "sha256": "e03db271954d813be0b19d2246b9c09e4394224fdcd03ee0db76974d1bb44d57"
+    }
+  ],
+  "release_assets": [
+    {
+      "local_path": "原创媒体/ferry-lamp-study-v1-v4-20261027.zip",
+      "bytes": 9179237,
+      "sha256": "0741d13e624613af9a4f6bf00dbccb5eaccedc9a5ab476501591dba65bc67d3a"
+    },
+    {
+      "local_path": "原创测试-渡口还灯/渡口还灯-v4.png",
+      "bytes": 2301678,
+      "sha256": "e03db271954d813be0b19d2246b9c09e4394224fdcd03ee0db76974d1bb44d57"
+    }
+  ]
+}

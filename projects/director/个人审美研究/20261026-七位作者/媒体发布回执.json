@@ -1,0 +1,31 @@
+{
+  "account": "8j-design",
+  "repository": "https://github.com/8j-design/film-director-library",
+  "private": true,
+  "can_push": true,
+  "commit": "a964a229403132557ab7353d0c9c9d9374971a2d",
+  "source_commit": "98ddd71dfe5ef9acad89c1141a01a9f3db693b2e",
+  "files": 321,
+  "all_git_blobs_match": true,
+  "release_url": "https://github.com/8j-design/film-director-library/releases/tag/research-2026-10-27-aesthetic-tests",
+  "release_published": true,
+  "assets": [
+    {
+      "name": "ferry-lamp-study-v1-v4-20261027.zip",
+      "asset_id": 680436653,
+      "url": "https://github.com/8j-design/film-director-library/releases/download/research-2026-10-27-aesthetic-tests/ferry-lamp-study-v1-v4-20261027.zip",
+      "bytes": 9179237,
+      "sha256": "0741d13e624613af9a4f6bf00dbccb5eaccedc9a5ab476501591dba65bc67d3a",
+      "server_sha256_verified": true
+    },
+    {
+      "name": "渡口还灯-v4.png",
+      "asset_id": 680437146,
+      "url": "https://github.com/8j-design/film-director-library/releases/download/research-2026-10-27-aesthetic-tests/-v4.png",
+      "bytes": 2301678,
+      "sha256": "e03db271954d813be0b19d2246b9c09e4394224fdcd03ee0db76974d1bb44d57",
+      "server_sha256_verified": true
+    }
+  ],
+  "all_server_sha256_verified": true
+}
