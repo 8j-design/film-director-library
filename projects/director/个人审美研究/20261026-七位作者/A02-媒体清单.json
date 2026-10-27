@@ -1,0 +1,16 @@
+{
+  "purpose": "原创局部关系示意，六方案及两轮看图修订；艺术能力未通过",
+  "third_party_original_media": false,
+  "release_assets": [
+    {
+      "local_path": "A02-rain-study-20261027.zip",
+      "bytes": 127841,
+      "sha256": "b1604be084a0b40724db05aa655968d5062507070f44136f9f04439a23826984"
+    },
+    {
+      "local_path": "tests/A02-雨后候车-20261027/F.png",
+      "bytes": 11865,
+      "sha256": "ba314e5388ab14e92d1f52650d2f199dcbbccb61a80af62b1e0111d2fd6790df"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "A": {
+    "rectangle_roi_pixels": 69300,
+    "bright_pixels": 0,
+    "dark_pixels": 69300
+  },
+  "B": {
+    "rectangle_roi_pixels": 69300,
+    "bright_pixels": 2312,
+    "dark_pixels": 65173
+  },
+  "C": {
+    "rectangle_roi_pixels": 69300,
+    "bright_pixels": 1316,
+    "dark_pixels": 57056
+  },
+  "D": {
+    "rectangle_roi_pixels": 69300,
+    "bright_pixels": 593,
+    "dark_pixels": 66051
+  },
+  "E": {
+    "rectangle_roi_pixels": 69300,
+    "bright_pixels": 2154,
+    "dark_pixels": 57014
+  },
+  "F": {
+    "rectangle_roi_pixels": 69300,
+    "bright_pixels": 2151,
+    "dark_pixels": 56763
+  }
+}
