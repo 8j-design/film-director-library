@@ -1,0 +1,41 @@
+{
+  "dimensions": [
+    960,
+    540
+  ],
+  "durations_ms": [
+    3000,
+    3000,
+    3000,
+    3000
+  ],
+  "sound": "none",
+  "scope": "schematic original animatic, not final art or audience validation",
+  "differences": [
+    {
+      "shot": 1,
+      "bbox": null
+    },
+    {
+      "shot": 2,
+      "bbox": [
+        170,
+        193,
+        338,
+        241
+      ]
+    },
+    {
+      "shot": 3,
+      "bbox": null
+    },
+    {
+      "shot": 4,
+      "bbox": null
+    }
+  ],
+  "sha256": {
+    "A.gif": "e2073f31b8c87b35e572cf1cfcce7f6c1e32d3de21fb7c09f93e5e9554404425",
+    "B.gif": "7dffb3a517020e372d17802082232e70ff6f08055961e39b22e2cff32a5c6add"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "A.gif": {
+    "frames": 4,
+    "dimensions": [
+      960,
+      540
+    ],
+    "durations": [
+      3000,
+      3000,
+      3000,
+      3000
+    ]
+  },
+  "B.gif": {
+    "frames": 4,
+    "dimensions": [
+      960,
+      540
+    ],
+    "durations": [
+      3000,
+      3000,
+      3000,
+      3000
+    ]
+  },
+  "v2\\A.gif": {
+    "frames": 4,
+    "dimensions": [
+      960,
+      540
+    ],
+    "durations": [
+      3000,
+      3000,
+      3000,
+      3000
+    ]
+  },
+  "v2\\B.gif": {
+    "frames": 4,
+    "dimensions": [
+      960,
+      540
+    ],
+    "durations": [
+      3000,
+      3000,
+      3000,
+      3000
+    ]
+  },
+  "v3\\A.gif": {
+    "frames": 4,
+    "dimensions": [
+      960,
+      540
+    ],
+    "durations": [
+      3000,
+      3000,
+      3000,
+      3000
+    ]
+  },
+  "v3\\B.gif": {
+    "frames": 4,
+    "dimensions": [
+      960,
+      540
+    ],
+    "durations": [
+      3000,
+      3000,
+      3000,
+      3000
+    ]
+  }
+}

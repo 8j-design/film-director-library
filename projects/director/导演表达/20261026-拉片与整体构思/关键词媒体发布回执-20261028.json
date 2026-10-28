@@ -1,0 +1,13 @@
+{
+  "repository": "https://github.com/8j-design/film-director-library",
+  "private": true,
+  "release_url": "https://github.com/8j-design/film-director-library/releases/tag/research-2026-10-28-keyword-cue",
+  "asset_url": "https://github.com/8j-design/film-director-library/releases/download/research-2026-10-28-keyword-cue/keyword-cue-original-studies-20261028.zip",
+  "asset_id": 684437633,
+  "bytes": 780879,
+  "sha256": "47e06acb5cea9c4787882851e02b22ed29b7bc7653b3566f716a5550ef39767b",
+  "server_sha256_verified": true,
+  "source_files": 40,
+  "source_tree_commit": "c6d4e32508554891ba57525702f33eeb30b977f3",
+  "post_publish_readback": true
+}
