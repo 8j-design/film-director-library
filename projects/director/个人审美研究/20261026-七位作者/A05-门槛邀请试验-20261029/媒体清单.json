@@ -1,0 +1,27 @@
+[
+  {
+    "file": "V1.png",
+    "bytes": 2230380,
+    "sha256": "abb6e237b939082766adb45f04ba9db2d2adf02e4bd760e3b981ab3cc1466745"
+  },
+  {
+    "file": "V2.png",
+    "bytes": 2040355,
+    "sha256": "6d3058595d8a58447c73cfce91412a05019627433ec13b8a3cceb3180180583c"
+  },
+  {
+    "file": "独立视觉审查.md",
+    "bytes": 6637,
+    "sha256": "69d215ece0f4dbdc24585d9ff8f46f1699c67439ce93d463f6ac4d29238b7956"
+  },
+  {
+    "file": "生成规格.json",
+    "bytes": 2900,
+    "sha256": "8f7a932f27881f2d8859f419cd5bff0110060eb47edf08b8c5182922f6194b75"
+  },
+  {
+    "file": "试验与修订.md",
+    "bytes": 4120,
+    "sha256": "dded8fb926feea5b32a8754052f466b1c3a9cdf189ed6ecc6c74fef066a3b560"
+  }
+]

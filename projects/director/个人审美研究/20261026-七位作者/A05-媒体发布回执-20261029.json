@@ -1,0 +1,12 @@
+{
+  "repository": "https://github.com/8j-design/film-director-library",
+  "private": true,
+  "release_url": "https://github.com/8j-design/film-director-library/releases/tag/research-2026-10-29-a05-threshold",
+  "asset_url": "https://github.com/8j-design/film-director-library/releases/download/research-2026-10-29-a05-threshold/a05-threshold-invitation-20261029.zip",
+  "asset_id": 687792386,
+  "bytes": 4136704,
+  "sha256": "593a2317953c1c7dba5c3e12038a65f99211bf29f986b8a3228e181c3dcc5c69",
+  "server_sha256_verified": true,
+  "files": 6,
+  "scope": "Only original V1/V2 media, prompts, reflection and independent static review"
+}

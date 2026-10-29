@@ -1,0 +1,10 @@
+kind,title,url,evidence_status,remaining
+Douyin_profile,鸣泣哔哔作者主页,https://www.douyin.com/user/MS4wLjABAAAAyU8v6ztNl7WdUvPiVx90EUD0OLT1WaePZHpkniLLVoE,旧批已核作者入口；本批子agent无浏览器/web直开不可访问,主控可用浏览器枚举全部当前可见范围及同系列
+Douyin_note,全职插画师两月也就画这点图,https://www.douyin.com/note/7696104837397630223,旧批15页完整看图；本批未重算,作者同系列/工程/配乐/原创测试仍待
+Bilibili_self,大家好我是来自中国的插画师鸣泣哔哔,https://www.bilibili.com/video/BV1NmFNejE1P/,搜索缓存标题与简介；直开412；未看视频,核跨站身份和正文
+Weibo_profile,鸣泣哔哔,https://weibo.com/mingqibibi,搜索缓存简介及课程转发；直开受限,当前主页范围/正文未枚举
+Interview,动感次元绘梦师色彩与生命共舞,https://www.weibo.com/ttarticle/p/show?id=2309405080725442658765,实际读取可见署名答复；部分粉丝可见提示；未看配图,不算adela本条工程/全文或看图
+Bilibili_series,你的cp我来画第一期,https://www.bilibili.com/video/BV1Fc411h7gZ/,搜索缓存本人简介/系列自述；未看视频,不是adela同OC已核系列
+Pixivision,贺年插画特辑,https://www.pixivision.net/zh/a/11373,实际平台编辑目录含作者与马年快乐午年条目；未看图,原图与身份/同系列需核
+Pixiv_artwork,马年快乐午年,https://www.pixiv.net/en/artworks/139327466,由pixivision原链接取得；页面打不开；未看两图,正文/图像待核
+Pixiv_profile,鸣泣哔哔Mingqibibi,https://www.pixiv.net/en/users/4410874,由pixivision作者链接取得；页面打不开,跨站互链与当前范围待核
