@@ -1,0 +1,35 @@
+{
+  "medium": "original code-native geometric space study; not source artwork edit",
+  "size": [
+    720,
+    960
+  ],
+  "palette": {
+    "sky": "#9ed5d7",
+    "wall": "#489aac",
+    "dark": "#215b78",
+    "light": "#a9dfdb",
+    "tile": "#75c5cb",
+    "line": "#327d97",
+    "gold": "#dcc27b",
+    "floor": "#8ebdb6",
+    "door": "#f5e8bd",
+    "person": "#b94f31",
+    "shadow": "#295f75"
+  },
+  "invariants": [
+    "architecture",
+    "figure",
+    "camera",
+    "light shape",
+    "palette"
+  ],
+  "V1": "same 34px repeat in every wall zone",
+  "V2": "zone repeat steps 100,34,100,34,34,62",
+  "V3": "central floor quiet-zone mask after V1/V2 review; no change to door",
+  "versions_rendered": [
+    1,
+    2,
+    3
+  ]
+}

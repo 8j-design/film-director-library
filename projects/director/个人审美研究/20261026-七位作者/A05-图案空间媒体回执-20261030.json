@@ -1,0 +1,124 @@
+{
+  "repository": "https://github.com/8j-design/film-director-library",
+  "private": true,
+  "release_url": "https://github.com/8j-design/film-director-library/releases/tag/research-2026-10-30-a05-pattern-space",
+  "asset_url": "https://github.com/8j-design/film-director-library/releases/download/research-2026-10-30-a05-pattern-space/a05-pattern-space-20261030.zip",
+  "asset_id": 689187652,
+  "bytes": 8720470,
+  "sha256": "77431c13322667b2dcde4a8e1cf0e268ca00add8ddf5a91a372a253fe5d5faf8",
+  "server_sha256_verified": true,
+  "files": 22,
+  "scope": "Original V1—V3 geometry and I1—I3 illustrations; prompts, actual review, no third-party media",
+  "contents": [
+    {
+      "name": "build_study.py",
+      "bytes": 5510,
+      "sha256": "d26aec5f51208a4df1e23455df417a8daf662692336a95f7eedc46ea959a4a0a"
+    },
+    {
+      "name": "compare-12.png",
+      "bytes": 56886,
+      "sha256": "d376f90a6498fe35dc66a7be8c2dfb0cc5eab8cc8ce9b4a294f7bc0906d52a2c"
+    },
+    {
+      "name": "compare-123.png",
+      "bytes": 64106,
+      "sha256": "63029970bcaae7b5c701611008fb78fed044caa1178473308703fce5c0f2ecb0"
+    },
+    {
+      "name": "illustration-I1-prompt.txt",
+      "bytes": 2220,
+      "sha256": "ca2f580654a6f37882dfc6451741a1c70b0080ab8dd52b20200bb9cefca5ef1f"
+    },
+    {
+      "name": "illustration-I1.png",
+      "bytes": 3221994,
+      "sha256": "74c060b3ae80facf0f56523d9446904c1e5a8187aa3b8ddfd16b76ac0aeaaef4"
+    },
+    {
+      "name": "illustration-I2-prompt.txt",
+      "bytes": 1532,
+      "sha256": "111472349974c566e37b057aebba195071302489d0e196cedfaf2e2e1585ba0a"
+    },
+    {
+      "name": "illustration-I2.png",
+      "bytes": 2779371,
+      "sha256": "83a731795aa72713bea7eee8bcb21e8f5f876d124468161750d5d6a622d59ca8"
+    },
+    {
+      "name": "illustration-I3-prompt.txt",
+      "bytes": 1244,
+      "sha256": "f36f2a12e811b7e43b77550b9da86733536313c49ba4c33ae26b4028ce334ac9"
+    },
+    {
+      "name": "illustration-I3.png",
+      "bytes": 2617843,
+      "sha256": "d1088b1984d285ffe8e75da2f457f21598ba90a2f835798d2120a80e9bb989e0"
+    },
+    {
+      "name": "parameters.json",
+      "bytes": 759,
+      "sha256": "bac18ebe91e047f713859b873315902e11d85a68ffb47d3035ce3829667e2fa9"
+    },
+    {
+      "name": "README.md",
+      "bytes": 2310,
+      "sha256": "2afaf58eb84e43fccfe06d9893d95fcabe4acbc9b0a31b6d62e32d9bf073e4ca"
+    },
+    {
+      "name": "V1.png",
+      "bytes": 21730,
+      "sha256": "9c2abf11388d6bacf4c0038e894c007a0aceb9370fb708e77e0d49b6a804e48c"
+    },
+    {
+      "name": "V1.svg",
+      "bytes": 51458,
+      "sha256": "fbe4d55ffa28129082d2cca9d0e1e790d3b45001c1aa570ac120b5c0ce50607b"
+    },
+    {
+      "name": "V2.png",
+      "bytes": 20380,
+      "sha256": "ff94729fc79ca157c38bda5c04c879a53d3eba7da8eedc7d5a4edd3d16807b57"
+    },
+    {
+      "name": "V2.svg",
+      "bytes": 32879,
+      "sha256": "2e7d8d34ada6fa54b983200316336eba89a1bd6d74f2ea7c094b1bc9b1a8f4b2"
+    },
+    {
+      "name": "V3.png",
+      "bytes": 19624,
+      "sha256": "f34b0a9de207b77201b8c283aec8bb232ef2fc35b718ef886d1da4bb4a887991"
+    },
+    {
+      "name": "V3.svg",
+      "bytes": 32971,
+      "sha256": "1b3500f28a3673c28dcfb0968ac80b39479115abe542c4bd6d7cf90a4f561b7b"
+    },
+    {
+      "name": "图后检查与修订.md",
+      "bytes": 3403,
+      "sha256": "669be8b7bafc75891e4c93930ec7822c0513fa08cb8e8ec82c84bfa9a4419548"
+    },
+    {
+      "name": "插画试作说明.md",
+      "bytes": 785,
+      "sha256": "36372b4ae511724c42e0f7b6e5df54b0748d0154ba71d0ca9c349336174b64d3"
+    },
+    {
+      "name": "独立视觉审查.md",
+      "bytes": 15183,
+      "sha256": "f8b8dbbfd13fc58c4bedbac06bfd5754013ce55f006c53de046bf3040c45de60"
+    },
+    {
+      "name": "经典与材料对照.md",
+      "bytes": 4190,
+      "sha256": "98ee70bb5dce484ba9b63011b4409865a1191fee6c176bd7e6af6908aa57de28"
+    },
+    {
+      "name": "试验大纲.md",
+      "bytes": 1309,
+      "sha256": "fcc0a6b4d89e63730ded5c11b0aa8fdb83b62bd4e390322bf92beb831f544e5e"
+    }
+  ]
+}
