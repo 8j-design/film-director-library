@@ -1,0 +1,89 @@
+{
+  "repository": "https://github.com/8j-design/film-director-library",
+  "private": true,
+  "release_url": "https://github.com/8j-design/film-director-library/releases/tag/research-2026-10-30-high-key-action",
+  "asset_url": "https://github.com/8j-design/film-director-library/releases/download/research-2026-10-30-high-key-action/high-key-action-rough-20261030.zip",
+  "asset_id": 691153529,
+  "bytes": 569316,
+  "sha256": "042d35d913b688db1847c532dbdd655f1dd7337cf9c3f17a2058bf522e228ecd",
+  "server_sha256_verified": true,
+  "files": 15,
+  "scope": "Only original three geometric silent action roughs, code, decoded contact sheets, technical records and review; no third-party media",
+  "contents": [
+    {
+      "name": "V1-decoded-contact.png",
+      "bytes": 156444,
+      "sha256": "5e2444e6f7a30e3f90a1bc2a5c035ef54d7e670978fc369dda93645ad246b3c9"
+    },
+    {
+      "name": "V1-technical.json",
+      "bytes": 334,
+      "sha256": "22fc78d611893cbf8c009555b180e103d72a25ab9ec22c463a831bfb57dbd4fb"
+    },
+    {
+      "name": "V1.mp4",
+      "bytes": 64436,
+      "sha256": "86124d6daf4a5791b25219d877809bb06c217b1c4d92805dde373aeb9ebbc260"
+    },
+    {
+      "name": "V2-decoded-contact.png",
+      "bytes": 143554,
+      "sha256": "a82c9a5dffa925199ba9c727c12d070f72f875ea6f0ceba646122bab5f8068ae"
+    },
+    {
+      "name": "V2-technical.json",
+      "bytes": 341,
+      "sha256": "95e2936a9fc7c5b01855521262956cae2c809669ea7c0c07742ff4a4b1eb3e97"
+    },
+    {
+      "name": "V2.mp4",
+      "bytes": 56833,
+      "sha256": "a1bcaf2e20fbc47ea075399834fa5f12aa6779add6683412ca3b0d19f75798e6"
+    },
+    {
+      "name": "V3-decoded-contact.png",
+      "bytes": 98129,
+      "sha256": "af24841fb424175d7ef44562fb999b23ef8fb7d625302af9a019125c8be383a0"
+    },
+    {
+      "name": "V3-technical.json",
+      "bytes": 296,
+      "sha256": "6229d2572f766136d5e47f5bcdd8af8f7e1bb98fd83c65d835b06d1c847ffb74"
+    },
+    {
+      "name": "V3-修订范围与自审.md",
+      "bytes": 4820,
+      "sha256": "8f24da7b54e573181b9c498b9883f4006b8b0881d0a9c525adde881865a051e8"
+    },
+    {
+      "name": "V3.mp4",
+      "bytes": 60018,
+      "sha256": "8031a2a2ccc43f50d9a09c11c20b3dee7ec7df4191ca0f7acac7f1085e394ac4"
+    },
+    {
+      "name": "主控复核与原作差距.md",
+      "bytes": 3781,
+      "sha256": "858dd0396d5bf29cd3e6bca166e4ae0e4bbbf22534fe717b0239b3e717288a94"
+    },
+    {
+      "name": "制作-V3.py",
+      "bytes": 9465,
+      "sha256": "10cf9be01862f0f2e26e70336509e612392bc1e383fbbe78d456f01722b898bb"
+    },
+    {
+      "name": "制作.py",
+      "bytes": 7533,
+      "sha256": "f5e420f07a48d45639ea8a5f5a5eb7432d1229b5bca2e5750e75ac489231bfc8"
+    },
+    {
+      "name": "微型大纲与验收.md",
+      "bytes": 1956,
+      "sha256": "600e81f343cc39a890a2b2a84541bb8ef5ec2dc4434c09fda35362f465242da8"
+    },
+    {
+      "name": "自审修订与接续.md",
+      "bytes": 6549,
+      "sha256": "2fb1842c71bb5dcfe1afadb3a779deaa93462e5b5b0bfd078db987a0928379ed"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "fps": 12,
+  "frames": 168,
+  "duration_seconds": 14,
+  "size": [
+    960,
+    640
+  ],
+  "silent": true,
+  "decoded_times": [
+    0,
+    1.8,
+    3.8,
+    5.1,
+    6.6,
+    7.0,
+    7.3,
+    7.8,
+    8.2,
+    8.6,
+    10,
+    12,
+    13.5
+  ],
+  "scope": "technical properties, not artistic validation"
+}
