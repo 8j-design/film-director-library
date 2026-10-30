@@ -1,0 +1,129 @@
+{
+  "repository": "https://github.com/8j-design/film-director-library",
+  "private": true,
+  "release_url": "https://github.com/8j-design/film-director-library/releases/tag/research-2026-10-30-a01-relational-animatic",
+  "asset_url": "https://github.com/8j-design/film-director-library/releases/download/research-2026-10-30-a01-relational-animatic/a01-relational-animatic-20261030.zip",
+  "asset_id": 689319226,
+  "bytes": 16359572,
+  "sha256": "b45ee5eff32b5f53ccb4f37a8751b15772ef14f6030086d30584717fa68843db",
+  "server_sha256_verified": true,
+  "files": 23,
+  "scope": "Only original six keyframes and two still-shot animatics, prompts and review; no third-party reference media",
+  "contents": [
+    {
+      "name": "animatic-metadata.json",
+      "bytes": 1209,
+      "sha256": "c49a09ee957fae1f9e376338ee08078493f10367e450d47448b84b7af5725c66"
+    },
+    {
+      "name": "animatic-v1-frames.md5",
+      "bytes": 23255,
+      "sha256": "3f8bbf999e60bd34d1c1a797adb21b3b31824ff7a0750ba4dfb5cbc9cdbdb5fa"
+    },
+    {
+      "name": "animatic-v1-shots.png",
+      "bytes": 909357,
+      "sha256": "df327214d2495654b6ad65c02fc890f87fe9e33a34dab2b04750a0c8624333fb"
+    },
+    {
+      "name": "animatic-v1.mp4",
+      "bytes": 1132295,
+      "sha256": "adc8d49800d3cd144dc09a44afec7b530c0e76b1a84b659b9de22e06f337de76"
+    },
+    {
+      "name": "animatic-v2-frames.md5",
+      "bytes": 23255,
+      "sha256": "f68f07589e760bc1886b84f192cfee6d0e2ca71f9354cf2ac838cf16d84a9307"
+    },
+    {
+      "name": "animatic-v2-shots.png",
+      "bytes": 906153,
+      "sha256": "c44b9d7fb066529df5c3dde6aec3306d41584860d0935315579c6f47133a6405"
+    },
+    {
+      "name": "animatic-v2.mp4",
+      "bytes": 1123855,
+      "sha256": "afdcf4edadd41710ded8872388e66e829e50b86fbd4596ea0fe20d43244e9199"
+    },
+    {
+      "name": "bird-near-prompt.txt",
+      "bytes": 1143,
+      "sha256": "aca59308727c8d55b84168fb0de429e54523c14459baafa9bd427a5771eea10e"
+    },
+    {
+      "name": "bird-near-v2-prompt.txt",
+      "bytes": 1242,
+      "sha256": "d0e8f90a918f8e57b326300c17a36d04bb99b73c35df06ad4fd206d1ebfde286"
+    },
+    {
+      "name": "bird-near-v2.png",
+      "bytes": 1921811,
+      "sha256": "77f43df3e60aacb889747a17ff96c7fc2d92415116d442a7518f8ac32865d325"
+    },
+    {
+      "name": "bird-near.png",
+      "bytes": 2015464,
+      "sha256": "f0327ecd3bff8c4fcd3fe6c86de8313cdac61662d2874499944073ffc7968409"
+    },
+    {
+      "name": "build_animatic.py",
+      "bytes": 2553,
+      "sha256": "65533d451788fe4ba57f0079125b0adb4936f5ee465f590bf5f27a841fd63d34"
+    },
+    {
+      "name": "decoded-v2-seconds.png",
+      "bytes": 892838,
+      "sha256": "606d3d53bef0dca8d3078dc052312b4613cef530b552144afbd01a6a5af55d72"
+    },
+    {
+      "name": "establish-prompt.txt",
+      "bytes": 1756,
+      "sha256": "538d87aca7d8301a8d99465eac250021c2311cef26bd08d8e9b5994cd9d67466"
+    },
+    {
+      "name": "establish.png",
+      "bytes": 2056112,
+      "sha256": "f6e279ca7a3058889ad35dc16c4550a866012c221b36dc7ca12a348ff29ddc1a"
+    },
+    {
+      "name": "left-near-prompt.txt",
+      "bytes": 1122,
+      "sha256": "530e845fe15e429d73d2e3fc6ae4d45ee4f3b32185b4348d133d435a7e57bd3f"
+    },
+    {
+      "name": "left-near.png",
+      "bytes": 1956452,
+      "sha256": "ba7c15848f24369d8e9359dec35dc5fc15566e5d3453eb438d2ec8b620c77225"
+    },
+    {
+      "name": "right-near-prompt.txt",
+      "bytes": 1136,
+      "sha256": "324b8d5dfd3f4d04dd7edf8548c42ede267a1d5b1f0a2f0429d8e5361f899a16"
+    },
+    {
+      "name": "right-near-v2-prompt.txt",
+      "bytes": 957,
+      "sha256": "6eb7851d1b901d703d8aab24f3863cc9e24c444a2f47e56d7d15e8301c48be7e"
+    },
+    {
+      "name": "right-near-v2.png",
+      "bytes": 1982562,
+      "sha256": "ee9500026b3f9a205b19369e8655d2c28d3608afe8ccb939e25d743b0d249419"
+    },
+    {
+      "name": "right-near.png",
+      "bytes": 1998130,
+      "sha256": "d9a53559184ac83839a39c3001426f03dfbe484b794560c4382a3d62184438c2"
+    },
+    {
+      "name": "检验与修正.md",
+      "bytes": 3082,
+      "sha256": "023190e4025d35df3d550f0eae7bc9d005a2bf0ece8b900dc90abec3652cd7be"
+    },
+    {
+      "name": "独立视觉复审.md",
+      "bytes": 7962,
+      "sha256": "72db28c4e6d884d3e0f3415ac32ccc4af518dc9799437d39ca6c64316513f94f"
+    }
+  ]
+}

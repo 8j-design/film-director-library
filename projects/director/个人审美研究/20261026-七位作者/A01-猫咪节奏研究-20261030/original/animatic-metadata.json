@@ -1,0 +1,59 @@
+{
+  "scope": "Original still-shot animatic, no interpolated motion, no sound, no audience validation",
+  "versions": [
+    {
+      "version": 1,
+      "shots": [
+        "establish.png",
+        "left-near.png",
+        "right-near.png",
+        "bird-near.png",
+        "establish.png"
+      ],
+      "durations": [
+        2.5,
+        2,
+        2,
+        3,
+        2.5
+      ],
+      "frames": 288,
+      "fps": 24,
+      "seconds": 12,
+      "size": [
+        1280,
+        720
+      ],
+      "audio": false,
+      "bytes": 1132295,
+      "sha256": "adc8d49800d3cd144dc09a44afec7b530c0e76b1a84b659b9de22e06f337de76"
+    },
+    {
+      "version": 2,
+      "shots": [
+        "establish.png",
+        "left-near.png",
+        "right-near-v2.png",
+        "bird-near-v2.png",
+        "establish.png"
+      ],
+      "durations": [
+        2.5,
+        2,
+        2,
+        3,
+        2.5
+      ],
+      "frames": 288,
+      "fps": 24,
+      "seconds": 12,
+      "size": [
+        1280,
+        720
+      ],
+      "audio": false,
+      "bytes": 1123855,
+      "sha256": "afdcf4edadd41710ded8872388e66e829e50b86fbd4596ea0fe20d43244e9199"
+    }
+  ]
+}

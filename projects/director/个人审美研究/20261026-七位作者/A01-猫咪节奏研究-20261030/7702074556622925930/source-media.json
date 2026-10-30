@@ -1,0 +1,9 @@
+{
+  "source": "https://www.douyin.com/video/7702074556622925930",
+  "acquisition": "documented CUA video.downloadMedia on visible original page; no replay of private API",
+  "bytes": 10415472,
+  "sha256": "6671ea9205492bffc014b97af16e4b9b0896bca78f537752a6f7fd2c775ca52d",
+  "fps_sampling": 1,
+  "frames": 30,
+  "boundary": "Decoded nominal time samples, exact selected input frame may vary by filter rounding; not full audiovisual viewing or listening; private third-party reference, do not include in original public/release artifacts"
+}
