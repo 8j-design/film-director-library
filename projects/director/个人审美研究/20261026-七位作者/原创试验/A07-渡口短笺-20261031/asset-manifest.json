@@ -1,0 +1,47 @@
+{
+  "scope": "four original static keyframes, built-in image_gen, actual prompts/review; no third-party media; no continuous motion/sound claim",
+  "files": [
+    {
+      "name": "prompts.md",
+      "bytes": 6064,
+      "sha256": "bbd455439f2c535aa80d9ed89f1d46bb86c5ce0048e2a66ff1c905651d33ecad"
+    },
+    {
+      "name": "review.md",
+      "bytes": 4082,
+      "sha256": "071b351120e20291d4383354b7789c97355a6d7cb4ef420f1608680af71c0b1c"
+    },
+    {
+      "name": "V1-渡口短笺.png",
+      "bytes": 2326909,
+      "sha256": "f08a1243917e0841566a219c8c755c214b3e1888a86c99636ca3b6bd85f36ede",
+      "width": 1672,
+      "height": 941,
+      "mode": "RGB"
+    },
+    {
+      "name": "V2-渡口短笺.png",
+      "bytes": 2181804,
+      "sha256": "d976e4222c7835da80b7311860a4c1c670ad3d91936dd2e71ebe6698f6d19598",
+      "width": 1672,
+      "height": 941,
+      "mode": "RGB"
+    },
+    {
+      "name": "V3-渡口短笺.png",
+      "bytes": 2154178,
+      "sha256": "9336b5d4ef530a330d72f495635ff107bcd54ad6520d7a21c3f90bbe5280f51b",
+      "width": 1672,
+      "height": 941,
+      "mode": "RGB"
+    },
+    {
+      "name": "V4-近景递笺.png",
+      "bytes": 2002490,
+      "sha256": "2c5b0cc4534afdbdf1a526c3867fd9c472c3b54c28af1ead2ceab4e98b8d0c16",
+      "width": 1672,
+      "height": 941,
+      "mode": "RGB"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "repository": "https://github.com/8j-design/film-director-library",
+  "private": true,
+  "release_url": "https://github.com/8j-design/film-director-library/releases/tag/research-2026-10-31-a07-ferry-keyframes",
+  "asset_url": "https://github.com/8j-design/film-director-library/releases/download/research-2026-10-31-a07-ferry-keyframes/a07-ferry-keyframes-20261031.zip",
+  "asset_id": 695131849,
+  "bytes": 8408170,
+  "sha256": "91e5d096fbbec5d5a0b5102c956601547dd9383a1957c44978780dabba5e813b",
+  "server_sha256_verified": true,
+  "files": 7,
+  "scope": "four original stills, prompt set, actual review and manifest; no third-party media; no animation claim",
+  "contents": [
+    {
+      "name": "asset-manifest.json",
+      "bytes": 1378,
+      "sha256": "e343f4c4f17f9e1a110a4245481cd7a10238a31df57984f24b7638a04ba7a1e3"
+    },
+    {
+      "name": "prompts.md",
+      "bytes": 6064,
+      "sha256": "bbd455439f2c535aa80d9ed89f1d46bb86c5ce0048e2a66ff1c905651d33ecad"
+    },
+    {
+      "name": "review.md",
+      "bytes": 4082,
+      "sha256": "071b351120e20291d4383354b7789c97355a6d7cb4ef420f1608680af71c0b1c"
+    },
+    {
+      "name": "V1-渡口短笺.png",
+      "bytes": 2326909,
+      "sha256": "f08a1243917e0841566a219c8c755c214b3e1888a86c99636ca3b6bd85f36ede"
+    },
+    {
+      "name": "V2-渡口短笺.png",
+      "bytes": 2181804,
+      "sha256": "d976e4222c7835da80b7311860a4c1c670ad3d91936dd2e71ebe6698f6d19598"
+    },
+    {
+      "name": "V3-渡口短笺.png",
+      "bytes": 2154178,
+      "sha256": "9336b5d4ef530a330d72f495635ff107bcd54ad6520d7a21c3f90bbe5280f51b"
+    },
+    {
+      "name": "V4-近景递笺.png",
+      "bytes": 2002490,
+      "sha256": "2c5b0cc4534afdbdf1a526c3867fd9c472c3b54c28af1ead2ceab4e98b8d0c16"
+    }
+  ]
+}
