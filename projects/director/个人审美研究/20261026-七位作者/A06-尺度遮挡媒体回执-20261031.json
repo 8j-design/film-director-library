@@ -1,0 +1,124 @@
+{
+  "repository": "https://github.com/8j-design/film-director-library",
+  "private": true,
+  "release_url": "https://github.com/8j-design/film-director-library/releases/tag/research-2026-10-31-a06-wind-composition",
+  "asset_url": "https://github.com/8j-design/film-director-library/releases/download/research-2026-10-31-a06-wind-composition/a06-wind-composition-20261031.zip",
+  "asset_id": 694549311,
+  "bytes": 854502,
+  "sha256": "57bbb01487b155cf617ee8d2f0341a919533ee26d611c3d600c8670596188f35",
+  "server_sha256_verified": true,
+  "files": 22,
+  "scope": "Original V1-V6 procedural 8s composition clips; source, decoded checks and actual review; no third-party media",
+  "contents": [
+    {
+      "name": "README.md",
+      "bytes": 3884,
+      "sha256": "644e5154e0337ef43d71f1b910a9ac051cf22bd3ece48a35ad04cc2df4cd244b"
+    },
+    {
+      "name": "source.py",
+      "bytes": 4342,
+      "sha256": "7143843f5794588f8f8e3377afa6b9840fdf61ff6d6d8a904f4f0336c1cbf971"
+    },
+    {
+      "name": "V1-contact.png",
+      "bytes": 27698,
+      "sha256": "ddc0553c4fd548bb0112ebba3a12d49113825c6a070a76e22f47705afc948f5c"
+    },
+    {
+      "name": "V1-decoded2.png",
+      "bytes": 30364,
+      "sha256": "3a4ffeadc1b94deafb852b61ca0760f16cb84cfc6665b827f2f121c823b82ce0"
+    },
+    {
+      "name": "V1.mp4",
+      "bytes": 55251,
+      "sha256": "5de0a12606f25d40f1bb65b8af406531192a31b23711f744db695123148ce4b6"
+    },
+    {
+      "name": "V2-contact.png",
+      "bytes": 27381,
+      "sha256": "4addcd0370ea09ae79cd6e02daeaa2d3e9ada52eb64346ce0fd2f1f10be0da78"
+    },
+    {
+      "name": "V2-decoded2.png",
+      "bytes": 30282,
+      "sha256": "0085a4020c6594af0c4ccb11bea5b3c143074c0375bea604692cb55ff4390e7d"
+    },
+    {
+      "name": "V2.mp4",
+      "bytes": 59530,
+      "sha256": "c6d9550f0d8a4f618e4589ec11378237f4eca245df269798f1ae3b6ea4b08db7"
+    },
+    {
+      "name": "V3-contact.png",
+      "bytes": 29506,
+      "sha256": "a72daedec2d7f9361bc7448d6a2be997c09357c454fdbd1b929574a25be056bd"
+    },
+    {
+      "name": "V3-decoded2.png",
+      "bytes": 32170,
+      "sha256": "697fddb352c4317ad34a3eb49af7f68c54de30882fc2cbfbc7787c30c462673c"
+    },
+    {
+      "name": "V3.mp4",
+      "bytes": 60527,
+      "sha256": "c87e1d397e365fceda6ecf5ec35841f92d548d8017c22f0bfa38db81e8e84aff"
+    },
+    {
+      "name": "V4-contact.png",
+      "bytes": 29697,
+      "sha256": "8e9026438b341c3fdcaab836bd580bc595c31784edd6e194134fc16e5a033dfe"
+    },
+    {
+      "name": "V4-decoded2.png",
+      "bytes": 33431,
+      "sha256": "2c336f71055b5bd70bd68a19f56686b3c52fe21fac43bcad7179899d098cf86e"
+    },
+    {
+      "name": "V4.mp4",
+      "bytes": 60817,
+      "sha256": "ffbd010120f1f351c7debbba589510e500bda67ca16a7d5e6483130d74d2b3f2"
+    },
+    {
+      "name": "V5-contact.png",
+      "bytes": 28900,
+      "sha256": "732f7cbc3c623ce33de18cf634fba0e43c38247671931828f5ea4491a21f27e1"
+    },
+    {
+      "name": "V5-decoded2.png",
+      "bytes": 32478,
+      "sha256": "d9f70445fe9fb9903e02ef2b4a5b218c47f1f2bd3d13f75e77f9c4646ffb17fe"
+    },
+    {
+      "name": "V5.mp4",
+      "bytes": 55089,
+      "sha256": "3783121d333beccbbfc572e66281a74dfe75602c2f87f72364a6dff308c95c14"
+    },
+    {
+      "name": "V6-contact.png",
+      "bytes": 29824,
+      "sha256": "af0dbe2286e7da3a9e58ee4532d61b88df0dc6045d1a6152136deb68be6fd942"
+    },
+    {
+      "name": "V6-decoded2.png",
+      "bytes": 33876,
+      "sha256": "67bee69db61776444256bd2920e4709992def6b0a209f2a119a36c890db3e744"
+    },
+    {
+      "name": "V6.mp4",
+      "bytes": 57713,
+      "sha256": "ae4f87bb70e433caf189076c0d049ceb1d35e055226348309f041c7db7cf07b3"
+    },
+    {
+      "name": "编码与控制条件.json",
+      "bytes": 1877,
+      "sha256": "792bfbf993d9a66b10f462342687a7363ae2d26d2ca2dd1d0982f1869d742140"
+    },
+    {
+      "name": "编码后五版对照.png",
+      "bytes": 169302,
+      "sha256": "d0e7a48ec8d7b64ebaa3d227f439354523da45566b7ce99d31ef7737120c4b41"
+    }
+  ]
+}
