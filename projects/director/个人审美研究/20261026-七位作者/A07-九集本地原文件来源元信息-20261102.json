@@ -1,0 +1,106 @@
+{
+  "third_party_media_included": false,
+  "new_episodes": [
+    {
+      "url": "https://www.douyin.com/video/7693494294014872875",
+      "title": "少女心事第4集：欢迎来到A市",
+      "page_publication": "2026-10-06 18:07",
+      "duration_dom": 45.233333,
+      "source_bytes": 9154372,
+      "sha256": "85bbe13ac74b14146a7c0d212a7208081994496f0f20c7bf4b834c9a3c68e988",
+      "nominal_samples": 45,
+      "viewing_boundary": "fps=1 samples; actual boards viewed separately; no complete continuous AV claim",
+      "actually_viewed_boards": 5,
+      "reading_date": "2026-11-02",
+      "boundary": "名义一秒取样图已看；声音、秒间和末小数段未完整验收；原文件仅本地"
+    },
+    {
+      "url": "https://www.douyin.com/video/7694608576920227112",
+      "episode": 5,
+      "duration_dom": 41.933333,
+      "source_bytes": 7733990,
+      "sha256": "4d413729feaa6f68b7671706925dbc7a525f7f0540bf74336b69d21b9ca9a536",
+      "nominal_samples": 41,
+      "boundary": "名义一秒取样图已看；声音、秒间和末小数段未完整验收；原文件仅本地",
+      "actually_viewed_boards": 5,
+      "reading_date": "2026-11-02"
+    },
+    {
+      "url": "https://www.douyin.com/video/7696833338794855721",
+      "episode": 7,
+      "duration_dom": 45.1,
+      "source_bytes": 11617439,
+      "sha256": "f82f8dc99d031da3c01fde84d27875e24a10c16ead74c9c4dc8591dbef772ed7",
+      "nominal_samples": 45,
+      "boundary": "名义一秒取样图已看；声音、秒间和末小数段未完整验收；原文件仅本地",
+      "actually_viewed_boards": 5,
+      "reading_date": "2026-11-02"
+    },
+    {
+      "url": "https://www.douyin.com/video/7698345642216721702",
+      "episode": 8,
+      "duration_dom": 42.866667,
+      "source_bytes": 8903788,
+      "sha256": "60e00fb1b654b542d43089ff40b0b0b2ceccfdafc55a9de209cbc43d8af6624c",
+      "nominal_samples": 42,
+      "boundary": "名义一秒取样图已看；声音、秒间和末小数段未完整验收；原文件仅本地",
+      "actually_viewed_boards": 5,
+      "reading_date": "2026-11-02"
+    },
+    {
+      "url": "https://www.douyin.com/video/7698695012581756202",
+      "episode": 9,
+      "duration_dom": 45.966667,
+      "source_bytes": 7246518,
+      "sha256": "0e317f7c889d79e756c3262312b51c8d3573e1335632dbb8c9dbf1d93be66aa9",
+      "nominal_samples": 45,
+      "boundary": "名义一秒取样图已看；声音、秒间和末小数段未完整验收；原文件仅本地",
+      "actually_viewed_boards": 5,
+      "reading_date": "2026-11-02"
+    },
+    {
+      "url": "https://www.douyin.com/video/7700172540580220214",
+      "episode": 10,
+      "duration_dom": 45.7,
+      "source_bytes": 10980036,
+      "sha256": "9d256b6a6c1ff608254d7e3ad6c4d39560be39cf5c833106ce477967ddebb265",
+      "nominal_samples": 45,
+      "boundary": "名义一秒取样图已看；声音、秒间和末小数段未完整验收；原文件仅本地",
+      "actually_viewed_boards": 5,
+      "reading_date": "2026-11-02"
+    },
+    {
+      "url": "https://www.douyin.com/video/7700545246001745203",
+      "episode": 11,
+      "duration_dom": 46.233333,
+      "source_bytes": 7913817,
+      "sha256": "b2724683cad6856d0b89f70cfcab37e183ece47c581360ad2e445e70efa454ad",
+      "nominal_samples": 46,
+      "boundary": "名义一秒取样图已看；声音、秒间和末小数段未完整验收；原文件仅本地",
+      "actually_viewed_boards": 5,
+      "reading_date": "2026-11-02"
+    },
+    {
+      "url": "https://www.douyin.com/video/7701286870214348066",
+      "episode": 12,
+      "duration_dom": 43.6,
+      "source_bytes": 7161410,
+      "sha256": "a39fa714ee0a099f1c2c15c0466eebfabfcff3adc61b6c7e5aae090cb55a49bd",
+      "nominal_samples": 43,
+      "boundary": "名义一秒取样图已看；声音、秒间和末小数段未完整验收；原文件仅本地",
+      "actually_viewed_boards": 5,
+      "reading_date": "2026-11-02"
+    },
+    {
+      "url": "https://www.douyin.com/video/7702405121002573083",
+      "episode": 13,
+      "duration_dom": 47.136009,
+      "source_bytes": 22777867,
+      "sha256": "b8133bef670f5c46f14b20ab44e07b031b6e742ea4d21d436470ea170449d5d7",
+      "nominal_samples": 47,
+      "boundary": "名义一秒取样图已看；声音、秒间和末小数段未完整验收；原文件仅本地",
+      "actually_viewed_boards": 5,
+      "reading_date": "2026-11-02"
+    }
+  ]
+}
