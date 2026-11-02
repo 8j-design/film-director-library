@@ -65,11 +65,11 @@
     309.075101,
     314.54445
   ],
-  "count": 106,
-  "last_actual": 578.074823,
-  "next": "9:35 overlap, then 9:45",
+  "count": 139,
+  "last_actual": 759.378783,
+  "next": "12:35 overlap, then 12:45",
   "boundary": "Paused screenshots and visible subtitles; first ten positions partly obscured by controls; UI paint can lag DOM time, not exact cut points; first 0.49s, intervals and all sound unverified; Douyin media download failed, no local P5 file",
-  "remote_status": "P5 first-segment archive attempt tracked in P5首段正文核验-20261103.json; receipt required",
+  "remote_status": "receipt required: P5两枚勋章正文核验-20261103.json",
   "second_batch_positions": [
     320.047858,
     325.541773,
@@ -119,5 +119,52 @@
     566.965925,
     572.531094,
     578.074823
+  ],
+  "third_batch_positions": [
+    583.570714,
+    589.084412,
+    594.577804,
+    600.090483,
+    605.594202,
+    611.104416,
+    616.647316,
+    622.183112,
+    627.669156,
+    633.136553,
+    638.624432,
+    644.120133,
+    649.586623,
+    655.074676,
+    660.591726,
+    666.103693,
+    671.650167,
+    677.184128,
+    682.710384,
+    688.247419,
+    693.713128,
+    699.188226,
+    704.691568,
+    710.165825
+  ],
+  "excluded_login_modal_positions": [
+    715.695732,
+    721.294984,
+    726.858524,
+    732.409712,
+    737.938516,
+    743.484662,
+    749.004797,
+    754.56777
+  ],
+  "modal_recovery_positions": [
+    715.612689,
+    721.06004,
+    726.547062,
+    732.042888,
+    737.532883,
+    742.980262,
+    748.446921,
+    753.892847,
+    759.378783
   ]
 }
