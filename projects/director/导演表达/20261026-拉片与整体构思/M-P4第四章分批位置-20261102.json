@@ -1,0 +1,42 @@
+{
+  "last_actual": 2228.723959,
+  "remote_before_these_notes": "dfb1331426e91c90924bf3e35c3b9f31c4ea04d5",
+  "cumulative_distinct_nominal_positions": 413,
+  "duration_seconds": 2546.8999375,
+  "boundary": "Paused screenshots/visible subtitles; intervals and original sound unverified; crop later uses observed player bounds",
+  "prior_cumulative": 204,
+  "next": "37:05 overlap then 37:15",
+  "segments": [
+    {
+      "first": 1106.344773,
+      "count": 48,
+      "note": "伪装造型与连接被切断",
+      "last": 1360.072819
+    },
+    {
+      "first": 1365.614582,
+      "count": 40,
+      "note": "宫殿与记忆",
+      "last": 1577.658128
+    },
+    {
+      "first": 1583.082543,
+      "count": 41,
+      "note": "安邦定国与暴力对照",
+      "last": 1798.665947
+    },
+    {
+      "first": 1804.046483,
+      "last": 2013.782595,
+      "count": 40,
+      "note": "赛制与外来者"
+    },
+    {
+      "first": 2019.140057,
+      "last": 2228.723959,
+      "count": 40,
+      "note": "谈判与可能性链"
+    }
+  ],
+  "source": "https://www.bilibili.com/video/BV1sht261EbR/"
+}
