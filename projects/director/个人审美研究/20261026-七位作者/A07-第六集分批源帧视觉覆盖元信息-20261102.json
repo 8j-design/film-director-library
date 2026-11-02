@@ -1,0 +1,85 @@
+{
+  "source_url": "https://www.douyin.com/video/7695724385688210703",
+  "source_bytes": 5658774,
+  "sha256": "e5df7f422d15f7818d4366553deac853ad29b4945ab9102dea6a1546204c327f",
+  "duration_recorded": 40.066667,
+  "all_1202_decoded_source_frames_reviewed_in_boards": true,
+  "first_pts": 0.0,
+  "last_pts": 40.033333,
+  "source_fps": 30,
+  "review_images_width": 640,
+  "boards_actually_viewed": 80,
+  "ranges": [
+    {
+      "first_pts": 0.0,
+      "last_pts": 3.966667,
+      "source_frames": 120,
+      "boards_actually_viewed": 8,
+      "local_folder": "开篇连续源帧-20261102"
+    },
+    {
+      "first_pts": 4.0,
+      "last_pts": 7.966667,
+      "source_frames": 120,
+      "boards_actually_viewed": 8,
+      "local_folder": "连续源帧4-8-20261102"
+    },
+    {
+      "first_pts": 8.0,
+      "last_pts": 11.966667,
+      "source_frames": 120,
+      "boards_actually_viewed": 8,
+      "local_folder": "连续源帧8-12-20261102"
+    },
+    {
+      "first_pts": 12.0,
+      "last_pts": 13.966667,
+      "source_frames": 60,
+      "boards_actually_viewed": 4,
+      "local_folder": "连续源帧12-14-20261102"
+    },
+    {
+      "first_pts": 14.0,
+      "last_pts": 15.966667,
+      "source_frames": 60,
+      "boards_actually_viewed": 4,
+      "local_folder": "连续源帧14-16-20261102"
+    },
+    {
+      "first_pts": 16.0,
+      "last_pts": 17.966667,
+      "source_frames": 60,
+      "boards_actually_viewed": 4,
+      "local_folder": "连续源帧16-18-20261102"
+    },
+    {
+      "first_pts": 18.0,
+      "last_pts": 23.966667,
+      "source_frames": 180,
+      "boards_actually_viewed": 12,
+      "local_folder": "连续源帧18-24-20261102"
+    },
+    {
+      "first_pts": 24.0,
+      "last_pts": 29.966667,
+      "source_frames": 180,
+      "boards_actually_viewed": 12,
+      "local_folder": "连续源帧24-30-20261102"
+    },
+    {
+      "first_pts": 30.0,
+      "last_pts": 35.966667,
+      "source_frames": 180,
+      "boards_actually_viewed": 12,
+      "local_folder": "连续源帧30-36-20261102"
+    },
+    {
+      "first_pts": 36.0,
+      "last_pts": 40.033333,
+      "source_frames": 122,
+      "boards_actually_viewed": 8,
+      "local_folder": "连续源帧36-40.0667-20261102"
+    }
+  ],
+  "boundary": "visual source-frame coverage only; review boards scaled; no full audiovisual, microscopic topology, physical dynamics, or engineering pass; media and boards local only"
+}
