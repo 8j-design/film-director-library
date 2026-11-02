@@ -1,0 +1,39 @@
+{
+  "scope": "three original static wide-shot keyframes, built-in image_gen, actual prompts/review; no third-party media; no continuous motion/sound claim",
+  "files": [
+    {
+      "name": "prompts.md",
+      "bytes": 5925,
+      "sha256": "289b9b7c9411ac4ddb53a42c9390e9d801c069bd5f0e7e5d9d5427fb92b8472a"
+    },
+    {
+      "name": "review.md",
+      "bytes": 4932,
+      "sha256": "d5c002363bebbb0c83ce839e16611828aa5324db375a1dbd2edc954a6a94886b"
+    },
+    {
+      "name": "V5-渡口远景.png",
+      "bytes": 2210627,
+      "sha256": "fff3a15ca68163e46982a2a7e85ef334c558a55dd78d3c3d72d3aeb8de9cd7f8",
+      "width": 1672,
+      "height": 941,
+      "mode": "RGB"
+    },
+    {
+      "name": "V6-人物缩小失败.png",
+      "bytes": 2158177,
+      "sha256": "c93132b2ab00b96fd47c3910149cf2f55304f8b5e86cd05e8b255d483744cdc9",
+      "width": 1672,
+      "height": 941,
+      "mode": "RGB"
+    },
+    {
+      "name": "V7-整体拉远.png",
+      "bytes": 2100795,
+      "sha256": "6b5e120f7f117ff8def432d1b3caf372ece58c43a9db89d6adecef8f47d68ee1",
+      "width": 1672,
+      "height": 941,
+      "mode": "RGB"
+    }
+  ]
+}

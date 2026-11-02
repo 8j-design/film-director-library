@@ -1,0 +1,89 @@
+{
+  "collection": "https://www.douyin.com/collection/7681638452602406950/1",
+  "observed_total": 5,
+  "actually_inspected_boards": 15,
+  "nominal_samples": 171,
+  "third_party_media_local_only": true,
+  "episodes": [
+    {
+      "episode": 1,
+      "video_id": "7680508700536163618",
+      "url": "https://www.douyin.com/video/7680508700536163618",
+      "title": "凤栖玉人旁",
+      "duration_rounded_seconds": 34.07,
+      "download_dimensions": [
+        1930,
+        1080
+      ],
+      "nominal_samples": 34,
+      "boards_actually_viewed": 3,
+      "sha256": "9b65916fcf796f45f748a6bfdb0922640fe942fc54a21cdfce84b7aa1aa39c6b",
+      "bytes": 6319219,
+      "boundary": "1-second FFmpeg grid samples/15 contact sheets actually inspected; not source-frame PTS, continuous motion, final fraction or audio verification"
+    },
+    {
+      "episode": 2,
+      "video_id": "7683850938414550335",
+      "url": "https://www.douyin.com/video/7683850938414550335",
+      "title": "往事流转在你眼眸",
+      "duration_rounded_seconds": 35.6,
+      "download_dimensions": [
+        1930,
+        1080
+      ],
+      "nominal_samples": 36,
+      "boards_actually_viewed": 3,
+      "sha256": "ebee6f56e2757f4e8476013c0b7813260f051ddd9193d1b473715e7fcfc76821",
+      "bytes": 5891109,
+      "boundary": "1-second FFmpeg grid samples/15 contact sheets actually inspected; not source-frame PTS, continuous motion, final fraction or audio verification"
+    },
+    {
+      "episode": 3,
+      "video_id": "7688320625382804755",
+      "url": "https://www.douyin.com/video/7688320625382804755",
+      "title": "如果你的游戏有这种画质",
+      "duration_rounded_seconds": 35.57,
+      "download_dimensions": [
+        2532,
+        1080
+      ],
+      "nominal_samples": 36,
+      "boards_actually_viewed": 3,
+      "sha256": "9ad84d7925e0246a0742efb70bf1fc3f2402242b8efa7c190ea4fa262b50cae6",
+      "bytes": 11076764,
+      "boundary": "1-second FFmpeg grid samples/15 contact sheets actually inspected; not source-frame PTS, continuous motion, final fraction or audio verification"
+    },
+    {
+      "episode": 4,
+      "video_id": "7687561226544631091",
+      "url": "https://www.douyin.com/video/7687561226544631091",
+      "title": "国风才是最x的",
+      "duration_rounded_seconds": 30.03,
+      "download_dimensions": [
+        1930,
+        1080
+      ],
+      "nominal_samples": 30,
+      "boards_actually_viewed": 3,
+      "sha256": "f61c2460afb64420f62add5f8597521a725fa910c9b234f3076c9eb7c6dac934",
+      "bytes": 7539251,
+      "boundary": "1-second FFmpeg grid samples/15 contact sheets actually inspected; not source-frame PTS, continuous motion, final fraction or audio verification"
+    },
+    {
+      "episode": 5,
+      "video_id": "7690529645023857966",
+      "url": "https://www.douyin.com/video/7690529645023857966",
+      "title": "这就是古人笔下的东方美学吗",
+      "duration_rounded_seconds": 35.43,
+      "download_dimensions": [
+        1930,
+        1080
+      ],
+      "nominal_samples": 35,
+      "boards_actually_viewed": 3,
+      "sha256": "32485d861a341b13495fefbdb153d3e3fdd84ecd3868d77cbbbf601dc5369409",
+      "bytes": 8878647,
+      "boundary": "1-second FFmpeg grid samples/15 contact sheets actually inspected; not source-frame PTS, continuous motion, final fraction or audio verification"
+    }
+  ]
+}

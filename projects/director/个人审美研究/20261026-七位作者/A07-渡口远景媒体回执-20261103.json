@@ -1,0 +1,44 @@
+{
+  "repository": "https://github.com/8j-design/film-director-library",
+  "private": true,
+  "release_url": "https://github.com/8j-design/film-director-library/releases/tag/research-2026-11-03-a07-ferry-wide",
+  "asset_url": "https://github.com/8j-design/film-director-library/releases/download/research-2026-11-03-a07-ferry-wide/a07-ferry-wide-20261103.zip",
+  "asset_id": 702721123,
+  "bytes": 6211484,
+  "sha256": "81c7f9c98ba600c34bbcaf5cd247cdcdd5c741aedf97bba1c5397a37dde122e6",
+  "server_sha256_verified": true,
+  "files": 6,
+  "scope": "three original wide-shot stills, prompt set, actual review and manifest; no third-party media; no animation claim",
+  "contents": [
+    {
+      "name": "asset-manifest.json",
+      "bytes": 1167,
+      "sha256": "17b78a0e560d4761161556a05eb39c05b628871f50380acade2eb7fe5c9fc92e"
+    },
+    {
+      "name": "prompts.md",
+      "bytes": 5925,
+      "sha256": "289b9b7c9411ac4ddb53a42c9390e9d801c069bd5f0e7e5d9d5427fb92b8472a"
+    },
+    {
+      "name": "review.md",
+      "bytes": 4932,
+      "sha256": "d5c002363bebbb0c83ce839e16611828aa5324db375a1dbd2edc954a6a94886b"
+    },
+    {
+      "name": "V5-渡口远景.png",
+      "bytes": 2210627,
+      "sha256": "fff3a15ca68163e46982a2a7e85ef334c558a55dd78d3c3d72d3aeb8de9cd7f8"
+    },
+    {
+      "name": "V6-人物缩小失败.png",
+      "bytes": 2158177,
+      "sha256": "c93132b2ab00b96fd47c3910149cf2f55304f8b5e86cd05e8b255d483744cdc9"
+    },
+    {
+      "name": "V7-整体拉远.png",
+      "bytes": 2100795,
+      "sha256": "6b5e120f7f117ff8def432d1b3caf372ece58c43a9db89d6adecef8f47d68ee1"
+    }
+  ]
+}
