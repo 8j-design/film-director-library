@@ -1,0 +1,29 @@
+{
+  "a07_source": "https://www.douyin.com/video/7679395414524677417",
+  "candidate_original": "https://www.douyin.com/video/7629652707271298339",
+  "candidate_author": "万人书",
+  "matching_basis": "A07 credits creator; cups, narrow eye band, fingers, strings/puppet, dance and final camera approach correspond; A07 caption has no exact original ID",
+  "original_page_date": "2026-04-17 17:09",
+  "original_duration_seconds": 19.925011,
+  "original_dimensions": [
+    576,
+    768
+  ],
+  "original_fps": 24,
+  "original_bytes": 1265176,
+  "original_sha256": "445b0407fc07fbec328fec728b82846d8036ab46cc4b67fd508b63c5412e2135",
+  "original_grid_stride": 0.25,
+  "original_samples_actually_inspected": 80,
+  "original_boards_actually_inspected": 7,
+  "a07_existing_grid_stride": 0.5,
+  "a07_existing_samples_reread": 43,
+  "a07_existing_boards_reread": 4,
+  "boundaries": [
+    "Grid time not exact source PTS or cut",
+    "Original last ~.175 sec and gaps not read",
+    "Audio not listened",
+    "Source engineering and AI reference inputs not inspected",
+    "Third-party videos/frames stay local",
+    "No new original animation produced"
+  ]
+}
