@@ -1,0 +1,12 @@
+{
+  "source": "https://www.bilibili.com/video/BV15UaN6oE2Y",
+  "duration": 2745,
+  "synced_count": 441,
+  "synced_last_actual": 2396.859721,
+  "additional_positions": [2402.240979,2407.700082,2413.149696,2418.5409,2423.91382,2429.358338,2434.820633,2440.210306,2445.693238,2451.169376,2456.570081,2462.018622,2467.455693,2472.872779,2478.30167,2483.697431,2489.115315,2494.599944,2500.071569,2505.447951,2510.876958,2516.274492,2521.695564,2527.096723],
+  "additional_count": 24,
+  "actual_count": 465,
+  "last_actual": 2527.096723,
+  "next": "42:00 overlap then 42:10; author conclusion not read",
+  "limits": "Nominal positions not continuous whole viewing. No complete audio. Not yet merged into formal JSON/CSV/notes or private remote."
+}
