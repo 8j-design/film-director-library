@@ -1,0 +1,125 @@
+{
+  "scope": "original 2D contact timing rough animatics V1-V6, keypose boards, scripts and actual failures/review; no third-party media; not polished action/sound validation",
+  "files": [
+    {
+      "name": "V1-检查图版.jpg",
+      "bytes": 124643,
+      "sha256": "964302a544da6905c91bc3e87b06508ed99efdfa073a155df9bfc7af92a226f1"
+    },
+    {
+      "name": "V2-检查图版.jpg",
+      "bytes": 124542,
+      "sha256": "2d14bb695e37ad3b3cf535d97717b4651eceac462d11003bea4d5c06b149c51b"
+    },
+    {
+      "name": "V3-检查图版.jpg",
+      "bytes": 124013,
+      "sha256": "4b9c729df5544bd7a44fcfab4eb61e978e9a418ddd3598d6250b6e155fc64a5e"
+    },
+    {
+      "name": "V3实际输出元信息.json",
+      "bytes": 2153,
+      "sha256": "6f0c3193b782c751c8a07dc34b17e4d40fbd64fdd44affd39fba74853888c370"
+    },
+    {
+      "name": "V4-检查图版.jpg",
+      "bytes": 124419,
+      "sha256": "a2b136cffcfdc6f2b2d63cf44c96e4eb3cdfc0d11d1be01a51468132dbc5f9f1"
+    },
+    {
+      "name": "V4实际输出元信息.json",
+      "bytes": 2153,
+      "sha256": "985998e530519cf715b73a192c3fef0729339af783a5e994bfd7f2621966f359"
+    },
+    {
+      "name": "V5-检查图版.jpg",
+      "bytes": 121930,
+      "sha256": "e4deeefc7f4933ebc3fd05ca0bce88db687af1c6097436fcdcefd3e74b8bfdd6"
+    },
+    {
+      "name": "V5V6实际输出元信息.json",
+      "bytes": 2770,
+      "sha256": "a74ccd8a69e471c07b4942791ae7ed48a6be370a25cf4aa0263b2822bd25ce63"
+    },
+    {
+      "name": "V6-检查图版.jpg",
+      "bytes": 121909,
+      "sha256": "b6b1a6f6f4ed6531762cd06f2aacbb6964e72bb6729284ffac20dc47ac53d131"
+    },
+    {
+      "name": "修订V3.py",
+      "bytes": 635,
+      "sha256": "49e2f063489152ac8d37e5dc4bae8a1d24db2570f8a8bae33e695d88f77ecbaf"
+    },
+    {
+      "name": "修订V4.py",
+      "bytes": 979,
+      "sha256": "0dc528445cda61a95314abfb386029071bef4adb010de028df395c7f4e7a46b7"
+    },
+    {
+      "name": "修订V5与V6.py",
+      "bytes": 1166,
+      "sha256": "699c3137b693d450faede08088ca24d1ea81752d435515664cfdf4263c891d33"
+    },
+    {
+      "name": "制作粗版.py",
+      "bytes": 4971,
+      "sha256": "11149825567fd9581aa59ae0ec54f53c692d112ff7e49773bb50e38563d612b4"
+    },
+    {
+      "name": "复核与对照.md",
+      "bytes": 2684,
+      "sha256": "5e569ef82511890021a859587f0e06c0002edd916dac31980f79a1b7aa3d10a0"
+    },
+    {
+      "name": "实际输出元信息.json",
+      "bytes": 2758,
+      "sha256": "44f99ab6e7fb294d6106a84dc7cba4c31ff696e5661328f270691e65cb418330"
+    },
+    {
+      "name": "执行大纲.md",
+      "bytes": 1712,
+      "sha256": "474845d42f7351e0b89f2ac4e65aa73367b404a688d65c887cfdfbc4eecf081f"
+    },
+    {
+      "name": "核验输出.json",
+      "bytes": 767,
+      "sha256": "af9cb6e174dabc7c5f5f80790a81c8eb556860563aaa6685b4694856d259fb97"
+    },
+    {
+      "name": "核验输出.py",
+      "bytes": 1154,
+      "sha256": "89a3cd4b04050f7038d025cf04b38619210d07156ab8b6b918e31cccfeb24a44"
+    },
+    {
+      "name": "点到即止-V1.mp4",
+      "bytes": 147389,
+      "sha256": "67799058c15c50b6e1735ac1a48608d0b729807c8f978f2e0da970252ef33753"
+    },
+    {
+      "name": "点到即止-V2.mp4",
+      "bytes": 150166,
+      "sha256": "3590d1a112f0b6b6478d55f208d07ad34215b773451230c0a97ff4eb5193ef86"
+    },
+    {
+      "name": "点到即止-V3.mp4",
+      "bytes": 146944,
+      "sha256": "dc9e123bbdc41633262bab48d736ba211abc47ae590c9e8f3f9e7ec25d4138be"
+    },
+    {
+      "name": "点到即止-V4.mp4",
+      "bytes": 145965,
+      "sha256": "4d0d5e31d9d2675018a7478335f18f0e9d37f3fcc86baa5da2a1e2b6c2900583"
+    },
+    {
+      "name": "点到即止-V5.mp4",
+      "bytes": 123198,
+      "sha256": "a6a86beb89c00ff6827c5b4af6ee5ce0eaf5b0642ddb26d060e9b7efc8b0c8e6"
+    },
+    {
+      "name": "点到即止-V6.mp4",
+      "bytes": 123736,
+      "sha256": "91e4d7679ed89538a68d3133a82e474f86809ce48448822edf374cc21ac7eeeb"
+    }
+  ]
+}

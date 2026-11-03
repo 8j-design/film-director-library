@@ -1,0 +1,11 @@
+{
+  "repository": "https://github.com/8j-design/film-director-library",
+  "private": true,
+  "release_url": "https://github.com/8j-design/film-director-library/releases/tag/research-2026-11-03-original-contact-animatic",
+  "asset_url": "https://github.com/8j-design/film-director-library/releases/download/research-2026-11-03-original-contact-animatic/original-contact-animatic-20261103.zip",
+  "bytes": 1388640,
+  "sha256": "1d2264f6bd4a7d6dea1740162bfc68d964fd1589fd0074119efe3dac389a6702",
+  "server_sha256_verified": true,
+  "files": 25,
+  "scope": "original 2D contact timing rough animatics V1-V6, keypose boards, scripts and actual failures/review; no third-party media; not polished action/sound validation"
+}

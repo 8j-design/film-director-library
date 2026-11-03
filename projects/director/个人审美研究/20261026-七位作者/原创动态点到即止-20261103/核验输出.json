@@ -1,0 +1,20 @@
+[
+  {
+    "version": 5,
+    "bytes": 123198,
+    "sha256": "a6a86beb89c00ff6827c5b4af6ee5ce0eaf5b0642ddb26d060e9b7efc8b0c8e6",
+    "video_and_audio_decode": true,
+    "tip_distance_at_planned_contact_pixels": 2.842170943040401e-14,
+    "contact_pose_frames": 5,
+    "limitations": "geometry/decode/keypose review only; no full playback quality or audio listening pass"
+  },
+  {
+    "version": 6,
+    "bytes": 123736,
+    "sha256": "91e4d7679ed89538a68d3133a82e474f86809ce48448822edf374cc21ac7eeeb",
+    "video_and_audio_decode": true,
+    "tip_distance_at_planned_contact_pixels": 2.842170943040401e-14,
+    "contact_pose_frames": 1,
+    "limitations": "geometry/decode/keypose review only; no full playback quality or audio listening pass"
+  }
+]
