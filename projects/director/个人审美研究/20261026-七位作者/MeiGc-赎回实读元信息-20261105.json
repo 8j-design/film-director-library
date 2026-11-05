@@ -1,0 +1,27 @@
+{
+  "source_url": "https://www.douyin.com/video/7696405144660905216",
+  "author": "MeiGc（梅干菜）",
+  "duration_dom_seconds": 383.222879,
+  "dimensions_dom": [
+    2520,
+    1080
+  ],
+  "reliable_positions": 77,
+  "first_batch_grid": "0—195 every 5 seconds; 40 positions",
+  "later_batch": "200.124493—380.123793 approx 5 seconds; plus 383; 38 returns",
+  "excluded_unpainted_seconds": [
+    250.124093,
+    370.123993
+  ],
+  "supplement_painted_seconds": [
+    368
+  ],
+  "other_failed_return_seconds": [
+    248
+  ],
+  "audio_listened": false,
+  "continuous_viewing": false,
+  "tail_unread_seconds": 0.222879,
+  "download_success": false,
+  "note": "streaming original; source currentTime nominal, not exact source PTS; no third-party media upload"
+}

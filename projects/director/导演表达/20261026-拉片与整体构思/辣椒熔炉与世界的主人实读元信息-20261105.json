@@ -1,0 +1,29 @@
+{
+  "source_url": "https://www.douyin.com/video/7671595800408935690",
+  "author": "辣椒梦话",
+  "duration_dom_seconds": 1114.768978,
+  "principal_positions": 224,
+  "principal_grid": "0—1110 every 5 seconds; plus 1114",
+  "subtitle_crop_only_seconds": [
+    75,
+    80,
+    85,
+    90,
+    95,
+    100,
+    105,
+    110
+  ],
+  "supplement_painted_seconds": [
+    446.931935,
+    451.931935,
+    456.931935
+  ],
+  "excluded_unpainted_seconds": [
+    441.931935
+  ],
+  "audio_listened": false,
+  "continuous_viewing": false,
+  "tail_unread_seconds": 0.768978,
+  "next": "445前半问句/五秒间隙/635秒音乐跳切原声/原电影及插片来源；完整可见作者系列继续"
+}
