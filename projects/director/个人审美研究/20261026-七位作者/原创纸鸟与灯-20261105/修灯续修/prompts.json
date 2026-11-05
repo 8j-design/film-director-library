@@ -1,0 +1,25 @@
+{
+  "tool": "builtin image_gen.imagegen",
+  "transparent_background": false,
+  "branch": "V2 -> V4 -> V5; V3 preserved as alternative mask-placement trial, not merged",
+  "versions": [
+    {
+      "version": "v4",
+      "mode": "edit",
+      "references": [
+        "../v2.png"
+      ],
+      "prompt": "Edit this existing 3-by-2 six-panel original boatyard storyboard. Fourth draft with ONE narrative repair: modify ONLY panel 2 (top middle). On its wooden repair counter, immediately beside the cracked glass lantern chimney already at lower left, add a SECOND, clearly intact replacement glass chimney of the same shape and size. Both the cracked old chimney and the intact spare must be separately recognizable and firmly resting on the counter. The intact spare is transparent glass with restrained edge highlights, not a second lantern or bottle. Keep the man's repair action, masked face, hands, the dismantled metal lantern frame, tools and oil jar. The spare explains why the lantern's chimney is whole in panel 5. Preserve panels 1, 3, 4, 5 and 6 as closely as possible, including the reciprocal gazes, expressions, original strong irregular graphite outlines and dry gritty gouache-on-paper texture. Do not smooth, beautify or repaint the whole image; keep its muted teal and ochre palette, fixed composition and exact six-panel layout. Do not add any text, labels, arrows, numbers or new people. This is a static storyboard study, not completed animation."
+    },
+    {
+      "version": "v5",
+      "mode": "edit",
+      "references": [
+        "v4.png",
+        "../v1.png"
+      ],
+      "prompt": "Texture restoration edit of the FIRST reference (V4 storyboard). Preserve the FIRST reference's exact six-panel composition, characters, expressions and OPEN-eye reciprocal gaze, every hand and prop, including BOTH cracked and intact spare glass chimneys in panel 2. Use the SECOND reference only as a guide for its stronger dry irregular graphite line, coarse paper tooth and broken opaque gouache pigment. Do not copy its different facial expressions. Restore a visibly handmade drawn surface across the V4 storyboard: irregular dark pencil contours, selective short hatch marks in cloth and wood, granulated non-glossy earth-color blocks, paper showing through pigment. Let grain and drawn edges carry the texture rather than a blurry noise overlay. Keep the eyes and hands legible. No smoothing, glossy skin, new actions, new props, changed panel geometry, text, arrows or numbers. Do not add the mask to panel 5 in this branch; retain V4's story contents. Single change is rendering texture, not staging. Restrained adult original 2D animation storyboard."
+    }
+  ],
+  "limits": "original static storyboard, not animation/sound/audience validation; original V1-V3 archive unchanged"
+}

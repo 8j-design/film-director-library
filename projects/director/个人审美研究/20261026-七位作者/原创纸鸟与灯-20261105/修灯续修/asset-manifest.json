@@ -1,0 +1,29 @@
+{
+  "scope": "original V4/V5 still storyboards from V2 branch, two actual edit prompts and causal/texture review; no third-party media; no motion or sound claim",
+  "files": [
+    {
+      "name": "prompts.json",
+      "bytes": 2804,
+      "sha256": "f5421252074d256db0d824a418d1d304013a02df41d9a70c0ad3a333f02006e6"
+    },
+    {
+      "name": "V4-V5因果与材质复核.md",
+      "bytes": 1981,
+      "sha256": "7a2fcc54ec0afb2f06ecfa5fb47e5b917fc62d7dafe95c431edce5f955e3d8d1"
+    },
+    {
+      "name": "v4.png",
+      "bytes": 2469712,
+      "sha256": "637bb2245a7308c77e13ce4b0e3c2b397257041fab2776c3569b79483382171b",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "name": "v5.png",
+      "bytes": 3542843,
+      "sha256": "3da4561e508268aa639134d847d7fc9d980b5ed1752e9a2482c0f4170dbdf122",
+      "width": 1536,
+      "height": 1024
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "repository": "https://github.com/8j-design/film-director-library",
+  "private": true,
+  "release_url": "https://github.com/8j-design/film-director-library/releases/tag/research-2026-11-05-paperbird-lantern",
+  "asset_url": "https://github.com/8j-design/film-director-library/releases/download/research-2026-11-05-paperbird-lantern/paperbird-cause-v4-v5-20261105.zip",
+  "asset_id": 713433858,
+  "bytes": 5886359,
+  "sha256": "5589911e46366dc36c3aff338b0ffd2d5302c43b8be09fccf5554d8cdf6ff9a1",
+  "server_sha256_verified": true,
+  "files": 5,
+  "contents": [
+    {
+      "name": "prompts.json",
+      "bytes": 2804,
+      "sha256": "f5421252074d256db0d824a418d1d304013a02df41d9a70c0ad3a333f02006e6"
+    },
+    {
+      "name": "V4-V5因果与材质复核.md",
+      "bytes": 1981,
+      "sha256": "7a2fcc54ec0afb2f06ecfa5fb47e5b917fc62d7dafe95c431edce5f955e3d8d1"
+    },
+    {
+      "name": "v4.png",
+      "bytes": 2469712,
+      "sha256": "637bb2245a7308c77e13ce4b0e3c2b397257041fab2776c3569b79483382171b",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "name": "v5.png",
+      "bytes": 3542843,
+      "sha256": "3da4561e508268aa639134d847d7fc9d980b5ed1752e9a2482c0f4170dbdf122",
+      "width": 1536,
+      "height": 1024
+    }
+  ],
+  "scope": "original V4/V5 still storyboards from V2 branch, two actual edit prompts and causal/texture review; no third-party media; no motion or sound claim"
+}
