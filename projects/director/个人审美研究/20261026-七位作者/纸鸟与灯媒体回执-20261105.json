@@ -1,0 +1,45 @@
+{
+  "repository": "https://github.com/8j-design/film-director-library",
+  "private": true,
+  "release_url": "https://github.com/8j-design/film-director-library/releases/tag/research-2026-11-05-paperbird-lantern",
+  "asset_url": "https://github.com/8j-design/film-director-library/releases/download/research-2026-11-05-paperbird-lantern/paperbird-lantern-20261105.zip",
+  "asset_id": 712976258,
+  "bytes": 8362434,
+  "sha256": "e1d94e39c81202bcebdf3e77f77af5814b0e95b2765ff127195347c08a9ab808",
+  "server_sha256_verified": true,
+  "files": 6,
+  "contents": [
+    {
+      "name": "prompts.json",
+      "bytes": 4358,
+      "sha256": "875e5310c69f594a13339cabac55546c02c3fd3bce735286b0b97c546a0794fa"
+    },
+    {
+      "name": "v1.png",
+      "bytes": 3267122,
+      "sha256": "d9eeb80f17259c6e7e61be391f75dace418b830d84f4f824bb7e8a3c7dc5c61b",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "name": "v2.png",
+      "bytes": 2847547,
+      "sha256": "c3927027650b6c50af6d10a1def3f1b94d796c525f5dbbf8c95f00abe150f60c",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "name": "v3.png",
+      "bytes": 2417384,
+      "sha256": "b851be8801615f382f7ef72946879673dbb33b02350e037747aee514c58289b5",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "name": "三版实看与回参考复核.md",
+      "bytes": 3458,
+      "sha256": "62579e8ef04e4838518bdb76f587313d1d77e0b45d67da11ff3fd8eab68cde7e"
+    }
+  ],
+  "scope": "original static 6-panel storyboards V1/V2/V3, prompt set and critical review; V3 texture drift not passed; no third-party media or original source URLs"
+}

@@ -1,0 +1,25 @@
+{
+  "tool": "builtin image_gen.imagegen",
+  "transparent_background": false,
+  "original_reference_images_sent_to_generator": false,
+  "versions": [
+    {
+      "version": "v1",
+      "mode": "generate",
+      "prompt": "Use case: illustration-story. Create an original six-panel static film storyboard study, arranged exactly 3 columns x 2 rows, read left-to-right top-to-bottom. Landscape overall. No words, no numbers, no captions. Two middle-aged adult boatyard workers at a quiet, weathered river shed at dusk: a short-haired woman ferry keeper wearing a faded teal work coat; a tall, thin male sail mender wearing a simple hand-made folded brown-paper bird mask and a faded ochre work jacket. They are equals, neither is a child or a mystical creature. Story: she brings a broken oil lantern to his counter; he finishes repairing it; he hesitates then removes the paper bird mask revealing an ordinary tired, asymmetrical, kind face with stubble; she looks at him with steady recognition; she returns the repaired lantern toward his hands; they begin working together on a torn sail. A readable modest emotional progression, not melodramatic tears. Maintain recognizable identities, clothing and lantern across panels. Art: original adult 2D animation concept drawing, expressive irregular graphite outlines and dry gouache color blocks on gently mottled paper, desaturated earth ochre, grey-green and restrained warm light. Faces should have character rather than beauty-model symmetry. Eye-level framing, tactile boatyard objects. Let the mask be a chosen protective object, not a villain or humiliating reveal. Show actual actions and relationship through hands, gaze and shared work, with distinct staging in each panel. No photoreal CGI, no anime glamour, no copied existing franchise characters. This is a first storyboard draft, not polished final animation."
+    },
+    {
+      "version": "v2",
+      "mode": "edit",
+      "reference": "v1.png",
+      "prompt": "Edit this six-panel storyboard as a tightly scoped second draft. Preserve exactly the same 3-column by 2-row layout, characters, work clothes, graphite and dry gouache texture, muted boatyard palette, lighting and story. Preserve panels 1, 2, 5 and 6 as closely as possible. Change only the reciprocal recognition in panels 3 (top right) and 4 (bottom left): in panel 3 the adult man lifting his brown paper bird mask now has his eyes OPEN and looks steadily toward the woman at left, neither downcast nor toward the viewer; retain his tired ordinary asymmetrical face, stubble and mask-lifting hand. In panel 4 the woman meets HIS gaze with quiet, level recognition, a relaxed neutral mouth and only a tiny trace of warmth, without a maternal approving smile or pity. Adjust their head angle modestly so the two reverse shots establish reciprocal eye contact at a plausible matched eye level across the counter; no new actions. Neither character needs beauty retouching. Keep the original protective handmade mask and equal adult coworker relationship. No text or panel numbers. This is a static storyboard test, not animation."
+    },
+    {
+      "version": "v3",
+      "mode": "edit",
+      "reference": "v2.png",
+      "prompt": "Make one small third-draft continuity edit to this existing six-panel storyboard. Keep the whole image and all six panels, including faces, reciprocal gazes in panels 3 and 4, hands, lantern, clothes, dry gouache texture, graphite line, boatyard background and layout unchanged as closely as possible. Modify ONLY panel 5 (bottom middle): add the SAME handmade brown folded-paper bird mask from panels 1 and 3, now resting gently on its side on the foreground wooden work counter at the lower LEFT of that panel, clearly separate from their hands and the lantern. It is a modest life-size mask, neither oversized nor miniature, with its folded beak and single dark eye opening recognizable. It is intact and cared for, not torn, crushed, thrown away or burning. Leave room on the counter; do not cover the lantern, the handoff, faces or panel borders. The object remains available to its owner after he removes it. No other new props, no text. Static storyboard, not animation."
+    }
+  ],
+  "limits": "Static six-panel boards; no animation, sound or viewer validation. V3 changes texture outside requested panel. Keep V2 as relation baseline."
+}
