@@ -1,0 +1,46 @@
+{
+  "scope": "Original six-panel Lamp for whom V1-V3, two actual revisions and return-to-source review; V2 unintended fifth-panel darkening retained; static stills, no motion/sound/physics/user acceptance claim; no third-party media",
+  "files": [
+    {
+      "name": "prompts.json",
+      "bytes": 5475,
+      "sha256": "bf363a3a16f64e8284e2026b96b13b91c349ec2d9f2a9b2fd61d109141776444"
+    },
+    {
+      "name": "V1-V2实看.md",
+      "bytes": 993,
+      "sha256": "f33da768afc4bef8f568a007f7ea12b7fa8bcbad2142608ff50eec8ed4bfabcc"
+    },
+    {
+      "name": "v1.png",
+      "bytes": 3439663,
+      "sha256": "6bd27e292826214c9da20b56333d45a8f34487879bbebd2c1e99eeafbe031c05",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "name": "v2.png",
+      "bytes": 2797416,
+      "sha256": "0a6548f7d4ad4c2930e86bf3dcfd82860d9b432ace06655691db725c99bc9a01",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "name": "v3.png",
+      "bytes": 2596854,
+      "sha256": "1151b60343666ed569880e279149f6a047cbe57c3c0e207e469ead655f9f15af",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "name": "V3实看与回原作反检.md",
+      "bytes": 3429,
+      "sha256": "5c346c6b0b2cfe1b3e48e15fd8c2fa4debb0c6b96104f440e87cbd9db4aae0cd"
+    },
+    {
+      "name": "执行与验收.md",
+      "bytes": 1276,
+      "sha256": "b44fc4283d728dbe8d992cab60bd19db8a3683f824ff81b7ea54f60ee143d799"
+    }
+  ]
+}
