@@ -1,0 +1,130 @@
+[
+  {
+    "version": 1,
+    "decoded_frames": 192,
+    "decoded_frame_bytes": 298598400,
+    "nominal_selected_seconds": [
+      6.2,
+      6.5,
+      6.7
+    ],
+    "actual_frame_indices": [
+      149,
+      156,
+      161
+    ],
+    "actual_selected_seconds": [
+      6.208333333333333,
+      6.5,
+      6.708333333333333
+    ],
+    "sha256": "5c851ceedcef94760f6f080410be08b701f5f1122004a4dad092b35f699df6ac",
+    "human_continuous_viewing": false,
+    "selected_images_review": "all listed decoded images actually inspected; not continuous playback"
+  },
+  {
+    "version": 2,
+    "decoded_frames": 192,
+    "decoded_frame_bytes": 298598400,
+    "nominal_selected_seconds": [
+      6.2,
+      6.5,
+      6.7
+    ],
+    "actual_frame_indices": [
+      149,
+      156,
+      161
+    ],
+    "actual_selected_seconds": [
+      6.208333333333333,
+      6.5,
+      6.708333333333333
+    ],
+    "sha256": "4f88c8f45aec5f92bebca5e4bd99acfc55c44a401986390410a7b3a34360e119",
+    "human_continuous_viewing": false,
+    "selected_images_review": "all listed decoded images actually inspected; not continuous playback"
+  },
+  {
+    "version": 3,
+    "decoded_frames": 192,
+    "decoded_frame_bytes": 298598400,
+    "nominal_selected_seconds": [
+      6.2,
+      6.5,
+      6.7
+    ],
+    "actual_frame_indices": [
+      149,
+      156,
+      161
+    ],
+    "actual_selected_seconds": [
+      6.208333333333333,
+      6.5,
+      6.708333333333333
+    ],
+    "sha256": "26be496b7fa862358817333fe4be68e9bd74fb2df6e0409b7a74ccd06735e75c",
+    "human_continuous_viewing": false,
+    "selected_images_review": "all listed decoded images actually inspected; not continuous playback"
+  },
+  {
+    "version": 4,
+    "decoded_frames": 192,
+    "decoded_frame_bytes": 298598400,
+    "nominal_selected_seconds": [
+      0,
+      0.8,
+      1.6,
+      2.4,
+      3.2,
+      4,
+      4.6,
+      5.2,
+      5.4,
+      5.8,
+      6.2,
+      6.5,
+      6.7,
+      7.2,
+      7.95
+    ],
+    "actual_frame_indices": [
+      0,
+      19,
+      38,
+      58,
+      77,
+      96,
+      110,
+      125,
+      130,
+      139,
+      149,
+      156,
+      161,
+      173,
+      191
+    ],
+    "actual_selected_seconds": [
+      0.0,
+      0.7916666666666666,
+      1.5833333333333333,
+      2.4166666666666665,
+      3.2083333333333335,
+      4.0,
+      4.583333333333333,
+      5.208333333333333,
+      5.416666666666667,
+      5.791666666666667,
+      6.208333333333333,
+      6.5,
+      6.708333333333333,
+      7.208333333333333,
+      7.958333333333333
+    ],
+    "sha256": "fee819d8d83f9582789919d189c5b86703394e6bb4c08296f083823485269bd5",
+    "human_continuous_viewing": false,
+    "selected_images_review": "all listed decoded images actually inspected; not continuous playback"
+  }
+]

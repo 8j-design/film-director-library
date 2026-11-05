@@ -1,0 +1,100 @@
+{
+  "scope": "original code-native silent motion blocking V1-V4; no reference media/pixels; contact causality only, rotation partly occluded, anatomy and full scene unverified",
+  "files": [
+    {
+      "path": "执行大纲.md",
+      "bytes": 1972,
+      "sha256": "66fed1b2a406b59d9adfc1da073703299c8995379e9ffd66328e5e3c8f2293a1"
+    },
+    {
+      "path": "实看与回原作复核.md",
+      "bytes": 3894,
+      "sha256": "f407d1cfc66438020ec86c40bb6144ea7dabb6a3a0acdcd609ec5e31daf2cd91"
+    },
+    {
+      "path": "render_blocking.py",
+      "bytes": 6532,
+      "sha256": "16a0ad85d5587817ecdf4fe4378f28cce8e3a5949ae4e0e1f716ef0fee3294a4"
+    },
+    {
+      "path": "verify_encoded.py",
+      "bytes": 1823,
+      "sha256": "698e29ed728606b5138f92326ad61facfc636493895fa92f40060425591e1365"
+    },
+    {
+      "path": "encoded-verification.json",
+      "bytes": 2891,
+      "sha256": "120b8fde89187e10976de3921d64b3c3e7c65c9a946cf2fe7d97a74ba7065423"
+    },
+    {
+      "path": "v1/assembly.mp4",
+      "bytes": 166269,
+      "sha256": "5c851ceedcef94760f6f080410be08b701f5f1122004a4dad092b35f699df6ac"
+    },
+    {
+      "path": "v1/metadata.json",
+      "bytes": 1240,
+      "sha256": "6540ddb63b8cf7300c3c0521d2db667e65eb4f4a1302ac20ab07dcfe9256fa45"
+    },
+    {
+      "path": "v1/decoded/board1.png",
+      "bytes": 147204,
+      "sha256": "4efef02776a9d03d81da7c79bcc4a9d07a55d77469c0fa29dd8e6643777bbeb0"
+    },
+    {
+      "path": "v2/assembly.mp4",
+      "bytes": 169405,
+      "sha256": "4f88c8f45aec5f92bebca5e4bd99acfc55c44a401986390410a7b3a34360e119"
+    },
+    {
+      "path": "v2/metadata.json",
+      "bytes": 1267,
+      "sha256": "7b776c67533c8b000fc7860c53b24f35ee79630db06eecaa03a972be38d2b888"
+    },
+    {
+      "path": "v2/decoded/board1.png",
+      "bytes": 153074,
+      "sha256": "810f6925070209c293098df85e5d35a8c30f1fe1f726c54d397c1f8b7e729195"
+    },
+    {
+      "path": "v3/assembly.mp4",
+      "bytes": 170402,
+      "sha256": "26be496b7fa862358817333fe4be68e9bd74fb2df6e0409b7a74ccd06735e75c"
+    },
+    {
+      "path": "v3/metadata.json",
+      "bytes": 1267,
+      "sha256": "b51251da1b722ccb6bd7186af52bf25039db898355f79a493790bfde164a5f4a"
+    },
+    {
+      "path": "v3/decoded/board1.png",
+      "bytes": 155981,
+      "sha256": "b831a1c28a3d83e5a02dd379fc25d6d47dc398e7cf9210f0b25e270a35d64d0b"
+    },
+    {
+      "path": "v4/assembly.mp4",
+      "bytes": 177038,
+      "sha256": "fee819d8d83f9582789919d189c5b86703394e6bb4c08296f083823485269bd5"
+    },
+    {
+      "path": "v4/metadata.json",
+      "bytes": 1267,
+      "sha256": "f10fa41200ed955d9e337952752853e242e4b8c9615ef9c73e630fcf690158e3"
+    },
+    {
+      "path": "v4/decoded/board1.png",
+      "bytes": 308327,
+      "sha256": "7cd9f9a3d8ca6c33d3be53fb23190dfc9387c59f31e72528f6029766f3bde2e8"
+    },
+    {
+      "path": "v4/decoded/board2.png",
+      "bytes": 286219,
+      "sha256": "3d11221f5c6a8f330bf15c9bb36374451710461c3626b7585b560849ca701fda"
+    },
+    {
+      "path": "v4/decoded/board3.png",
+      "bytes": 154340,
+      "sha256": "2d0754c56e725c22336aca061255c01c8833ac43f4b1e2c88ea7c4e72010c22f"
+    }
+  ]
+}

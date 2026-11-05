@@ -1,0 +1,12 @@
+{
+  "repository": "https://github.com/8j-design/film-director-library",
+  "private": true,
+  "release_url": "https://github.com/8j-design/film-director-library/releases/tag/research-2026-11-05-paperbird-lantern",
+  "asset_url": "https://github.com/8j-design/film-director-library/releases/download/research-2026-11-05-paperbird-lantern/lantern-assembly-blocking-v1-v4-20261105.zip",
+  "asset_id": 713885666,
+  "bytes": 1868157,
+  "sha256": "76c9e4bdd520205fb1a619edf8e363f9adb90589cae44ade6c2ebd4ea9fd102c",
+  "server_sha256_verified": true,
+  "files": 20,
+  "scope": "original code-native silent motion blocking V1-V4; no reference media/pixels; contact causality only, rotation partly occluded, anatomy and full scene unverified"
+}
