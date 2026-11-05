@@ -1,0 +1,54 @@
+{
+  "source_url": "https://www.douyin.com/video/7672707839571283242",
+  "source_duration": 2256.25,
+  "date": "2026-11-05",
+  "new_machine_ranges": [
+    [
+      1380,
+      1680
+    ],
+    [
+      1680,
+      1980
+    ],
+    [
+      1980,
+      2256
+    ]
+  ],
+  "new_machine_segment_counts": [
+    132,
+    139,
+    125
+  ],
+  "new_machine_elapsed": [
+    65.58,
+    75.8,
+    78.78
+  ],
+  "subtitle_positions": [
+    57,
+    56,
+    56
+  ],
+  "boards": [
+    7,
+    7,
+    7
+  ],
+  "context_frames": [
+    7,
+    9,
+    10
+  ],
+  "all_generated_boards_and_contexts_actually_viewed": true,
+  "machine_coverage_union": [
+    0,
+    2256
+  ],
+  "old_tail63_overlaps": true,
+  "tail_not_transcribed_seconds": 0.25,
+  "full_audiovisual": false,
+  "source_media_uploaded": false,
+  "next": "关键英文/空白字幕对应连续声画、未选字幕、末0.25秒及其他原集；非重复抽样"
+}
