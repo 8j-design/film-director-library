@@ -1,0 +1,28 @@
+{
+  "url": "https://www.douyin.com/video/7666422664294190363",
+  "duration_seconds": 468.60281,
+  "main_nominal_positions": 95,
+  "main_definition": "0—465约每5秒，加468；漂移见正文",
+  "invalid_main": [
+    329.9994,
+    434.999,
+    439.999
+  ],
+  "recovered_main": [
+    439.999
+  ],
+  "supplement_valid": [
+    198.87525,
+    328
+  ],
+  "supplement_invalid": [
+    433
+  ],
+  "reliable_positions_total": 95,
+  "last_reliable_position_seconds": 468,
+  "tail_unread_seconds": 0.60281,
+  "full_text_read": false,
+  "full_audiovisual": false,
+  "source_media_archived": false,
+  "next": "补330/435附近、尾端、间隔缺句和声音；不重复取样冒充连读"
+}
