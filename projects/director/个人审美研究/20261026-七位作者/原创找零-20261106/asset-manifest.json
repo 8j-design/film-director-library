@@ -1,0 +1,95 @@
+{
+  "scope": "Original code-drawn silent 8-second Change at ferry V1-V3, 2 actual revisions; all versions decoded to192 frames, eight selected each and V3 extra57 critical crop frames actually read; no sound/physically correct anatomy/audience acceptance/style mastery claim; no reference media",
+  "files": [
+    {
+      "path": "构思与验收.md",
+      "bytes": 1647,
+      "sha256": "1a0834dd57b5b8373f0756f02b08821fa48f671f01908c34fce7e00b512fc971"
+    },
+    {
+      "path": "实看修订与回原作.md",
+      "bytes": 2809,
+      "sha256": "48baae822531fd1bde4fed1cdf4cb71a96cf55436c985ac371bcdf27d173f862"
+    },
+    {
+      "path": "绘制分层动作.py",
+      "bytes": 5626,
+      "sha256": "17adb3c718045c9063308c41bcbbbd754143f2dcebcbc81af492c2a45a398604"
+    },
+    {
+      "path": "核对关键连续段.py",
+      "bytes": 830,
+      "sha256": "c19fa98be692c13666e167687d6fb0dfbf175d9de20906db4f7837762897a153"
+    },
+    {
+      "path": "连续补核元信息.json",
+      "bytes": 740,
+      "sha256": "9d86cf0d517bd8227596a924a5058081e64971fc4c6990c41998dd4e349a209d"
+    },
+    {
+      "path": "v1/找零.mp4",
+      "bytes": 40011,
+      "sha256": "c1783fa66b826331d08a8cd5af5933d478a1d7c34cb433e77487cbd74c66cbd8"
+    },
+    {
+      "path": "v1/metadata.json",
+      "bytes": 595,
+      "sha256": "8bd70e44863f732eeb9eea02ff03cdd3ee3be1aae9e04fc3dd9fb7f1e70de468"
+    },
+    {
+      "path": "v1/关键时刻.png",
+      "bytes": 279823,
+      "sha256": "f63070a5a4b594206f6aaa7fbc83a06d90352555a5dd7150b87c34185a686b6a"
+    },
+    {
+      "path": "v2/找零.mp4",
+      "bytes": 38977,
+      "sha256": "4b7ef406305c72ee139edf59bd0cf21611450a075cf4c636fa7987a20ea42e2f"
+    },
+    {
+      "path": "v2/metadata.json",
+      "bytes": 595,
+      "sha256": "061c981edb102e2e74f41d2054a5a95efda932dd729edc0398734feec5988526"
+    },
+    {
+      "path": "v2/关键时刻.png",
+      "bytes": 279859,
+      "sha256": "49a9c29a7c541be36c6409f2ddd91a1374f82f18ef9b168b6730135c2cedaef1"
+    },
+    {
+      "path": "v3/找零.mp4",
+      "bytes": 39780,
+      "sha256": "52b99fb7de6934b6fd2343a97b97bc3c90f2e1a4bf27faeadd820ccea838ad5a"
+    },
+    {
+      "path": "v3/metadata.json",
+      "bytes": 610,
+      "sha256": "a33ff8d9ba082df696412f7e8a9c6918c4af51dab90ab4d2f3c4cdfb0619e530"
+    },
+    {
+      "path": "v3/关键时刻.png",
+      "bytes": 280169,
+      "sha256": "daa6416cf0d2badcb8beea5949e1394a65f2539d9ce1b9b5ad5f40b3448bf52c"
+    },
+    {
+      "path": "v3/连续补核1.png",
+      "bytes": 73049,
+      "sha256": "348c854d7dc667eb68df2bc2389f8e40a30c2a89b06376172dd35a39855d4093"
+    },
+    {
+      "path": "v3/连续补核2.png",
+      "bytes": 95752,
+      "sha256": "5b7ec3809034528b4e4d03c83191893b9783cb4e0ced1860005a867a0cece76a"
+    },
+    {
+      "path": "v3/连续补核3.png",
+      "bytes": 115169,
+      "sha256": "406b9ed3d05ecf155d3dd08ad881fc2eaf0a641f1fdd9a2cc736fcc5fcc75f81"
+    },
+    {
+      "path": "v3/连续补核4.png",
+      "bytes": 67261,
+      "sha256": "9d3eaa2319ede8ee90d6ca68b7f273cd2602753e4b531795f190215d2ca4d6f5"
+    }
+  ]
+}
