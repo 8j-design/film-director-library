@@ -1,0 +1,34 @@
+{
+  "source": "https://www.douyin.com/video/7632623213981322536",
+  "range_seconds": [
+    900,
+    1050
+  ],
+  "actual_machine_segments_index_only": 66,
+  "actual_subtitle_positions": 31,
+  "actual_subtitle_boards_viewed": 4,
+  "actual_context_positions": 24,
+  "actual_context_boards_viewed": 5,
+  "visual_last_nominal_seconds": 1049,
+  "next_original_seconds": 1050,
+  "previous_metadata": "M飞屋P2三批实读元信息-20261106.json",
+  "combined_machine_segments": 398,
+  "combined_subtitle_positions": 268,
+  "combined_subtitle_boards": 35,
+  "combined_context_positions": 167,
+  "combined_context_boards": 31,
+  "full_audiovisual": false,
+  "full_text": false,
+  "series_complete": false,
+  "label_boundary": "凯文与道格900-1050首轮为预设文件夹标签，道格尚未实际读到",
+  "local_reading_folders": [
+    "凯文与道格900-1050首轮",
+    "命名与鸟艾莉回声补核"
+  ],
+  "remaining": [
+    "1050—2071.197原片",
+    "道格/后文命名动机/方圆回题",
+    "原声与选点间隙",
+    "命名引文原典及幕后原材料"
+  ]
+}
