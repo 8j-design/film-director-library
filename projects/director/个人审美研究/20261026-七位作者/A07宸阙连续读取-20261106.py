@@ -8,6 +8,7 @@ choices.update({'E2-tail':('E2-7663828587891428671.mp4',40,42),'E3-tail':('E3-76
 choices.update({'E2-pipa':('E2-7663828587891428671.mp4',14,17),'E3-pipa':('E3-7669002333358984490.mp4',21,24.5)})
 choices.update({'E5-late23':('E5-7679031394835713299.mp4',23,26),'E5-late26':('E5-7679031394835713299.mp4',26,29),'E5-late29':('E5-7679031394835713299.mp4',29,33)})
 choices.update({'E5-early0':('E5-7679031394835713299.mp4',0,17)})
+choices.update({'E4-dance7':('E4-7669749149704719668.mp4',7.5,15.5),'E4-dance15':('E4-7669749149704719668.mp4',15.5,23.5),'E4-late23':('E4-7669749149704719668.mp4',23.5,31)})
 label=sys.argv[1];name,start,end=choices[label];src=root/name;d=out/label;d.mkdir()
 vf=f'select=gte(t\\,{start})*lt(t\\,{end}),showinfo'
 if label=='E1-grid':vf=f'select=gte(t\\,{start})*lt(t\\,{end})*not(mod(n\\,6)),showinfo'
