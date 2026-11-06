@@ -11,6 +11,7 @@ choices.update({'E5-early0':('E5-7679031394835713299.mp4',0,17)})
 choices.update({'E4-dance7':('E4-7669749149704719668.mp4',7.5,15.5),'E4-dance15':('E4-7669749149704719668.mp4',15.5,23.5),'E4-late23':('E4-7669749149704719668.mp4',23.5,31)})
 choices.update({'E2-pipa28':('E2-7663828587891428671.mp4',28,31),'E3-late24':('E3-7669002333358984490.mp4',24.5,28),'E3-early0':('E3-7669002333358984490.mp4',0,7),'E3-early7':('E3-7669002333358984490.mp4',7,14),'E3-early14':('E3-7669002333358984490.mp4',14,21)})
 choices.update({'E2-early0':('E2-7663828587891428671.mp4',0,7),'E2-early7':('E2-7663828587891428671.mp4',7,14),'E2-mid17':('E2-7663828587891428671.mp4',17,24),'E2-mid24':('E2-7663828587891428671.mp4',24,28),'E2-late31':('E2-7663828587891428671.mp4',31,40)})
+choices.update({'E1-early0':('E1-7662002359173778724.mp4',0,5.2),'E1-mid7':('E1-7662002359173778724.mp4',7.4,14.4),'E1-mid14':('E1-7662002359173778724.mp4',14.4,22)})
 label=sys.argv[1];name,start,end=choices[label];src=root/name;d=out/label;d.mkdir()
 vf=f'select=gte(t\\,{start})*lt(t\\,{end}),showinfo'
 if label=='E1-grid':vf=f'select=gte(t\\,{start})*lt(t\\,{end})*not(mod(n\\,6)),showinfo'
