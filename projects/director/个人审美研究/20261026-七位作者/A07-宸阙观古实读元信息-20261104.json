@@ -245,5 +245,12 @@
       "height_dom": 720,
       "all_boards_actually_viewed": true
     }
-  ]
+  ],
+  "supplement_20261106": {
+    "metadata_file": "A07宸阙转接实读元信息-20261106.json",
+    "records": 863,
+    "boards_actually_viewed": 60,
+    "not_added_as_unique_coverage": true,
+    "full_audiovisual": false
+  }
 }
