@@ -1,0 +1,133 @@
+{
+  "scopes": [
+    {
+      "name": "fruit",
+      "source_filename": "原发布7695004107710450984.mp4",
+      "source_sha256": "c530a2c4492e25f38fa8a09d952d8ecc82497b1c1b040a08b5258a9f82c14d88",
+      "selected_interval": [
+        20.2,
+        20.8
+      ],
+      "source_pts_seconds": [
+        20.2,
+        20.233333,
+        20.266667,
+        20.3,
+        20.333333,
+        20.366667,
+        20.4,
+        20.433333,
+        20.466667,
+        20.5,
+        20.533333,
+        20.566667,
+        20.6,
+        20.633333,
+        20.666667,
+        20.7,
+        20.733333,
+        20.766667
+      ],
+      "decoded_frames": 18,
+      "boards": 2,
+      "crop": [
+        0,
+        480,
+        500,
+        980
+      ],
+      "all_boards_actually_viewed": true
+    },
+    {
+      "name": "fifty-tail",
+      "source_filename": "原发布7502400928919915802.mp4",
+      "source_sha256": "290980baa222b9e149e966f4b5a422942f86e3080f14f003904c496552cdd766",
+      "selected_interval": [
+        32,
+        34
+      ],
+      "source_pts_seconds": [
+        32.0,
+        32.033333,
+        32.066667,
+        32.1,
+        32.133333,
+        32.166667,
+        32.2,
+        32.233333,
+        32.266667,
+        32.3,
+        32.333333,
+        32.366667,
+        32.4,
+        32.433333,
+        32.466667,
+        32.5,
+        32.533333,
+        32.566667,
+        32.6,
+        32.633333,
+        32.666667,
+        32.7,
+        32.733333,
+        32.766667,
+        32.8,
+        32.833333,
+        32.866667,
+        32.9,
+        32.933333,
+        32.966667,
+        33.0,
+        33.033333,
+        33.066667,
+        33.1,
+        33.133333,
+        33.166667,
+        33.2,
+        33.233333,
+        33.266667,
+        33.3,
+        33.333333,
+        33.366667
+      ],
+      "decoded_frames": 42,
+      "boards": 3,
+      "crop": null,
+      "all_boards_actually_viewed": true
+    }
+  ],
+  "full_context_nominal_positions": [
+    28.5,
+    30,
+    33.3
+  ],
+  "generated_only_until_viewed": false,
+  "audio_actually_listened": false,
+  "full_context_raw_source_frames_actually_viewed": [
+    {
+      "scope": "fruit",
+      "PTS_seconds": 20.433333
+    },
+    {
+      "scope": "fruit",
+      "PTS_seconds": 20.466667
+    }
+  ],
+  "full_context_nominal_positions_actually_viewed": [
+    28.5,
+    30,
+    33.3
+  ],
+  "total_reading_records_including_overlap": 65,
+  "boards_actually_viewed": 5,
+  "additional_full_context_images_actually_viewed": 5,
+  "full_audiovisual": false,
+  "series_complete": false,
+  "engineering_verified": false,
+  "remaining": [
+    "fruit release start before20.2 and subsequent gesture",
+    "full sound and other visual gaps",
+    "original layered action test",
+    "other visible A04 navigation entries"
+  ]
+}
