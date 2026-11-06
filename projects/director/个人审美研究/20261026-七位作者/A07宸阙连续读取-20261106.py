@@ -6,6 +6,7 @@ ff=t.parent/'研究媒体工具/imageio-ffmpeg/imageio_ffmpeg/binaries/ffmpeg-wi
 choices={'E4-state':('E4-7669749149704719668.mp4',2.5,5.5),'E5-cloth':('E5-7679031394835713299.mp4',17,22),'E4-before':('E4-7669749149704719668.mp4',0,2.5),'E4-after':('E4-7669749149704719668.mp4',5.5,7.5),'E5-before':('E5-7679031394835713299.mp4',15.5,17),'E5-after':('E5-7679031394835713299.mp4',22,23),'E1-grid':('E1-7662002359173778724.mp4',0,24),'E1-tail':('E1-7662002359173778724.mp4',22,24),'E1-jump':('E1-7662002359173778724.mp4',5.2,7.4)}
 choices.update({'E2-tail':('E2-7663828587891428671.mp4',40,42),'E3-tail':('E3-7669002333358984490.mp4',28,29),'E4-tail':('E4-7669749149704719668.mp4',31,33),'E5-tail':('E5-7679031394835713299.mp4',33,34)})
 choices.update({'E2-pipa':('E2-7663828587891428671.mp4',14,17),'E3-pipa':('E3-7669002333358984490.mp4',21,24.5)})
+choices.update({'E5-late23':('E5-7679031394835713299.mp4',23,26),'E5-late26':('E5-7679031394835713299.mp4',26,29),'E5-late29':('E5-7679031394835713299.mp4',29,33)})
 label=sys.argv[1];name,start,end=choices[label];src=root/name;d=out/label;d.mkdir()
 vf=f'select=gte(t\\,{start})*lt(t\\,{end}),showinfo'
 if label=='E1-grid':vf=f'select=gte(t\\,{start})*lt(t\\,{end})*not(mod(n\\,6)),showinfo'
