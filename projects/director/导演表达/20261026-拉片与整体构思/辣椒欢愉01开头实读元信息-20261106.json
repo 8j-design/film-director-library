@@ -1,0 +1,42 @@
+{
+  "author": "辣椒梦话",
+  "source": "https://www.douyin.com/video/7632951529124793640",
+  "publication": "2026-04-26 14:30",
+  "duration_seconds": 2590.121,
+  "dimensions": [
+    1620,
+    1080
+  ],
+  "nominal_UI_positions_actually_viewed": [
+    0,
+    5,
+    10,
+    15,
+    20,
+    25,
+    30,
+    35,
+    40,
+    45,
+    50,
+    55,
+    60
+  ],
+  "last_verified_seconds": 60,
+  "last_verified_paused": true,
+  "reading_method": "native UI seek and screenshots; read-only DOM time; intermediate displayed controls sometimes lag one step; no exact frame timing",
+  "full_text": false,
+  "full_audiovisual": false,
+  "series_complete": false,
+  "local_media_acquired": false,
+  "download_result": "Blob downloads not supported by browser",
+  "autoplay_pass_not_counted_as_read": true,
+  "visible_series_ids": [
+    "7632951529124793640",
+    "7637806847906319666",
+    "7643793339044728079",
+    "7650392963310308608",
+    "7658642378714107186"
+  ],
+  "next": "60 seconds with overlap; fill 0—15 clause and 55—65 mirror transition; then remaining original01 and02—05; audio still missing"
+}
