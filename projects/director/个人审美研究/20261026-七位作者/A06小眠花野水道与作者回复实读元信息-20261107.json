@@ -1,0 +1,33 @@
+{
+  "source_url": "https://www.douyin.com/video/7686213907261705487",
+  "duration_seconds": 61.140998,
+  "evidence": "一条前段有效画面与两条有交叠时值的回核画面",
+  "screenshot_brackets_seconds": [
+    [
+      9.14142,
+      11.62252
+    ],
+    [
+      36.02561,
+      41.121755
+    ],
+    [
+      35.798588,
+      38.079547
+    ]
+  ],
+  "duplicate_paused_returns_excluded": 8,
+  "unread_dense_gap_seconds": [
+    13,
+    30
+  ],
+  "paused_at_seconds": 40.570413,
+  "primary_creator_comment_evidence": [
+    "图片模型问答中回复 Midjourney",
+    "偏爱穿越花丛，故置于最前",
+    "H3为假设对照"
+  ],
+  "full_audio_listened": false,
+  "full_audiovisual": false,
+  "new_original_test": false
+}
