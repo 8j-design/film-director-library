@@ -1,0 +1,78 @@
+{
+  "evidence": "播放器前后读数夹定离散截图，非连续帧",
+  "full_audio_listened": false,
+  "full_audiovisual": false,
+  "series_complete": false,
+  "works": [
+    {
+      "source_url": "https://www.douyin.com/video/7627432146382163242",
+      "duration_seconds": 2193.651985,
+      "screenshot_brackets_seconds": [
+        [
+          684.989168,
+          689.449184
+        ],
+        [
+          689.903809,
+          694.918111
+        ],
+        [
+          695.249396,
+          699.345265
+        ],
+        [
+          700.212628,
+          704.692179
+        ],
+        [
+          704.754113,
+          709.577376
+        ],
+        [
+          709.69362,
+          714.296933
+        ]
+      ],
+      "legible_buffer_overlay_bracket_seconds": [
+        699.345265,
+        699.845265
+      ],
+      "excluded_blur_reading_seconds": 699.345265,
+      "paused_at_seconds": 715.442154
+    },
+    {
+      "source_url": "https://www.douyin.com/video/7632951529124793640",
+      "duration_seconds": 2590.120998,
+      "screenshot_brackets_seconds": [
+        [
+          605.976598,
+          609.978034
+        ],
+        [
+          610.349121,
+          614.293001
+        ],
+        [
+          614.774099,
+          620.474566
+        ],
+        [
+          621.045917,
+          626.615863
+        ],
+        [
+          626.732123,
+          630.687451
+        ]
+      ],
+      "last_verified_read_upper_bound_seconds": 630.687451,
+      "replacement_browser_tab_paused_seconds": 7.010911,
+      "unread_gap_seconds": [
+        598.402612,
+        605.976598
+      ],
+      "media_download_failed": true,
+      "readable_text_tracks": 0
+    }
+  ]
+}
