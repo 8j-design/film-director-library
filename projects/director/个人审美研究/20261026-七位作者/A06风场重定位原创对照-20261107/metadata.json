@@ -1,0 +1,40 @@
+{
+  "fps": 24,
+  "reveal_frame": 36,
+  "frames": 72,
+  "audio": false,
+  "views": {
+    "A": [
+      0,
+      0,
+      900,
+      506
+    ],
+    "B": [
+      171,
+      113,
+      801,
+      467
+    ],
+    "C": [
+      65,
+      113,
+      695,
+      467
+    ]
+  },
+  "variants": {
+    "A": {
+      "decoded_frames": 72,
+      "sha256": "c54117c943b12642bd4c5bda4b21c3d2e594b121eca34a971267094efd0d1b90"
+    },
+    "B": {
+      "decoded_frames": 72,
+      "sha256": "5485d2fbd52b9a778826dc9789e65d8a609cd895fd57301756af281994b20241"
+    },
+    "C": {
+      "decoded_frames": 72,
+      "sha256": "18f6b6395a594e8f2965fc3099562933aa1a017183d3b502a8db90ef08ea53e0"
+    }
+  }
+}

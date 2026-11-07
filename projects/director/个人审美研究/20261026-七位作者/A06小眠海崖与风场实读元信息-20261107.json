@@ -1,0 +1,29 @@
+{
+  "source_url": "https://www.douyin.com/video/7686213907261705487",
+  "duration_seconds": 61.140998,
+  "seek_requests_seconds": [
+    32,
+    34,
+    37,
+    40,
+    43,
+    46
+  ],
+  "player_readings_seconds": [
+    34.145,
+    36.190903,
+    40.258403,
+    42.909964,
+    48.623275,
+    48.845647
+  ],
+  "unpaused_readings_seconds": [
+    40.258403,
+    48.623275
+  ],
+  "paused_at_seconds": 17.615817,
+  "last_read_in_this_batch_seconds": 48.845647,
+  "opening_title_attempt_returned_no_frame": true,
+  "full_audio_listened": false,
+  "full_audiovisual": false
+}
