@@ -1,0 +1,40 @@
+{
+  "source_url": "https://www.douyin.com/video/7686213907261705487",
+  "duration_seconds": 61.140998,
+  "seek_position_seconds": 13,
+  "screenshot_brackets_seconds": [
+    [
+      18.475352,
+      18.577199
+    ],
+    [
+      21.749997,
+      21.832925
+    ],
+    [
+      25.155641,
+      25.260271
+    ],
+    [
+      28.417404,
+      28.505525
+    ],
+    [
+      31.668608,
+      31.741063
+    ],
+    [
+      34.901369,
+      34.973619
+    ]
+  ],
+  "paused_at_seconds": 35.616221,
+  "previous_furthest_sample_seconds": 45.524197,
+  "hover_thumbnail_excluded": true,
+  "related_source_paused_at_seconds": 37.004564,
+  "related_source_new_read": false,
+  "creator_self_report": "背景音乐由作者自行使用AI制作",
+  "full_audio_listened": false,
+  "full_audiovisual": false,
+  "new_original_test": false
+}

@@ -1,0 +1,38 @@
+{
+  "source_url": "https://www.douyin.com/video/7627432146382163242",
+  "duration_seconds": 2193.651985,
+  "seek_position_seconds": 735.8,
+  "still_unread_gap_seconds": [
+    735.480627,
+    750.093874
+  ],
+  "screenshot_brackets_seconds": [
+    [
+      750.093874,
+      750.251248
+    ],
+    [
+      753.105639,
+      753.217265
+    ],
+    [
+      756.12218,
+      756.288789
+    ],
+    [
+      759.122481,
+      759.338595
+    ],
+    [
+      762.120358,
+      762.271536
+    ]
+  ],
+  "paused_at_seconds": 763.101524,
+  "hover_thumbnail_excluded": true,
+  "pepper_source_new_read": false,
+  "pepper_source_paused_at_seconds": 659.868799,
+  "full_audio_listened": false,
+  "full_audiovisual": false,
+  "series_complete": false
+}
