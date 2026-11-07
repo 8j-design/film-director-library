@@ -1,0 +1,39 @@
+{
+  "evidence": "原发布离散画面和可见字幕。时值为截图后读数，近似对应画面",
+  "full_audio_listened": false,
+  "full_audiovisual": false,
+  "series_complete": false,
+  "works": [
+    {
+      "source_url": "https://www.douyin.com/video/7627432146382163242",
+      "duration_seconds": 2193.651985,
+      "player_readings_seconds": [
+        506.437828,
+        511.794677,
+        519.985058,
+        528.184059,
+        536.402712,
+        544.583071,
+        552.820351,
+        560.989795
+      ],
+      "paused_at_seconds": 561.373974
+    },
+    {
+      "source_url": "https://www.douyin.com/video/7632951529124793640",
+      "duration_seconds": 2590.120998,
+      "player_readings_seconds": [
+        452.411618,
+        458.904762,
+        465.38463,
+        471.797271,
+        478.330506,
+        484.713622,
+        491.220234,
+        497.732749,
+        504.154161
+      ],
+      "paused_at_seconds": 504.544466
+    }
+  ]
+}

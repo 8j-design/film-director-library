@@ -1,0 +1,30 @@
+{
+  "evidence": "截图后播放器读数，近似对应画面，不作为连续逐帧时基",
+  "source_url": "https://www.douyin.com/video/7686213907261705487",
+  "duration_seconds": 61.141337,
+  "first_pass_seconds": [
+    48.294645,
+    50.186755,
+    51.193818,
+    52.22436,
+    53.201473,
+    54.186505,
+    56.194668,
+    58.190813,
+    60.292499
+  ],
+  "dense_pass_seconds": [
+    50.390136,
+    50.489581,
+    50.694674,
+    50.778244,
+    50.998738,
+    54.986103,
+    55.488952
+  ],
+  "excluded": "画面仍在约41秒，截图后播放器已到约46秒",
+  "paused_at_seconds": 55.845789,
+  "full_audio_listened": false,
+  "full_audiovisual": false,
+  "new_original_test": false
+}
