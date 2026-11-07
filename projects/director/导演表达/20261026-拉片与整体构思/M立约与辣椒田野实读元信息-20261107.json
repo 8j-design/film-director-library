@@ -1,0 +1,50 @@
+{
+  "evidence": "离散画面与可见字幕；以下为截图后读取的播放器时值，与截图画面有延迟，笔记使用约略区段",
+  "full_audio_listened": false,
+  "full_audiovisual": false,
+  "series_complete": false,
+  "works": [
+    {
+      "source_url": "https://www.douyin.com/video/7627432146382163242",
+      "duration_seconds": 2193.651985,
+      "player_readings_seconds": [
+        293.406705,
+        298.418747,
+        302.020621,
+        304.230576,
+        307.601715,
+        309.423102,
+        313.110862,
+        315.9105,
+        317.632898,
+        321.287718,
+        324.093201,
+        326.829004,
+        329.493692,
+        332.294968,
+        334.998184,
+        337.741774,
+        340.526569,
+        343.214045
+      ],
+      "paused_at_seconds": 340.526569,
+      "overlaps_previous_observations": true
+    },
+    {
+      "source_url": "https://www.douyin.com/video/7632951529124793640",
+      "duration_seconds": 2590.120998,
+      "player_readings_seconds": [
+        303.847584,
+        310.226463,
+        316.811776,
+        323.316835,
+        329.692919,
+        336.201578,
+        342.602498,
+        349.124848
+      ],
+      "rechecked_previous_pause_seconds": 304.257919,
+      "paused_at_seconds": 349.556746
+    }
+  ]
+}
