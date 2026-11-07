@@ -1,0 +1,48 @@
+{
+  "evidence": "播放器读数定位截图，非连续画面；暂时跨过的时段不计覆盖",
+  "full_audio_listened": false,
+  "full_audiovisual": false,
+  "series_complete": false,
+  "works": [
+    {
+      "source_url": "https://www.douyin.com/video/7627432146382163242",
+      "duration_seconds": 2193.651985,
+      "screenshot_batch_span_seconds": [
+        751.662729,
+        753.192
+      ],
+      "unread_gap_seconds": [
+        735.480627,
+        751.662729
+      ],
+      "paused_at_seconds": 753.873676
+    },
+    {
+      "source_url": "https://www.douyin.com/video/7632951529124793640",
+      "duration_seconds": 2590.121,
+      "screenshot_brackets_seconds": [
+        [
+          652.878324,
+          652.878324
+        ],
+        [
+          654.989316,
+          655.080352
+        ],
+        [
+          657.186795,
+          657.275194
+        ],
+        [
+          659.389693,
+          659.466933
+        ]
+      ],
+      "unread_gap_seconds": [
+        645.880502,
+        652.878324
+      ],
+      "paused_at_seconds": 659.868799
+    }
+  ]
+}
