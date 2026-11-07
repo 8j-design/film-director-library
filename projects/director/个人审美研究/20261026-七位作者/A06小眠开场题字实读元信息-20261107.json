@@ -1,0 +1,49 @@
+{
+  "evidence": "离散截图时间夹界，不是连续观看",
+  "full_audio_listened": false,
+  "full_audiovisual": false,
+  "works": [
+    {
+      "source_url": "https://www.douyin.com/video/7686213907261705487",
+      "duration_seconds": 61.140998,
+      "screenshot_brackets_seconds": [
+        [
+          0,
+          3.480807
+        ],
+        [
+          3.934445,
+          5.170994
+        ],
+        [
+          7.301087,
+          8.649653
+        ]
+      ],
+      "paused_at_seconds": 8.649653
+    },
+    {
+      "source_url": "https://www.douyin.com/video/7701631196526038307",
+      "duration_seconds": 119.5,
+      "screenshot_brackets_seconds": [
+        [
+          2.263239,
+          4.960558
+        ],
+        [
+          5.542481,
+          9.756935
+        ],
+        [
+          9.787334,
+          11.419667
+        ],
+        [
+          11.651885,
+          15.626127
+        ]
+      ],
+      "paused_at_seconds": 16.17552
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "fps": 24,
+  "reveal_frame": 36,
+  "frames": 72,
+  "audio": false,
+  "post_reveal_x_source_px": {
+    "matched": 570,
+    "shifted": 692
+  },
+  "variants": {
+    "matched": {
+      "decoded_frames": 72,
+      "sha256": "cb4587d818b508814a780544bfba2112b3a4cacf5c206926af6c17fa6af0b792"
+    },
+    "shifted": {
+      "decoded_frames": 72,
+      "sha256": "a26951c0ebfc1aad53632e5c1dbd30febacc48c59b961b98c1db66d8736a4d40"
+    }
+  }
+}
