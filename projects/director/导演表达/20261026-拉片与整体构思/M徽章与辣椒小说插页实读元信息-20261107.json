@@ -1,0 +1,40 @@
+{
+  "evidence": "已缓冲的离散画面与可见字幕；播放器时值与截图有小幅延迟",
+  "full_audio_listened": false,
+  "full_audiovisual": false,
+  "series_complete": false,
+  "works": [
+    {
+      "source_url": "https://www.douyin.com/video/7627432146382163242",
+      "duration_seconds": 2193.651985,
+      "player_readings_seconds": [
+        347.685179,
+        355.911142,
+        369.59404,
+        377.82092,
+        394.210208,
+        413.341912,
+        441.52542
+      ],
+      "paused_at_seconds": 441.929881,
+      "failed_buffer_positions_excluded": true
+    },
+    {
+      "source_url": "https://www.douyin.com/video/7632951529124793640",
+      "duration_seconds": 2590.120998,
+      "player_readings_seconds": [
+        349.124518,
+        355.624372,
+        362.059789,
+        368.553233,
+        374.973091,
+        381.460241,
+        387.840255,
+        394.325731,
+        400.827071
+      ],
+      "rechecked_previous_pause_seconds": 349.556746,
+      "paused_at_seconds": 401.226095
+    }
+  ]
+}
