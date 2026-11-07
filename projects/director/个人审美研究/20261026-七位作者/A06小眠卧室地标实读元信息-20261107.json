@@ -1,0 +1,50 @@
+{
+  "evidence": "离散截图时间夹界",
+  "full_audio_listened": false,
+  "full_audiovisual": false,
+  "new_original_test": false,
+  "works": [
+    {
+      "source_url": "https://www.douyin.com/video/7701631196526038307",
+      "duration_seconds": 119.5,
+      "screenshot_brackets_seconds": [
+        [
+          16.175533,
+          17.618218
+        ],
+        [
+          17.682328,
+          19.010704
+        ],
+        [
+          19.071389,
+          20.432373
+        ],
+        [
+          20.488226,
+          21.993571
+        ],
+        [
+          22.101077,
+          23.135952
+        ],
+        [
+          23.175421,
+          24.594342
+        ],
+        [
+          24.643441,
+          26.183116
+        ]
+      ],
+      "paused_at_seconds": 26.776352
+    },
+    {
+      "source_url": "https://www.douyin.com/video/7686213907261705487",
+      "duration_seconds": 61.140998,
+      "one_visual_return_unbracketed": "海崖。截图前31.089057秒且在播放，截图后读数缺失",
+      "paused_at_seconds": 45.455296,
+      "failed_start_section_excluded": true
+    }
+  ]
+}
