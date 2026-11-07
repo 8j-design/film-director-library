@@ -1,0 +1,48 @@
+{
+  "full_audio_listened": false,
+  "full_audiovisual": false,
+  "new_original_test": false,
+  "works": [
+    {
+      "source_url": "https://www.douyin.com/video/7686213907261705487",
+      "screenshot_brackets_seconds": [
+        [
+          13.784509,
+          13.987879
+        ],
+        [
+          16.112783,
+          16.37903
+        ]
+      ],
+      "paused_at_seconds": 16.962054,
+      "previous_furthest_sample_seconds": 45.524197
+    },
+    {
+      "source_url": "https://www.douyin.com/video/7701631196526038307",
+      "screenshot_brackets_seconds": [
+        [
+          37.004564,
+          37.004564
+        ],
+        [
+          39.175126,
+          39.298405
+        ],
+        [
+          41.323728,
+          41.460106
+        ],
+        [
+          43.470545,
+          43.604939
+        ],
+        [
+          45.62235,
+          45.771065
+        ]
+      ],
+      "paused_at_seconds": 46.34233
+    }
+  ]
+}
