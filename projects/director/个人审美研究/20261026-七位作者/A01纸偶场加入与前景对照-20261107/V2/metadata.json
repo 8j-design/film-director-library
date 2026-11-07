@@ -1,0 +1,28 @@
+{
+  "fps": 24,
+  "frames_per_variant": 60,
+  "human_lift_starts_at_frame": 18,
+  "scale_starts_at_frame": 33,
+  "scale_returns_from_frame": 45,
+  "enlargement_peak": 1.72,
+  "variants": {
+    "A": {
+      "signal_lift_starts_at_frame": 18,
+      "signal_enlarges": false
+    },
+    "B": {
+      "signal_lift_starts_at_frame": 26,
+      "signal_enlarges": false
+    },
+    "C": {
+      "signal_lift_starts_at_frame": 18,
+      "signal_enlarges": true
+    },
+    "D": {
+      "signal_lift_starts_at_frame": 26,
+      "signal_enlarges": true
+    }
+  },
+  "audio": null,
+  "audience_test": null
+}
