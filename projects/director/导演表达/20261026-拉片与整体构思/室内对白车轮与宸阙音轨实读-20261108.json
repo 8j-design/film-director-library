@@ -1,0 +1,49 @@
+{
+  "utc": "2026-11-08T08:37:10.168285+00:00",
+  "pepper_ep1": {
+    "url": "https://www.douyin.com/video/7632951529124793640",
+    "brackets_s": [
+      [
+        884.91141,
+        885.171054
+      ],
+      [
+        907.519702,
+        907.781306
+      ],
+      [
+        914.466466,
+        914.812214
+      ],
+      [
+        920.419668,
+        920.674855
+      ]
+    ],
+    "pause_s": 921.100126,
+    "audio": "not reviewed",
+    "excluded": "post-seek display disagreement, screenshot failure, near-repeat"
+  },
+  "m_up_p1": {
+    "url": "https://www.douyin.com/video/7627432146382163242",
+    "brackets_s": [
+      [
+        945.114841,
+        948.732384
+      ],
+      [
+        951.00294,
+        954.10762
+      ]
+    ],
+    "pause_s": 954.514742,
+    "audio": "not reviewed"
+  },
+  "a07": {
+    "episodes": 5,
+    "anchors": 39,
+    "candidate_peaks_within_150ms": 31,
+    "black_tail_ep3_dbfs": -35.22,
+    "evidence": "A07宸阙五集音轨定位元信息-20261108.json"
+  }
+}
