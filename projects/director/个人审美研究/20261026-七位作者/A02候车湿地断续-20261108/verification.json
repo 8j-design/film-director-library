@@ -1,0 +1,12 @@
+{
+  "baseline_sha256": "ba314e5388ab14e92d1f52650d2f199dcbbccb61a80af62b1e0111d2fd6790df",
+  "dimensions": [
+    640,
+    420
+  ],
+  "f_to_g_changed_pixels": 28792,
+  "g_to_h_changed_pixels": 1949,
+  "upper_267_rows_identical": true,
+  "g_to_h_limited_to_existing_warm_marks": true,
+  "audience_test": false
+}
