@@ -1,0 +1,636 @@
+{
+  "date": "2026-11-08",
+  "scope": "筛选原件备份，不是账号全量备份",
+  "files": [
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\影视研究分类盘点-20261102\\工作大纲.md",
+      "path": "projects/director/research-20261108/sources/影视研究分类盘点-20261102/工作大纲.md",
+      "bytes": 584,
+      "sha256": "EE849A99429E18012B57F3D6701A99EC9D9E8FA3EA2F9F842431C36B40460C9D",
+      "category": "导演近期研究原文"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\影视研究分类盘点-20261102\\影视研究分类总览.md",
+      "path": "projects/director/research-20261108/sources/影视研究分类盘点-20261102/影视研究分类总览.md",
+      "bytes": 8766,
+      "sha256": "4703F8DD68E7DCFA51DB6261C38C30C7FEA1E2D3C7F78A21E1D4239A8493B799",
+      "category": "导演近期研究原文"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\导演场景落实纠偏-20261103.md",
+      "path": "projects/director/research-20261108/sources/导演构思与拉片Skill分享-20261102/导演场景落实纠偏-20261103.md",
+      "bytes": 7904,
+      "sha256": "655BC6CD67F09179E4655D800CE32332BCA3E766E7856AB264370E2BD5F81E86",
+      "category": "导演近期研究原文"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\分享说明与讲稿.md",
+      "path": "projects/director/research-20261108/sources/导演构思与拉片Skill分享-20261102/分享说明与讲稿.md",
+      "bytes": 4570,
+      "sha256": "8319B7BF1E621E3E9FC97440C842E07C0D16BCDEB920A6CAF878E734E3D96698",
+      "category": "导演近期研究原文"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\任务大纲.md",
+      "path": "projects/director/research-20261108/sources/导演构思与拉片Skill分享-20261102/任务大纲.md",
+      "bytes": 669,
+      "sha256": "5E0383BCFF50AEE376798F7DE7B94AB90C82B1FEDACCD984FAC258E16E0264C5",
+      "category": "导演近期研究原文"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\演示与检验.md",
+      "path": "projects/director/research-20261108/sources/导演构思与拉片Skill分享-20261102/演示与检验.md",
+      "bytes": 3677,
+      "sha256": "53AB4B8F283FCD46A495CEA1AACBA05D1E60E2BAF8C3B530913DC7310C150467",
+      "category": "导演近期研究原文"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\验收记录.md",
+      "path": "projects/director/research-20261108/sources/导演构思与拉片Skill分享-20261102/验收记录.md",
+      "bytes": 1736,
+      "sha256": "B7FA76A534704B69802659FB8B66BA24DD2F9FAD2941A14984BB1499E2226238",
+      "category": "导演近期研究原文"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\Codex现场使用演示.md",
+      "path": "projects/director/research-20261108/sources/导演构思与拉片Skill分享-20261102/Codex现场使用演示.md",
+      "bytes": 5255,
+      "sha256": "E8C77B5D9A255B700300B55BF9A8D54DF3464EF93DFF46C2947D94F8D94D469A",
+      "category": "导演近期研究原文"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\审美分析报告.md",
+      "path": "projects/director/research-20261108/sources/动画3D审美参考分析-20261106/审美分析报告.md",
+      "bytes": 17716,
+      "sha256": "B6FB4549074474AF94D2E5DA6B9E19CE2918F6FCF483518CFAC6556DA238316D",
+      "category": "导演近期研究原文"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\指令解析与执行大纲.md",
+      "path": "projects/director/research-20261108/sources/动画3D审美参考分析-20261106/指令解析与执行大纲.md",
+      "bytes": 3460,
+      "sha256": "3B7D1F59EB98A040EC33567618755DF6F2BAD29EAFDFB0B02245A4AF23925DAB",
+      "category": "导演近期研究原文"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\参考体系与创作循环-20261106\\执行结果与接续.md",
+      "path": "projects/director/research-20261108/sources/参考体系与创作循环-20261106/执行结果与接续.md",
+      "bytes": 3475,
+      "sha256": "5AA81A9DB5C9F42A10ADD909ACF2B9DC5E03A05AD0F4E7FBC69C5F5A57BBC94F",
+      "category": "导演近期研究原文"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\参考体系与创作循环-20261106\\指令解析与执行大纲.md",
+      "path": "projects/director/research-20261108/sources/参考体系与创作循环-20261106/指令解析与执行大纲.md",
+      "bytes": 4101,
+      "sha256": "96AC3D6F341154CAA26BCB067EB41C94C45ADE411DA61E717B8D3251662EEA19",
+      "category": "导演近期研究原文"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\审美参考第二轮-20261106\\项目审美档案.md",
+      "path": "projects/director/research-20261108/sources/审美参考第二轮-20261106/项目审美档案.md",
+      "bytes": 2906,
+      "sha256": "C221BF2BBE8B010308F16C349988706DAA5E7262D8F95D22C6EF23149F393928",
+      "category": "导演近期研究原文"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\审美参考第二轮-20261106\\用户说明与最新澄清.md",
+      "path": "projects/director/research-20261108/sources/审美参考第二轮-20261106/用户说明与最新澄清.md",
+      "bytes": 2509,
+      "sha256": "CEF01CE74B3B346C403C91492E7E721097A2D35430229DC219BB3880DF18AA57",
+      "category": "导演近期研究原文"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\审美参考第二轮-20261106\\执行结果与接续.md",
+      "path": "projects/director/research-20261108/sources/审美参考第二轮-20261106/执行结果与接续.md",
+      "bytes": 3106,
+      "sha256": "C480BA6BB6770564C45E4E19DC500A9413C8251509369D703195A2C62B1A8D63",
+      "category": "导演近期研究原文"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\审美参考第二轮-20261106\\指令解析与执行大纲.md",
+      "path": "projects/director/research-20261108/sources/审美参考第二轮-20261106/指令解析与执行大纲.md",
+      "bytes": 4496,
+      "sha256": "84E1D72405106A44474278732CFE6F35BCFA2304DE1DF7C43B1A332E4610A49A",
+      "category": "导演近期研究原文"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\审美参考第二轮-20261106\\综合分析报告.md",
+      "path": "projects/director/research-20261108/sources/审美参考第二轮-20261106/综合分析报告.md",
+      "bytes": 18079,
+      "sha256": "B9C5A62E965A226B5EFC506A4A523698E7EC014452ED723456A2103D8E98B533",
+      "category": "导演近期研究原文"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\2027羊年短动画选题-20261106\\选题初探.md",
+      "path": "projects/director/research-20261108/sources/2027羊年短动画选题-20261106/选题初探.md",
+      "bytes": 6753,
+      "sha256": "481FCC2187CE43AC6C83B9F8804C2317E96C0FFF63423C32FBAB44F3AD010FC7",
+      "category": "导演近期研究原文"
+    },
+    {
+      "source": "C:\\设计画布【不可动】\\Codex创作工作流\\参考体系.canvas",
+      "path": "projects/director/research-20261108/obsidian-vault/Codex创作工作流/参考体系.canvas",
+      "bytes": 3212,
+      "sha256": "234C5997D9836CE5C548ED4EE23A749BF8BC696849C42AFD3568A0B5EBC7AAE2",
+      "category": "Obsidian原生工作流与引用媒体"
+    },
+    {
+      "source": "C:\\设计画布【不可动】\\Codex创作工作流\\海的背面-创作循环.canvas",
+      "path": "projects/director/research-20261108/obsidian-vault/Codex创作工作流/海的背面-创作循环.canvas",
+      "bytes": 4023,
+      "sha256": "7369E6AE4E762F241F4B500D82F9AB6F50612C9CED389F694777E8A9AF4B47CF",
+      "category": "Obsidian原生工作流与引用媒体"
+    },
+    {
+      "source": "C:\\设计画布【不可动】\\Codex创作工作流\\审美参考第二轮.canvas",
+      "path": "projects/director/research-20261108/obsidian-vault/Codex创作工作流/审美参考第二轮.canvas",
+      "bytes": 9040,
+      "sha256": "FCB02B36A216C151B3367C0E3D974A810B270E8FF1FD88B9B56332292499A4FE",
+      "category": "Obsidian原生工作流与引用媒体"
+    },
+    {
+      "source": "C:\\设计画布【不可动】\\Codex创作工作流\\00-入口与约定\\材料与版本台账.json",
+      "path": "projects/director/research-20261108/obsidian-vault/Codex创作工作流/00-入口与约定/材料与版本台账.json",
+      "bytes": 5797,
+      "sha256": "34E929A7D842400BEB61A5EEAD96114225A83B97B6A7B92346B9A5A6287809BA",
+      "category": "Obsidian原生工作流与引用媒体"
+    },
+    {
+      "source": "C:\\设计画布【不可动】\\Codex创作工作流\\00-入口与约定\\工作台.md",
+      "path": "projects/director/research-20261108/obsidian-vault/Codex创作工作流/00-入口与约定/工作台.md",
+      "bytes": 1605,
+      "sha256": "C9F6D35E60CE8B5D7635A7C148EE2F08BBCC3DD3D041B05F7B69304C66428C08",
+      "category": "Obsidian原生工作流与引用媒体"
+    },
+    {
+      "source": "C:\\设计画布【不可动】\\Codex创作工作流\\00-入口与约定\\阶段入库与同步约定.md",
+      "path": "projects/director/research-20261108/obsidian-vault/Codex创作工作流/00-入口与约定/阶段入库与同步约定.md",
+      "bytes": 1952,
+      "sha256": "070D0C82085674BCF8921DB6D969959557A8682557216131107C76E24CE56497",
+      "category": "Obsidian原生工作流与引用媒体"
+    },
+    {
+      "source": "C:\\设计画布【不可动】\\Codex创作工作流\\00-入口与约定\\项目审美档案.md",
+      "path": "projects/director/research-20261108/obsidian-vault/Codex创作工作流/00-入口与约定/项目审美档案.md",
+      "bytes": 2941,
+      "sha256": "728B1275C75026B700E2F1D1D47CC73F5DA77561EDA983C8DA3CDDCBAD00FBF9",
+      "category": "Obsidian原生工作流与引用媒体"
+    },
+    {
+      "source": "C:\\设计画布【不可动】\\Codex创作工作流\\01-参考库\\参考缺口.md",
+      "path": "projects/director/research-20261108/obsidian-vault/Codex创作工作流/01-参考库/参考缺口.md",
+      "bytes": 1256,
+      "sha256": "168FBD46E2CD85DD9EA05D9C7BBE84FF9A7A2FE834BC6E62D3ADCB1AA68373A5",
+      "category": "Obsidian原生工作流与引用媒体"
+    },
+    {
+      "source": "C:\\设计画布【不可动】\\Codex创作工作流\\01-参考库\\用途索引.md",
+      "path": "projects/director/research-20261108/obsidian-vault/Codex创作工作流/01-参考库/用途索引.md",
+      "bytes": 1710,
+      "sha256": "FBC627E8A1BCC7AA9C8BF3ADCE0EA9A13536BBEB0388EEB8BF4A0A8E31E47ADF",
+      "category": "Obsidian原生工作流与引用媒体"
+    },
+    {
+      "source": "C:\\设计画布【不可动】\\Codex创作工作流\\01-参考库\\REF001-清新光感.md",
+      "path": "projects/director/research-20261108/obsidian-vault/Codex创作工作流/01-参考库/REF001-清新光感.md",
+      "bytes": 868,
+      "sha256": "2BC1F74BD6F490293FC7F75BCC9378158D9CD3335365343AE6C26FF3019CD2AE",
+      "category": "Obsidian原生工作流与引用媒体"
+    },
+    {
+      "source": "C:\\设计画布【不可动】\\Codex创作工作流\\01-参考库\\REF002-细腻材质.md",
+      "path": "projects/director/research-20261108/obsidian-vault/Codex创作工作流/01-参考库/REF002-细腻材质.md",
+      "bytes": 861,
+      "sha256": "6D19742FED4B74FC7737DDDB99C60ABCB8399B0F13CFFB146BDDF8249513322F",
+      "category": "Obsidian原生工作流与引用媒体"
+    },
+    {
+      "source": "C:\\设计画布【不可动】\\Codex创作工作流\\01-参考库\\REF003-海边CG观看关系.md",
+      "path": "projects/director/research-20261108/obsidian-vault/Codex创作工作流/01-参考库/REF003-海边CG观看关系.md",
+      "bytes": 1198,
+      "sha256": "E6B12D7E8E1ACEECF994641D95BFA197A8E062FEC79EC155AD486E932EDC58A0",
+      "category": "Obsidian原生工作流与引用媒体"
+    },
+    {
+      "source": "C:\\设计画布【不可动】\\Codex创作工作流\\01-参考库\\REF004-海边逆光.md",
+      "path": "projects/director/research-20261108/obsidian-vault/Codex创作工作流/01-参考库/REF004-海边逆光.md",
+      "bytes": 722,
+      "sha256": "704047C471A091BCBB7D51D902D832663F1B18111E139E00DDC8D10991361C8A",
+      "category": "Obsidian原生工作流与引用媒体"
+    },
+    {
+      "source": "C:\\设计画布【不可动】\\Codex创作工作流\\01-参考库\\研究档案\\20261106-审美分析报告.md",
+      "path": "projects/director/research-20261108/obsidian-vault/Codex创作工作流/01-参考库/研究档案/20261106-审美分析报告.md",
+      "bytes": 17716,
+      "sha256": "B6FB4549074474AF94D2E5DA6B9E19CE2918F6FCF483518CFAC6556DA238316D",
+      "category": "Obsidian原生工作流与引用媒体"
+    },
+    {
+      "source": "C:\\设计画布【不可动】\\Codex创作工作流\\01-参考库\\第二轮-20261106\\材料台账.json",
+      "path": "projects/director/research-20261108/obsidian-vault/Codex创作工作流/01-参考库/第二轮-20261106/材料台账.json",
+      "bytes": 17006,
+      "sha256": "1506F657E23D98D0D9027EE6E304CDF83576B318EB3AAB4858459AF917FB4AF1",
+      "category": "Obsidian原生工作流与引用媒体"
+    },
+    {
+      "source": "C:\\设计画布【不可动】\\Codex创作工作流\\01-参考库\\第二轮-20261106\\分析摘要.md",
+      "path": "projects/director/research-20261108/obsidian-vault/Codex创作工作流/01-参考库/第二轮-20261106/分析摘要.md",
+      "bytes": 594,
+      "sha256": "72DE80513F86F1975A91208F8CC0DA4AEA1A841FE56CCFC08A4BAD0E3A60951E",
+      "category": "Obsidian原生工作流与引用媒体"
+    },
+    {
+      "source": "C:\\设计画布【不可动】\\Codex创作工作流\\01-参考库\\第二轮-20261106\\分组-不喜欢的边界.md",
+      "path": "projects/director/research-20261108/obsidian-vault/Codex创作工作流/01-参考库/第二轮-20261106/分组-不喜欢的边界.md",
+      "bytes": 676,
+      "sha256": "D7DA096F95EF7FB01D7AE14136141FA5B1F49EF1CAFC1FA4474918FADB599613",
+      "category": "Obsidian原生工作流与引用媒体"
+    },
+    {
+      "source": "C:\\设计画布【不可动】\\Codex创作工作流\\01-参考库\\第二轮-20261106\\分组-场景与留白.md",
+      "path": "projects/director/research-20261108/obsidian-vault/Codex创作工作流/01-参考库/第二轮-20261106/分组-场景与留白.md",
+      "bytes": 452,
+      "sha256": "9A600BAA554C59D2E4C5F141390CEF4864EE67B5C4047D4CD6670405FDEE29C4",
+      "category": "Obsidian原生工作流与引用媒体"
+    },
+    {
+      "source": "C:\\设计画布【不可动】\\Codex创作工作流\\01-参考库\\第二轮-20261106\\分组-活人感.md",
+      "path": "projects/director/research-20261108/obsidian-vault/Codex创作工作流/01-参考库/第二轮-20261106/分组-活人感.md",
+      "bytes": 446,
+      "sha256": "E69E6A507910F148D077FE11B828B0C7138F18A702752BFE4F46C878EC6D94BB",
+      "category": "Obsidian原生工作流与引用媒体"
+    },
+    {
+      "source": "C:\\设计画布【不可动】\\Codex创作工作流\\01-参考库\\第二轮-20261106\\分组-角色整体表达.md",
+      "path": "projects/director/research-20261108/obsidian-vault/Codex创作工作流/01-参考库/第二轮-20261106/分组-角色整体表达.md",
+      "bytes": 944,
+      "sha256": "3E78CD16956CE90FC46170A8FF79F2E5BD78A1613CEDE5D230453356645C78C6",
+      "category": "Obsidian原生工作流与引用媒体"
+    },
+    {
+      "source": "C:\\设计画布【不可动】\\Codex创作工作流\\01-参考库\\第二轮-20261106\\分组-皮肤与颜色.md",
+      "path": "projects/director/research-20261108/obsidian-vault/Codex创作工作流/01-参考库/第二轮-20261106/分组-皮肤与颜色.md",
+      "bytes": 434,
+      "sha256": "178DAB2A3C8CD3B78238CBA8171162F6586C1BB068D4FCC61500AB8FADAD5681",
+      "category": "Obsidian原生工作流与引用媒体"
+    },
+    {
+      "source": "C:\\设计画布【不可动】\\Codex创作工作流\\01-参考库\\第二轮-20261106\\用户说明与最新澄清.md",
+      "path": "projects/director/research-20261108/obsidian-vault/Codex创作工作流/01-参考库/第二轮-20261106/用户说明与最新澄清.md",
+      "bytes": 2536,
+      "sha256": "1AD8689554F2623845D551D80EB2D087B8254E0EC9D94FBEA5CEF97E15684455",
+      "category": "Obsidian原生工作流与引用媒体"
+    },
+    {
+      "source": "C:\\设计画布【不可动】\\Codex创作工作流\\01-参考库\\第二轮-20261106\\综合分析报告.md",
+      "path": "projects/director/research-20261108/obsidian-vault/Codex创作工作流/01-参考库/第二轮-20261106/综合分析报告.md",
+      "bytes": 18079,
+      "sha256": "B9C5A62E965A226B5EFC506A4A523698E7EC014452ED723456A2103D8E98B533",
+      "category": "Obsidian原生工作流与引用媒体"
+    },
+    {
+      "source": "C:\\设计画布【不可动】\\Codex创作工作流\\01-参考库\\第二轮-20261106\\C01-粉暖云海与列车.md",
+      "path": "projects/director/research-20261108/obsidian-vault/Codex创作工作流/01-参考库/第二轮-20261106/C01-粉暖云海与列车.md",
+      "bytes": 1380,
+      "sha256": "E9C1DA0A37446489D58BFD3689CB11B41D52C841AE0AE795A17AD24F7016E65C",
+      "category": "Obsidian原生工作流与引用媒体"
+    },
+    {
+      "source": "C:\\设计画布【不可动】\\Codex创作工作流\\01-参考库\\第二轮-20261106\\C02-蓝绿海边道口.md",
+      "path": "projects/director/research-20261108/obsidian-vault/Codex创作工作流/01-参考库/第二轮-20261106/C02-蓝绿海边道口.md",
+      "bytes": 1379,
+      "sha256": "12B759A7C1A13329FF5C61C0FEDE50D8BE086BF0E5D3E233041171AD16C5A68B",
+      "category": "Obsidian原生工作流与引用媒体"
+    },
+    {
+      "source": "C:\\设计画布【不可动】\\Codex创作工作流\\01-参考库\\第二轮-20261106\\C03-暖光眼部特写.md",
+      "path": "projects/director/research-20261108/obsidian-vault/Codex创作工作流/01-参考库/第二轮-20261106/C03-暖光眼部特写.md",
+      "bytes": 1480,
+      "sha256": "17D559D8A7E6B70630694BD95A3F2C3A3F624B936DA1170EA5CD86E5CB0EE18C",
+      "category": "Obsidian原生工作流与引用媒体"
+    },
+    {
+      "source": "C:\\设计画布【不可动】\\Codex创作工作流\\01-参考库\\第二轮-20261106\\C04-青绿侧脸.md",
+      "path": "projects/director/research-20261108/obsidian-vault/Codex创作工作流/01-参考库/第二轮-20261106/C04-青绿侧脸.md",
+      "bytes": 1253,
+      "sha256": "BD81D00256E111F408BB8FFF531AF656D4DB57B10F622412BD8B60CC31ECF40A",
+      "category": "Obsidian原生工作流与引用媒体"
+    },
+    {
+      "source": "C:\\设计画布【不可动】\\Codex创作工作流\\01-参考库\\第二轮-20261106\\C05-蓝天下眼镜近脸.md",
+      "path": "projects/director/research-20261108/obsidian-vault/Codex创作工作流/01-参考库/第二轮-20261106/C05-蓝天下眼镜近脸.md",
+      "bytes": 1011,
+      "sha256": "AF90DEF82E7F1E8A1D9DFEC28CDD7B326CF040C4C2D2FFE4961003C87AB8F0C9",
+      "category": "Obsidian原生工作流与引用媒体"
+    },
+    {
+      "source": "C:\\设计画布【不可动】\\Codex创作工作流\\01-参考库\\第二轮-20261106\\C06-扶眼镜近脸.md",
+      "path": "projects/director/research-20261108/obsidian-vault/Codex创作工作流/01-参考库/第二轮-20261106/C06-扶眼镜近脸.md",
+      "bytes": 1292,
+      "sha256": "DD76C4C069EDBA75DFF72E8A53FF89D0A7773BAA1D70A146E3695FF678E62D39",
+      "category": "Obsidian原生工作流与引用媒体"
+    },
+    {
+      "source": "C:\\设计画布【不可动】\\Codex创作工作流\\01-参考库\\第二轮-20261106\\C07-粉帽、条纹与绿裤.md",
+      "path": "projects/director/research-20261108/obsidian-vault/Codex创作工作流/01-参考库/第二轮-20261106/C07-粉帽、条纹与绿裤.md",
+      "bytes": 1238,
+      "sha256": "22927B7257C8B63EA2F7CE6B102BDBA825A108880A49913E976A345993B31C77",
+      "category": "Obsidian原生工作流与引用媒体"
+    },
+    {
+      "source": "C:\\设计画布【不可动】\\Codex创作工作流\\01-参考库\\第二轮-20261106\\C08-窗边粉发、冰棒与格纹衣.md",
+      "path": "projects/director/research-20261108/obsidian-vault/Codex创作工作流/01-参考库/第二轮-20261106/C08-窗边粉发、冰棒与格纹衣.md",
+      "bytes": 942,
+      "sha256": "3492C7E9968D06925FE44DCDBFC10495E67D8B5619B0EDA5DF1303C4FB2CF434",
+      "category": "Obsidian原生工作流与引用媒体"
+    },
+    {
+      "source": "C:\\设计画布【不可动】\\Codex创作工作流\\01-参考库\\第二轮-20261106\\C09-兽耳帽、叶片、尾巴与工具及护具.md",
+      "path": "projects/director/research-20261108/obsidian-vault/Codex创作工作流/01-参考库/第二轮-20261106/C09-兽耳帽、叶片、尾巴与工具及护具.md",
+      "bytes": 1294,
+      "sha256": "60682CF6AC800D8DBE0C212CD7CD5EFC1DCA13299FD55D30467A085181B3F29A",
+      "category": "Obsidian原生工作流与引用媒体"
+    },
+    {
+      "source": "C:\\设计画布【不可动】\\Codex创作工作流\\01-参考库\\第二轮-20261106\\C10-彩色发辫与同纹样球体.md",
+      "path": "projects/director/research-20261108/obsidian-vault/Codex创作工作流/01-参考库/第二轮-20261106/C10-彩色发辫与同纹样球体.md",
+      "bytes": 1026,
+      "sha256": "17959BCFB7A320F8BDC2B64CB581C9DF6A9599AFB68D450E86DEEBB2D19F4930",
+      "category": "Obsidian原生工作流与引用媒体"
+    },
+    {
+      "source": "C:\\设计画布【不可动】\\Codex创作工作流\\01-参考库\\第二轮-20261106\\C11-青白装备、头盔及日常装束组.md",
+      "path": "projects/director/research-20261108/obsidian-vault/Codex创作工作流/01-参考库/第二轮-20261106/C11-青白装备、头盔及日常装束组.md",
+      "bytes": 1677,
+      "sha256": "4FEACC648710C8426E1CC05F8BD634D67182C285EE51F224BF89F7476A34D67B",
+      "category": "Obsidian原生工作流与引用媒体"
+    },
+    {
+      "source": "C:\\设计画布【不可动】\\Codex创作工作流\\01-参考库\\第二轮-20261106\\C12-浅发蓝眼近脸.md",
+      "path": "projects/director/research-20261108/obsidian-vault/Codex创作工作流/01-参考库/第二轮-20261106/C12-浅发蓝眼近脸.md",
+      "bytes": 807,
+      "sha256": "38E3A4A7D0382629D7EDBDEECBD7D6E4F85C67D6D056F046898F1F02C69E56E6",
+      "category": "Obsidian原生工作流与引用媒体"
+    },
+    {
+      "source": "C:\\设计画布【不可动】\\Codex创作工作流\\01-参考库\\第二轮-20261106\\C13-黑发齐刘海近脸.md",
+      "path": "projects/director/research-20261108/obsidian-vault/Codex创作工作流/01-参考库/第二轮-20261106/C13-黑发齐刘海近脸.md",
+      "bytes": 828,
+      "sha256": "AD48789009D5CC69B1752B3187CB57F8273DD890941693CD3E0A392B00B00635",
+      "category": "Obsidian原生工作流与引用媒体"
+    },
+    {
+      "source": "C:\\设计画布【不可动】\\Codex创作工作流\\01-参考库\\第二轮-20261106\\C14-过白肤色近脸.md",
+      "path": "projects/director/research-20261108/obsidian-vault/Codex创作工作流/01-参考库/第二轮-20261106/C14-过白肤色近脸.md",
+      "bytes": 829,
+      "sha256": "37FAAFBE29FC407CB1B444FA8673BD0FA0B747E557D6C54F682AC81537AE836A",
+      "category": "Obsidian原生工作流与引用媒体"
+    },
+    {
+      "source": "C:\\设计画布【不可动】\\Codex创作工作流\\01-参考库\\第二轮-20261106\\C15-珠光薄纱人物.md",
+      "path": "projects/director/research-20261108/obsidian-vault/Codex创作工作流/01-参考库/第二轮-20261106/C15-珠光薄纱人物.md",
+      "bytes": 874,
+      "sha256": "4C4BD7504A6CB09345FE9F2F1A22D68BC1B2579061E2DD683BA9039DC9ACC33C",
+      "category": "Obsidian原生工作流与引用媒体"
+    },
+    {
+      "source": "C:\\设计画布【不可动】\\Codex创作工作流\\02-项目\\海的背面\\创作目标.md",
+      "path": "projects/director/research-20261108/obsidian-vault/Codex创作工作流/02-项目/海的背面/创作目标.md",
+      "bytes": 665,
+      "sha256": "E6C9ACD462CF6B49ADAADDC44BB8EAA0DAFC51E477BF64DB9E86DF3B96B66FD2",
+      "category": "Obsidian原生工作流与引用媒体"
+    },
+    {
+      "source": "C:\\设计画布【不可动】\\Codex创作工作流\\02-项目\\海的背面\\第二轮细节限定.md",
+      "path": "projects/director/research-20261108/obsidian-vault/Codex创作工作流/02-项目/海的背面/第二轮细节限定.md",
+      "bytes": 1603,
+      "sha256": "EF0EDA938EA9546F9A2B953F36413A6C50D2D32039C2351B8AC1B6301920E88F",
+      "category": "Obsidian原生工作流与引用媒体"
+    },
+    {
+      "source": "C:\\设计画布【不可动】\\Codex创作工作流\\02-项目\\海的背面\\第一轮整体限定.md",
+      "path": "projects/director/research-20261108/obsidian-vault/Codex创作工作流/02-项目/海的背面/第一轮整体限定.md",
+      "bytes": 578,
+      "sha256": "DEE359AF91229F73DC76374EB9423E4F7E2B1667D3648BA09A56AC659A51F3BD",
+      "category": "Obsidian原生工作流与引用媒体"
+    },
+    {
+      "source": "C:\\设计画布【不可动】\\Codex创作工作流\\02-项目\\海的背面\\评图与修订.md",
+      "path": "projects/director/research-20261108/obsidian-vault/Codex创作工作流/02-项目/海的背面/评图与修订.md",
+      "bytes": 717,
+      "sha256": "9A1E4706F47417194E767C665B6673EDB6EE5E25E97B69A3D4880457499EA36E",
+      "category": "Obsidian原生工作流与引用媒体"
+    },
+    {
+      "source": "C:\\设计画布【不可动】\\Codex创作工作流\\02-项目\\海的背面\\提示词版本.md",
+      "path": "projects/director/research-20261108/obsidian-vault/Codex创作工作流/02-项目/海的背面/提示词版本.md",
+      "bytes": 743,
+      "sha256": "B0EA985E6BA1CE141A1BC25FEB6C7EC307A770E1DE61A0F958730D528D4DED01",
+      "category": "Obsidian原生工作流与引用媒体"
+    },
+    {
+      "source": "C:\\设计画布【不可动】\\Codex创作工作流\\02-项目\\海的背面\\下一轮计划.md",
+      "path": "projects/director/research-20261108/obsidian-vault/Codex创作工作流/02-项目/海的背面/下一轮计划.md",
+      "bytes": 573,
+      "sha256": "DAC2E306AD7EA1356815BCE2C48FF822221BE5EBDFF31A0B2FCACE0EC7679E91",
+      "category": "Obsidian原生工作流与引用媒体"
+    },
+    {
+      "source": "C:\\设计画布【不可动】\\Codex创作工作流\\02-项目\\海的背面\\历史\\第一轮画面分析.md",
+      "path": "projects/director/research-20261108/obsidian-vault/Codex创作工作流/02-项目/海的背面/历史/第一轮画面分析.md",
+      "bytes": 6476,
+      "sha256": "9536D172BFD7EC17040D7EEF0A361E0BC3542EED52A104E88DFA7516579F248D",
+      "category": "Obsidian原生工作流与引用媒体"
+    },
+    {
+      "source": "C:\\设计画布【不可动】\\Codex创作工作流\\02-项目\\海的背面\\历史\\V1-结果复看.md",
+      "path": "projects/director/research-20261108/obsidian-vault/Codex创作工作流/02-项目/海的背面/历史/V1-结果复看.md",
+      "bytes": 4294,
+      "sha256": "B49FE4C640F0C2D464A65C9B8CEA1D7F403BB55D2729159BF9C78A75CB1E2E29",
+      "category": "Obsidian原生工作流与引用媒体"
+    },
+    {
+      "source": "C:\\设计画布【不可动】\\Codex创作工作流\\02-项目\\海的背面\\历史\\V1-提示词.md",
+      "path": "projects/director/research-20261108/obsidian-vault/Codex创作工作流/02-项目/海的背面/历史/V1-提示词.md",
+      "bytes": 3517,
+      "sha256": "59510A0D2C0E6F7BD57FD561115132F648A86779517E2D3DFEC001776EEFD5EB",
+      "category": "Obsidian原生工作流与引用媒体"
+    },
+    {
+      "source": "C:\\设计画布【不可动】\\Codex创作工作流\\03-媒体\\参考\\REF001-清新光感.png",
+      "path": "projects/director/research-20261108/obsidian-vault/Codex创作工作流/03-媒体/参考/REF001-清新光感.png",
+      "bytes": 571018,
+      "sha256": "3EF101A60059B2C51EBC2F6216C9D451FD384C6B8A3A2BE783EB77BAA4EE45BD",
+      "category": "Obsidian原生工作流与引用媒体"
+    },
+    {
+      "source": "C:\\设计画布【不可动】\\Codex创作工作流\\03-媒体\\参考\\REF002-细腻材质.png",
+      "path": "projects/director/research-20261108/obsidian-vault/Codex创作工作流/03-媒体/参考/REF002-细腻材质.png",
+      "bytes": 891254,
+      "sha256": "AAE3D5FED74E2915ACCEB56A233300EE7425CDEDF6712040AB849B9C2D12F9A1",
+      "category": "Obsidian原生工作流与引用媒体"
+    },
+    {
+      "source": "C:\\设计画布【不可动】\\Codex创作工作流\\03-媒体\\参考\\REF003-海边CG-源0秒.jpg",
+      "path": "projects/director/research-20261108/obsidian-vault/Codex创作工作流/03-媒体/参考/REF003-海边CG-源0秒.jpg",
+      "bytes": 133927,
+      "sha256": "BB537C230EAE197BD04BB2FC2B91B199C04986771B28253E3955EAC271FE5EF5",
+      "category": "Obsidian原生工作流与引用媒体"
+    },
+    {
+      "source": "C:\\设计画布【不可动】\\Codex创作工作流\\03-媒体\\参考\\REF004-海边逆光.png",
+      "path": "projects/director/research-20261108/obsidian-vault/Codex创作工作流/03-媒体/参考/REF004-海边逆光.png",
+      "bytes": 636796,
+      "sha256": "66D10EAF4EB21EFD94D6EA5ADA0A63620E2F931199ACD562BDE22E598DC5B2B2",
+      "category": "Obsidian原生工作流与引用媒体"
+    },
+    {
+      "source": "C:\\设计画布【不可动】\\Codex创作工作流\\03-媒体\\参考\\第二轮-20261106\\B02-01-上下文-旧参考缺口截图.png",
+      "path": "projects/director/research-20261108/obsidian-vault/Codex创作工作流/03-媒体/参考/第二轮-20261106/B02-01-上下文-旧参考缺口截图.png",
+      "bytes": 79322,
+      "sha256": "264300457885B741F41B87F0ED9B5114270BD4D0EF21E1AE51829421776104C4",
+      "category": "Obsidian原生工作流与引用媒体"
+    },
+    {
+      "source": "C:\\设计画布【不可动】\\Codex创作工作流\\03-媒体\\参考\\第二轮-20261106\\B02-02-场景-粉暖云海列车.png",
+      "path": "projects/director/research-20261108/obsidian-vault/Codex创作工作流/03-媒体/参考/第二轮-20261106/B02-02-场景-粉暖云海列车.png",
+      "bytes": 1894175,
+      "sha256": "4EEA3E4CA4F6D8572C1DD3B45DABB0D6AB786A9A4690072D38433248B05059FB",
+      "category": "Obsidian原生工作流与引用媒体"
+    },
+    {
+      "source": "C:\\设计画布【不可动】\\Codex创作工作流\\03-媒体\\参考\\第二轮-20261106\\B02-03-场景-蓝绿海边道口.png",
+      "path": "projects/director/research-20261108/obsidian-vault/Codex创作工作流/03-媒体/参考/第二轮-20261106/B02-03-场景-蓝绿海边道口.png",
+      "bytes": 1576648,
+      "sha256": "EECAD6BB4E81F27A508C10E9CB7BF662C1BBB0E5B4D56B63F0EBA28BFD8E2E4A",
+      "category": "Obsidian原生工作流与引用媒体"
+    },
+    {
+      "source": "C:\\设计画布【不可动】\\Codex创作工作流\\03-媒体\\参考\\第二轮-20261106\\B02-04-皮肤-暖光眼部特写.png",
+      "path": "projects/director/research-20261108/obsidian-vault/Codex创作工作流/03-媒体/参考/第二轮-20261106/B02-04-皮肤-暖光眼部特写.png",
+      "bytes": 946910,
+      "sha256": "7634A95D382F65005A85397A36CC373560045D99F77353DE94F7286BA9216D0E",
+      "category": "Obsidian原生工作流与引用媒体"
+    },
+    {
+      "source": "C:\\设计画布【不可动】\\Codex创作工作流\\03-媒体\\参考\\第二轮-20261106\\B02-05-配色-青绿侧脸.png",
+      "path": "projects/director/research-20261108/obsidian-vault/Codex创作工作流/03-媒体/参考/第二轮-20261106/B02-05-配色-青绿侧脸.png",
+      "bytes": 426748,
+      "sha256": "7ECF01BA8C12493FCAF6051B176CD5515BB093F734E7D9F286531DF80BE5668A",
+      "category": "Obsidian原生工作流与引用媒体"
+    },
+    {
+      "source": "C:\\设计画布【不可动】\\Codex创作工作流\\03-媒体\\参考\\第二轮-20261106\\B02-07-活人感-蓝天下眼镜近脸.png",
+      "path": "projects/director/research-20261108/obsidian-vault/Codex创作工作流/03-媒体/参考/第二轮-20261106/B02-07-活人感-蓝天下眼镜近脸.png",
+      "bytes": 976019,
+      "sha256": "F43A0D4FCDD7B398D84AA2D184E43A6C4E5BDC7812E67F98951C38C2ED4B79E8",
+      "category": "Obsidian原生工作流与引用媒体"
+    },
+    {
+      "source": "C:\\设计画布【不可动】\\Codex创作工作流\\03-媒体\\参考\\第二轮-20261106\\B02-08-活人感-扶眼镜近脸.png",
+      "path": "projects/director/research-20261108/obsidian-vault/Codex创作工作流/03-媒体/参考/第二轮-20261106/B02-08-活人感-扶眼镜近脸.png",
+      "bytes": 683533,
+      "sha256": "ABEA4331A4E8A45F88C941AEE2F1979533ACC2116ED8D6B8E7F66C1327B7C09C",
+      "category": "Obsidian原生工作流与引用媒体"
+    },
+    {
+      "source": "C:\\设计画布【不可动】\\Codex创作工作流\\03-媒体\\参考\\第二轮-20261106\\B02-09-角色-粉帽条纹近景.png",
+      "path": "projects/director/research-20261108/obsidian-vault/Codex创作工作流/03-媒体/参考/第二轮-20261106/B02-09-角色-粉帽条纹近景.png",
+      "bytes": 1227532,
+      "sha256": "C5D9D05797AB2963546DA5177AA2DD2F16363DDCEA3BE79BB6BE8285B4EBDCFF",
+      "category": "Obsidian原生工作流与引用媒体"
+    },
+    {
+      "source": "C:\\设计画布【不可动】\\Codex创作工作流\\03-媒体\\参考\\第二轮-20261106\\B02-10-角色-粉帽绿裤坐姿.png",
+      "path": "projects/director/research-20261108/obsidian-vault/Codex创作工作流/03-媒体/参考/第二轮-20261106/B02-10-角色-粉帽绿裤坐姿.png",
+      "bytes": 1167548,
+      "sha256": "D6E74A927223910DAB658079609579EE4B9AFAF05822F9ECFE2CD861C23A5A78",
+      "category": "Obsidian原生工作流与引用媒体"
+    },
+    {
+      "source": "C:\\设计画布【不可动】\\Codex创作工作流\\03-媒体\\参考\\第二轮-20261106\\B02-11-角色-窗边冰棒粉发.png",
+      "path": "projects/director/research-20261108/obsidian-vault/Codex创作工作流/03-媒体/参考/第二轮-20261106/B02-11-角色-窗边冰棒粉发.png",
+      "bytes": 847089,
+      "sha256": "F1D24D5D980C31EA85310841687ED1EBD87768C27B03AAD413663DBF8678DAE3",
+      "category": "Obsidian原生工作流与引用媒体"
+    },
+    {
+      "source": "C:\\设计画布【不可动】\\Codex创作工作流\\03-媒体\\参考\\第二轮-20261106\\B02-12-角色-兽耳帽工具箱全身.png",
+      "path": "projects/director/research-20261108/obsidian-vault/Codex创作工作流/03-媒体/参考/第二轮-20261106/B02-12-角色-兽耳帽工具箱全身.png",
+      "bytes": 1827122,
+      "sha256": "D65CBAF4BD09FC807C6C55980608D9D89A55569CD9CDD41E925D1E0C90CAB960",
+      "category": "Obsidian原生工作流与引用媒体"
+    },
+    {
+      "source": "C:\\设计画布【不可动】\\Codex创作工作流\\03-媒体\\参考\\第二轮-20261106\\B02-13-角色-兽耳帽服饰局部.png",
+      "path": "projects/director/research-20261108/obsidian-vault/Codex创作工作流/03-媒体/参考/第二轮-20261106/B02-13-角色-兽耳帽服饰局部.png",
+      "bytes": 2081986,
+      "sha256": "C3456A1E46601227C955F9A2618980801443DF9AF8A23211F42DD7F59F227D97",
+      "category": "Obsidian原生工作流与引用媒体"
+    },
+    {
+      "source": "C:\\设计画布【不可动】\\Codex创作工作流\\03-媒体\\参考\\第二轮-20261106\\B02-14-角色-彩色发辫多视角.png",
+      "path": "projects/director/research-20261108/obsidian-vault/Codex创作工作流/03-媒体/参考/第二轮-20261106/B02-14-角色-彩色发辫多视角.png",
+      "bytes": 2173923,
+      "sha256": "3B93EFAC71A0B86BF42A0071C91CC524266E23B86CA378A1C0DFD59C888330A0",
+      "category": "Obsidian原生工作流与引用媒体"
+    },
+    {
+      "source": "C:\\设计画布【不可动】\\Codex创作工作流\\03-媒体\\参考\\第二轮-20261106\\B02-15-角色-青白装备全身.png",
+      "path": "projects/director/research-20261108/obsidian-vault/Codex创作工作流/03-媒体/参考/第二轮-20261106/B02-15-角色-青白装备全身.png",
+      "bytes": 1770715,
+      "sha256": "60FAD6F4CF2EBD7B65C5436F1015AB4FF48F2C7C2F98A5AEE074EEA0E67A26C4",
+      "category": "Obsidian原生工作流与引用媒体"
+    },
+    {
+      "source": "C:\\设计画布【不可动】\\Codex创作工作流\\03-媒体\\参考\\第二轮-20261106\\B02-16-角色-头盔动作半身.png",
+      "path": "projects/director/research-20261108/obsidian-vault/Codex创作工作流/03-媒体/参考/第二轮-20261106/B02-16-角色-头盔动作半身.png",
+      "bytes": 3371050,
+      "sha256": "336AE1F868212F3D171CB17E7D806AB52FB38C1ECB3FEC9B35A57B79A9F16BC8",
+      "category": "Obsidian原生工作流与引用媒体"
+    },
+    {
+      "source": "C:\\设计画布【不可动】\\Codex创作工作流\\03-媒体\\参考\\第二轮-20261106\\B02-17-角色-日常制服与背包.png",
+      "path": "projects/director/research-20261108/obsidian-vault/Codex创作工作流/03-媒体/参考/第二轮-20261106/B02-17-角色-日常制服与背包.png",
+      "bytes": 1258062,
+      "sha256": "3DCCD12AD2B90E4C2A38BC89AABDFCDF97DA0C8B6C626E4C3330677720B71E39",
+      "category": "Obsidian原生工作流与引用媒体"
+    },
+    {
+      "source": "C:\\设计画布【不可动】\\Codex创作工作流\\03-媒体\\参考\\第二轮-20261106\\B02-18-反例-浅发蓝眼近脸.png",
+      "path": "projects/director/research-20261108/obsidian-vault/Codex创作工作流/03-媒体/参考/第二轮-20261106/B02-18-反例-浅发蓝眼近脸.png",
+      "bytes": 1234931,
+      "sha256": "CABFC6DB9C8F2E4D4448E8EFBF4F4D8C43E5895ABC7E81E940551AFB4F0F1023",
+      "category": "Obsidian原生工作流与引用媒体"
+    },
+    {
+      "source": "C:\\设计画布【不可动】\\Codex创作工作流\\03-媒体\\参考\\第二轮-20261106\\B02-19-反例-黑发齐刘海近脸.png",
+      "path": "projects/director/research-20261108/obsidian-vault/Codex创作工作流/03-媒体/参考/第二轮-20261106/B02-19-反例-黑发齐刘海近脸.png",
+      "bytes": 600468,
+      "sha256": "7CCA072EB9286AEBC2360D2C2E1475FB194482ECA5AFB9580FF66175D14C2AFD",
+      "category": "Obsidian原生工作流与引用媒体"
+    },
+    {
+      "source": "C:\\设计画布【不可动】\\Codex创作工作流\\03-媒体\\参考\\第二轮-20261106\\B02-20-反例-过白肤色近脸.png",
+      "path": "projects/director/research-20261108/obsidian-vault/Codex创作工作流/03-媒体/参考/第二轮-20261106/B02-20-反例-过白肤色近脸.png",
+      "bytes": 702274,
+      "sha256": "B3ABDB90B6F598E99A44D7B4557B1CA36EF058AD81BB97693FD10823185AB2CB",
+      "category": "Obsidian原生工作流与引用媒体"
+    },
+    {
+      "source": "C:\\设计画布【不可动】\\Codex创作工作流\\03-媒体\\参考\\第二轮-20261106\\B02-21-反例-珠光薄纱人物.png",
+      "path": "projects/director/research-20261108/obsidian-vault/Codex创作工作流/03-媒体/参考/第二轮-20261106/B02-21-反例-珠光薄纱人物.png",
+      "bytes": 272170,
+      "sha256": "C8B042B0FE8D06F9F09C5EF3BD21C620BC5B768A741B9CD169D99A1897939140",
+      "category": "Obsidian原生工作流与引用媒体"
+    },
+    {
+      "source": "C:\\设计画布【不可动】\\Codex创作工作流\\03-媒体\\结果\\OUT001-海的背面首轮.png",
+      "path": "projects/director/research-20261108/obsidian-vault/Codex创作工作流/03-媒体/结果/OUT001-海的背面首轮.png",
+      "bytes": 1902111,
+      "sha256": "CE4BC4C11D67C237B491F6D2FF2E65B4F9D1747E7F49F8DADD850DE27EF0D583",
+      "category": "Obsidian原生工作流与引用媒体"
+    }
+  ]
+}

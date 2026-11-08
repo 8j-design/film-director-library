@@ -1,0 +1,1992 @@
+{
+  "date": "2026-11-08",
+  "scope": "仅列本次所选任务目录中未复制项，不是全电脑未备份清单",
+  "files": [
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\参考体系与创作循环-20261106\\参考体系-界面验收.png",
+      "bytes": 679055,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\参考体系与创作循环-20261106\\创作循环-界面验收.png",
+      "bytes": 637541,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\参考体系与创作循环-20261106\\搭建参考工作流.py",
+      "bytes": 20571,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\参考体系与创作循环-20261106\\搭建与校验回执.json",
+      "bytes": 5797,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\参考体系与创作循环-20261106\\核对工作流.py",
+      "bytes": 1971,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\打包完整分享.py",
+      "bytes": 9760,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\导演构思与拉片Skill-完整分享与操作说明-v1.1.zip",
+      "bytes": 1373914,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\课堂分享-导演构思与拉片-图片笔记.png",
+      "bytes": 864537,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\生成课堂图片笔记.py",
+      "bytes": 6411,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\director-conception-and-shot-analysis.zip",
+      "bytes": 2616,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\v1.1-20261103\\初版正文备份.txt",
+      "bytes": 3394,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\v1.1-20261103\\打包核验.json",
+      "bytes": 911,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\v1.1-20261103\\导演构思与拉片-技能与零基础指南-v1.1.zip",
+      "bytes": 12571,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\v1.1-20261103\\迭代大纲.md",
+      "bytes": 748,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\v1.1-20261103\\迭代与验证记录.md",
+      "bytes": 2479,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\v1.1-20261103\\零基础使用指南.md",
+      "bytes": 11019,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\v1.1-20261103\\文字自测样本.md",
+      "bytes": 4682,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\v1.1-20261103\\director-conception-and-shot-analysis-v1.1.zip",
+      "bytes": 6477,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\v1.1-20261103\\分享文件\\零基础使用指南.md",
+      "bytes": 11019,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\v1.1-20261103\\分享文件\\director-conception-and-shot-analysis\\SKILL.md",
+      "bytes": 5366,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\v1.1-20261103\\分享文件\\director-conception-and-shot-analysis\\agents\\openai.yaml",
+      "bytes": 147,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\v1.1-20261103\\分享文件\\director-conception-and-shot-analysis\\references\\scene-design.md",
+      "bytes": 4582,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\bin\\qr.exe",
+      "bytes": 124058,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\colorama\\__init__.py",
+      "bytes": 266,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\colorama\\ansi.py",
+      "bytes": 2522,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\colorama\\ansitowin32.py",
+      "bytes": 11128,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\colorama\\initialise.py",
+      "bytes": 3325,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\colorama\\win32.py",
+      "bytes": 6181,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\colorama\\winterm.py",
+      "bytes": 7134,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\colorama\\tests\\__init__.py",
+      "bytes": 75,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\colorama\\tests\\ansi_test.py",
+      "bytes": 2839,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\colorama\\tests\\ansitowin32_test.py",
+      "bytes": 10678,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\colorama\\tests\\initialise_test.py",
+      "bytes": 6741,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\colorama\\tests\\isatty_test.py",
+      "bytes": 1866,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\colorama\\tests\\utils.py",
+      "bytes": 1079,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\colorama\\tests\\winterm_test.py",
+      "bytes": 3709,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\colorama\\tests\\__pycache__\\__init__.cpython-312.pyc",
+      "bytes": 188,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\colorama\\tests\\__pycache__\\ansi_test.cpython-312.pyc",
+      "bytes": 5457,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\colorama\\tests\\__pycache__\\ansitowin32_test.cpython-312.pyc",
+      "bytes": 17996,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\colorama\\tests\\__pycache__\\initialise_test.cpython-312.pyc",
+      "bytes": 11644,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\colorama\\tests\\__pycache__\\isatty_test.cpython-312.pyc",
+      "bytes": 4771,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\colorama\\tests\\__pycache__\\utils.cpython-312.pyc",
+      "bytes": 2460,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\colorama\\tests\\__pycache__\\winterm_test.cpython-312.pyc",
+      "bytes": 6602,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\colorama\\__pycache__\\__init__.cpython-312.pyc",
+      "bytes": 482,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\colorama\\__pycache__\\ansi.cpython-312.pyc",
+      "bytes": 3935,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\colorama\\__pycache__\\ansitowin32.cpython-312.pyc",
+      "bytes": 16402,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\colorama\\__pycache__\\initialise.cpython-312.pyc",
+      "bytes": 3540,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\colorama\\__pycache__\\win32.cpython-312.pyc",
+      "bytes": 8125,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\colorama\\__pycache__\\winterm.cpython-312.pyc",
+      "bytes": 9078,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\colorama-0.4.6.dist-info\\INSTALLER",
+      "bytes": 4,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\colorama-0.4.6.dist-info\\METADATA",
+      "bytes": 17158,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\colorama-0.4.6.dist-info\\RECORD",
+      "bytes": 2174,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\colorama-0.4.6.dist-info\\WHEEL",
+      "bytes": 105,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\colorama-0.4.6.dist-info\\licenses\\LICENSE.txt",
+      "bytes": 1491,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\pyyaml-6.0.3.dist-info\\INSTALLER",
+      "bytes": 4,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\pyyaml-6.0.3.dist-info\\METADATA",
+      "bytes": 2410,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\pyyaml-6.0.3.dist-info\\RECORD",
+      "bytes": 2780,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\pyyaml-6.0.3.dist-info\\REQUESTED",
+      "bytes": 0,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\pyyaml-6.0.3.dist-info\\top_level.txt",
+      "bytes": 11,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\pyyaml-6.0.3.dist-info\\WHEEL",
+      "bytes": 101,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\pyyaml-6.0.3.dist-info\\licenses\\LICENSE",
+      "bytes": 1101,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode\\__init__.py",
+      "bytes": 645,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode\\base.py",
+      "bytes": 7288,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode\\console_scripts.py",
+      "bytes": 5558,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode\\constants.py",
+      "bytes": 106,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode\\exceptions.py",
+      "bytes": 45,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode\\LUT.py",
+      "bytes": 3599,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode\\main.py",
+      "bytes": 16869,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode\\release.py",
+      "bytes": 1080,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode\\util.py",
+      "bytes": 17103,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode\\compat\\__init__.py",
+      "bytes": 0,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode\\compat\\etree.py",
+      "bytes": 152,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode\\compat\\png.py",
+      "bytes": 171,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode\\compat\\__pycache__\\__init__.cpython-312.pyc",
+      "bytes": 187,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode\\compat\\__pycache__\\etree.cpython-312.pyc",
+      "bytes": 353,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode\\compat\\__pycache__\\png.cpython-312.pyc",
+      "bytes": 311,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode\\image\\__init__.py",
+      "bytes": 0,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode\\image\\base.py",
+      "bytes": 4965,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode\\image\\pil.py",
+      "bytes": 1589,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode\\image\\pure.py",
+      "bytes": 1525,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode\\image\\styledpil.py",
+      "bytes": 4951,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode\\image\\svg.py",
+      "bytes": 5188,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode\\image\\styles\\__init__.py",
+      "bytes": 0,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode\\image\\styles\\colormasks.py",
+      "bytes": 7936,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode\\image\\styles\\moduledrawers\\__init__.py",
+      "bytes": 430,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode\\image\\styles\\moduledrawers\\base.py",
+      "bytes": 1019,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode\\image\\styles\\moduledrawers\\pil.py",
+      "bytes": 9773,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode\\image\\styles\\moduledrawers\\svg.py",
+      "bytes": 3936,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode\\image\\styles\\moduledrawers\\__pycache__\\__init__.cpython-312.pyc",
+      "bytes": 547,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode\\image\\styles\\moduledrawers\\__pycache__\\base.cpython-312.pyc",
+      "bytes": 1765,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode\\image\\styles\\moduledrawers\\__pycache__\\pil.cpython-312.pyc",
+      "bytes": 16507,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode\\image\\styles\\moduledrawers\\__pycache__\\svg.cpython-312.pyc",
+      "bytes": 8630,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode\\image\\styles\\__pycache__\\__init__.cpython-312.pyc",
+      "bytes": 193,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode\\image\\styles\\__pycache__\\colormasks.cpython-312.pyc",
+      "bytes": 10709,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode\\image\\__pycache__\\__init__.cpython-312.pyc",
+      "bytes": 186,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode\\image\\__pycache__\\base.cpython-312.pyc",
+      "bytes": 7821,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode\\image\\__pycache__\\pil.cpython-312.pyc",
+      "bytes": 2606,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode\\image\\__pycache__\\pure.cpython-312.pyc",
+      "bytes": 3018,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode\\image\\__pycache__\\styledpil.cpython-312.pyc",
+      "bytes": 6919,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode\\image\\__pycache__\\svg.cpython-312.pyc",
+      "bytes": 8572,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode\\tests\\__init__.py",
+      "bytes": 0,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode\\tests\\consts.py",
+      "bytes": 96,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode\\tests\\test_example.py",
+      "bytes": 244,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode\\tests\\test_qrcode_pil.py",
+      "bytes": 5148,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode\\tests\\test_qrcode_pypng.py",
+      "bytes": 944,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode\\tests\\test_qrcode_svg.py",
+      "bytes": 1296,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode\\tests\\test_qrcode.py",
+      "bytes": 6461,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode\\tests\\test_release.py",
+      "bytes": 1341,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode\\tests\\test_script.py",
+      "bytes": 2908,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode\\tests\\test_util.py",
+      "bytes": 207,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode\\tests\\__pycache__\\__init__.cpython-312.pyc",
+      "bytes": 186,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode\\tests\\__pycache__\\consts.cpython-312.pyc",
+      "bytes": 312,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode\\tests\\__pycache__\\test_example.cpython-312.pyc",
+      "bytes": 695,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode\\tests\\__pycache__\\test_qrcode_pil.cpython-312.pyc",
+      "bytes": 9353,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode\\tests\\__pycache__\\test_qrcode_pypng.cpython-312.pyc",
+      "bytes": 2241,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode\\tests\\__pycache__\\test_qrcode_svg.cpython-312.pyc",
+      "bytes": 3442,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode\\tests\\__pycache__\\test_qrcode.cpython-312.pyc",
+      "bytes": 15676,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode\\tests\\__pycache__\\test_release.cpython-312.pyc",
+      "bytes": 2699,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode\\tests\\__pycache__\\test_script.cpython-312.pyc",
+      "bytes": 6625,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode\\tests\\__pycache__\\test_util.cpython-312.pyc",
+      "bytes": 788,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode\\__pycache__\\__init__.cpython-312.pyc",
+      "bytes": 1073,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode\\__pycache__\\base.cpython-312.pyc",
+      "bytes": 9371,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode\\__pycache__\\console_scripts.cpython-312.pyc",
+      "bytes": 7924,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode\\__pycache__\\constants.cpython-312.pyc",
+      "bytes": 302,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode\\__pycache__\\exceptions.cpython-312.pyc",
+      "bytes": 376,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode\\__pycache__\\LUT.cpython-312.pyc",
+      "bytes": 1720,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode\\__pycache__\\main.cpython-312.pyc",
+      "bytes": 23364,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode\\__pycache__\\release.cpython-312.pyc",
+      "bytes": 1966,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode\\__pycache__\\util.cpython-312.pyc",
+      "bytes": 22649,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode-8.2.dist-info\\entry_points.txt",
+      "bytes": 50,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode-8.2.dist-info\\INSTALLER",
+      "bytes": 4,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode-8.2.dist-info\\LICENSE",
+      "bytes": 2143,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode-8.2.dist-info\\METADATA",
+      "bytes": 17686,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode-8.2.dist-info\\RECORD",
+      "bytes": 5270,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode-8.2.dist-info\\REQUESTED",
+      "bytes": 0,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\qrcode-8.2.dist-info\\WHEEL",
+      "bytes": 88,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\yaml\\__init__.py",
+      "bytes": 12311,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\yaml\\_yaml.cp312-win_amd64.pyd",
+      "bytes": 253952,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\yaml\\composer.py",
+      "bytes": 4883,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\yaml\\constructor.py",
+      "bytes": 28639,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\yaml\\cyaml.py",
+      "bytes": 3851,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\yaml\\dumper.py",
+      "bytes": 2837,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\yaml\\emitter.py",
+      "bytes": 43006,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\yaml\\error.py",
+      "bytes": 2533,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\yaml\\events.py",
+      "bytes": 2445,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\yaml\\loader.py",
+      "bytes": 2061,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\yaml\\nodes.py",
+      "bytes": 1440,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\yaml\\parser.py",
+      "bytes": 25495,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\yaml\\reader.py",
+      "bytes": 6794,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\yaml\\representer.py",
+      "bytes": 14190,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\yaml\\resolver.py",
+      "bytes": 9004,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\yaml\\scanner.py",
+      "bytes": 51279,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\yaml\\serializer.py",
+      "bytes": 4165,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\yaml\\tokens.py",
+      "bytes": 2573,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\yaml\\__pycache__\\__init__.cpython-312.pyc",
+      "bytes": 15593,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\yaml\\__pycache__\\composer.cpython-312.pyc",
+      "bytes": 6524,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\yaml\\__pycache__\\constructor.cpython-312.pyc",
+      "bytes": 34846,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\yaml\\__pycache__\\cyaml.cpython-312.pyc",
+      "bytes": 4625,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\yaml\\__pycache__\\dumper.cpython-312.pyc",
+      "bytes": 2461,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\yaml\\__pycache__\\emitter.cpython-312.pyc",
+      "bytes": 50108,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\yaml\\__pycache__\\error.cpython-312.pyc",
+      "bytes": 4267,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\yaml\\__pycache__\\events.cpython-312.pyc",
+      "bytes": 4715,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\yaml\\__pycache__\\loader.cpython-312.pyc",
+      "bytes": 3523,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\yaml\\__pycache__\\nodes.cpython-312.pyc",
+      "bytes": 2208,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\yaml\\__pycache__\\parser.cpython-312.pyc",
+      "bytes": 24703,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\yaml\\__pycache__\\reader.cpython-312.pyc",
+      "bytes": 8843,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\yaml\\__pycache__\\representer.cpython-312.pyc",
+      "bytes": 16897,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\yaml\\__pycache__\\resolver.cpython-312.pyc",
+      "bytes": 9024,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\yaml\\__pycache__\\scanner.cpython-312.pyc",
+      "bytes": 49824,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\yaml\\__pycache__\\serializer.cpython-312.pyc",
+      "bytes": 6178,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\yaml\\__pycache__\\tokens.cpython-312.pyc",
+      "bytes": 5782,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\_yaml\\__init__.py",
+      "bytes": 1402,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\validation-deps\\_yaml\\__pycache__\\__init__.cpython-312.pyc",
+      "bytes": 861,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\下午分享说明图-20261103\\导演构思与拉片-下午分享包.zip",
+      "bytes": 1364015,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\下午分享说明图-20261103\\分享入口.html",
+      "bytes": 2222,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\下午分享说明图-20261103\\零基础使用指南.md",
+      "bytes": 11019,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\下午分享说明图-20261103\\生成说明图.py",
+      "bytes": 15352,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\下午分享说明图-20261103\\说明图01-怎么使用.png",
+      "bytes": 651120,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\下午分享说明图-20261103\\说明图02-父女案例.png",
+      "bytes": 754923,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\下午分享说明图-20261103\\文件核验.json",
+      "bytes": 424,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\下午分享说明图-20261103\\验收记录.md",
+      "bytes": 1452,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\下午分享说明图-20261103\\制作大纲.md",
+      "bytes": 810,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\下午分享说明图-20261103\\Skill-v1.1.zip",
+      "bytes": 6477,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\完整分享包-20261103\\查看安装使用删除说明.txt",
+      "bytes": 4729,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\完整分享包-20261103\\打包核验.json",
+      "bytes": 428,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\完整分享包-20261103\\零基础使用指南.md",
+      "bytes": 11019,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\完整分享包-20261103\\说明图01-怎么使用.png",
+      "bytes": 651120,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\完整分享包-20261103\\说明图02-父女案例.png",
+      "bytes": 754923,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\完整分享包-20261103\\先打开我.html",
+      "bytes": 18408,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\导演构思与拉片Skill分享-20261102\\完整分享包-20261103\\Skill-v1.1.zip",
+      "bytes": 6477,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\保存与证据核对.json",
+      "bytes": 945,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\关键段加密.py",
+      "bytes": 1803,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\核对证据.py",
+      "bytes": 1816,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\取样与证据.py",
+      "bytes": 2491,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\视频来源与取样.json",
+      "bytes": 5249,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\图1-清新光质感-用户附件.png",
+      "bytes": 571018,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\图2-精致细腻-用户附件.png",
+      "bytes": 891254,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\原发布7699432287934434595.mp4",
+      "bytes": 11364114,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\关键段加密\\dense001.jpg",
+      "bytes": 82794,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\关键段加密\\dense002.jpg",
+      "bytes": 67165,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\关键段加密\\dense003.jpg",
+      "bytes": 64421,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\关键段加密\\dense004.jpg",
+      "bytes": 64310,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\关键段加密\\dense005.jpg",
+      "bytes": 59864,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\关键段加密\\dense006.jpg",
+      "bytes": 66316,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\关键段加密\\dense007.jpg",
+      "bytes": 69152,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\关键段加密\\dense008.jpg",
+      "bytes": 67366,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\关键段加密\\dense009.jpg",
+      "bytes": 63058,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\关键段加密\\dense010.jpg",
+      "bytes": 62736,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\关键段加密\\dense011.jpg",
+      "bytes": 66012,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\关键段加密\\dense012.jpg",
+      "bytes": 44663,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\关键段加密\\dense013.jpg",
+      "bytes": 48449,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\关键段加密\\dense014.jpg",
+      "bytes": 51662,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\关键段加密\\dense015.jpg",
+      "bytes": 51231,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\关键段加密\\dense016.jpg",
+      "bytes": 43185,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\关键段加密\\dense017.jpg",
+      "bytes": 43609,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\关键段加密\\dense018.jpg",
+      "bytes": 42973,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\关键段加密\\dense019.jpg",
+      "bytes": 44116,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\关键段加密\\dense020.jpg",
+      "bytes": 42388,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\关键段加密\\dense021.jpg",
+      "bytes": 39618,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\关键段加密\\dense022.jpg",
+      "bytes": 40207,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\关键段加密\\dense023.jpg",
+      "bytes": 41747,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\关键段加密\\dense024.jpg",
+      "bytes": 46137,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\关键段加密\\dense025.jpg",
+      "bytes": 45542,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\关键段加密\\dense026.jpg",
+      "bytes": 39454,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\关键段加密\\dense027.jpg",
+      "bytes": 43149,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\关键段加密\\dense028.jpg",
+      "bytes": 46478,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\关键段加密\\dense029.jpg",
+      "bytes": 49006,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\关键段加密\\dense030.jpg",
+      "bytes": 41864,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\关键段加密\\dense031.jpg",
+      "bytes": 35581,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\关键段加密\\dense032.jpg",
+      "bytes": 71638,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\关键段加密\\dense033.jpg",
+      "bytes": 75133,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\关键段加密\\dense034.jpg",
+      "bytes": 68802,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\关键段加密\\dense035.jpg",
+      "bytes": 67886,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\关键段加密\\dense036.jpg",
+      "bytes": 67218,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\关键段加密\\dense037.jpg",
+      "bytes": 66531,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\关键段加密\\dense038.jpg",
+      "bytes": 65199,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\关键段加密\\dense039.jpg",
+      "bytes": 57928,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\关键段加密\\dense040.jpg",
+      "bytes": 51967,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\关键段加密\\dense041.jpg",
+      "bytes": 52558,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\关键段加密\\dense042.jpg",
+      "bytes": 55375,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\关键段加密\\dense043.jpg",
+      "bytes": 56489,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\关键段加密\\dense044.jpg",
+      "bytes": 50939,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\关键段加密\\dense045.jpg",
+      "bytes": 53621,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\关键段加密\\dense046.jpg",
+      "bytes": 54944,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\关键段加密\\dense047.jpg",
+      "bytes": 62121,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\关键段加密\\dense048.jpg",
+      "bytes": 60591,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\关键段加密\\dense049.jpg",
+      "bytes": 48199,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\关键段加密\\dense050.jpg",
+      "bytes": 53939,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\关键段加密\\dense051.jpg",
+      "bytes": 50125,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\关键段加密\\denseboard01.jpg",
+      "bytes": 498122,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\关键段加密\\denseboard02.jpg",
+      "bytes": 380759,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\关键段加密\\denseboard03.jpg",
+      "bytes": 432310,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\关键段加密\\denseboard04.jpg",
+      "bytes": 451263,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\关键段加密\\denseboard05.jpg",
+      "bytes": 106414,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\关键段加密\\source-pts.json",
+      "bytes": 1446,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\视频取样\\board01.jpg",
+      "bytes": 334667,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\视频取样\\board02.jpg",
+      "bytes": 275254,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\视频取样\\board03.jpg",
+      "bytes": 319012,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\视频取样\\board04.jpg",
+      "bytes": 307772,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\视频取样\\board05.jpg",
+      "bytes": 375271,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\视频取样\\board06.jpg",
+      "bytes": 394752,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\视频取样\\board07.jpg",
+      "bytes": 150881,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\视频取样\\sample001.jpg",
+      "bytes": 133927,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\视频取样\\sample002.jpg",
+      "bytes": 108556,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\视频取样\\sample003.jpg",
+      "bytes": 108131,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\视频取样\\sample004.jpg",
+      "bytes": 97513,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\视频取样\\sample005.jpg",
+      "bytes": 92709,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\视频取样\\sample006.jpg",
+      "bytes": 100202,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\视频取样\\sample007.jpg",
+      "bytes": 70797,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\视频取样\\sample008.jpg",
+      "bytes": 58788,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\视频取样\\sample009.jpg",
+      "bytes": 50934,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\视频取样\\sample010.jpg",
+      "bytes": 50524,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\视频取样\\sample011.jpg",
+      "bytes": 68621,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\视频取样\\sample012.jpg",
+      "bytes": 86266,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\视频取样\\sample013.jpg",
+      "bytes": 81627,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\视频取样\\sample014.jpg",
+      "bytes": 72982,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\视频取样\\sample015.jpg",
+      "bytes": 70548,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\视频取样\\sample016.jpg",
+      "bytes": 76903,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\视频取样\\sample017.jpg",
+      "bytes": 66297,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\视频取样\\sample018.jpg",
+      "bytes": 67910,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\视频取样\\sample019.jpg",
+      "bytes": 78895,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\视频取样\\sample020.jpg",
+      "bytes": 68540,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\视频取样\\sample021.jpg",
+      "bytes": 62663,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\视频取样\\sample022.jpg",
+      "bytes": 90296,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\视频取样\\sample023.jpg",
+      "bytes": 89120,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\视频取样\\sample024.jpg",
+      "bytes": 88147,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\视频取样\\sample025.jpg",
+      "bytes": 119025,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\视频取样\\sample026.jpg",
+      "bytes": 110837,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\视频取样\\sample027.jpg",
+      "bytes": 93398,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\视频取样\\sample028.jpg",
+      "bytes": 102466,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\视频取样\\sample029.jpg",
+      "bytes": 82120,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\视频取样\\sample030.jpg",
+      "bytes": 84267,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\视频取样\\sample031.jpg",
+      "bytes": 77702,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\视频取样\\sample032.jpg",
+      "bytes": 83960,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\视频取样\\sample033.jpg",
+      "bytes": 81422,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\视频取样\\sample034.jpg",
+      "bytes": 69479,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\视频取样\\sample035.jpg",
+      "bytes": 61100,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\视频取样\\sample036.jpg",
+      "bytes": 72999,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\视频取样\\sample037.jpg",
+      "bytes": 113265,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\视频取样\\sample038.jpg",
+      "bytes": 110634,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\视频取样\\sample039.jpg",
+      "bytes": 116510,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\视频取样\\sample040.jpg",
+      "bytes": 112727,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\视频取样\\sample041.jpg",
+      "bytes": 108599,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\视频取样\\sample042.jpg",
+      "bytes": 102799,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\视频取样\\sample043.jpg",
+      "bytes": 108727,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\视频取样\\sample044.jpg",
+      "bytes": 124423,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\视频取样\\sample045.jpg",
+      "bytes": 77231,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\视频取样\\sample046.jpg",
+      "bytes": 78567,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\视频取样\\sample047.jpg",
+      "bytes": 86914,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\视频取样\\sample048.jpg",
+      "bytes": 92601,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\视频取样\\sample049.jpg",
+      "bytes": 85207,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\视频取样\\sample050.jpg",
+      "bytes": 145734,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\视频取样\\sample051.jpg",
+      "bytes": 157886,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\视频取样\\sample052.jpg",
+      "bytes": 134253,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\视频取样\\sample053.jpg",
+      "bytes": 130777,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\视频取样\\sample054.jpg",
+      "bytes": 134575,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\视频取样\\sample055.jpg",
+      "bytes": 139341,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\视频取样\\sample056.jpg",
+      "bytes": 137473,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\视频取样\\sample057.jpg",
+      "bytes": 131099,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\审美参考第二轮-20261106\\材料台账.json",
+      "bytes": 17006,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\审美参考第二轮-20261106\\第二轮画布-初查.png",
+      "bytes": 534480,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\审美参考第二轮-20261106\\第二轮画布-验收.png",
+      "bytes": 698098,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\审美参考第二轮-20261106\\更新参考体系.py",
+      "bytes": 10122,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\审美参考第二轮-20261106\\更新回执.json",
+      "bytes": 2870,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\审美参考第二轮-20261106\\核对与调整.py",
+      "bytes": 4410,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\审美参考第二轮-20261106\\收录材料.py",
+      "bytes": 4504,
+      "reason": "本批以研究和流程为主；此素材、脚本或交付原件留原位",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\审美参考第二轮-20261106\\更新前备份\\参考体系.canvas",
+      "bytes": 2931,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\审美参考第二轮-20261106\\更新前备份\\00-入口与约定\\工作台.md",
+      "bytes": 1221,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\审美参考第二轮-20261106\\更新前备份\\01-参考库\\参考缺口.md",
+      "bytes": 604,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\审美参考第二轮-20261106\\更新前备份\\01-参考库\\用途索引.md",
+      "bytes": 833,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    },
+    {
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\审美参考第二轮-20261106\\更新前备份\\02-项目\\海的背面\\第二轮细节限定.md",
+      "bytes": 947,
+      "reason": "完整聊天证据、第三方全文、依赖或重复备份未纳入本次筛选",
+      "status": "未复制，本机原位保留"
+    }
+  ]
+}

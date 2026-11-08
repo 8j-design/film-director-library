@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-08",
+  "copy_hashes": "90/90源与副本SHA-256相同",
+  "canvas_checks": [
+    {
+      "canvas": "参考体系.canvas",
+      "file_nodes": 12,
+      "missing_files": 0,
+      "invalid_edges": 0
+    },
+    {
+      "canvas": "海的背面-创作循环.canvas",
+      "file_nodes": 10,
+      "missing_files": 0,
+      "invalid_edges": 0
+    },
+    {
+      "canvas": "审美参考第二轮.canvas",
+      "file_nodes": 22,
+      "missing_files": 0,
+      "invalid_edges": 0
+    }
+  ],
+  "ui_retested": false,
+  "note": "仅文件结构核验；历史界面验收不是本次应用实测"
+}

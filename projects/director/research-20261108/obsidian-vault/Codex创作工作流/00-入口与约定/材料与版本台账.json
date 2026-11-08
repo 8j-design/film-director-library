@@ -1,0 +1,112 @@
+{
+  "vault_root": "C:\\设计画布【不可动】",
+  "project_folder": "C:\\设计画布【不可动】\\Codex创作工作流",
+  "manifest": [
+    {
+      "id": "REF001",
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\图1-清新光质感-用户附件.png",
+      "vault_file": "Codex创作工作流/03-媒体/参考/REF001-清新光感.png",
+      "sha256": "3ef101a60059b2c51ebc2f6216c9d451fd384c6b8a3a2be783eb77baa4ee45bd",
+      "bytes": 571018,
+      "role": "immutable imported snapshot or media; current interpretation is maintained in reference/project cards"
+    },
+    {
+      "id": "REF002",
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\图2-精致细腻-用户附件.png",
+      "vault_file": "Codex创作工作流/03-媒体/参考/REF002-细腻材质.png",
+      "sha256": "aae3d5fed74e2915acceb56a233300ee7425cdedf6712040ab849b9c2d12f9a1",
+      "bytes": 891254,
+      "role": "immutable imported snapshot or media; current interpretation is maintained in reference/project cards"
+    },
+    {
+      "id": "REF003",
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\本地参考\\视频取样\\sample001.jpg",
+      "vault_file": "Codex创作工作流/03-媒体/参考/REF003-海边CG-源0秒.jpg",
+      "sha256": "bb537c230eae197bd04bb2fc2b91b199c04986771b28253e3955eac271fe5ef5",
+      "bytes": 133927,
+      "role": "immutable imported snapshot or media; current interpretation is maintained in reference/project cards"
+    },
+    {
+      "id": "REF004",
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\首个图像作品方向建议-20261105\\氛围参考\\用户参考01-海边逆光.png",
+      "vault_file": "Codex创作工作流/03-媒体/参考/REF004-海边逆光.png",
+      "sha256": "66d10eaf4eb21efd94d6ea5ada0a63620e2f931199acd562bde22e598dc5b2b2",
+      "bytes": 636796,
+      "role": "immutable imported snapshot or media; current interpretation is maintained in reference/project cards"
+    },
+    {
+      "id": "OUT001",
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\首个图像作品方向建议-20261105\\首轮结果\\用户选中-第一张.png",
+      "vault_file": "Codex创作工作流/03-媒体/结果/OUT001-海的背面首轮.png",
+      "sha256": "ce4bc4c11d67c237b491f6d2ff2e65b4f9d1747e7f49f8dadd850de27ef0d583",
+      "bytes": 1902111,
+      "role": "immutable imported snapshot or media; current interpretation is maintained in reference/project cards"
+    },
+    {
+      "id": "PROMPT-V1",
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\首个图像作品方向建议-20261105\\海的背面-单幅提示词-V1.md",
+      "vault_file": "Codex创作工作流/02-项目/海的背面/历史/V1-提示词.md",
+      "sha256": "59510a0d2c0e6f7bd57fd561115132f648a86779517e2d3dfec001776eefd5eb",
+      "bytes": 3517,
+      "role": "immutable imported snapshot or media; current interpretation is maintained in reference/project cards"
+    },
+    {
+      "id": "ANALYSIS-V1",
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\首个图像作品方向建议-20261105\\海的背面-单幅画面分析与限定.md",
+      "vault_file": "Codex创作工作流/02-项目/海的背面/历史/第一轮画面分析.md",
+      "sha256": "9536d172bfd7ec17040d7eef0a361e0bc3542eed52a104e88dfa7516579f248d",
+      "bytes": 6476,
+      "role": "immutable imported snapshot or media; current interpretation is maintained in reference/project cards"
+    },
+    {
+      "id": "REVIEW-V1",
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\首个图像作品方向建议-20261105\\海的背面-首轮结果反思.md",
+      "vault_file": "Codex创作工作流/02-项目/海的背面/历史/V1-结果复看.md",
+      "sha256": "b49fe4c640f0c2d464a65c9b8cea1d7f403bb55d2729159bf9c78a75cb1e2e29",
+      "bytes": 4294,
+      "role": "immutable imported snapshot or media; current interpretation is maintained in reference/project cards"
+    },
+    {
+      "id": "STUDY-20261106",
+      "source": "C:\\Users\\scvfv\\Documents\\ChatGPT\\导演\\新工作\\动画3D审美参考分析-20261106\\审美分析报告.md",
+      "vault_file": "Codex创作工作流/01-参考库/研究档案/20261106-审美分析报告.md",
+      "sha256": "b6fb4549074474af94d2e5da6b9e19ce2918f6fcf483518cfac6556da238316d",
+      "bytes": 17716,
+      "role": "immutable imported snapshot or media; current interpretation is maintained in reference/project cards"
+    }
+  ],
+  "new_note_count": 14,
+  "graphs": [
+    {
+      "canvas": "参考体系.canvas",
+      "nodes": 16,
+      "edges": 6,
+      "missing_files": [],
+      "render_verified": true
+    },
+    {
+      "canvas": "海的背面-创作循环.canvas",
+      "nodes": 11,
+      "edges": 8,
+      "missing_files": [],
+      "render_verified": true
+    }
+  ],
+  "scheduled_automation_created": false,
+  "midjourney_submission": false,
+  "plugin_connected": false,
+  "stage_checkpoint_policy": "active work only; not background execution",
+  "all_import_hashes_match": true,
+  "wikilinks_checked": 33,
+  "missing_wikilinks": [],
+  "native_readback_verified": true,
+  "reference_images_and_cards_visually_checked": true,
+  "workflow_output_and_links_visually_checked": true,
+  "screenshots": [
+    "参考体系-界面验收.png",
+    "创作循环-界面验收.png"
+  ],
+  "background_daemon_created": false,
+  "new_generated_images": 0,
+  "git_remote_sync_performed": false
+}

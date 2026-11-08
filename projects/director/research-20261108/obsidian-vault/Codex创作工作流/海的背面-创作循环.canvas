@@ -1,0 +1,169 @@
+{
+  "nodes": [
+    {
+      "id": "title",
+      "type": "text",
+      "text": "海的背面｜参考 → 目标 → 分轮限定 → 提示词 → 用户生成 → 评图 → 回到需修改的一轮\nV1已有结果；新动画/3D细节与V2仍进行中。下面展示的是记录与对应关系，没有新生成任务。",
+      "x": 0,
+      "y": -220,
+      "width": 1940,
+      "height": 150
+    },
+    {
+      "id": "refs",
+      "type": "file",
+      "file": "Codex创作工作流/01-参考库/用途索引.md",
+      "x": 0,
+      "y": 0,
+      "width": 420,
+      "height": 310
+    },
+    {
+      "id": "goal",
+      "type": "file",
+      "file": "Codex创作工作流/02-项目/海的背面/创作目标.md",
+      "x": 500,
+      "y": 0,
+      "width": 420,
+      "height": 310
+    },
+    {
+      "id": "round1",
+      "type": "file",
+      "file": "Codex创作工作流/02-项目/海的背面/第一轮整体限定.md",
+      "x": 1000,
+      "y": 0,
+      "width": 420,
+      "height": 310
+    },
+    {
+      "id": "round2",
+      "type": "file",
+      "file": "Codex创作工作流/02-项目/海的背面/第二轮细节限定.md",
+      "x": 1500,
+      "y": 0,
+      "width": 440,
+      "height": 310
+    },
+    {
+      "id": "prompt",
+      "type": "file",
+      "file": "Codex创作工作流/02-项目/海的背面/提示词版本.md",
+      "x": 0,
+      "y": 480,
+      "width": 420,
+      "height": 360
+    },
+    {
+      "id": "output",
+      "type": "file",
+      "file": "Codex创作工作流/03-媒体/结果/OUT001-海的背面首轮.png",
+      "x": 500,
+      "y": 440,
+      "width": 520,
+      "height": 520
+    },
+    {
+      "id": "review",
+      "type": "file",
+      "file": "Codex创作工作流/02-项目/海的背面/评图与修订.md",
+      "x": 1120,
+      "y": 480,
+      "width": 420,
+      "height": 360
+    },
+    {
+      "id": "next",
+      "type": "file",
+      "file": "Codex创作工作流/02-项目/海的背面/下一轮计划.md",
+      "x": 1620,
+      "y": 480,
+      "width": 420,
+      "height": 360
+    },
+    {
+      "id": "policy",
+      "type": "file",
+      "file": "Codex创作工作流/00-入口与约定/阶段入库与同步约定.md",
+      "x": 0,
+      "y": 1080,
+      "width": 620,
+      "height": 320
+    },
+    {
+      "id": "entry",
+      "type": "file",
+      "file": "Codex创作工作流/00-入口与约定/工作台.md",
+      "x": 740,
+      "y": 1080,
+      "width": 620,
+      "height": 320
+    }
+  ],
+  "edges": [
+    {
+      "id": "we1",
+      "fromNode": "refs",
+      "fromSide": "right",
+      "toNode": "goal",
+      "toSide": "left",
+      "label": "选择适用部分"
+    },
+    {
+      "id": "we2",
+      "fromNode": "goal",
+      "fromSide": "right",
+      "toNode": "round1",
+      "toSide": "left",
+      "label": "组织画面"
+    },
+    {
+      "id": "we3",
+      "fromNode": "round1",
+      "fromSide": "right",
+      "toNode": "round2",
+      "toSide": "left",
+      "label": "细化形象"
+    },
+    {
+      "id": "we4",
+      "fromNode": "round2",
+      "fromSide": "bottom",
+      "toNode": "prompt",
+      "toSide": "top",
+      "label": "定稿后再整合"
+    },
+    {
+      "id": "we5",
+      "fromNode": "prompt",
+      "fromSide": "right",
+      "toNode": "output",
+      "toSide": "left",
+      "label": "V1 用户生成后选图"
+    },
+    {
+      "id": "we6",
+      "fromNode": "output",
+      "fromSide": "right",
+      "toNode": "review",
+      "toSide": "left",
+      "label": "实际看图"
+    },
+    {
+      "id": "we7",
+      "fromNode": "review",
+      "fromSide": "right",
+      "toNode": "next",
+      "toSide": "left",
+      "label": "保留与修正"
+    },
+    {
+      "id": "we8",
+      "fromNode": "next",
+      "fromSide": "top",
+      "toNode": "round2",
+      "toSide": "bottom",
+      "label": "下一轮反馈"
+    }
+  ]
+}

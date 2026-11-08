@@ -1,0 +1,348 @@
+{
+  "batch": "B02-20261106",
+  "scope": "当前聊天本轮全部21附件，不代表全部历史资料",
+  "attachment_count": 21,
+  "unique_local_files": 20,
+  "unique_artwork_images": 19,
+  "context_images": 1,
+  "duplicate_attachments": 1,
+  "case_count": 15,
+  "items": [
+    {
+      "attachment": "B02-01",
+      "source": "C:\\Users\\scvfv\\AppData\\Local\\Temp\\codex-clipboard-5e91a9ae-dc02-4043-beb5-b325cc8a1490.png",
+      "case": "context",
+      "label": "上下文-旧参考缺口截图",
+      "user_statement_summary": "不作为审美作品",
+      "local_file": "C:\\设计画布【不可动】\\Codex创作工作流\\03-媒体\\参考\\第二轮-20261106\\B02-01-上下文-旧参考缺口截图.png",
+      "vault_file": "Codex创作工作流/03-媒体/参考/第二轮-20261106/B02-01-上下文-旧参考缺口截图.png",
+      "sha256": "264300457885b741f41b87f0ed9b5114270bd4d0ef21e1ae51829421776104c4",
+      "dimensions": [
+        623,
+        594
+      ],
+      "duplicate_of": null,
+      "classification": "context"
+    },
+    {
+      "attachment": "B02-02",
+      "source": "C:\\Users\\scvfv\\AppData\\Local\\Temp\\codex-clipboard-2f77f407-4f4b-4ec3-8c7e-8b80820ba826.png",
+      "case": "C01",
+      "label": "场景-粉暖云海列车",
+      "user_statement_summary": "喜欢场景留白与协调色调，不限定列车",
+      "local_file": "C:\\设计画布【不可动】\\Codex创作工作流\\03-媒体\\参考\\第二轮-20261106\\B02-02-场景-粉暖云海列车.png",
+      "vault_file": "Codex创作工作流/03-媒体/参考/第二轮-20261106/B02-02-场景-粉暖云海列车.png",
+      "sha256": "4eea3e4ca4f6d8572c1dd3b45dabb0d6ab786a9a4690072d38433248b05059fb",
+      "dimensions": [
+        1200,
+        2140
+      ],
+      "duplicate_of": null,
+      "classification": "positive"
+    },
+    {
+      "attachment": "B02-03",
+      "source": "C:\\Users\\scvfv\\AppData\\Local\\Temp\\codex-clipboard-8dd79eae-2356-4721-af1d-ccb54a0f39eb.png",
+      "case": "C02",
+      "label": "场景-蓝绿海边道口",
+      "user_statement_summary": "喜欢场景色调与美术；保留原图横置方向",
+      "local_file": "C:\\设计画布【不可动】\\Codex创作工作流\\03-媒体\\参考\\第二轮-20261106\\B02-03-场景-蓝绿海边道口.png",
+      "vault_file": "Codex创作工作流/03-媒体/参考/第二轮-20261106/B02-03-场景-蓝绿海边道口.png",
+      "sha256": "eecad6bb4e81f27a508c10e9cb7bf662c1bbb0e5b4d56b63f0eba28bfd8e2e4a",
+      "dimensions": [
+        736,
+        1472
+      ],
+      "duplicate_of": null,
+      "classification": "positive"
+    },
+    {
+      "attachment": "B02-04",
+      "source": "C:\\Users\\scvfv\\AppData\\Local\\Temp\\codex-clipboard-a0ad0bf1-3265-4a0b-ac60-b6cbd886f7b2.png",
+      "case": "C03",
+      "label": "皮肤-暖光眼部特写",
+      "user_statement_summary": "喜欢皮肤质感与配色，细节有疏密",
+      "local_file": "C:\\设计画布【不可动】\\Codex创作工作流\\03-媒体\\参考\\第二轮-20261106\\B02-04-皮肤-暖光眼部特写.png",
+      "vault_file": "Codex创作工作流/03-媒体/参考/第二轮-20261106/B02-04-皮肤-暖光眼部特写.png",
+      "sha256": "7634a95d382f65005a85397a36cc373560045d99f77353de94f7286ba9216d0e",
+      "dimensions": [
+        720,
+        1280
+      ],
+      "duplicate_of": null,
+      "classification": "positive"
+    },
+    {
+      "attachment": "B02-05",
+      "source": "C:\\Users\\scvfv\\AppData\\Local\\Temp\\codex-clipboard-ce20f4c2-15dc-4ee8-9094-f5e06eceacf3.png",
+      "case": "C04",
+      "label": "配色-青绿侧脸",
+      "user_statement_summary": "喜欢柔和协调的非自然肤色关系",
+      "local_file": "C:\\设计画布【不可动】\\Codex创作工作流\\03-媒体\\参考\\第二轮-20261106\\B02-05-配色-青绿侧脸.png",
+      "vault_file": "Codex创作工作流/03-媒体/参考/第二轮-20261106/B02-05-配色-青绿侧脸.png",
+      "sha256": "7ecf01ba8c12493fcaf6051b176cd5515bb093f734e7d9f286531df80be5668a",
+      "dimensions": [
+        736,
+        1472
+      ],
+      "duplicate_of": null,
+      "classification": "positive"
+    },
+    {
+      "attachment": "B02-06",
+      "source": "C:\\Users\\scvfv\\AppData\\Local\\Temp\\codex-clipboard-d741cfd2-387d-421e-bde9-12364f867948.png",
+      "case": "C03",
+      "label": "皮肤-暖光眼部特写重复",
+      "user_statement_summary": "同一参考再次附图，需按哈希核对",
+      "local_file": "C:\\设计画布【不可动】\\Codex创作工作流\\03-媒体\\参考\\第二轮-20261106\\B02-04-皮肤-暖光眼部特写.png",
+      "vault_file": "Codex创作工作流/03-媒体/参考/第二轮-20261106/B02-04-皮肤-暖光眼部特写.png",
+      "sha256": "7634a95d382f65005a85397a36cc373560045d99f77353de94f7286ba9216d0e",
+      "dimensions": [
+        720,
+        1280
+      ],
+      "duplicate_of": "B02-04",
+      "classification": "positive"
+    },
+    {
+      "attachment": "B02-07",
+      "source": "C:\\Users\\scvfv\\AppData\\Local\\Temp\\codex-clipboard-bb2f87da-43c5-40dd-9a96-d1d81a5cc999.png",
+      "case": "C05",
+      "label": "活人感-蓝天下眼镜近脸",
+      "user_statement_summary": "喜欢整体活人感",
+      "local_file": "C:\\设计画布【不可动】\\Codex创作工作流\\03-媒体\\参考\\第二轮-20261106\\B02-07-活人感-蓝天下眼镜近脸.png",
+      "vault_file": "Codex创作工作流/03-媒体/参考/第二轮-20261106/B02-07-活人感-蓝天下眼镜近脸.png",
+      "sha256": "f43a0d4fcdd7b398d84aa2d184e43a6c4e5bdc7812e67f98951c38c2ed4b79e8",
+      "dimensions": [
+        736,
+        1308
+      ],
+      "duplicate_of": null,
+      "classification": "positive"
+    },
+    {
+      "attachment": "B02-08",
+      "source": "C:\\Users\\scvfv\\AppData\\Local\\Temp\\codex-clipboard-87a5d1da-520c-4edd-b93b-6aaef716a9f0.png",
+      "case": "C06",
+      "label": "活人感-扶眼镜近脸",
+      "user_statement_summary": "喜欢整体活人感",
+      "local_file": "C:\\设计画布【不可动】\\Codex创作工作流\\03-媒体\\参考\\第二轮-20261106\\B02-08-活人感-扶眼镜近脸.png",
+      "vault_file": "Codex创作工作流/03-媒体/参考/第二轮-20261106/B02-08-活人感-扶眼镜近脸.png",
+      "sha256": "abea4331a4e8a45f88c941aee2f1979533acc2116ed8d6b8e7f66c1327b7c09c",
+      "dimensions": [
+        675,
+        1200
+      ],
+      "duplicate_of": null,
+      "classification": "positive"
+    },
+    {
+      "attachment": "B02-09",
+      "source": "C:\\Users\\scvfv\\AppData\\Local\\Temp\\codex-clipboard-fea2164e-30ff-4306-ab17-4e85ecc8a302.png",
+      "case": "C07",
+      "label": "角色-粉帽条纹近景",
+      "user_statement_summary": "整体元素共同传达性格气质",
+      "local_file": "C:\\设计画布【不可动】\\Codex创作工作流\\03-媒体\\参考\\第二轮-20261106\\B02-09-角色-粉帽条纹近景.png",
+      "vault_file": "Codex创作工作流/03-媒体/参考/第二轮-20261106/B02-09-角色-粉帽条纹近景.png",
+      "sha256": "c5d9d05797ab2963546da5177aa2dd2f16363ddcea3be79bb6be8285b4ebdcff",
+      "dimensions": [
+        675,
+        1200
+      ],
+      "duplicate_of": null,
+      "classification": "positive"
+    },
+    {
+      "attachment": "B02-10",
+      "source": "C:\\Users\\scvfv\\AppData\\Local\\Temp\\codex-clipboard-362a5ff3-12b1-43c8-8d9f-f5141a961be9.png",
+      "case": "C07",
+      "label": "角色-粉帽绿裤坐姿",
+      "user_statement_summary": "同一设计全身和姿态补充",
+      "local_file": "C:\\设计画布【不可动】\\Codex创作工作流\\03-媒体\\参考\\第二轮-20261106\\B02-10-角色-粉帽绿裤坐姿.png",
+      "vault_file": "Codex创作工作流/03-媒体/参考/第二轮-20261106/B02-10-角色-粉帽绿裤坐姿.png",
+      "sha256": "d6e74a927223910dab658079609579ee4b9afaf05822f9ecfe2cd861c23a5a78",
+      "dimensions": [
+        675,
+        1200
+      ],
+      "duplicate_of": null,
+      "classification": "positive"
+    },
+    {
+      "attachment": "B02-11",
+      "source": "C:\\Users\\scvfv\\AppData\\Local\\Temp\\codex-clipboard-8d4c91d8-3943-4437-b80b-cc35244bb821.png",
+      "case": "C08",
+      "label": "角色-窗边冰棒粉发",
+      "user_statement_summary": "整体元素共同传达性格气质",
+      "local_file": "C:\\设计画布【不可动】\\Codex创作工作流\\03-媒体\\参考\\第二轮-20261106\\B02-11-角色-窗边冰棒粉发.png",
+      "vault_file": "Codex创作工作流/03-媒体/参考/第二轮-20261106/B02-11-角色-窗边冰棒粉发.png",
+      "sha256": "f1d24d5d980c31ea85310841687ed1ebd87768c27b03aad413663dbf8678dae3",
+      "dimensions": [
+        736,
+        920
+      ],
+      "duplicate_of": null,
+      "classification": "positive"
+    },
+    {
+      "attachment": "B02-12",
+      "source": "C:\\Users\\scvfv\\AppData\\Local\\Temp\\codex-clipboard-150426a6-9c1d-4877-86a0-7ec5696811bc.png",
+      "case": "C09",
+      "label": "角色-兽耳帽工具箱全身",
+      "user_statement_summary": "整体设计，不能凭图确定官方身份",
+      "local_file": "C:\\设计画布【不可动】\\Codex创作工作流\\03-媒体\\参考\\第二轮-20261106\\B02-12-角色-兽耳帽工具箱全身.png",
+      "vault_file": "Codex创作工作流/03-媒体/参考/第二轮-20261106/B02-12-角色-兽耳帽工具箱全身.png",
+      "sha256": "d65cbaf4bd09fc807c6c55980608d9d89a55569cd9cdd41e925d1e0c90cab960",
+      "dimensions": [
+        1600,
+        2263
+      ],
+      "duplicate_of": null,
+      "classification": "positive"
+    },
+    {
+      "attachment": "B02-13",
+      "source": "C:\\Users\\scvfv\\AppData\\Local\\Temp\\codex-clipboard-fa60d417-f13e-4173-aed7-f73f35e47ba8.png",
+      "case": "C09",
+      "label": "角色-兽耳帽服饰局部",
+      "user_statement_summary": "同一设计局部补充",
+      "local_file": "C:\\设计画布【不可动】\\Codex创作工作流\\03-媒体\\参考\\第二轮-20261106\\B02-13-角色-兽耳帽服饰局部.png",
+      "vault_file": "Codex创作工作流/03-媒体/参考/第二轮-20261106/B02-13-角色-兽耳帽服饰局部.png",
+      "sha256": "c3456a1e46601227c955f9a2618980801443df9af8a23211f42dd7f59f227d97",
+      "dimensions": [
+        1300,
+        1839
+      ],
+      "duplicate_of": null,
+      "classification": "positive"
+    },
+    {
+      "attachment": "B02-14",
+      "source": "C:\\Users\\scvfv\\AppData\\Local\\Temp\\codex-clipboard-c2e56c48-ffb2-46ba-8c43-4a05e8f61709.png",
+      "case": "C10",
+      "label": "角色-彩色发辫多视角",
+      "user_statement_summary": "多视角为同一设计；不据图认定制作流程",
+      "local_file": "C:\\设计画布【不可动】\\Codex创作工作流\\03-媒体\\参考\\第二轮-20261106\\B02-14-角色-彩色发辫多视角.png",
+      "vault_file": "Codex创作工作流/03-媒体/参考/第二轮-20261106/B02-14-角色-彩色发辫多视角.png",
+      "sha256": "3b93efac71a0b86bf42a0071c91cc524266e23b86ca378a1c0dfd59c888330a0",
+      "dimensions": [
+        1920,
+        1167
+      ],
+      "duplicate_of": null,
+      "classification": "positive"
+    },
+    {
+      "attachment": "B02-15",
+      "source": "C:\\Users\\scvfv\\AppData\\Local\\Temp\\codex-clipboard-f3e9ef91-8cb9-472d-8a95-1769d422783f.png",
+      "case": "C11",
+      "label": "角色-青白装备全身",
+      "user_statement_summary": "整体设计",
+      "local_file": "C:\\设计画布【不可动】\\Codex创作工作流\\03-媒体\\参考\\第二轮-20261106\\B02-15-角色-青白装备全身.png",
+      "vault_file": "Codex创作工作流/03-媒体/参考/第二轮-20261106/B02-15-角色-青白装备全身.png",
+      "sha256": "60fad6f4cf2ebd7b65c5436f1015ab4ff48f2c7c2f98a5aee074eea0e67a26c4",
+      "dimensions": [
+        1920,
+        2477
+      ],
+      "duplicate_of": null,
+      "classification": "positive"
+    },
+    {
+      "attachment": "B02-16",
+      "source": "C:\\Users\\scvfv\\AppData\\Local\\Temp\\codex-clipboard-3a24d14e-8f78-4ced-8949-e09065123719.png",
+      "case": "C11",
+      "label": "角色-头盔动作半身",
+      "user_statement_summary": "相同视觉角色系列；不宣称官方连续设定",
+      "local_file": "C:\\设计画布【不可动】\\Codex创作工作流\\03-媒体\\参考\\第二轮-20261106\\B02-16-角色-头盔动作半身.png",
+      "vault_file": "Codex创作工作流/03-媒体/参考/第二轮-20261106/B02-16-角色-头盔动作半身.png",
+      "sha256": "336ae1f868212f3d171cb17e7d806ab52fb38c1ecb3fec9b35a57b79a9f16bc8",
+      "dimensions": [
+        1920,
+        2426
+      ],
+      "duplicate_of": null,
+      "classification": "positive"
+    },
+    {
+      "attachment": "B02-17",
+      "source": "C:\\Users\\scvfv\\AppData\\Local\\Temp\\codex-clipboard-4be354a2-2431-4e90-a6e4-333706b26752.png",
+      "case": "C11",
+      "label": "角色-日常制服与背包",
+      "user_statement_summary": "同系列脸型与配色线索，身份关系仅视觉推断",
+      "local_file": "C:\\设计画布【不可动】\\Codex创作工作流\\03-媒体\\参考\\第二轮-20261106\\B02-17-角色-日常制服与背包.png",
+      "vault_file": "Codex创作工作流/03-媒体/参考/第二轮-20261106/B02-17-角色-日常制服与背包.png",
+      "sha256": "3dccd12ad2b90e4c2a38bc89aabdfcdf97da0c8b6c626e4c3330677720b71e39",
+      "dimensions": [
+        1920,
+        1953
+      ],
+      "duplicate_of": null,
+      "classification": "positive"
+    },
+    {
+      "attachment": "B02-18",
+      "source": "C:\\Users\\scvfv\\AppData\\Local\\Temp\\codex-clipboard-4d1030dd-19e3-4977-9590-e92ec402fddd.png",
+      "case": "C12",
+      "label": "反例-浅发蓝眼近脸",
+      "user_statement_summary": "用户不喜欢面貌趋同与记忆点不足",
+      "local_file": "C:\\设计画布【不可动】\\Codex创作工作流\\03-媒体\\参考\\第二轮-20261106\\B02-18-反例-浅发蓝眼近脸.png",
+      "vault_file": "Codex创作工作流/03-媒体/参考/第二轮-20261106/B02-18-反例-浅发蓝眼近脸.png",
+      "sha256": "cabfc6db9c8f2e4d4448e8efbf4f4d8c43e5895abc7e81e940551afb4f0f1023",
+      "dimensions": [
+        736,
+        1308
+      ],
+      "duplicate_of": null,
+      "classification": "negative"
+    },
+    {
+      "attachment": "B02-19",
+      "source": "C:\\Users\\scvfv\\AppData\\Local\\Temp\\codex-clipboard-e6f0c220-068d-4bbc-a102-05061f5bf363.png",
+      "case": "C13",
+      "label": "反例-黑发齐刘海近脸",
+      "user_statement_summary": "用户感到设计目的不清，不等于刘海禁用",
+      "local_file": "C:\\设计画布【不可动】\\Codex创作工作流\\03-媒体\\参考\\第二轮-20261106\\B02-19-反例-黑发齐刘海近脸.png",
+      "vault_file": "Codex创作工作流/03-媒体/参考/第二轮-20261106/B02-19-反例-黑发齐刘海近脸.png",
+      "sha256": "7cca072eb9286aebc2360d2c2e1475fb194482eca5afb9580ff66175d14c2afd",
+      "dimensions": [
+        736,
+        981
+      ],
+      "duplicate_of": null,
+      "classification": "negative"
+    },
+    {
+      "attachment": "B02-20",
+      "source": "C:\\Users\\scvfv\\AppData\\Local\\Temp\\codex-clipboard-dfaff84c-708b-4558-9b57-3d387de06048.png",
+      "case": "C14",
+      "label": "反例-过白肤色近脸",
+      "user_statement_summary": "用户感到肤色不自然，非所有白皮禁用",
+      "local_file": "C:\\设计画布【不可动】\\Codex创作工作流\\03-媒体\\参考\\第二轮-20261106\\B02-20-反例-过白肤色近脸.png",
+      "vault_file": "Codex创作工作流/03-媒体/参考/第二轮-20261106/B02-20-反例-过白肤色近脸.png",
+      "sha256": "b3abdb90b6f598e99a44d7b4557b1ca36ef058ad81bb97693fd10823185ab2cb",
+      "dimensions": [
+        736,
+        1308
+      ],
+      "duplicate_of": null,
+      "classification": "negative"
+    },
+    {
+      "attachment": "B02-21",
+      "source": "C:\\Users\\scvfv\\AppData\\Local\\Temp\\codex-clipboard-c66de2de-4226-49ac-b839-fe332416753d.png",
+      "case": "C15",
+      "label": "反例-珠光薄纱人物",
+      "user_statement_summary": "用户难以捕获元素的共同目的与记忆点",
+      "local_file": "C:\\设计画布【不可动】\\Codex创作工作流\\03-媒体\\参考\\第二轮-20261106\\B02-21-反例-珠光薄纱人物.png",
+      "vault_file": "Codex创作工作流/03-媒体/参考/第二轮-20261106/B02-21-反例-珠光薄纱人物.png",
+      "sha256": "c8b042b0fe8d06f9f09c5ef3bd21c620bc5b768a741b9cd169d99a1897939140",
+      "dimensions": [
+        378,
+        567
+      ],
+      "duplicate_of": null,
+      "classification": "negative"
+    }
+  ]
+}

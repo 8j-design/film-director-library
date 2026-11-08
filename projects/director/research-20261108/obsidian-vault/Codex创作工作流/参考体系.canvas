@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"gr1","type":"group","x":0,"y":0,"width":400,"height":830,"label":"REF001 清新光感"},
+		{"id":"gr2","type":"group","x":460,"y":0,"width":400,"height":830,"label":"REF002 精致材质"},
+		{"id":"gr3","type":"group","x":920,"y":0,"width":400,"height":830,"label":"REF003 视频观看关系"},
+		{"id":"gr4","type":"group","x":1380,"y":0,"width":400,"height":830,"label":"REF004 海边逆光"},
+		{"id":"title","type":"text","text":"参考体系｜前批4份参考保留，第二轮场景/人物/反例已接入\n先记录用户喜欢什么，再按具体创作选择用途；新角色与修补关系仍待确定。","x":0,"y":-220,"width":1780,"height":150},
+		{"id":"r1image","type":"file","file":"Codex创作工作流/03-媒体/参考/REF001-清新光感.png","x":100,"y":60,"width":186,"height":330},
+		{"id":"r1","type":"file","file":"Codex创作工作流/01-参考库/REF001-清新光感.md","x":20,"y":440,"width":360,"height":350},
+		{"id":"r2image","type":"file","file":"Codex创作工作流/03-媒体/参考/REF002-细腻材质.png","x":535,"y":60,"width":247,"height":330},
+		{"id":"gaps","type":"file","file":"Codex创作工作流/01-参考库/参考缺口.md","x":740,"y":960,"width":460,"height":350},
+		{"id":"r2","type":"file","file":"Codex创作工作流/01-参考库/REF002-细腻材质.md","x":480,"y":440,"width":360,"height":350},
+		{"id":"r3image","type":"file","file":"Codex创作工作流/03-媒体/参考/REF003-海边CG-源0秒.jpg","x":940,"y":60,"width":360,"height":203},
+		{"id":"r3","type":"file","file":"Codex创作工作流/01-参考库/REF003-海边CG观看关系.md","x":940,"y":440,"width":360,"height":350},
+		{"id":"r4image","type":"file","file":"Codex创作工作流/03-媒体/参考/REF004-海边逆光.png","x":1400,"y":60,"width":360,"height":195},
+		{"id":"r4","type":"file","file":"Codex创作工作流/01-参考库/REF004-海边逆光.md","x":1400,"y":440,"width":360,"height":350},
+		{"id":"roles","type":"file","file":"Codex创作工作流/01-参考库/用途索引.md","x":-230,"y":940,"width":660,"height":350},
+		{"id":"entry","type":"file","file":"Codex创作工作流/00-入口与约定/工作台.md","x":1260,"y":940,"width":500,"height":350},
+		{"id":"batch2entry","type":"file","file":"Codex创作工作流/01-参考库/第二轮-20261106/分析摘要.md","x":0,"y":1460,"width":920,"height":300}
+	],
+	"edges":[
+		{"id":"re0","fromNode":"r1","fromSide":"bottom","toNode":"roles","toSide":"top","label":"提供可选依据"},
+		{"id":"re1","fromNode":"r2","fromSide":"bottom","toNode":"roles","toSide":"top","label":"提供可选依据"},
+		{"id":"re2","fromNode":"r3","fromSide":"bottom","toNode":"roles","toSide":"top","label":"提供可选依据"},
+		{"id":"re3","fromNode":"r4","fromSide":"bottom","toNode":"roles","toSide":"top","label":"提供可选依据"},
+		{"id":"re4","fromNode":"roles","fromSide":"right","toNode":"gaps","toSide":"left","label":"暴露缺口"},
+		{"id":"re5","fromNode":"roles","fromSide":"bottom","toNode":"entry","toSide":"left","label":"转入具体创作"},
+		{"id":"batch2edge","fromNode":"roles","fromSide":"bottom","toNode":"batch2entry","toSide":"top","label":"补充场景、全身与反例"}
+	]
+}
