@@ -1,0 +1,12 @@
+{
+  "width": 840,
+  "height": 480,
+  "v1_v2_changed_pixels": 1211,
+  "v1_v2_all_changes_inside_dry_object": true,
+  "v2_v3_changed_pixels": 4887,
+  "v2_v3_all_changes_inside_reflection_band": true,
+  "v2_v3_unchanged_ripple_alpha": true,
+  "v3_v4_changed_pixels": 4887,
+  "v3_v4_only_color_changes_inside_same_reflection_band": true,
+  "audience_test": false
+}
