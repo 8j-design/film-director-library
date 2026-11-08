@@ -1,0 +1,53 @@
+{
+  "utc": "2026-11-08T08:30:12.823352+00:00",
+  "sources": {
+    "pepper_ep1": {
+      "url": "https://www.douyin.com/video/7632951529124793640",
+      "screenshot_brackets_s": [
+        [
+          889.750341,
+          893.381277
+        ],
+        [
+          893.581463,
+          899.135349
+        ],
+        [
+          899.312518,
+          903.190137
+        ]
+      ],
+      "player_pause_s": 905.203969,
+      "seek_stale_samples_excluded": true,
+      "audio": "not reviewed"
+    },
+    "m_up_p1": {
+      "url": "https://www.douyin.com/video/7627432146382163242",
+      "screenshot_brackets_s": [
+        [
+          918.009067,
+          920.695847
+        ],
+        [
+          923.014734,
+          925.375947
+        ],
+        [
+          928.0075,
+          930.152664
+        ],
+        [
+          933.013993,
+          934.606233
+        ]
+      ],
+      "player_pause_s": 935.293747,
+      "audio": "not reviewed"
+    },
+    "mei": {
+      "url": "https://www.douyin.com/video/7672920482366180642",
+      "source_audio_playback": "audio unsupported by current session",
+      "new_evidence": "original comparison only"
+    }
+  }
+}

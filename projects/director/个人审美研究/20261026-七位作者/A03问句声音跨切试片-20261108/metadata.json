@@ -1,0 +1,39 @@
+{
+  "fixed_picture_sha256": "9071ac17553c65b72307c9b2a06b85a264fc64ef55ea61788acf361eb894370f",
+  "frames": 90,
+  "fps": 30,
+  "sample_rate": 48000,
+  "video_cut_sample": 68800,
+  "activity_threshold_pcm16": 96,
+  "voice": "Windows Microsoft Zira Desktop, rate 3",
+  "human_listener_test": false,
+  "versions": {
+    "early": {
+      "source_onset_sample": 16752,
+      "target_end_sample": 56800,
+      "decoded_onset_sample": 16752,
+      "decoded_end_sample": 56801,
+      "decoded_end_offset_ms": -249.98,
+      "decoded_post_cut_peak_pcm16": 0,
+      "file_sha256": "5491ed9cad8a7f66918d23f3c2f48905bf62b7b2c54ed2d315ffe36f1304ad22"
+    },
+    "flush": {
+      "source_onset_sample": 28752,
+      "target_end_sample": 68800,
+      "decoded_onset_sample": 28752,
+      "decoded_end_sample": 68802,
+      "decoded_end_offset_ms": 0.04,
+      "decoded_post_cut_peak_pcm16": 104,
+      "file_sha256": "1ee2e1243be32eda68427a8b730b684beab1cc8f78e990b9c5d6b3f481fb678e"
+    },
+    "carry": {
+      "source_onset_sample": 38352,
+      "target_end_sample": 78400,
+      "decoded_onset_sample": 38352,
+      "decoded_end_sample": 78400,
+      "decoded_end_offset_ms": 200.0,
+      "decoded_post_cut_peak_pcm16": 13917,
+      "file_sha256": "76afe59239b0ad27d03506dd45fc27f2eb1d971afe826c596155c988859e40b8"
+    }
+  }
+}
