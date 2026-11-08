@@ -1,0 +1,24 @@
+{
+  "fps": 30,
+  "frames_each": 90,
+  "zero_based_cut_frame": 43,
+  "changed_unencoded_frames_by_carry": {
+    "0": [],
+    "2": [
+      43,
+      44
+    ],
+    "8": [
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50
+    ]
+  },
+  "audio": false,
+  "observer_test": false
+}
