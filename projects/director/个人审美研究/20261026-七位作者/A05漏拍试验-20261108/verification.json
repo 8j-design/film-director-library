@@ -1,0 +1,53 @@
+{
+  "fps": 24,
+  "frames": 96,
+  "strike_frames": [
+    15,
+    33,
+    51,
+    69,
+    87
+  ],
+  "omission_frame": 51,
+  "b_c_decoded_pcm_identical": true,
+  "omission_window_peak_pcm16": [
+    16156,
+    0,
+    0
+  ],
+  "unencoded_ab_frame_diffs": [
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57
+  ],
+  "unencoded_bc_frame_diffs": [
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61
+  ],
+  "file_sha256": {
+    "01-all-strikes.mp4": "d7fb7e5228e94ab3fca398af5a67966fdb35f222a5c8ca62514a641e2c95040d",
+    "02-missed-wide.mp4": "23dead7e8ad3f9f9234f3eb1a894b5a3c0358719434ea17c7f42b4f10068d1e7",
+    "03-missed-insert.mp4": "30e023e023d82d6a55a02c790c40314b19ea6ca8a62b45afad4cc029e420f3b3"
+  },
+  "audience_test": false
+}
