@@ -1,0 +1,72 @@
+{
+  "utc": "2026-11-08T08:22:59.947100+00:00",
+  "sources": {
+    "pepper_ep1": {
+      "url": "https://www.douyin.com/video/7632951529124793640",
+      "from_s": 856.461641,
+      "screenshot_brackets_or_post_capture_s": [
+        859.712666,
+        863.010326,
+        [
+          865.448261,
+          866.489204
+        ],
+        [
+          866.674266,
+          867.478582
+        ],
+        [
+          867.556324,
+          868.505708
+        ],
+        872.588559,
+        879.259018
+      ],
+      "player_pause_s": 878.4,
+      "audio": "not reviewed"
+    },
+    "m_up_p1": {
+      "url": "https://www.douyin.com/video/7627432146382163242",
+      "from_s": 894.404817,
+      "screenshot_brackets_s": [
+        [
+          898.00431,
+          899.190742
+        ],
+        [
+          903.001212,
+          904.071694
+        ],
+        [
+          908.003199,
+          909.018132
+        ],
+        [
+          913.006994,
+          914.530265
+        ]
+      ],
+      "player_pause_s": 915.222573,
+      "audio": "not reviewed"
+    },
+    "mei_amila": {
+      "url": "https://www.douyin.com/video/7672920482366180642",
+      "audio_window_s": [
+        77,
+        88
+      ],
+      "question_candidate_s": [
+        79.72,
+        81.02
+      ],
+      "answer_candidate_s": [
+        83.32,
+        83.84
+      ],
+      "picture_cut_s": 81.266667,
+      "subtitle_absent_s": 81.333333,
+      "title_black_s": 84.233333,
+      "evidence": "machine ASR and RMS, no listening in this pass"
+    }
+  }
+}
