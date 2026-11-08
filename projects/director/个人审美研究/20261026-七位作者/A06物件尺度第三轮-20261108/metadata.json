@@ -1,0 +1,26 @@
+{
+  "size": [
+    480,
+    270
+  ],
+  "fps": 24,
+  "frame_count_each": 72,
+  "cut_frame_zero_based": 30,
+  "board_frames_zero_based": [
+    23,
+    48
+  ],
+  "outdoor_scales": {
+    "small": 0.65,
+    "large": 2.05
+  },
+  "pre_cut_pixel_match_before_encoding": true,
+  "outdoor_difference_bounds_xyxy_exclusive": [
+    168,
+    139,
+    297,
+    210
+  ],
+  "audio": false,
+  "observer_test": false
+}
