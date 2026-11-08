@@ -1,0 +1,229 @@
+{
+  "source_video_id": "7632623213981322536",
+  "source_sha256": "535bb55002bcf021f7aae0babca868593ee6bbc027b6ffa34e1c61b2cf71c1a7",
+  "clip_s": [
+    1598,
+    1616
+  ],
+  "decoded_format": "16 kHz mono signed 16-bit PCM",
+  "window_s": 0.5,
+  "measurements": [
+    {
+      "start_s": 1598.0,
+      "end_s": 1598.5,
+      "rms_dbfs": -50.83,
+      "peak_dbfs": -40.8
+    },
+    {
+      "start_s": 1598.5,
+      "end_s": 1599.0,
+      "rms_dbfs": -50.39,
+      "peak_dbfs": -39.73
+    },
+    {
+      "start_s": 1599.0,
+      "end_s": 1599.5,
+      "rms_dbfs": -53.23,
+      "peak_dbfs": -42.01
+    },
+    {
+      "start_s": 1599.5,
+      "end_s": 1600.0,
+      "rms_dbfs": -49.0,
+      "peak_dbfs": -35.22
+    },
+    {
+      "start_s": 1600.0,
+      "end_s": 1600.5,
+      "rms_dbfs": -43.72,
+      "peak_dbfs": -29.86
+    },
+    {
+      "start_s": 1600.5,
+      "end_s": 1601.0,
+      "rms_dbfs": -29.83,
+      "peak_dbfs": -13.78
+    },
+    {
+      "start_s": 1601.0,
+      "end_s": 1601.5,
+      "rms_dbfs": -47.51,
+      "peak_dbfs": -35.3
+    },
+    {
+      "start_s": 1601.5,
+      "end_s": 1602.0,
+      "rms_dbfs": -38.93,
+      "peak_dbfs": -19.79
+    },
+    {
+      "start_s": 1602.0,
+      "end_s": 1602.5,
+      "rms_dbfs": -28.68,
+      "peak_dbfs": -12.17
+    },
+    {
+      "start_s": 1602.5,
+      "end_s": 1603.0,
+      "rms_dbfs": -50.17,
+      "peak_dbfs": -40.37
+    },
+    {
+      "start_s": 1603.0,
+      "end_s": 1603.5,
+      "rms_dbfs": -24.56,
+      "peak_dbfs": -0.61
+    },
+    {
+      "start_s": 1603.5,
+      "end_s": 1604.0,
+      "rms_dbfs": -46.01,
+      "peak_dbfs": -18.89
+    },
+    {
+      "start_s": 1604.0,
+      "end_s": 1604.5,
+      "rms_dbfs": -47.57,
+      "peak_dbfs": -24.21
+    },
+    {
+      "start_s": 1604.5,
+      "end_s": 1605.0,
+      "rms_dbfs": -24.25,
+      "peak_dbfs": -3.95
+    },
+    {
+      "start_s": 1605.0,
+      "end_s": 1605.5,
+      "rms_dbfs": -25.91,
+      "peak_dbfs": -5.9
+    },
+    {
+      "start_s": 1605.5,
+      "end_s": 1606.0,
+      "rms_dbfs": -23.6,
+      "peak_dbfs": -3.29
+    },
+    {
+      "start_s": 1606.0,
+      "end_s": 1606.5,
+      "rms_dbfs": -25.85,
+      "peak_dbfs": -6.88
+    },
+    {
+      "start_s": 1606.5,
+      "end_s": 1607.0,
+      "rms_dbfs": -28.88,
+      "peak_dbfs": -14.42
+    },
+    {
+      "start_s": 1607.0,
+      "end_s": 1607.5,
+      "rms_dbfs": -28.99,
+      "peak_dbfs": -9.21
+    },
+    {
+      "start_s": 1607.5,
+      "end_s": 1608.0,
+      "rms_dbfs": -27.54,
+      "peak_dbfs": -10.17
+    },
+    {
+      "start_s": 1608.0,
+      "end_s": 1608.5,
+      "rms_dbfs": -25.59,
+      "peak_dbfs": -8.32
+    },
+    {
+      "start_s": 1608.5,
+      "end_s": 1609.0,
+      "rms_dbfs": -54.31,
+      "peak_dbfs": -34.34
+    },
+    {
+      "start_s": 1609.0,
+      "end_s": 1609.5,
+      "rms_dbfs": -23.89,
+      "peak_dbfs": -5.53
+    },
+    {
+      "start_s": 1609.5,
+      "end_s": 1610.0,
+      "rms_dbfs": -27.73,
+      "peak_dbfs": -11.43
+    },
+    {
+      "start_s": 1610.0,
+      "end_s": 1610.5,
+      "rms_dbfs": -30.04,
+      "peak_dbfs": -13.96
+    },
+    {
+      "start_s": 1610.5,
+      "end_s": 1611.0,
+      "rms_dbfs": -27.93,
+      "peak_dbfs": -7.31
+    },
+    {
+      "start_s": 1611.0,
+      "end_s": 1611.5,
+      "rms_dbfs": -30.1,
+      "peak_dbfs": -10.72
+    },
+    {
+      "start_s": 1611.5,
+      "end_s": 1612.0,
+      "rms_dbfs": -26.76,
+      "peak_dbfs": -11.03
+    },
+    {
+      "start_s": 1612.0,
+      "end_s": 1612.5,
+      "rms_dbfs": -23.88,
+      "peak_dbfs": -10.99
+    },
+    {
+      "start_s": 1612.5,
+      "end_s": 1613.0,
+      "rms_dbfs": -24.17,
+      "peak_dbfs": -10.96
+    },
+    {
+      "start_s": 1613.0,
+      "end_s": 1613.5,
+      "rms_dbfs": -31.56,
+      "peak_dbfs": -19.71
+    },
+    {
+      "start_s": 1613.5,
+      "end_s": 1614.0,
+      "rms_dbfs": -27.86,
+      "peak_dbfs": -18.02
+    },
+    {
+      "start_s": 1614.0,
+      "end_s": 1614.5,
+      "rms_dbfs": -31.1,
+      "peak_dbfs": -15.51
+    },
+    {
+      "start_s": 1614.5,
+      "end_s": 1615.0,
+      "rms_dbfs": -36.68,
+      "peak_dbfs": -26.14
+    },
+    {
+      "start_s": 1615.0,
+      "end_s": 1615.5,
+      "rms_dbfs": -21.84,
+      "peak_dbfs": -3.36
+    },
+    {
+      "start_s": 1615.5,
+      "end_s": 1616.0,
+      "rms_dbfs": -30.31,
+      "peak_dbfs": -15.81
+    }
+  ],
+  "scope": "half-second audio energy only, mixed track; machine transcript consulted locally; source, sound attribution, perception, and mix components not verified"
+}
