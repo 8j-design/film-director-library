@@ -1,0 +1,38 @@
+{
+  "fps": 24,
+  "frames_each": 72,
+  "white_frame_range_inclusive": [
+    29,
+    32
+  ],
+  "board_frames": [
+    25,
+    30,
+    38,
+    56
+  ],
+  "statistics": {
+    "v1": {
+      "identical_frames_through_white": 33,
+      "different_frames_after_white": 39,
+      "first_difference_bounds": [
+        229,
+        124,
+        252,
+        139
+      ]
+    },
+    "v2": {
+      "identical_frames_through_white": 33,
+      "different_frames_after_white": 39,
+      "first_difference_bounds": [
+        228,
+        125,
+        251,
+        140
+      ]
+    }
+  },
+  "audio": false,
+  "observer_test": false
+}
