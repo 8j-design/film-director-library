@@ -1,0 +1,28 @@
+{
+  "outputs": {
+    "A": {
+      "frames": 192,
+      "seconds": 8.0,
+      "audio": false,
+      "additional_shelf_letters": 0
+    },
+    "B": {
+      "frames": 192,
+      "seconds": 8.0,
+      "audio": false,
+      "additional_shelf_letters": 40
+    }
+  },
+  "precut_exact_match": true,
+  "difference_bounds": [
+    [
+      216,
+      63,
+      591,
+      228
+    ]
+  ],
+  "cut_frame": 72,
+  "observer_feedback": false,
+  "decoded_frames_checked_by_code": 192
+}

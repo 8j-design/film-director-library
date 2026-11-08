@@ -1,0 +1,10 @@
+{
+  "frames": 192,
+  "fps": 24,
+  "added_letter_count": 40,
+  "precut_exact_match": true,
+  "change": "positions and overlap only; count and source envelope dimensions unchanged",
+  "audio": false,
+  "viewer_feedback": false,
+  "visibility_limitation": "overlap means drawn count is not perceived count"
+}

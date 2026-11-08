@@ -1,0 +1,90 @@
+{
+  "A.mp4": {
+    "bytes": 29151,
+    "sha256": "4a18b301ebe9fa341d396d4a2d6ad6c52b3fbff2f160a30276311b3a61cc4f28"
+  },
+  "B.mp4": {
+    "bytes": 46090,
+    "sha256": "3379aff1c2dd17e5372abaf10016539481595bc145c872a81a9da2119cac29e3"
+  },
+  "C.mp4": {
+    "bytes": 36281,
+    "sha256": "cbea874eadc9a2494fffb9f2d2ae9e18a9368545536c912753c68dd1913a93f6"
+  },
+  "continuous-cues.wav": {
+    "bytes": 441044,
+    "sha256": "99c081b89a232a8dd33a935ae913acda4c13fd54c7f60fca4e0cfc74c2cff189"
+  },
+  "continuous-decoded.png": {
+    "bytes": 121494,
+    "sha256": "4db2f8f90c231d1772720e7a65010ff9be83f7d51b3fda6145344c750d5a7bb1"
+  },
+  "continuous-verification.json": {
+    "bytes": 464,
+    "sha256": "93e63b6ddb916ebc3ccf5dca7e70f500a4e87f32d7841e1c2f28174d2c62b5c7"
+  },
+  "continuous.py": {
+    "bytes": 3984,
+    "sha256": "15a2ab04f597a177b55c0185daf2860c572c85172c8cf4c27a95de5ce1dbb5ad"
+  },
+  "D.mp4": {
+    "bytes": 32319,
+    "sha256": "13cb7416dca7c9a9256462a1481a52f4efabb3c736bcb285372be469f4860c8a"
+  },
+  "decoded-comparison.png": {
+    "bytes": 102885,
+    "sha256": "6400e1185f138148aeaaf2c161af54c7aa63f16430bf0dd0385275240f7263ba"
+  },
+  "decoded-revision.png": {
+    "bytes": 118529,
+    "sha256": "737761d75f3e5de5f8986c8fc18852adf172654a149ff9ce20901b2de249baa7"
+  },
+  "decoded-supported-revision.png": {
+    "bytes": 84722,
+    "sha256": "4e2941eeec0f8661dea7cddd591286048ea5fcfce338fe668eaecbc92cce9e0b"
+  },
+  "E.mp4": {
+    "bytes": 65850,
+    "sha256": "8f3fcff49ac82d99239f7b19349b2fff701819aec9e0590b309c2be5fd02fa8f"
+  },
+  "F.mp4": {
+    "bytes": 69061,
+    "sha256": "cfc86c9a25d1ebbb00651bab02864941ecd7ef7e7934698a0cbde30379f0de30"
+  },
+  "render.py": {
+    "bytes": 3464,
+    "sha256": "2904db6ebf3e8ef6eb5018f105c3a372fc6e4d5bb8caaf1bf6695d3acf5e319c"
+  },
+  "revise.py": {
+    "bytes": 1776,
+    "sha256": "2f605a5b2dc68342ed0ca092f6c4d537665823d1bf35d6cdf32ac8efbb51aca5"
+  },
+  "revise_supported.py": {
+    "bytes": 1836,
+    "sha256": "31fff3e3c0161efcaef421746c931e9ec0d309db9301bfe0e58668ef1a411d19"
+  },
+  "revision-verification.json": {
+    "bytes": 314,
+    "sha256": "b8bfb8b7cf65a26939c5cbf0f3b4e35dcfe8c14178ddc9957345e4299d94813d"
+  },
+  "supported-revision-verification.json": {
+    "bytes": 314,
+    "sha256": "b8bfb8b7cf65a26939c5cbf0f3b4e35dcfe8c14178ddc9957345e4299d94813d"
+  },
+  "verification.json": {
+    "bytes": 491,
+    "sha256": "fcf8df8805312b301ececa5ac6770b6879f14d7bde000d6f0d4439b90cf26359"
+  },
+  "实做复核.md": {
+    "bytes": 3116,
+    "sha256": "5969d9d24d0feffbf311e73acccdc62f4282d39f484a5bd93e0d74e9209312ef"
+  },
+  "实验大纲.md": {
+    "bytes": 1065,
+    "sha256": "995fb6dea4407bbc13ac540921a80ac2247dab22d4d9e04a8c41eb65f814dbdc"
+  },
+  "连续版复核.md": {
+    "bytes": 1802,
+    "sha256": "71ec58b52f9f90eea362d6391368fdd7bd6bee12e492769f8dcc88c0aaf91b2e"
+  }
+}

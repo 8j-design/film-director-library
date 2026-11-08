@@ -1,0 +1,18 @@
+{
+  "frames_each": 240,
+  "duration": 10,
+  "fps": 24,
+  "audio": "synthetic timing cues, not natural footsteps; not listened to",
+  "decoded_audio_identical": true,
+  "audio_sha256": "575b7d4da4512ddfe62368dd44f335bfae0fe3f89259137a77bc8de0f4672369",
+  "difference_bounds": [
+    [
+      252,
+      43,
+      491,
+      187
+    ]
+  ],
+  "physical_letter_continuity": "hand-carried letter ends at x345,y244; no cut",
+  "observer_feedback": false
+}
