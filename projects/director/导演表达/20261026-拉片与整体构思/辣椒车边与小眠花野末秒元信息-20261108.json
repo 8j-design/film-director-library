@@ -1,0 +1,57 @@
+{
+  "pepper": {
+    "screenshot_brackets_seconds": [
+      [
+        679.006247,
+        679.071017
+      ],
+      [
+        681.506859,
+        681.593773
+      ],
+      [
+        684.019236,
+        684.131337
+      ],
+      [
+        686.500988,
+        686.610877
+      ]
+    ],
+    "paused_seconds": 687.161896
+  },
+  "flower": {
+    "screenshot_brackets_seconds": [
+      [
+        59.309893,
+        59.387804
+      ],
+      [
+        60.1,
+        60.189208
+      ],
+      [
+        60.6,
+        60.651606
+      ]
+    ],
+    "opening_loop_brackets_seconds": [
+      [
+        3.732976,
+        3.858026
+      ],
+      [
+        7.501029,
+        7.594366
+      ],
+      [
+        11.225603,
+        11.525506
+      ]
+    ],
+    "paused_seconds": 61.095573,
+    "duration_seconds": 61.141337
+  },
+  "full_audio_listened": false,
+  "continuous_frames": false
+}
