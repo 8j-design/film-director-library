@@ -1,0 +1,62 @@
+{
+  "B": {
+    "frames": 288,
+    "fps": 24,
+    "seconds": 12,
+    "order": [
+      "close",
+      "mid",
+      "wide"
+    ],
+    "audio": false,
+    "sha256": "2b52f5909666a31f72793376f3c222c446488007ca0cc537754c0e707266dff1"
+  },
+  "A": {
+    "frames": 288,
+    "fps": 24,
+    "seconds": 12,
+    "order": [
+      "wide",
+      "close",
+      "mid"
+    ],
+    "audio": false,
+    "sha256": "63d85fa32f66e6d66cc86df7f0e933e3b8d4fd74ddfeef7bcd03fdbba363eed8"
+  },
+  "C": {
+    "frames": 288,
+    "fps": 24,
+    "seconds": 12,
+    "order": [
+      "close",
+      "wide",
+      "mid"
+    ],
+    "audio": false,
+    "sha256": "ec60a88c20354bfdc24313925e8f8b296a10770906008129e070c71691f6fa15"
+  },
+  "D": {
+    "frames": 288,
+    "fps": 24,
+    "seconds": 12,
+    "order": [
+      "close",
+      "wide",
+      "mid"
+    ],
+    "audio": false,
+    "sha256": "60307ab88238713c5b9d617145e88acf26be650fca16ef080678a163489a5592"
+  },
+  "E": {
+    "frames": 288,
+    "fps": 24,
+    "seconds": 12,
+    "order": [
+      "close",
+      "wide",
+      "mid"
+    ],
+    "audio": false,
+    "sha256": "8d6183ce842714187cbe6db5fc4a50ece0a9ff735e5379141d344484f7c3c25b"
+  }
+}
