@@ -1,0 +1,23 @@
+{
+  "E": {
+    "frames": 288,
+    "seconds": 12,
+    "audio": false,
+    "middle": "hard cut",
+    "sha256": "8d6183ce842714187cbe6db5fc4a50ece0a9ff735e5379141d344484f7c3c25b"
+  },
+  "F": {
+    "frames": 288,
+    "seconds": 12,
+    "audio": false,
+    "middle": "2.5s zoom + 1.5s wide hold",
+    "sha256": "eb962b84f7dc101d440a9269363bdb28d9cb9b329b84e55440798521354c28fe"
+  },
+  "G": {
+    "frames": 288,
+    "seconds": 12,
+    "audio": false,
+    "middle": "4s zoom, no wide hold",
+    "sha256": "13dd53f2b32bdd8164d1db1b875cb877cc09982e44688500f971fd3ad20f62af"
+  }
+}
